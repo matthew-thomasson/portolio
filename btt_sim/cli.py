@@ -239,10 +239,16 @@ def cmd_simulate(args: argparse.Namespace) -> None:
         out_dir = src.results_dir
         out_dir.mkdir(parents=True, exist_ok=True)
         tag = f"{res_a.start_date}_to_{res_a.end_date}_{res_a.allocation_mode}"
-        res_a.position_summary.to_csv(out_dir / f"positions_strategy_A_{tag}.csv", index=False)
-        res_b.position_summary.to_csv(out_dir / f"positions_strategy_B_{tag}.csv", index=False)
-        pd.DataFrame([t.__dict__ for t in res_a.trades]).to_csv(out_dir / f"trades_strategy_A_{tag}.csv", index=False)
-        pd.DataFrame([t.__dict__ for t in res_b.trades]).to_csv(out_dir / f"trades_strategy_B_{tag}.csv", index=False)
+        target_dirs = [out_dir]
+        if src.key == "beatingthetide":
+            target_dirs.append(settings.data_dir / "results")
+
+        for d in target_dirs:
+            d.mkdir(parents=True, exist_ok=True)
+            res_a.position_summary.to_csv(d / f"positions_strategy_A_{tag}.csv", index=False)
+            res_b.position_summary.to_csv(d / f"positions_strategy_B_{tag}.csv", index=False)
+            pd.DataFrame([t.__dict__ for t in res_a.trades]).to_csv(d / f"trades_strategy_A_{tag}.csv", index=False)
+            pd.DataFrame([t.__dict__ for t in res_b.trades]).to_csv(d / f"trades_strategy_B_{tag}.csv", index=False)
 
     prices.save_ticker_map()
 
@@ -308,6 +314,7 @@ def cmd_sweep(args: argparse.Namespace) -> None:
         tbl.add_column("B XIRR %", justify="right", style="magenta")
         tbl.add_column("Winner (XIRR)", justify="center")
 
+        sweep_rows: list[dict] = []
         for dt in dates:
             d_str = dt.strftime("%Y-%m-%d")
             ra = sim.run_strategy(True, d_str, end_date=args.end, allocation_mode=args.mode, unit_usd=args.unit)
@@ -316,7 +323,25 @@ def cmd_sweep(args: argparse.Namespace) -> None:
             if ra.xirr_pct is not None and rb.xirr_pct is not None:
                 winner = "Strategy A" if ra.xirr_pct > rb.xirr_pct else "Strategy B"
             tbl.add_row(d_str, str(ra.seeded_count), _fmt_pct(ra.roi_pct), _fmt_pct(ra.xirr_pct), _fmt_pct(rb.roi_pct), _fmt_pct(rb.xirr_pct), winner)
+            sweep_rows.append(
+                {
+                    "start_date": d_str,
+                    "a_seeded": ra.seeded_count,
+                    "a_roi_pct": ra.roi_pct,
+                    "a_xirr_pct": ra.xirr_pct,
+                    "b_roi_pct": rb.roi_pct,
+                    "b_xirr_pct": rb.xirr_pct,
+                    "spy_xirr_a_pct": ra.benchmark_xirr_pct,
+                    "spy_xirr_b_pct": rb.benchmark_xirr_pct,
+                }
+            )
         console.print(tbl)
+
+        if sweep_rows:
+            sw_df = pd.DataFrame(sweep_rows)
+            for d in [src.results_dir] + ([settings.data_dir / "results"] if src.key == "beatingthetide" else []):
+                d.mkdir(parents=True, exist_ok=True)
+                sw_df.to_csv(d / "sweep_comparison.csv", index=False)
     prices.save_ticker_map()
 
 

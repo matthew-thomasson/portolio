@@ -1,30 +1,42 @@
 date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes
-2025-10-01,HRTG,:us:,ADD,BUY,23.75,,,chat,trade_alert,high,Adding to Heritage position at 23.75
-2025-10-01,WYFI,:us:,BUY,BUY,31.0,,,chat,trade_alert,high,Adding speculative position in White Fiber WYFI at $31
-2026-01-02,402340,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for SK Square prior to +44% exit
-2026-01-02,AGM,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Farmer Mac prior to +30% exit
-2026-01-02,ASIC,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Ategrity Specialty Insurance prior to +39% exit
-2026-01-02,CBL,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for CBL Properties prior to +114% exit
-2026-01-02,EVC,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Entravision Communications prior to +171% exit
-2026-01-02,GMRS,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Global Medical Response Solutions prior to +10% exit
-2026-01-02,HRTG,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Heritage Insurance Holdings prior to +17% exit
-2026-01-02,MOMO,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Hello Group prior to -21% exit
-2026-01-02,POWL,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Powell Industries prior to +136% exit
-2026-01-02,VISN,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Vistance Networks prior to -20% exit
-2026-01-02,WSBF,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,Seeded position for Waterstone Financial prior to +42% exit
-2026-04-17,MOMO,:us:,SELL,CLOSED,,,1.0,april-2026-portfolio-review,article,high,"Bumble is an interesting name. At 2.90 - 3.00 in February it appeared dirt cheap, and I think the company still has a lot of optionality by reducing marketing spending and trimming"
-2026-07-02,GMRS,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Global Medical Response Solutions with +10% return: 11. Global Medical Response Solutions (GMRS) +10% - Exited July 2
-2026-07-27,AGM,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,"Exited Farmer Mac with +30% return: 4. Farmer Mac (AGM and AGM/A) +30% - Exited July 27, 2026"
-2026-07-29,HRTG,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,"Exited Heritage Insurance Holdings with +17% return: 2. Heritage Insurance Holdings (HRTG) +17% - Exited July 29, 2026"
-2026-07-29,WSBF,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,"Exited Waterstone Financial with +42% return: 3. Waterstone Financial (WSBF) +42% - Exited July 29, 2026"
-2026-08-06,VISN,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Vistance Networks with -20% return: 8. Vistance Networks (VISN) -20% - Exited August 6
-2026-08-21,EVC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Entravision Communications with +171% return: 6. Entravision Communications (EVC) +171% - Exited August 21 Via Options
-2026-08-21,POWL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Powell Industries with +136% return: 7. Powell Industries (POWL) +136% - Exited August 21 Via Options
-2026-09-10,MOMO,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Hello Group with -21% return: 9. Hello Group (MOMO) -21% - Exited September 10
-2026-09-15,CBL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,"Exited CBL Properties with +114% return: 1. CBL Properties (CBL) +114% - Exited September 15, 2026"
-2026-09-21,GDDY,:us:,BUY,BUY,,,,september-2026-portfolio-review,article,high,GoDaddy (GDDY) - Added September 21
-2026-09-28,ASIC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,"Exited Ategrity Specialty Insurance with +39% return: 5. Ategrity Specialty Insurance (ASIC) +39% - Exited September 28, 2026"
-2026-10-01,402340,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited SK Square with +44% return: 10. SK Square (402340) +44% - Exited October 1
+2024-11-20,CBL,:us:,BUY,BUY,,0.08,,its-just-more-fun-the-second-time,article,high,Cluseau documented pick: CBL Properties (CBL)
+2025-07-17,OPY,:us:,BUY,BUY,,0.08,,betting-on-capital-markets-with-a,article,high,Cluseau documented pick: Oppenheimer Holdings (OPY)
+2025-08-14,AGM,:us:,BUY,BUY,,0.08,,juicing-the-market-one-repurchase,article,high,Cluseau documented pick: Farmer Mac (AGM)
+2025-08-29,KRNY,:us:,BUY,BUY,,0.05,,shifting-into-rates-down,article,high,Cluseau documented pick: Kearny Financial (KRNY)
+2025-08-29,WSBF,:us:,BUY,BUY,,0.08,,shifting-into-rates-down,article,high,Cluseau documented pick: Waterstone Financial (WSBF)
+2025-09-10,MCHB,:us:,BUY,BUY,,0.05,,dividends-discounts-diamonds-in-the,article,high,Cluseau documented pick: Mechanics Bancorp (MCHB)
+2025-10-01,WYFI,:us:,BUY,BUY,31.0,0.03,,chat,trade_alert,high,Adding speculative position in White Fiber WYFI at $31
+2025-10-08,HRTG,:us:,BUY,BUY,,0.08,,30-days-to-november,article,high,Cluseau documented pick: Heritage Insurance Holdings (HRTG)
+2025-10-09,WYFI,:us:,SELL,CLOSED,33.0,0.0,1.0,chat,trade_alert,high,Closing WYFI at $33 for a 5% gain
+2025-10-15,POWL,:us:,BUY,BUY,,0.08,,capital-markets-ai-and-rare-earths,article,high,Cluseau documented pick: Powell Industries (POWL)
+2025-11-25,ASIC,:us:,BUY,BUY,,0.08,,snacking-on-banking-and-insurance,article,high,Cluseau documented pick: Ategrity Specialty Insurance (ASIC)
+2026-02-03,BMBL,:us:,BUY,BUY,,0.04,,february-3-2026,article,high,Bumble (BMBL) initiated in February 2026
+2026-03-09,EVC,:us:,BUY,BUY,,0.06,,march-2026-trade-review,article,high,Entravision Communications (EVC) initiated in March 2026 review
+2026-03-24,BMBL,:us:,SELL,CLOSED,4.03,0.0,1.0,april-2026-portfolio-review,article,high,"Closed BMBL on March 24, 2026 (+17.07% return)"
+2026-04-10,KRNY,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,"Closed KRNY on April 10, 2026 (+25.80% return)"
+2026-04-10,MCHB,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,"Closed MCHB on April 10, 2026 (+22.98% return)"
+2026-04-17,HRTG,:us:,ADD,BUY,,0.08,,april-2026-portfolio-review,article,high,Added to Heritage Insurance (HRTG) position in April review
+2026-04-17,MOMO,:us:,BUY,BUY,,0.06,,april-2026-portfolio-review,article,high,Hello Group (MOMO US) added in April 2026 Portfolio Review
+2026-04-29,402340,:kr:,BUY,BUY,,0.08,,opening-the-gates,article,high,SK Square (402340.KS) initiated in 'Opening the Gates' post
+2026-05-26,VISN,:us:,BUY,BUY,,0.05,,go-stub-yourself,article,high,Vistance Networks (VISN) initiated in 'Go Stub Yourself'
+2026-06-12,CBL,:us:,TRIM,HOLD,,0.04,0.333333,june-2026-portfolio-review,article,high,Reduce CBL & Associates (CBL) in June review
+2026-06-12,GMRS,:us:,BUY,BUY,,0.05,,june-2026-portfolio-review,article,high,New Position: GMR Solutions (GMRS) in June review
+2026-06-12,VISN,:us:,ADD,BUY,,0.08,,june-2026-portfolio-review,article,high,Position Increase: Vistance Networks (VISN) in June review
+2026-07-02,GMRS,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited GMRS on July 2 (+10% return)
+2026-07-06,OPY,:us:,TRIM,HOLD,117.0,0.05,0.333333,chat,trade_alert,high,Trimmed 1/3 of OPY at $117 in Chat (msg 115)
+2026-07-27,AGM,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,AGM full exit (+30%) in Chat (msg 96)
+2026-07-27,OPY,:us:,TRIM,HOLD,,0.025,0.5,chat,trade_alert,high,OPY half exit (+59%) in Chat (msg 96)
+2026-07-29,CBL,:us:,TRIM,HOLD,,0.02,0.5,chat,trade_alert,high,Cut CBL by half in Chat (msg 94)
+2026-07-29,HRTG,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Totally sold HRTG in Chat (msg 94)
+2026-07-29,WSBF,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Totally sold WSBF in Chat (msg 94)
+2026-08-06,VISN,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited VISN on August 6 (-20% return)
+2026-08-21,EVC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited EVC August 21 via options (+171% claimed return)
+2026-08-21,POWL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited POWL August 21 via options (+136% claimed return)
+2026-09-10,MOMO,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Closed MOMO for -15% in Chat (msg 60)
+2026-09-15,CBL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Final CBL exit (+114% return) on September 15
+2026-09-21,GDDY,:us:,BUY,BUY,,0.06,,september-2026-portfolio-review,article,high,GoDaddy (GDDY) added on September 21
+2026-09-28,ASIC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited ASIC on September 28 (+39% return)
+2026-10-01,402340,:kr:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited SK Square (402340.KS) on October 1 (+44% return)
+2026-10-16,GDDY,:us:,TRIM,HOLD,110.0,0.04,0.333333,chat,trade_alert,high,Trimmed 1/3 GDDY at $110 in Chat (msg 26)
 2026-10-30,285A.T,:jp:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Trade Update on Kioxia (Closed)
-2026-10-30,GDDY,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Closing GoDaddy
-2026-11-02,OPY,:us:,BUY,BUY,85.0,,,chat,trade_alert,high,Buying OPY today < 85
+2026-10-30,GDDY,:us:,SELL,CLOSED,116.0,0.0,1.0,chat,trade_alert,high,Closed remaining GDDY at $116 in Chat (msg 4)

@@ -63,19 +63,38 @@ def _parse_pct(val: object) -> float | None:
     return num
 
 
-def _find_col(cols: list[str], keywords: list[str]) -> str | None:
+def _find_col(cols: list[str], keywords: list[str], exclude: list[str] | None = None) -> str | None:
+    exclude = [e.upper() for e in (exclude or [])]
     upper_map = {c: c.strip().upper() for c in cols}
+    # 1. Exact match
     for kw in keywords:
         kw_u = kw.upper()
         for orig, up in upper_map.items():
             if up == kw_u:
                 return orig
+    # 2. Substring match, respecting exclusions
     for kw in keywords:
         kw_u = kw.upper()
         for orig, up in upper_map.items():
+            if any(ex in up for ex in exclude):
+                continue
             if kw_u in up:
                 return orig
     return None
+
+
+def _clean_market_code(raw: object, fallback: str = ":us:") -> str:
+    if raw is None:
+        return fallback
+    s = str(raw).strip()
+    if not s or s.lower() in ("nan", "none", "-", ""):
+        return fallback
+    if s.startswith("$") or any(c.isdigit() for c in s):
+        return fallback
+    clean = s.strip(":").lower()
+    if clean in ("us", "ca", "uk", "gb", "cl", "au", "hk", "de", "fr", "mx", "br", "il", "nl", "se", "no", "jp", "kr", "tw", "ky"):
+        return f":{clean}:"
+    return f":{clean}:" if clean else fallback
 
 
 def extract_tickers_from_html(body_html: str) -> list[str]:
@@ -141,12 +160,13 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                     elif "HOLD" in rat:
                         watchlist_ratings[sym] = "HOLD"
 
+    seen_holding_syms: set[str] = set()
     for pcsv in portfolio_csvs:
         df = pd.read_csv(pcsv)
         cols = list(df.columns)
         sym_col = _find_col(cols, ["SYMBOL", "TICKER"]) or _find_col(cols, ["STOCKS", "STOCK"])
         name_col = _find_col(cols, ["STOCKS", "COMPANY", "NAME"])
-        mkt_col = _find_col(cols, ["COUNTRY", "MARKET", "EXCHANGE"])
+        mkt_col = _find_col(cols, ["COUNTRY", "MARKET", "EXCHANGE"], exclude=["PRICE", "COST", "RETURN", "TOTAL"])
         wt_col = _find_col(cols, ["WEIGHT", "ALLOCATION", "% OF PORTFOLIO"])
         cost_col = _find_col(cols, ["COST", "AVG COST", "BUY PRICE", "ENTRY"])
         px_col = _find_col(cols, ["PRICE", "CURRENT PRICE", "LAST"])
@@ -160,7 +180,11 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
             sym = str(r.get(sym_col, "")).strip().upper()
             if not sym or sym in ("NAN", "CASH", "TOTAL") or "UPGRADE TO PAID" in sym:
                 continue
-            mkt = str(r.get(mkt_col, ":us:")).strip() if mkt_col else ":us:"
+            if sym in seen_holding_syms:
+                continue
+            seen_holding_syms.add(sym)
+
+            mkt = _clean_market_code(r.get(mkt_col), fallback=":us:") if mkt_col else ":us:"
             wt = _parse_pct(r.get(wt_col)) if wt_col else None
             cost = _parse_float(r.get(cost_col)) if cost_col else None
             px = _parse_float(r.get(px_col)) if px_col else None
@@ -190,7 +214,7 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
         sym_col = _find_col(cols, ["SYMBOL", "TICKER", "STOCK"])
         dt_col = _find_col(cols, ["DATE OF PICK", "DATE", "PICK DATE", "BUY DATE", "ENTRY DATE", "PUBLISHED"])
         close_dt_col = _find_col(cols, ["CLOSE DATE", "SELL DATE", "EXIT DATE", "CLOSED"])
-        mkt_col = _find_col(cols, ["MARKET", "EXCHANGE", "COUNTRY"])
+        mkt_col = _find_col(cols, ["MARKET", "EXCHANGE", "COUNTRY"], exclude=["PRICE", "COST", "RETURN", "TOTAL"])
         cost_col = _find_col(cols, ["BUY PRICE", "ENTRY PRICE", "PICK PRICE", "COST", "PRICE AT PICK"])
         exit_px_col = _find_col(cols, ["MARKET PRICE", "SELL PRICE", "EXIT PRICE", "CLOSE PRICE"])
 
@@ -200,7 +224,7 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
             sym = str(r.get(sym_col, "")).strip().upper()
             if not sym or sym == "NAN" or "UPGRADE TO PAID" in sym:
                 continue
-            mkt = str(r.get(mkt_col, known_tickers.get(sym, ":us:"))).strip() if mkt_col else known_tickers.get(sym, ":us:")
+            mkt = _clean_market_code(r.get(mkt_col), fallback=known_tickers.get(sym, ":us:")) if mkt_col else known_tickers.get(sym, ":us:")
             known_tickers[sym] = mkt
             raw_dt = str(r.get(dt_col, "")).strip() if dt_col else ""
             parsed_dt = pd.to_datetime(raw_dt, errors="coerce")
@@ -293,97 +317,6 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
             action, rating_after, confidence = "BUY", "BUY", "high"
         elif re.search(r"\bi['’]m\s+buying\b|\bbuy\s+rating\b|\bnew\s+addition\s+to\s+portfolio\b|\bone\s+addition\s+to\b|\bflash\s+buy\b|\bbuying\s+\d+\s+stocks\b", headline) and "not buying" not in headline:
             action, rating_after, confidence = "BUY", "BUY", "high"
-
-        # Special extraction for Cluseau portfolio reviews (Recap of Removals / Recap of Additions)
-        cluseau_removal_re = re.compile(
-            r"\d+\.\s+([A-Za-z0-9\s/]+?)\s*\(([A-Z0-9/]+)(?:\s+and\s+[A-Z0-9/]+)?\)\s*([+\-]?\d+(?:\.\d+)?%)\s*-\s*Exited\s+([A-Za-z]+\s+\d{1,2}(?:,\s+\d{4})?)",
-            re.I,
-        )
-        for h in soup.find_all(["h3", "h4", "p", "li"]):
-            htxt = h.get_text(strip=True)
-            m_rem = cluseau_removal_re.search(htxt)
-            if m_rem:
-                c_name, c_sym, c_ret, c_dt_raw = m_rem.groups()
-                if "," not in c_dt_raw:
-                    c_dt_raw += f", {pdate[:4]}"
-                try:
-                    c_dt = pd.to_datetime(c_dt_raw).strftime("%Y-%m-%d")
-                except Exception:
-                    c_dt = pdate
-                ret_pct = _parse_pct(c_ret) or 0.0
-
-                # Create the corresponding BUY event prior to the exit
-                events.append(
-                    TradeEvent(
-                        date="2026-01-02",
-                        ticker=c_sym,
-                        market=":us:",
-                        action="BUY",
-                        rating_after="BUY",
-                        ref_price=None,
-                        target_weight=None,
-                        trim_fraction=None,
-                        source_slug=slug,
-                        source_type="article",
-                        confidence="high",
-                        notes=f"Seeded position for {c_name} prior to {c_ret} exit",
-                    )
-                )
-
-                events.append(
-                    TradeEvent(
-                        date=c_dt,
-                        ticker=c_sym,
-                        market=":us:",
-                        action="SELL",
-                        rating_after="CLOSED",
-                        ref_price=None,
-                        target_weight=0.0,
-                        trim_fraction=1.0,
-                        source_slug=slug,
-                        source_type="article",
-                        confidence="high",
-                        notes=f"Exited {c_name} with {c_ret} return: {htxt[:120]}",
-                    )
-                )
-
-        if "portfolio-review" in slug:
-            for heading in soup.find_all(["h1", "h2", "h3", "strong"]):
-                htxt = heading.get_text(strip=True).lower()
-                is_removals = "removals" in htxt or "exits" in htxt or "sold" in htxt
-                is_additions = "additions" in htxt or "buys" in htxt or "new positions" in htxt
-                if is_removals or is_additions:
-                    sib = heading.find_next_sibling()
-                    lines = []
-                    while sib and sib.name in ("p", "ol", "ul", "li", "h4"):
-                        lines.append(sib.get_text(" ", strip=True))
-                        sib = sib.find_next_sibling()
-                    for line in lines:
-                        for m_t in COMMON_PAREN_TICKER.finditer(line):
-                            sym = m_t.group(1).upper()
-                            m_d = re.search(r"(?:exited|sold|closed|bought|added)\s+([A-Za-z]+\s+\d{1,2},\s+\d{4})", line, re.I)
-                            dt_override = pdate
-                            if m_d:
-                                try:
-                                    dt_override = pd.to_datetime(m_d.group(1)).strftime("%Y-%m-%d")
-                                except Exception:
-                                    pass
-                            events.append(
-                                TradeEvent(
-                                    date=dt_override,
-                                    ticker=sym,
-                                    market=":us:",
-                                    action="SELL" if is_removals else "BUY",
-                                    rating_after="CLOSED" if is_removals else "BUY",
-                                    ref_price=None,
-                                    target_weight=None,
-                                    trim_fraction=1.0 if is_removals else None,
-                                    source_slug=slug,
-                                    source_type="article",
-                                    confidence="high",
-                                    notes=line[:180],
-                                )
-                            )
 
         if is_trade_alert:
             sentences = re.split(r"(?<=[.!?])\s+|\n+", f"{title}. {subtitle}. {soup_text}")
@@ -493,22 +426,31 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                 }
             )
 
-        events.append(
-            TradeEvent(
-                date="2026-07-28",
-                ticker="SPB",
-                market=":us:",
-                action="SELL",
-                rating_after="CLOSED",
-                ref_price=None,
-                target_weight=0.0,
-                trim_fraction=1.0,
-                source_slug="stocktok-etf-20",
-                source_type="article",
-                confidence="high",
-                notes="Cut Spectrum Brands Holdings (SPB) from StockTok ETF",
+        # StockTok ETF 2.0 Rebalance on 2026-07-28
+        # Removals: SPB, MSCI, FDX (all 3 sold)
+        for cut_sym, cut_name in [
+            ("SPB", "Spectrum Brands Holdings"),
+            ("MSCI", "MSCI Inc"),
+            ("FDX", "FedEx Corporation"),
+        ]:
+            events.append(
+                TradeEvent(
+                    date="2026-07-28",
+                    ticker=cut_sym,
+                    market=":us:",
+                    action="SELL",
+                    rating_after="CLOSED",
+                    ref_price=None,
+                    target_weight=0.0,
+                    trim_fraction=1.0,
+                    source_slug="stocktok-etf-20",
+                    source_type="article",
+                    confidence="high",
+                    notes=f"StockTok ETF 2.0 Removal: Cut {cut_name} ({cut_sym})",
+                )
             )
-        )
+
+        # Additions: CAKE, CNXN, FELE
         for sym, name in [
             ("CAKE", "Cheesecake Factory"),
             ("CNXN", "PC Connection"),
@@ -530,7 +472,20 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                     notes=f"StockTok ETF 2.0 New Addition: {name}",
                 )
             )
+            holdings_rows.append(
+                {
+                    "symbol": sym,
+                    "market": ":us:",
+                    "company_name": name,
+                    "cost_basis": None,
+                    "entry_date": "2026-07-28",
+                    "current_rating": "BUY",
+                    "weight": 0.10,
+                    "source_file": "stocktok-etf-20",
+                }
+            )
 
+        # 2026-11-03: Valero discretionary trim scenario
         events.append(
             TradeEvent(
                 date="2026-11-03",
@@ -543,12 +498,456 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                 trim_fraction=0.50,
                 source_slug="stocktok-etf-doubles-the-s-and-p",
                 source_type="article",
-                confidence="high",
-                notes="Valero Energy Corporation - Trim or Cut (+28% gain)",
+                confidence="medium",
+                notes="Valero Energy Corporation - Discretionary 50% trim assumption based on author advice 'Trim or Cut' (+28% gain)",
             )
         )
 
     elif source.key == "cluseau":
+        # Documented baseline recommendations prior to 2026-01-01 (for Strategy A seeding)
+        cluseau_prior_holdings = [
+            ("CBL", "CBL Properties", ":us:", "2024-11-20", "its-just-more-fun-the-second-time", "BUY", 0.08),
+            ("AGM", "Farmer Mac", ":us:", "2025-08-14", "juicing-the-market-one-repurchase", "BUY", 0.08),
+            ("WSBF", "Waterstone Financial", ":us:", "2025-08-29", "shifting-into-rates-down", "BUY", 0.08),
+            ("HRTG", "Heritage Insurance Holdings", ":us:", "2025-10-08", "30-days-to-november", "BUY", 0.08),
+            ("OPY", "Oppenheimer Holdings", ":us:", "2025-07-17", "betting-on-capital-markets-with-a", "BUY", 0.08),
+            ("ASIC", "Ategrity Specialty Insurance", ":us:", "2025-11-25", "snacking-on-banking-and-insurance", "BUY", 0.08),
+            ("POWL", "Powell Industries", ":us:", "2025-10-15", "capital-markets-ai-and-rare-earths", "BUY", 0.08),
+            ("MCHB", "Mechanics Bancorp", ":us:", "2025-09-10", "dividends-discounts-diamonds-in-the", "BUY", 0.05),
+            ("KRNY", "Kearny Financial", ":us:", "2025-08-29", "shifting-into-rates-down", "BUY", 0.05),
+        ]
+        for sym, name, mkt, edt, slug, rat, wt in cluseau_prior_holdings:
+            events.append(
+                TradeEvent(
+                    date=edt,
+                    ticker=sym,
+                    market=mkt,
+                    action="BUY",
+                    rating_after=rat,
+                    ref_price=None,
+                    target_weight=wt,
+                    trim_fraction=None,
+                    source_slug=slug,
+                    source_type="article",
+                    confidence="high",
+                    notes=f"Cluseau documented pick: {name} ({sym})",
+                )
+            )
+            holdings_rows.append(
+                {
+                    "symbol": sym,
+                    "market": mkt,
+                    "company_name": name,
+                    "cost_basis": None,
+                    "entry_date": edt,
+                    "current_rating": rat,
+                    "weight": wt,
+                    "source_file": slug,
+                }
+            )
+
+        # 2026-02-03: Bumble (BMBL)
+        events.append(
+            TradeEvent(
+                date="2026-02-03",
+                ticker="BMBL",
+                market=":us:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.04,
+                trim_fraction=None,
+                source_slug="february-3-2026",
+                source_type="article",
+                confidence="high",
+                notes="Bumble (BMBL) initiated in February 2026",
+            )
+        )
+        # 2026-03-09: Entravision Communications (EVC)
+        events.append(
+            TradeEvent(
+                date="2026-03-09",
+                ticker="EVC",
+                market=":us:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.06,
+                trim_fraction=None,
+                source_slug="march-2026-trade-review",
+                source_type="article",
+                confidence="high",
+                notes="Entravision Communications (EVC) initiated in March 2026 review",
+            )
+        )
+        # 2026-03-24: BMBL exit reported in April review
+        events.append(
+            TradeEvent(
+                date="2026-03-24",
+                ticker="BMBL",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=4.03,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Closed BMBL on March 24, 2026 (+17.07% return)",
+            )
+        )
+        # 2026-04-10: MCHB and KRNY exits reported in April review
+        events.append(
+            TradeEvent(
+                date="2026-04-10",
+                ticker="MCHB",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Closed MCHB on April 10, 2026 (+22.98% return)",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-04-10",
+                ticker="KRNY",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Closed KRNY on April 10, 2026 (+25.80% return)",
+            )
+        )
+        # 2026-04-17: April Portfolio Review: Hello Group (MOMO) addition and Heritage (HRTG) addition
+        events.append(
+            TradeEvent(
+                date="2026-04-17",
+                ticker="MOMO",
+                market=":us:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.06,
+                trim_fraction=None,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Hello Group (MOMO US) added in April 2026 Portfolio Review",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-04-17",
+                ticker="HRTG",
+                market=":us:",
+                action="ADD",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.08,
+                trim_fraction=None,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Added to Heritage Insurance (HRTG) position in April review",
+            )
+        )
+        # 2026-04-29: SK Square (402340.KS) added upon IBKR Korean equities launch
+        events.append(
+            TradeEvent(
+                date="2026-04-29",
+                ticker="402340",
+                market=":kr:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.08,
+                trim_fraction=None,
+                source_slug="opening-the-gates",
+                source_type="article",
+                confidence="high",
+                notes="SK Square (402340.KS) initiated in 'Opening the Gates' post",
+            )
+        )
+        # 2026-05-26: Vistance Networks (VISN)
+        events.append(
+            TradeEvent(
+                date="2026-05-26",
+                ticker="VISN",
+                market=":us:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.05,
+                trim_fraction=None,
+                source_slug="go-stub-yourself",
+                source_type="article",
+                confidence="high",
+                notes="Vistance Networks (VISN) initiated in 'Go Stub Yourself'",
+            )
+        )
+        # 2026-06-12: June Portfolio Review: CBL trim, VISN add, GMRS buy
+        events.append(
+            TradeEvent(
+                date="2026-06-12",
+                ticker="CBL",
+                market=":us:",
+                action="TRIM",
+                rating_after="HOLD",
+                ref_price=None,
+                target_weight=0.04,
+                trim_fraction=0.333333,
+                source_slug="june-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Reduce CBL & Associates (CBL) in June review",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-06-12",
+                ticker="VISN",
+                market=":us:",
+                action="ADD",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.08,
+                trim_fraction=None,
+                source_slug="june-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Position Increase: Vistance Networks (VISN) in June review",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-06-12",
+                ticker="GMRS",
+                market=":us:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=None,
+                target_weight=0.05,
+                trim_fraction=None,
+                source_slug="june-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="New Position: GMR Solutions (GMRS) in June review",
+            )
+        )
+        # 2026-07-02: GMRS exit
+        events.append(
+            TradeEvent(
+                date="2026-07-02",
+                ticker="GMRS",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Exited GMRS on July 2 (+10% return)",
+            )
+        )
+        # 2026-07-06: OPY 1/3 trim in Chat
+        events.append(
+            TradeEvent(
+                date="2026-07-06",
+                ticker="OPY",
+                market=":us:",
+                action="TRIM",
+                rating_after="HOLD",
+                ref_price=117.0,
+                target_weight=0.05,
+                trim_fraction=0.333333,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Trimmed 1/3 of OPY at $117 in Chat (msg 115)",
+            )
+        )
+        # 2026-07-27: AGM full exit, OPY half trim in Chat
+        events.append(
+            TradeEvent(
+                date="2026-07-27",
+                ticker="AGM",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="AGM full exit (+30%) in Chat (msg 96)",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-07-27",
+                ticker="OPY",
+                market=":us:",
+                action="TRIM",
+                rating_after="HOLD",
+                ref_price=None,
+                target_weight=0.025,
+                trim_fraction=0.50,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="OPY half exit (+59%) in Chat (msg 96)",
+            )
+        )
+        # 2026-07-29: HRTG full exit, WSBF full exit, CBL cut half, OPY cut half in Chat
+        events.append(
+            TradeEvent(
+                date="2026-07-29",
+                ticker="HRTG",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Totally sold HRTG in Chat (msg 94)",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-07-29",
+                ticker="WSBF",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Totally sold WSBF in Chat (msg 94)",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-07-29",
+                ticker="CBL",
+                market=":us:",
+                action="TRIM",
+                rating_after="HOLD",
+                ref_price=None,
+                target_weight=0.02,
+                trim_fraction=0.50,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Cut CBL by half in Chat (msg 94)",
+            )
+        )
+        # 2026-08-06: VISN exit
+        events.append(
+            TradeEvent(
+                date="2026-08-06",
+                ticker="VISN",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Exited VISN on August 6 (-20% return)",
+            )
+        )
+        # 2026-08-21: EVC and POWL exits via options collar
+        events.append(
+            TradeEvent(
+                date="2026-08-21",
+                ticker="EVC",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Exited EVC August 21 via options (+171% claimed return)",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-08-21",
+                ticker="POWL",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Exited POWL August 21 via options (+136% claimed return)",
+            )
+        )
+        # 2026-09-03: Buying the Buyback additions: ABCA.PA, 6626.T, 244920.KS
+        # 2026-09-10: MOMO exit in Chat
+        events.append(
+            TradeEvent(
+                date="2026-09-10",
+                ticker="MOMO",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Closed MOMO for -15% in Chat (msg 60)",
+            )
+        )
+        # 2026-09-15: CBL final exit
+        events.append(
+            TradeEvent(
+                date="2026-09-15",
+                ticker="CBL",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Final CBL exit (+114% return) on September 15",
+            )
+        )
+        # 2026-09-21: GDDY addition in Chat / Review
         events.append(
             TradeEvent(
                 date="2026-09-21",
@@ -557,15 +956,84 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                 action="BUY",
                 rating_after="BUY",
                 ref_price=None,
-                target_weight=None,
+                target_weight=0.06,
                 trim_fraction=None,
                 source_slug="september-2026-portfolio-review",
                 source_type="article",
                 confidence="high",
-                notes="GoDaddy (GDDY) - Added September 21",
+                notes="GoDaddy (GDDY) added on September 21",
+            )
+        )
+        # 2026-09-28: ASIC exit
+        events.append(
+            TradeEvent(
+                date="2026-09-28",
+                ticker="ASIC",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Exited ASIC on September 28 (+39% return)",
+            )
+        )
+        # 2026-10-01: SK Square exit
+        events.append(
+            TradeEvent(
+                date="2026-10-01",
+                ticker="402340",
+                market=":kr:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=None,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="september-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Exited SK Square (402340.KS) on October 1 (+44% return)",
+            )
+        )
+        # 2026-10-16: GDDY trim 1/3 in Chat
+        events.append(
+            TradeEvent(
+                date="2026-10-16",
+                ticker="GDDY",
+                market=":us:",
+                action="TRIM",
+                rating_after="HOLD",
+                ref_price=110.0,
+                target_weight=0.04,
+                trim_fraction=0.333333,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Trimmed 1/3 GDDY at $110 in Chat (msg 26)",
+            )
+        )
+        # 2026-10-30: GDDY final close in Chat
+        events.append(
+            TradeEvent(
+                date="2026-10-30",
+                ticker="GDDY",
+                market=":us:",
+                action="SELL",
+                rating_after="CLOSED",
+                ref_price=116.0,
+                target_weight=0.0,
+                trim_fraction=1.0,
+                source_slug="chat",
+                source_type="trade_alert",
+                confidence="high",
+                notes="Closed remaining GDDY at $116 in Chat (msg 4)",
             )
         )
 
+        # Chat alerts audit
         chat_path = source.base_dir / "chat" / "chat_threads.json"
         if chat_path.exists():
             try:
@@ -576,6 +1044,41 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                     body = post.get("body", "")
                     if not body:
                         continue
+                    # WYFI 2025 trades: bought Oct 1, sold Oct 9
+                    if "adding a speculative position in White Fiber WYFI" in body:
+                        events.append(
+                            TradeEvent(
+                                date=dt,
+                                ticker="WYFI",
+                                market=":us:",
+                                action="BUY",
+                                rating_after="BUY",
+                                ref_price=31.0,
+                                target_weight=0.03,
+                                trim_fraction=None,
+                                source_slug="chat",
+                                source_type="trade_alert",
+                                confidence="high",
+                                notes="Adding speculative position in White Fiber WYFI at $31",
+                            )
+                        )
+                    if "Closing out WYFI (Whitefiber) here at 33" in body:
+                        events.append(
+                            TradeEvent(
+                                date=dt,
+                                ticker="WYFI",
+                                market=":us:",
+                                action="SELL",
+                                rating_after="CLOSED",
+                                ref_price=33.0,
+                                target_weight=0.0,
+                                trim_fraction=1.0,
+                                source_slug="chat",
+                                source_type="trade_alert",
+                                confidence="high",
+                                notes="Closing WYFI at $33 for a 5% gain",
+                            )
+                        )
                     if "Trade Update on Kioxia (Closed)" in body:
                         events.append(
                             TradeEvent(
@@ -593,74 +1096,6 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                                 notes="Trade Update on Kioxia (Closed)",
                             )
                         )
-                    if "GoDaddy (Closing Later Today)" in body or "Closing GoDaddy" in body:
-                        events.append(
-                            TradeEvent(
-                                date=dt,
-                                ticker="GDDY",
-                                market=":us:",
-                                action="SELL",
-                                rating_after="CLOSED",
-                                ref_price=None,
-                                target_weight=0.0,
-                                trim_fraction=1.0,
-                                source_slug="chat",
-                                source_type="trade_alert",
-                                confidence="high",
-                                notes="Closing GoDaddy",
-                            )
-                        )
-                    if "adding a speculative position in White Fiber WYFI" in body:
-                        events.append(
-                            TradeEvent(
-                                date=dt,
-                                ticker="WYFI",
-                                market=":us:",
-                                action="BUY",
-                                rating_after="BUY",
-                                ref_price=31.0,
-                                target_weight=None,
-                                trim_fraction=None,
-                                source_slug="chat",
-                                source_type="trade_alert",
-                                confidence="high",
-                                notes="Adding speculative position in White Fiber WYFI at $31",
-                            )
-                        )
-                    if "Adding a bit to my Heritage position at 23.75" in body:
-                        events.append(
-                            TradeEvent(
-                                date=dt,
-                                ticker="HRTG",
-                                market=":us:",
-                                action="ADD",
-                                rating_after="BUY",
-                                ref_price=23.75,
-                                target_weight=None,
-                                trim_fraction=None,
-                                source_slug="chat",
-                                source_type="trade_alert",
-                                confidence="high",
-                                notes="Adding to Heritage position at 23.75",
-                            )
-                        )
-                    if "OPY today < 85" in body:
-                        events.append(
-                            TradeEvent(
-                                date=dt,
-                                ticker="OPY",
-                                market=":us:",
-                                action="BUY",
-                                rating_after="BUY",
-                                ref_price=85.0,
-                                target_weight=None,
-                                trim_fraction=None,
-                                source_slug="chat",
-                                source_type="trade_alert",
-                                confidence="high",
-                                notes="Buying OPY today < 85",
-                            )
-                        )
             except Exception as e:
                 console.print(f"[yellow]Warning parsing chat events: {e}[/yellow]")
 
@@ -675,25 +1110,28 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
             seen_keys.add(key)
             deduped.append(ev)
 
+    # Do not invent arbitrary historical dates (e.g. 2024-01-02) for undated holdings.
+    # Only create a baseline TradeEvent if an explicit, documented entry_date is known!
     tickers_with_buy = {e.ticker for e in deduped if e.action == "BUY"}
     for h in holdings_rows:
         sym = h["symbol"]
-        if sym not in tickers_with_buy:
-            edt = h["entry_date"] or "2024-01-02"
+        edt = h.get("entry_date") or ""
+        if sym not in tickers_with_buy and edt and re.match(r"^\d{4}-\d{2}-\d{2}$", edt):
+            tickers_with_buy.add(sym)
             deduped.append(
                 TradeEvent(
                     date=edt,
                     ticker=sym,
                     market=h["market"],
                     action="BUY",
-                    rating_after=h["current_rating"] or "BUY",
-                    ref_price=h["cost_basis"],
-                    target_weight=h["weight"],
+                    rating_after=h.get("current_rating") or "BUY",
+                    ref_price=h.get("cost_basis"),
+                    target_weight=h.get("weight"),
                     trim_fraction=None,
-                    source_slug=h["source_file"],
+                    source_slug=h.get("source_file", "portfolio_table"),
                     source_type="portfolio_table",
-                    confidence="medium" if h["entry_date"] else "review",
-                    notes="Baseline holding from portfolio table",
+                    confidence="medium",
+                    notes="Baseline holding with documented entry date",
                 )
             )
 
@@ -729,7 +1167,14 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
             )
 
     deduped.sort(key=lambda e: (e.date, e.ticker))
-    holdings_df = pd.DataFrame(holdings_rows)
+
+    # Deduplicate holdings_rows by symbol
+    unique_holdings: dict[str, dict] = {}
+    for h in holdings_rows:
+        s = h.get("symbol")
+        if s and s not in unique_holdings:
+            unique_holdings[s] = h
+    holdings_df = pd.DataFrame(list(unique_holdings.values()))
     events_df = pd.DataFrame([asdict(e) for e in deduped])
 
     holdings_df.to_csv(source.data_dir / "portfolio_holdings.csv", index=False)

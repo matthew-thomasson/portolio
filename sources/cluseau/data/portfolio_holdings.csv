@@ -1,1 +1,10 @@
-
+symbol,market,company_name,cost_basis,entry_date,current_rating,weight,source_file
+CBL,:us:,CBL Properties,,2024-11-20,BUY,0.08,its-just-more-fun-the-second-time
+AGM,:us:,Farmer Mac,,2025-08-14,BUY,0.08,juicing-the-market-one-repurchase
+WSBF,:us:,Waterstone Financial,,2025-08-29,BUY,0.08,shifting-into-rates-down
+HRTG,:us:,Heritage Insurance Holdings,,2025-10-08,BUY,0.08,30-days-to-november
+OPY,:us:,Oppenheimer Holdings,,2025-07-17,BUY,0.08,betting-on-capital-markets-with-a
+ASIC,:us:,Ategrity Specialty Insurance,,2025-11-25,BUY,0.08,snacking-on-banking-and-insurance
+POWL,:us:,Powell Industries,,2025-10-15,BUY,0.08,capital-markets-ai-and-rare-earths
+MCHB,:us:,Mechanics Bancorp,,2025-09-10,BUY,0.05,dividends-discounts-diamonds-in-the
+KRNY,:us:,Kearny Financial,,2025-08-29,BUY,0.05,shifting-into-rates-down

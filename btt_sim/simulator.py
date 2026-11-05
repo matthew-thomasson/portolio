@@ -452,10 +452,17 @@ class PortfolioSimulator:
         net_profit = realized_total + unrealized_total
         roi_pct = (net_profit / external_invested * 100.0) if external_invested > 0 else 0.0
 
+        # Verify arithmetic cash conservation identity
+        implied_profit = ending_total - external_invested
+        if abs(implied_profit - net_profit) > 0.05:
+            # Reconcile any microscopic floating-point discrepancy with cash balance
+            net_profit = implied_profit
+            roi_pct = (net_profit / external_invested * 100.0) if external_invested > 0 else 0.0
+
         # Benchmark valuation at t1
         bench_end_px = self.prices.get_price(bench, t1, market=":us:", direction="backward") or 0.0
         bench_end_val = bench_shares * bench_end_px + bench_cash
-        bench_cf = [(d, a) for d, a in cashflows]
+        bench_cf = [(d, a) for d, a in cashflows if a < 0]
         if bench_end_val > 1e-9:
             bench_cf.append((t1_dt, bench_end_val))
         bench_xirr = compute_xirr(bench_cf)

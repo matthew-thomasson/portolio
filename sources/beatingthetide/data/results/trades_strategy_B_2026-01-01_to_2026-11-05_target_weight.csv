@@ -1,0 +1,12 @@
+date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
+2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-02-23,DELL,BUY,16.393432917763057,118.41252899169922,1941.1878506480944,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-03-16,NESR,BUY,43.554541247132356,20.610000610351562,897.6591216869801,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-04-13,ATI,BUY,5.703544574843378,163.77999877929688,934.1265235055138,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-05-18,DAR,BUY,16.931341785647923,62.130001068115234,1051.9442832269297,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-05-25,DELL,UPGRADE_ADD,1.643896697387053,304.1553649902344,500.0,0.0,"DELL is still a buy Thesis scorecard after Q4 2026 In February, I argued three compounding engines were working at once, on top of an operator edge and a cash machine that few peop"
+2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-06-10,SNEX,BUY,9.684298850831196,83.13333129882812,805.0880247630103,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-07-15,CSTM,BUY,29.042365234018884,29.170000076293945,847.1657960920875,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-08-05,STRL,BUY,1.1827168629396145,536.030029296875,633.9717546914296,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
+2026-08-17,OSCR,BUY,41.5220701233205,31.549999237060547,1310.0212807119365,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv

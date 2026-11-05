@@ -14,21 +14,21 @@ All backtests use identical, dollar-matched cash-flow conditions:
 
 | Publication | Strategy | Capital Invested ($) | Net Profit ($) | ROI (%) | Annualized XIRR (%) | Matched SPY XIRR (%) | Alpha vs SPY (%) |
 |---|---|---|---|---|---|---|---|
-| **Beating The Tide** | **Strategy A** | $21,929.76 | +$5,084.26 | **+23.18%** | **+32.12%** | +15.35% | **+16.77%** |
-| | **Strategy B** | $8,500.00 | +$1,341.38 | **+15.78%** | **+34.26%** | +14.81% | **+19.45%** |
-| **TJ Stocks** | **Strategy A** | $13,000.00 | +$2,982.15 | **+22.94%** | **+34.95%** | +15.00% | **+19.95%** |
-| | **Strategy B** | $13,000.00 | +$2,982.15 | **+22.94%** | **+34.95%** | +15.00% | **+19.95%** |
-| **Cluseau** | **Strategy A** | $11,500.00 | +$3,805.01 | **+33.09%** | **+40.63%** | +15.84% | **+24.79%** |
-| | **Strategy B** | $10,000.00 | +$4,214.42 | **+42.14%** | **+52.16%** | +15.85% | **+36.31%** |
+| **Beating The Tide** | **Strategy A** | $17,929.76 | +$2,949.16 | **+16.45%** | **+23.23%** | +10.12% | **+13.11%** |
+| | **Strategy B** | $8,500.00 | +$644.00 | **+7.58%** | **+15.83%** | +7.44% | **+8.39%** |
+| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** |
+| | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** |
+| **Cluseau** | **Strategy A** | $12,314.80 | +$4,679.90 | **+38.00%** | **+51.25%** | +11.07% | **+40.18%** |
+| | **Strategy B** | $5,950.62 | +$1,962.49 | **+32.98%** | **+68.41%** | +8.21% | **+60.21%** |
 
 ---
 
 ## 2. Key Performance Observations
 
 ### Strategy A vs. Strategy B Sensitivity
-- **Beating The Tide**: High penalty for entering late if missing pre-existing winners. While Strategy B achieved +15.78% ROI, over 80% of its dollar gain was concentrated in a single ticker (`DELL` +150.4%). Without `DELL`, Strategy B was negative. In contrast, Strategy A was stabilized by 2025 positions (`MU` +152.3%, `VEON` +49.9%).
-- **TJ Stocks**: Zero difference between Strategy A and Strategy B. The model **StockTok ETF** was constructed from scratch on January 14, 2026, meaning an investor starting on Jan 1 faced no legacy bagholding risk or missing past run-ups.
-- **Cluseau**: Strategy B (+42.14% ROI / +52.16% XIRR) outperformed Strategy A (+33.09% ROI / +40.63% XIRR) because older positions held at $T_0$ had smaller remaining upside or experienced pullbacks (`MOMO` -21%, `VISN` -20%), whereas fresh 2026 entries and options-leveraged exits (`EVC` +175%, `POWL` +136%) generated massive alpha.
+- **Beating The Tide**: Severe penalty for entering late if missing pre-existing winners. While Strategy B achieved +7.58% ROI (+15.83% XIRR), nearly the entire dollar gain was concentrated in a single ticker (`DELL` +122.3%, +$1,834.25). Without `DELL`, Strategy B was heavily underwater (-$1,190.25). In contrast, Strategy A benefited from 2025 positions (`MU` +121.0%, `VEON` +44.5%).
+- **TJ Stocks**: Zero difference between Strategy A and Strategy B. The model **StockTok ETF** was constructed from scratch on January 14, 2026, meaning an investor starting on Jan 1 faced no legacy bagholding risk or missing past run-ups. The ETF 2.0 rebalance on July 28 properly sold `SPB`, `MSCI`, and `FDX` while adding `CAKE`, `CNXN`, and `FELE`.
+- **Cluseau**: Strategy A (+38.00% ROI / +51.25% XIRR) captured both active holdings open on Jan 1 and 2026 fresh ideas, driven by high-conviction exits (`EVC` +161.1%, `POWL` +68.4%, `CBL` +51.3%). Strategy B (+32.98% ROI / +68.41% XIRR) reflects fresh 2026 entries exclusively (including `SK Square 402340.KS` entered April 29 at +44.1% FX-adjusted return), delivering extraordinary capital efficiency.
 
 ---
 
@@ -36,30 +36,31 @@ All backtests use identical, dollar-matched cash-flow conditions:
 
 ### Beating The Tide
 - **Best 3**:
-  1. `MU` (Micron Technology): **+152.3%** (+$1,523)
-  2. `DELL` (Dell Technologies): **+150.4%** (+$2,257)
-  3. `VEON` (VEON Ltd): **+49.9%** (+$499)
+  1. `DELL` (Dell Technologies): **+122.3%** (+$1,834.25)
+  2. `MU` (Micron Technology): **+121.0%** (+$1,209.70)
+  3. `VEON` (VEON Ltd): **+44.5%** (+$444.59)
 - **Worst 3**:
-  1. `STRL` (Sterling Infrastructure): **-47.1%** (-$471)
-  2. `SNEX` (StoneX Group): **-31.6%** (-$316)
-  3. `PYPL` (PayPal Holdings): **-28.3%** (-$283)
+  1. `STRL` (Sterling Infrastructure): **-53.3%** (-$533.38)
+  2. `SNEX` (StoneX Group): **-34.7%** (-$346.71)
+  3. `PYPL` (PayPal Holdings): **-28.3%** (-$282.77)
 
 ### TJ Stocks (StockTok ETF)
 - **Best 3**:
-  1. `VLO` (Valero Energy): **+104.8%** (+$1,049)
-  2. `SPB` (Spectrum Brands Holdings): **+43.2%** (+$432)
-  3. `FDX` (FedEx Corporation): **+31.9%** (+$319)
+  1. `VLO` (Valero Energy): **+103.1%** (+$1,031.09)
+  2. `SPB` (Spectrum Brands Holdings): **+43.2%** (+$432.13)
+  3. `SPG` (Simon Property Group): **+26.8%** (+$267.86)
 - **Worst 3**:
-  1. `FELE` (Franklin Electric): **-8.6%** (-$86)
-  2. `TXT` (Textron Inc): **-7.9%** (-$79)
-  3. `HNI` (HNI Corporation): **-0.9%** (-$9)
+  1. `FELE` (Franklin Electric): **-10.1%** (-$101.21)
+  2. `TXT` (Textron Inc): **-9.3%** (-$93.46)
+  3. `MSCI` (MSCI Inc): **-1.9%** (-$18.52)
 
 ### Cluseau
 - **Best 3**:
-  1. `EVC` (Entravision Communications): **+175.0%** (+$1,750)
-  2. `POWL` (Powell Industries): **+68.4%** stock gain / **+136.0%** options (+$684 to +$1,360)
-  3. `CBL` (CBL Properties): **+50.1%** 2026 gain / **+114.0%** total (+$501 to +$1,140)
+  1. `EVC` (Entravision Communications): **+161.1%** (+$1,610.95)
+  2. `POWL` (Powell Industries): **+68.4%** stock gain (+$684.34) / author reported **+136.0%** via options
+  3. `CBL` (CBL Properties): **+51.3%** 2026 gain (+$513.17) / author reported **+114.0%** total inception gain
 - **Worst 3**:
-  1. `WYFI` (White Fiber): **-45.6%** (-$456)
-  2. `MOMO` (Hello Group): **-22.2%** (-$222)
-  3. `VISN` (Vistance Networks): **-20.0%** (-$200)
+  1. `VISN` (VSE Corporation): **-20.3%** (-$303.95)
+  2. `MOMO` (Hello Group): **-21.2%** (-$212.50)
+  3. `BMBL` (Bumble Inc): **+4.9%** (+$49.38) *(Lowest positive — only 2 positions suffered net losses)*
+  *(Note: WYFI closed in October 2025 at +5.0% and was never held in 2026).*

@@ -149,6 +149,67 @@ class PriceProvider:
         return best_sym
 
     @staticmethod
+    def get_instrument_currency(yf_symbol: str) -> str:
+        s = yf_symbol.strip().upper()
+        if s.endswith(".KS"):
+            return "KRW"
+        if s.endswith(".T"):
+            return "JPY"
+        if any(s.endswith(sfx) for sfx in (".PA", ".DE", ".AS", ".FR")):
+            return "EUR"
+        if any(s.endswith(sfx) for sfx in (".TO", ".V")):
+            return "CAD"
+        if s.endswith(".L"):
+            return "GBP"
+        return "USD"
+
+    def get_fx_rate(
+        self,
+        from_curr: str,
+        to_curr: str = "USD",
+        dt: str | date | datetime | None = None,
+    ) -> float:
+        fc = from_curr.upper()
+        tc = to_curr.upper()
+        if fc == tc:
+            return 1.0
+
+        pair = None
+        invert = False
+        if fc == "KRW" and tc == "USD":
+            pair = "USDKRW=X"
+            invert = True
+        elif fc == "USD" and tc == "KRW":
+            pair = "USDKRW=X"
+            invert = False
+        elif fc == "JPY" and tc == "USD":
+            pair = "USDJPY=X"
+            invert = True
+        elif fc == "USD" and tc == "JPY":
+            pair = "USDJPY=X"
+            invert = False
+        elif fc == "EUR" and tc == "USD":
+            pair = "EURUSD=X"
+            invert = False
+        elif fc == "USD" and tc == "EUR":
+            pair = "EURUSD=X"
+            invert = True
+        elif fc == "CAD" and tc == "USD":
+            pair = "USDCAD=X"
+            invert = True
+        elif fc == "USD" and tc == "CAD":
+            pair = "USDCAD=X"
+            invert = False
+
+        if pair:
+            ser = self._load_yf_series(pair)
+            if ser is not None and not ser.empty:
+                val = self._lookup_in_series(ser, dt or ser.index[-1], direction="backward")
+                if val and val > 0:
+                    return (1.0 / val) if invert else val
+        return 1.0
+
+    @staticmethod
     def _lookup_in_series(
         ser: pd.Series,
         dt: str | date | datetime,
@@ -177,6 +238,7 @@ class PriceProvider:
         market: str | None = None,
         direction: str = "forward",
         fallback_price: float | None = None,
+        in_usd: bool = True,
     ) -> float | None:
         yf_sym = self.resolve_symbol(symbol, market=market, ref_price=fallback_price, ref_date=dt)
         if not yf_sym:
@@ -185,7 +247,15 @@ class PriceProvider:
         if ser is None or ser.empty:
             return fallback_price
         px = self._lookup_in_series(ser, dt, direction=direction)
-        return px if px is not None else fallback_price
+        if px is None:
+            return fallback_price
+
+        if in_usd:
+            curr = self.get_instrument_currency(yf_sym)
+            if curr != "USD":
+                rate = self.get_fx_rate(curr, "USD", dt)
+                return px * rate
+        return px
 
     def latest_available_date(self, symbol: str = "SPY") -> date:
         ser = self._load_yf_series(symbol)

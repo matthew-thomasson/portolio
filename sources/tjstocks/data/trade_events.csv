@@ -12,6 +12,8 @@ date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,sou
 2026-01-14,VLO,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: Valero Energy Corporation
 2026-07-28,CAKE,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: Cheesecake Factory
 2026-07-28,CNXN,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: PC Connection
+2026-07-28,FDX,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Removal: Cut FedEx Corporation (FDX)
 2026-07-28,FELE,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: Franklin Electric
-2026-07-28,SPB,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,Cut Spectrum Brands Holdings (SPB) from StockTok ETF
-2026-11-03,VLO,:us:,TRIM,HOLD,,0.05,0.5,stocktok-etf-doubles-the-s-and-p,article,high,Valero Energy Corporation - Trim or Cut (+28% gain)
+2026-07-28,MSCI,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Removal: Cut MSCI Inc (MSCI)
+2026-07-28,SPB,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Removal: Cut Spectrum Brands Holdings (SPB)
+2026-11-03,VLO,:us:,TRIM,HOLD,,0.05,0.5,stocktok-etf-doubles-the-s-and-p,article,medium,Valero Energy Corporation - Discretionary 50% trim assumption based on author advice 'Trim or Cut' (+28% gain)

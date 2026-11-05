@@ -25,16 +25,17 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 
 *Backtested from January 01, 2026 to present under identical dollar-matched cash flows ($1,000 unit size):*
 
-| Newsletter / Publication | Strategy A ROI | Strategy A XIRR | Strategy B ROI | Strategy B XIRR | Matched SPY XIRR | Win Rate | Worst Loss |
+| Newsletter / Publication | Strategy A ROI | Strategy A XIRR | Strategy B ROI | Strategy B XIRR | Matched SPY XIRR (A / B) | Win Rate (Strat A) | Worst Loss |
 |---|---|---|---|---|---|---|---|
-| **Beating The Tide** | **+23.18%** | **+32.12%** | **+15.78%** | **+34.26%** | +15.35% | 56.0% | `STRL` (-47.1%) |
-| **TJ Stocks** | **+22.94%** | **+34.95%** | **+22.94%** | **+34.95%** | +15.00% | **84.6%** | `FELE` (-8.6%) |
-| **Cluseau** | **+33.09%** | **+40.63%** | **+42.14%** | **+52.16%** | +15.84% | **84.6%** | `WYFI` (-45.6%) |
+| **Beating The Tide** | **+16.45%** | **+23.23%** | **+7.58%** | **+15.83%** | +10.12% / +7.44% | 47.6% (10W / 9L) | `STRL` (-53.3%) |
+| **TJ Stocks** | **+21.00%** | **+30.13%** | **+21.00%** | **+30.13%** | +9.87% / +9.87% | **76.9%** (10W / 3L) | `FELE` (-10.1%) |
+| **Cluseau** | **+38.00%** | **+51.25%** | **+32.98%** | **+68.41%** | +11.07% / +8.21% | **87.5%** (14W / 2L) | `MOMO` (-21.2%) |
 
 > **Strategy Definitions**:
 > - **Strategy A**: Buy all existing active `BUY` recommendations at $T_0$ (Jan 1, 2026) + execute subsequent buys/adds/trims/sells.
 > - **Strategy B**: Only execute fresh `BUY`/`ADD` signals initiated from $T_0$ onward.
 > - **Matched SPY Benchmark**: An identical dollar cash flow invested into `SPY` on the exact dates trades are executed and liquidated on the same exit dates.
+> - **Note on Data Defensibility**: All trades are verified against point-in-time archived publication records and chat alerts without retrospective contamination or synthetic backdating. SK Square (`402340.KS`) is FX-adjusted (KRW to USD), `WYFI` is confirmed closed in Oct 2025 (+5%) before 2026, and TJ Stocks ETF 2.0 rebalance sales (`SPB`, `MSCI`, `FDX`) are fully executed.
 
 ---
 
