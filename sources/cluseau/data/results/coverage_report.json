@@ -1,0 +1,202 @@
+{
+  "source_key": "cluseau",
+  "source_name": "Cluseau",
+  "articles_downloaded": 38,
+  "articles_examined": 38,
+  "chats_downloaded": 404,
+  "chats_examined": 404,
+  "datawrapper_tables": 0,
+  "confirmed_trades_count": 51,
+  "disclosed_holdings_count": 16,
+  "orphan_holdings": [
+    {
+      "ticker": "IESC",
+      "company_name": "IES Holdings",
+      "first_disclosed_date": "2026-03-09",
+      "source_slug": "march-2026-trade-review",
+      "conviction": null,
+      "notes": "Protected via Nov 220 puts",
+      "severity": "CRITICAL"
+    },
+    {
+      "ticker": "FIX",
+      "company_name": "Comfort Systems",
+      "first_disclosed_date": "2026-03-09",
+      "source_slug": "march-2026-trade-review",
+      "conviction": null,
+      "notes": "Collared & protected via Nov 1500 puts",
+      "severity": "CRITICAL"
+    },
+    {
+      "ticker": "WDC",
+      "company_name": "Western Digital",
+      "first_disclosed_date": "2026-03-09",
+      "source_slug": "march-2026-trade-review",
+      "conviction": null,
+      "notes": "Protected via Dec 350 puts / Jan covered calls",
+      "severity": "CRITICAL"
+    },
+    {
+      "ticker": "285A",
+      "company_name": "Kioxia",
+      "first_disclosed_date": "2026-03-09",
+      "source_slug": "march-2026-trade-review",
+      "conviction": null,
+      "notes": "Closed per Chat alert",
+      "severity": "CRITICAL"
+    },
+    {
+      "ticker": "CTT",
+      "company_name": "Correios de Portugal",
+      "first_disclosed_date": "2026-04-17",
+      "source_slug": "april-2026-portfolio-review",
+      "conviction": null,
+      "notes": "Portuguese postal & banking division, featured in April review Idea 5",
+      "severity": "CRITICAL"
+    }
+  ],
+  "unexplained_disappearances": [
+    {
+      "ticker": "013030",
+      "company_name": "Hy-Lok",
+      "first_disclosed_date": "2026-04-29",
+      "source_slug": "opening-the-gates",
+      "notes": "Korea Value Basket initiated May 2026 (-25% in June, absent in Oct review)",
+      "severity": "WARNING"
+    }
+  ],
+  "unresolved_candidates": [
+    {
+      "ticker": "IGIC",
+      "source_type": "chat",
+      "date": "2026-11-04",
+      "context_snippet": "IGIC Earnings Update and Thoughts on AI:  IGIC generated an ROE of 16.9% and EPS of $0.67, marginally ahead of the $0.66 consensus. Net Premiums earned were up 8.5% YOY, and the co",
+      "thread_index": 0,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "HBF",
+      "source_type": "chat",
+      "date": "2026-10-29",
+      "context_snippet": "GoDaddy (Collar) and Kioxia earnings out tonight.  As mentioned last week, GoDaddy is a consensus Institutional loser with high short interest, so I think the reaction tonight will",
+      "thread_index": 8,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "GOOGL",
+      "source_type": "chat",
+      "date": "2026-10-28",
+      "context_snippet": "Disappointing Google results after hours. Search growth came in at 12% versus the 14% consensus, Google Cloud came in at $30.7 Billion versus the $29 Billion consensus, not high en",
+      "thread_index": 11,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "AI",
+      "source_type": "chat",
+      "date": "2026-10-25",
+      "context_snippet": "Earnings Calendar / Market Thoughts / Options Trades:  Huge week for the AI trade and overall earnings, here are the reports I'll be following:  Monday - iM Financial Group (139130",
+      "thread_index": 17,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "CUBI",
+      "source_type": "chat",
+      "date": "2026-10-23",
+      "context_snippet": "A lot of whipsaw this week - memory and storage names actually finished slightly up, while SOXX dropped another 3%. Certainly didn't feel like it given the dramatic moves.  GoDaddy",
+      "thread_index": 18,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "244920",
+      "source_type": "chat",
+      "date": "2026-10-20",
+      "context_snippet": "Once again, GoDaddy rallying as chips get slammed. If you haven't taken the opportunity yet, think it makes sense to take some profits here at +8% prior to earnings next week - I'v",
+      "thread_index": 23,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "IREN",
+      "source_type": "chat",
+      "date": "2026-10-16",
+      "context_snippet": "Still on defense today, and I closed out the IREN Dec $10 Short Put position I put on many months ago. I don't think IREN will be below $10 by December, but the puts have dropped f",
+      "thread_index": 25,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "US",
+      "source_type": "chat",
+      "date": "2026-10-14",
+      "context_snippet": "Trade update on IFOS and thoughts on MREITs:  Closing out the IFOS position today for a 30% loss. This one really stings, and it pains me that it dribbled from a +30% gain to -30%.",
+      "thread_index": 29,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "CRWV",
+      "source_type": "chat",
+      "date": "2026-10-14",
+      "context_snippet": "Back in July I posted a CRWV Options Trade, Long 1x November $80 Strike Put Short 3x November $40 Strike Puts. For those of you still in that trade, it turned green today, and I cl",
+      "thread_index": 30,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "AI",
+      "source_type": "chat",
+      "date": "2026-10-12",
+      "context_snippet": "Another day of Insurance and Banks rallying as AI and Semis get pummeled. SOXX now has a negative 0.5 correlation to KIE (Insurance) and it's clear a lot of global financials names",
+      "thread_index": 33,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "CTT",
+      "source_type": "chat",
+      "date": "2026-10-12",
+      "context_snippet": "Thoughts on Memory and Storage and trade updates on CTT and JPM:  As expected, volatility picking in Memory and Storage. A lot of people are searching for a narrative and latching ",
+      "thread_index": 34,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "AI",
+      "source_type": "chat",
+      "date": "2026-10-08",
+      "context_snippet": "Another big factor day, Equal Weight S&P is leading, insurance and banks have jumped, and AI associated names have taken a hit after an FT report on OpenAI's ARR. The reason for th",
+      "thread_index": 36,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "KNSL",
+      "source_type": "chat",
+      "date": "2026-09-28",
+      "context_snippet": "Important update to the Blackjack 21: Trade Exit in Ategrity Specialty ASIC (+39%)  In preparation for next week's Portfolio review piece, I've been going through the holdings list",
+      "thread_index": 47,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "AI",
+      "source_type": "chat",
+      "date": "2026-09-28",
+      "context_snippet": "Morning gents. Rates alarmingly continue to march higher, and there was also a lot of concern over the weekend regarding regional banks and the potential for AI agents like Muse to",
+      "thread_index": 48,
+      "classification": "candidate_requiring_review"
+    },
+    {
+      "ticker": "SPY",
+      "source_type": "chat",
+      "date": "2026-09-16",
+      "context_snippet": "Closing out the SPY 756 Wednesday (today) puts we picked up yesterday.",
+      "thread_index": 55,
+      "classification": "candidate_requiring_review"
+    }
+  ],
+  "breakdown_by_instrument": {
+    "protective_put": 3,
+    "equity": 13
+  },
+  "breakdown_by_geography": {
+    "US": 3,
+    "Japan": 6,
+    "Canada": 1,
+    "Australia": 1,
+    "Europe": 1,
+    "Korea": 4
+  }
+}

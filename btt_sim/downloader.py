@@ -206,8 +206,15 @@ def fetch_all_api_posts(
     for idx, (slug, meta) in enumerate(slugs_meta.items(), 1):
         existing = list(source.api_posts_dir.glob(f"*__{slug}.json"))
         if existing and not force and slug not in KEY_PORTFOLIO_SLUGS:
-            saved_paths.append(existing[0])
-            continue
+            try:
+                content = json.loads(existing[0].read_text(encoding="utf-8"))
+                body = content.get("body_html") or ""
+                # If body is substantial and not a paywall stub, reuse existing
+                if len(body) > 3000 and "paywall" not in body[-2000:].lower():
+                    saved_paths.append(existing[0])
+                    continue
+            except Exception:
+                pass
 
         url = f"{base}/api/v1/posts/{slug}"
         try:

@@ -10,7 +10,7 @@ This document provides quick access to the complete chronological trade historie
 |---|---|---|---|---|
 | **Beating The Tide** | **63 trades** | [**`sources/beatingthetide/TRADE_HISTORY.md`**](../sources/beatingthetide/TRADE_HISTORY.md) | 2024-01-02 to 2026-11-02 | 30 BUY, 26 SELL, 4 TRIM, 2 ADD, 1 HOLD |
 | **TJ Stocks** | **18 trades** | [**`sources/tjstocks/TRADE_HISTORY.md`**](../sources/tjstocks/TRADE_HISTORY.md) | 2025-05-12 to 2026-11-03 | 14 BUY, 3 SELL, 1 TRIM |
-| **Cluseau** | **41 trades** | [**`sources/cluseau/TRADE_HISTORY.md`**](../sources/cluseau/TRADE_HISTORY.md) | 2025-06-25 to 2026-11-02 | 17 BUY, 17 SELL, 5 TRIM, 2 ADD |
+| **Cluseau** | **51 trades** | [**`sources/cluseau/TRADE_HISTORY.md`**](../sources/cluseau/TRADE_HISTORY.md) | 2024-11-20 to 2026-10-30 | 27 BUY, 17 SELL, 5 TRIM, 2 ADD |
 
 ---
 
@@ -29,9 +29,11 @@ This document provides quick access to the complete chronological trade historie
   - Portfolio Holdings: [`sources/tjstocks/data/portfolio_holdings.csv`](../sources/tjstocks/data/portfolio_holdings.csv)
 
 ### 3. [Cluseau Trade History](../sources/cluseau/TRADE_HISTORY.md)
-- **Source of Truth**: Extracted from quarterly portfolio reviews (`september-2026-portfolio-review`, `april-2026-portfolio-review`) and **404 live subscriber chat threads** (`sources/cluseau/chat/chat_threads.json`).
+- **Source of Truth**: Extracted from quarterly portfolio reviews (`september-2026-portfolio-review`, `june-2026-portfolio-review`, `april-2026-portfolio-review`, `march-2026-trade-review`), standalone research publications (`boring-is-beautiful`, `opening-the-gates`, `go-stub-yourself`, `buying-the-buyback`), and **404 live subscriber chat threads** (`sources/cluseau/chat/chat_threads.json`).
 - **Raw Data Files**:
-  - Structured CSV: [`sources/cluseau/data/trade_events.csv`](../sources/cluseau/data/trade_events.csv)
+  - Structured CSV: [`sources/cluseau/data/trade_events.csv`](../sources/cluseau/data/trade_events.csv) (51 trades)
+  - Baseline Holdings: [`sources/cluseau/data/portfolio_holdings.csv`](../sources/cluseau/data/portfolio_holdings.csv) (12 baseline positions)
+  - Coverage Report: [`sources/cluseau/data/results/coverage_report.json`](../sources/cluseau/data/results/coverage_report.json)
   - Chat Archive: [`sources/cluseau/chat/chat_threads.json`](../sources/cluseau/chat/chat_threads.json)
 
 ---

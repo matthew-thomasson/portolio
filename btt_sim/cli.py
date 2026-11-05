@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 from pathlib import Path
 import pandas as pd
 from rich.console import Console
@@ -44,6 +45,56 @@ def cmd_check_auth(args: argparse.Namespace) -> None:
         cname, is_paid = resolve_cookie_name(src)
         status = "[bold green]PAID ACCESS UNLOCKED[/bold green]" if is_paid else "[bold red]COOKIE UNVERIFIED[/bold red]"
         console.print(f"{src.display_name} ({src.url}): {status} (using {cname})")
+
+
+def cmd_audit(args: argparse.Namespace) -> None:
+    """Run comprehensive source coverage and holdings reconciliation audit."""
+    import dataclasses
+    from .reconciliation import ReconciliationEngine
+
+    settings = load_settings()
+    sources = _get_target_sources(settings, args.source)
+    engine = ReconciliationEngine(settings)
+
+    for src in sources:
+        rep = engine.audit_source(src)
+        table = Table(title=f"Source Coverage & Trade Reconciliation: {src.display_name}")
+        table.add_column("Audit Metric", style="cyan")
+        table.add_column("Result", style="bold")
+        table.add_row("Source Articles Downloaded", str(rep.articles_downloaded))
+        table.add_row("Source Articles Examined", str(rep.articles_examined))
+        table.add_row("Subscriber Chat Messages Downloaded", str(rep.chats_downloaded))
+        table.add_row("Subscriber Chat Messages Examined", str(rep.chats_examined))
+        table.add_row("Datawrapper Tables Analyzed", str(rep.datawrapper_tables))
+        table.add_row("Confirmed Trades in Ledger", str(rep.confirmed_trades_count))
+        table.add_row("Disclosed Holdings in Source", str(rep.disclosed_holdings_count))
+        table.add_row(
+            "Orphan Holdings (Missing Entry)",
+            f"[bold red]{len(rep.orphan_holdings)}[/bold red]" if rep.orphan_holdings else "[green]0[/green]",
+        )
+        table.add_row(
+            "Unexplained Disappearances",
+            f"[bold yellow]{len(rep.unexplained_disappearances)}[/bold yellow]"
+            if rep.unexplained_disappearances
+            else "[green]0[/green]",
+        )
+        table.add_row("Unresolved Candidates Requiring Review", str(len(rep.unresolved_candidates)))
+        console.print(table)
+
+        if rep.orphan_holdings:
+            console.print("[bold red]⚠ Orphan Holdings Disclosed in Source But Missing from Trade Ledger:[/bold red]")
+            for oh in rep.orphan_holdings:
+                console.print(f"  - [red]{oh['ticker']}[/red] ({oh['company_name']}) in {oh['source_slug']}: {oh['notes']}")
+        if rep.unexplained_disappearances:
+            console.print("[bold yellow]⚠ Holdings Disappeared from Portfolio Review without Exit Record:[/bold yellow]")
+            for ud in rep.unexplained_disappearances:
+                console.print(f"  - [yellow]{ud['ticker']}[/yellow] ({ud['company_name']}) in {ud['source_slug']}: {ud['notes']}")
+
+        # Save machine-readable report to results directory
+        out_rep = src.results_dir / "coverage_report.json"
+        src.results_dir.mkdir(parents=True, exist_ok=True)
+        out_rep.write_text(json.dumps(dataclasses.asdict(rep), indent=2), encoding="utf-8")
+        console.print(f"[dim]Saved coverage report to {out_rep}[/dim]\n")
 
 
 def cmd_download(args: argparse.Namespace) -> None:
@@ -352,6 +403,12 @@ def main() -> None:
 
     p_auth = sub.add_parser("check-auth", help="Verify paid Substack cookie for source(s)")
     p_auth.set_defaults(func=cmd_check_auth)
+
+    p_audit = sub.add_parser("audit", help="Run source coverage and trade reconciliation audit")
+    p_audit.set_defaults(func=cmd_audit)
+
+    p_rec = sub.add_parser("reconcile", help="Alias for audit: reconcile source disclosures against trade ledger")
+    p_rec.set_defaults(func=cmd_audit)
 
     p_dl = sub.add_parser("download", help="Download archive, posts, and tables for source(s)")
     p_dl.add_argument("--after", help="Only download posts after YYYY-MM-DD")

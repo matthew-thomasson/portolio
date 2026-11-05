@@ -70,6 +70,16 @@ Cluseau publishes comprehensive quarterly portfolio reviews detailing exact clos
 | **`SK Square`** | **+44%** | 2026-10-01 | 85,000 KRW ($61.76) | 2026-04-29 | 59,000 KRW ($42.87) | **+44.1%** | **Exact Match (FX-Adjusted)**: Entered 2026-04-29 at 59,000 KRW $\rightarrow$ trimmed 2026-10-01 at 85,000 KRW (+44.1% in KRW / USD). |
 | **`GMRS`** | **+10%** | 2026-07-02 | $14.52 | 2026-01-02 (T0) | $13.98 | **+3.9%** | **Lifetime Return**: Acquired late 2025 at ~$13.20 $\rightarrow$ exited at $14.52 (+10%). |
 
+### June & October 2026 Portfolio Reviews: Korea Value Basket Audit
+
+In the **June 12, 2026 Review** (`june-2026-portfolio-review`), the author reported interim performance for the three May 2026 Korean basket entries. Our simulator market data confirms these drawdowns to within basis points:
+
+| Ticker / Company | Claimed Interim Return | Stated Entry Price | Market Price at June Review | Verified Return | Status in Oct Review |
+|---|---|---|---|---|---|
+| **`013030.KQ`** (Hy-Lok) | **-25%** | 46,150 KRW (May 2) | 34,300 KRW (June 12) | **-25.68%** | **Unexplained Disappearance** (omitted without sell recap) |
+| **`453340.KS`** (Hyundai Green Food) | **-9%** | 19,200 KRW (May 11) | 17,487 KRW (June 12) | **-8.92%** | **High Conviction Holding** (0.28x P/B, share repurchases) |
+| **`139130.KS`** (iM Financial Group) | **-6%** | 19,110 KRW (April 29) | 17,960 KRW (June 12) | **-6.02%** | **Medium Conviction Holding** (<0.25x P/B, 8% dividend yield) |
+
 *(Audit Note on WYFI: WideOpenWest was closed in October 2025 at +5.0% per the author's own review: "WideOpenWest (+5%) Exited Oct 2025". It was never held in 2026 and is excluded from 2026 backtests).*
 
 ---

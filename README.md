@@ -13,10 +13,12 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 
 | Document | Link | Description |
 |---|---|---|
+| 🔍 **Root Cause & Reliability Audit** | [**`docs/ROOT_CAUSE_AUDIT.md`**](docs/ROOT_CAUSE_AUDIT.md) | In-depth investigation of omitted Korean positions (`013030.KQ`, `453340.KS`, `139130.KS`), paywall stub caching bugs, and failure mode fixes. |
+| 🛡️ **Source Coverage & Reconciliation** | [**`docs/COVERAGE_REPORT.md`**](docs/COVERAGE_REPORT.md) | Full source-to-trade reconciliation across all 3 publications, orphan holding detection, disappearance warnings, and 8-point metrics. |
 | 📜 **Complete Trade Histories** | [**`docs/TRADE_HISTORY.md`**](docs/TRADE_HISTORY.md) | Chronological trade logs with entry/exit prices, sizing, ratings, and source post references. |
 | 📊 **Performance Comparison** | [**`docs/PERFORMANCE_COMPARISON.md`**](docs/PERFORMANCE_COMPARISON.md) | Head-to-head backtest results (Jan 1, 2026 to present), Strategy A vs. Strategy B sensitivity, and top/bottom performers. |
-| 🛡️ **Risk & Volatility Analysis** | [**`docs/RISK_ANALYSIS.md`**](docs/RISK_ANALYSIS.md) | Win rates, loss distributions, profit factors, single-stock concentration, and operational complexity. |
-| 🔍 **Author Claims Reconciliation** | [**`docs/AUTHOR_RECONCILIATION.md`**](docs/AUTHOR_RECONCILIATION.md) | Line-by-line audit reconciling author-claimed returns (+23.59% YTD, 2.55x SPY, 11 closed trades) against market quotes. |
+| ⚖️ **Risk & Volatility Analysis** | [**`docs/RISK_ANALYSIS.md`**](docs/RISK_ANALYSIS.md) | Win rates, loss distributions, profit factors, single-stock concentration, and operational complexity. |
+| 📝 **Author Claims Reconciliation** | [**`docs/AUTHOR_RECONCILIATION.md`**](docs/AUTHOR_RECONCILIATION.md) | Line-by-line audit reconciling author-claimed returns (+23.59% YTD, 2.55x SPY, 11 closed trades) against market quotes. |
 | 📁 **Documentation Index** | [**`docs/README.md`**](docs/README.md) | Central hub linking all research reports, trade histories, and source profiles. |
 
 ---
@@ -29,13 +31,13 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 |---|---|---|---|---|---|---|---|
 | **Beating The Tide** | **+16.45%** | **+23.23%** | **+7.58%** | **+15.83%** | +10.12% / +7.44% | 47.6% (10W / 9L) | `STRL` (-53.3%) |
 | **TJ Stocks** | **+21.00%** | **+30.13%** | **+21.00%** | **+30.13%** | +9.87% / +9.87% | **76.9%** (10W / 3L) | `FELE` (-10.1%) |
-| **Cluseau** | **+38.00%** | **+51.25%** | **+32.98%** | **+68.41%** | +11.07% / +8.21% | **87.5%** (14W / 2L) | `MOMO` (-21.2%) |
+| **Cluseau** | **+22.14%** | **+32.34%** | **+15.00%** | **+29.74%** | +10.26% / +8.07% | **73.1%** (19W / 7L) | `IFOS` (-46.5%) / `013030` (-26.3%) |
 
 > **Strategy Definitions**:
 > - **Strategy A**: Buy all existing active `BUY` recommendations at $T_0$ (Jan 1, 2026) + execute subsequent buys/adds/trims/sells.
 > - **Strategy B**: Only execute fresh `BUY`/`ADD` signals initiated from $T_0$ onward.
 > - **Matched SPY Benchmark**: An identical dollar cash flow invested into `SPY` on the exact dates trades are executed and liquidated on the same exit dates.
-> - **Note on Data Defensibility**: All trades are verified against point-in-time archived publication records and chat alerts without retrospective contamination or synthetic backdating. SK Square (`402340.KS`) is FX-adjusted (KRW to USD), `WYFI` is confirmed closed in Oct 2025 (+5%) before 2026, and TJ Stocks ETF 2.0 rebalance sales (`SPB`, `MSCI`, `FDX`) are fully executed.
+> - **Note on Data Defensibility**: All trades are verified against point-in-time archived publication records and chat alerts without retrospective contamination or synthetic backdating. Korean equities (`402340.KS`, `453340.KS`, `139130.KS`, `013030.KQ`) and Japanese equities (`9478.T`, `7089.T`, `9220.T`, `6626.T`) are multi-currency FX-converted, `WYFI` is confirmed closed in Oct 2025 (+5%) before 2026, and TJ Stocks ETF 2.0 rebalance sales (`SPB`, `MSCI`, `FDX`) are fully executed.
 
 ---
 
@@ -126,7 +128,14 @@ Verify that session cookies in `.env` are valid and paid access is unlocked:
 uv run btt --source all check-auth
 ```
 
-### 2. View Trade History in Terminal
+### 2. Run Completeness & Coverage Audit
+Run automated reconciliation across all sources to verify source-to-trade coverage, detect orphan holdings, and flag unconfirmed position disappearances:
+```powershell
+uv run btt --source all audit
+uv run btt --source cluseau audit
+```
+
+### 3. View Trade History in Terminal
 Inspect color-coded chronological trade events for any source:
 ```powershell
 uv run btt --source tjstocks trades
@@ -137,13 +146,13 @@ uv run btt --source beatingthetide trades
 uv run btt --source all trades --limit 20
 ```
 
-### 3. Run Head-to-Head Comparison
+### 4. Run Head-to-Head Comparison
 Compare all three publications from Jan 1, 2026:
 ```powershell
 uv run btt compare --start 2026-01-01
 ```
 
-### 4. Run Single-Source Simulation
+### 5. Run Single-Source Simulation
 ```powershell
 # Fixed unit allocation ($1,000 per BUY)
 uv run btt --source tjstocks simulate --start 2026-01-01
@@ -154,14 +163,14 @@ uv run btt --source beatingthetide simulate --start 2026-01-01
 uv run btt --source beatingthetide simulate --start 2026-01-01 --mode target_weight
 ```
 
-### 5. Download New Posts or Update Chat
+### 6. Download New Posts or Update Chat
 ```powershell
 uv run btt --source cluseau download --skip-sbstck-dl
 uv run btt --source tjstocks download --skip-sbstck-dl
 uv run btt --source beatingthetide download --skip-sbstck-dl
 ```
 
-### 6. Run Test Suite
+### 7. Run Test Suite
 ```powershell
 uv run pytest
 ```

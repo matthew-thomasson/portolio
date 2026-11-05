@@ -515,6 +515,9 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
             ("POWL", "Powell Industries", ":us:", "2025-10-15", "capital-markets-ai-and-rare-earths", "BUY", 0.08),
             ("MCHB", "Mechanics Bancorp", ":us:", "2025-09-10", "dividends-discounts-diamonds-in-the", "BUY", 0.05),
             ("KRNY", "Kearny Financial", ":us:", "2025-08-29", "shifting-into-rates-down", "BUY", 0.05),
+            ("9478", "SE Holdings and Incubations", ":jp:", "2025-07-11", "the-value-investors-paradise", "BUY", 0.06),
+            ("3600", "Modern Dental Group", ":hk:", "2025-08-14", "juicing-the-market-one-repurchase", "BUY", 0.05),
+            ("IFOS", "Itafos", ":ca:", "2025-06-30", "identifying-structuring-and-sizing", "BUY", 0.04),
         ]
         for sym, name, mkt, edt, slug, rat, wt in cluseau_prior_holdings:
             events.append(
@@ -663,6 +666,55 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                 notes="Added to Heritage Insurance (HRTG) position in April review",
             )
         )
+        # 2026-04-17: April 2026 Review fresh ideas: For Startups (7089.T), FB Care (9220.T), Cash Converters (CCV.AX)
+        events.append(
+            TradeEvent(
+                date="2026-04-17",
+                ticker="7089",
+                market=":jp:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=1224.0,
+                target_weight=0.05,
+                trim_fraction=None,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="For Startups (7089.T) initiated in April 2026 Review Idea 3",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-04-17",
+                ticker="9220",
+                market=":jp:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=1200.0,
+                target_weight=0.04,
+                trim_fraction=None,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="FB Care Services (9220.T) initiated in April 2026 Review Idea 2",
+            )
+        )
+        events.append(
+            TradeEvent(
+                date="2026-04-17",
+                ticker="CCV",
+                market=":au:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=0.28,
+                target_weight=0.03,
+                trim_fraction=None,
+                source_slug="april-2026-portfolio-review",
+                source_type="article",
+                confidence="high",
+                notes="Cash Converters (CCV.AX) initiated in April 2026 Review Idea 4",
+            )
+        )
         # 2026-04-29: SK Square (402340.KS) added upon IBKR Korean equities launch
         events.append(
             TradeEvent(
@@ -671,13 +723,64 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                 market=":kr:",
                 action="BUY",
                 rating_after="BUY",
-                ref_price=None,
+                ref_price=59000.0,
                 target_weight=0.08,
                 trim_fraction=None,
                 source_slug="opening-the-gates",
                 source_type="article",
                 confidence="high",
                 notes="SK Square (402340.KS) initiated in 'Opening the Gates' post",
+            )
+        )
+        # 2026-04-29: iM Financial Group (139130.KS) added in 'Opening the Gates'
+        events.append(
+            TradeEvent(
+                date="2026-04-29",
+                ticker="139130",
+                market=":kr:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=19110.0,
+                target_weight=0.05,
+                trim_fraction=None,
+                source_slug="opening-the-gates",
+                source_type="article",
+                confidence="high",
+                notes="iM Financial Group (139130.KS) initiated in 'Opening the Gates'",
+            )
+        )
+        # 2026-05-04: Hy-Lok (013030.KQ) Korea Value Basket entry
+        events.append(
+            TradeEvent(
+                date="2026-05-04",
+                ticker="013030",
+                market=":kr:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=44000.0,
+                target_weight=0.04,
+                trim_fraction=None,
+                source_slug="opening-the-gates",
+                source_type="article",
+                confidence="high",
+                notes="Hy-Lok (013030.KQ) Korea Value Basket initiated May 2026 per June review",
+            )
+        )
+        # 2026-05-11: Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful'
+        events.append(
+            TradeEvent(
+                date="2026-05-11",
+                ticker="453340",
+                market=":kr:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=19200.0,
+                target_weight=0.05,
+                trim_fraction=None,
+                source_slug="boring-is-beautiful",
+                source_type="article",
+                confidence="high",
+                notes="Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful'",
             )
         )
         # 2026-05-26: Vistance Networks (VISN)
@@ -912,7 +1015,23 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                 notes="Exited POWL August 21 via options (+136% claimed return)",
             )
         )
-        # 2026-09-03: Buying the Buyback additions: ABCA.PA, 6626.T, 244920.KS
+        # 2026-09-03: Semitec (6626.T) added in 'Buying the Buyback'
+        events.append(
+            TradeEvent(
+                date="2026-09-03",
+                ticker="6626",
+                market=":jp:",
+                action="BUY",
+                rating_after="BUY",
+                ref_price=2255.0,
+                target_weight=0.05,
+                trim_fraction=None,
+                source_slug="buying-the-buyback",
+                source_type="article",
+                confidence="high",
+                notes="Semitec (6626.T) initiated in 'Buying the Buyback' at 2,255 JPY",
+            )
+        )
         # 2026-09-10: MOMO exit in Chat
         events.append(
             TradeEvent(

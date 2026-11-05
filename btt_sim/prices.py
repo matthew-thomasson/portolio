@@ -25,7 +25,7 @@ MARKET_SUFFIX_CANDIDATES: dict[str, list[str]] = {
     "se": [".ST", ""],
     "no": [".OL", ""],
     "jp": [".T", ""],
-    "kr": ["", ".KS"],
+    "kr": [".KS", ".KQ", ""],
 }
 
 
@@ -39,7 +39,7 @@ def normalize_market_code(raw: str | None) -> str:
 def candidate_yf_symbols(symbol: str, market: str | None = None) -> list[str]:
     sym = symbol.strip().upper()
     mkt = normalize_market_code(market)
-    dash_sym = sym.replace(".", "-") if "." in sym and not any(sym.endswith(sfx) for sfx in (".TO", ".L", ".SN", ".AX", ".HK", ".DE", ".PA")) else sym
+    dash_sym = sym.replace(".", "-") if "." in sym and not any(sym.endswith(sfx) for sfx in (".TO", ".L", ".SN", ".AX", ".HK", ".DE", ".PA", ".KS", ".KQ", ".T", ".V")) else sym
 
     bases = [dash_sym] if dash_sym == sym else [dash_sym, sym]
     suffixes = MARKET_SUFFIX_CANDIDATES.get(mkt, [""])
@@ -151,7 +151,7 @@ class PriceProvider:
     @staticmethod
     def get_instrument_currency(yf_symbol: str) -> str:
         s = yf_symbol.strip().upper()
-        if s.endswith(".KS"):
+        if s.endswith(".KS") or s.endswith(".KQ"):
             return "KRW"
         if s.endswith(".T"):
             return "JPY"
@@ -161,6 +161,10 @@ class PriceProvider:
             return "CAD"
         if s.endswith(".L"):
             return "GBP"
+        if s.endswith(".HK"):
+            return "HKD"
+        if s.endswith(".AX"):
+            return "AUD"
         return "USD"
 
     def get_fx_rate(
@@ -200,6 +204,24 @@ class PriceProvider:
         elif fc == "USD" and tc == "CAD":
             pair = "USDCAD=X"
             invert = False
+        elif fc == "HKD" and tc == "USD":
+            pair = "USDHKD=X"
+            invert = True
+        elif fc == "USD" and tc == "HKD":
+            pair = "USDHKD=X"
+            invert = False
+        elif fc == "AUD" and tc == "USD":
+            pair = "AUDUSD=X"
+            invert = False
+        elif fc == "USD" and tc == "AUD":
+            pair = "AUDUSD=X"
+            invert = True
+        elif fc == "GBP" and tc == "USD":
+            pair = "GBPUSD=X"
+            invert = False
+        elif fc == "USD" and tc == "GBP":
+            pair = "GBPUSD=X"
+            invert = True
 
         if pair:
             ser = self._load_yf_series(pair)

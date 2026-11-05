@@ -1,13 +1,13 @@
 # Cluseau — Complete Chronological Trade History
 
 - **Publication URL**: https://www.cluseau.com/
-- **Total Trade Signals**: 41
+- **Total Trade Signals**: 51
 - **Date Range**: 2024-11-20 to 2026-10-30
 
 ### Action Breakdown
 
+- **BUY**: 27
 - **SELL**: 17
-- **BUY**: 17
 - **TRIM**: 5
 - **ADD**: 2
 
@@ -25,6 +25,7 @@
 | 2026-09-21 | **`GDDY`** | `:us:` | `BUY` | BUY | — | 6.0% | — | `september-2026-portfolio-review` | GoDaddy (GDDY) added on September 21 |
 | 2026-09-15 | **`CBL`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Final CBL exit (+114% return) on September 15 |
 | 2026-09-10 | **`MOMO`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Closed MOMO for -15% in Chat (msg 60) |
+| 2026-09-03 | **`6626`** | `:jp:` | `BUY` | BUY | 2,255 JPY | 5.0% | — | `buying-the-buyback` | Semitec (6626.T) initiated in 'Buying the Buyback' at 2,255 JPY |
 | 2026-08-21 | **`EVC`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited EVC August 21 via options (+171% claimed return) |
 | 2026-08-21 | **`POWL`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited POWL August 21 via options (+136% claimed return) |
 | 2026-08-06 | **`VISN`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited VISN on August 6 (-20% return) |
@@ -39,7 +40,13 @@
 | 2026-06-12 | **`GMRS`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `june-2026-portfolio-review` | New Position: GMR Solutions (GMRS) in June review |
 | 2026-06-12 | **`VISN`** | `:us:` | `ADD` | BUY | — | 8.0% | — | `june-2026-portfolio-review` | Position Increase: Vistance Networks (VISN) in June review |
 | 2026-05-26 | **`VISN`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `go-stub-yourself` | Vistance Networks (VISN) initiated in 'Go Stub Yourself' |
-| 2026-04-29 | **`402340`** | `:kr:` | `BUY` | BUY | — | 8.0% | — | `opening-the-gates` | SK Square (402340.KS) initiated in 'Opening the Gates' post |
+| 2026-05-11 | **`453340`** | `:kr:` | `BUY` | BUY | 19,200 KRW | 5.0% | — | `boring-is-beautiful` | Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful' |
+| 2026-05-04 | **`013030`** | `:kr:` | `BUY` | BUY | 44,000 KRW | 4.0% | — | `opening-the-gates` | Hy-Lok (013030.KQ) Korea Value Basket initiated May 2026 per June review |
+| 2026-04-29 | **`139130`** | `:kr:` | `BUY` | BUY | 19,110 KRW | 5.0% | — | `opening-the-gates` | iM Financial Group (139130.KS) initiated in 'Opening the Gates' |
+| 2026-04-29 | **`402340`** | `:kr:` | `BUY` | BUY | 59,000 KRW | 8.0% | — | `opening-the-gates` | SK Square (402340.KS) initiated in 'Opening the Gates' post |
+| 2026-04-17 | **`7089`** | `:jp:` | `BUY` | BUY | 1,224 JPY | 5.0% | — | `april-2026-portfolio-review` | For Startups (7089.T) initiated in April 2026 Review Idea 3 |
+| 2026-04-17 | **`9220`** | `:jp:` | `BUY` | BUY | 1,200 JPY | 4.0% | — | `april-2026-portfolio-review` | FB Care Services (9220.T) initiated in April 2026 Review Idea 2 |
+| 2026-04-17 | **`CCV`** | `:au:` | `BUY` | BUY | A$0.28 | 3.0% | — | `april-2026-portfolio-review` | Cash Converters (CCV.AX) initiated in April 2026 Review Idea 4 |
 | 2026-04-17 | **`HRTG`** | `:us:` | `ADD` | BUY | — | 8.0% | — | `april-2026-portfolio-review` | Added to Heritage Insurance (HRTG) position in April review |
 | 2026-04-17 | **`MOMO`** | `:us:` | `BUY` | BUY | — | 6.0% | — | `april-2026-portfolio-review` | Hello Group (MOMO US) added in April 2026 Portfolio Review |
 | 2026-04-10 | **`KRNY`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `april-2026-portfolio-review` | Closed KRNY on April 10, 2026 (+25.80% return) |
@@ -55,6 +62,9 @@
 | 2025-09-10 | **`MCHB`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `dividends-discounts-diamonds-in-the` | Cluseau documented pick: Mechanics Bancorp (MCHB) |
 | 2025-08-29 | **`KRNY`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `shifting-into-rates-down` | Cluseau documented pick: Kearny Financial (KRNY) |
 | 2025-08-29 | **`WSBF`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `shifting-into-rates-down` | Cluseau documented pick: Waterstone Financial (WSBF) |
+| 2025-08-14 | **`3600`** | `:hk:` | `BUY` | BUY | — | 5.0% | — | `juicing-the-market-one-repurchase` | Cluseau documented pick: Modern Dental Group (3600) |
 | 2025-08-14 | **`AGM`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `juicing-the-market-one-repurchase` | Cluseau documented pick: Farmer Mac (AGM) |
 | 2025-07-17 | **`OPY`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `betting-on-capital-markets-with-a` | Cluseau documented pick: Oppenheimer Holdings (OPY) |
+| 2025-07-11 | **`9478`** | `:jp:` | `BUY` | BUY | — | 6.0% | — | `the-value-investors-paradise` | Cluseau documented pick: SE Holdings and Incubations (9478) |
+| 2025-06-30 | **`IFOS`** | `:ca:` | `BUY` | BUY | — | 4.0% | — | `identifying-structuring-and-sizing` | Cluseau documented pick: Itafos (IFOS) |
 | 2024-11-20 | **`CBL`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `its-just-more-fun-the-second-time` | Cluseau documented pick: CBL Properties (CBL) |

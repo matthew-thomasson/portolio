@@ -13,9 +13,11 @@ This directory contains in-depth quantitative studies, risk evaluations, and tra
 
 | Report | Description | Key Takeaway |
 |---|---|---|
-| [**Performance Comparison**](PERFORMANCE_COMPARISON.md) | Head-to-head backtest results (2026-01-01 to present) under identical dollar-matched cash flows ($1,000 unit size). | Cluseau led raw ROI (+38.0% Strat A / +33.0% Strat B; +51.3% / +68.4% XIRR), followed by TJ Stocks (+21.0% ROI / +30.1% XIRR) and Beating The Tide (+16.5% Strat A / +7.6% Strat B; +23.2% / +15.8% XIRR). |
-| [**Risk & Volatility Analysis**](RISK_ANALYSIS.md) | Multi-dimensional risk matrix: win rates, downside skew, single-stock concentration, execution burden, and liquidity. | TJ Stocks demonstrated the lowest risk (Profit Factor 12.82, worst loss -10.1%). Beating The Tide showed high chasing risk. Cluseau delivered high alpha (Profit Factor 10.06) but requires real-time chat execution. |
-| [**Author Claims Reconciliation**](AUTHOR_RECONCILIATION.md) | Line-by-line audit reconciling author-claimed returns against market quotes and our backtester calculations. | Reconciled Beating The Tide's +23.59% YTD, TJ Stocks' 2.99x SPY outperformance, and Cluseau's quarterly closed trade reports (including FX adjustments and options overlay). |
+| [**Root Cause Investigation**](ROOT_CAUSE_AUDIT.md) | Exhaustive investigation of omitted Korean positions (`013030.KQ`, `453340.KS`, `139130.KS`), paywall caching bugs, and static list flaws. | Resolved 20 paywall preview stubs via authenticated scraping, corrected KOSDAQ/KOSPI suffixes, and fixed tautological test harness. |
+| [**Source Coverage Report**](COVERAGE_REPORT.md) | Independent source-to-trade inventory, orphan holding guards, disappearance alerts, and 8-point audit metrics. | 1,094 sources audited (100% coverage); 132 trades extracted; automated guards prevent future omissions across all 3 publications. |
+| [**Performance Comparison**](PERFORMANCE_COMPARISON.md) | Head-to-head backtest results (2026-01-01 to present) under identical dollar-matched cash flows ($1,000 unit size). | Following full reconciliation, Cluseau delivered +22.1% Strat A / +15.0% Strat B (+32.3% / +29.7% XIRR), TJ Stocks delivered +21.0% (+30.1% XIRR), and Beating The Tide delivered +16.5% (+23.2% XIRR). |
+| [**Risk & Volatility Analysis**](RISK_ANALYSIS.md) | Multi-dimensional risk matrix: win rates, downside skew, single-stock concentration, execution burden, and liquidity. | TJ Stocks demonstrated the highest consistency (Profit Factor 12.82, worst loss -10.1%). Cluseau demonstrated strong alpha (Profit Factor 4.22, 73.1% win rate) across global small-caps. |
+| [**Author Claims Reconciliation**](AUTHOR_RECONCILIATION.md) | Line-by-line audit reconciling author-claimed returns against market quotes and our backtester calculations. | Reconciled Beating The Tide's +23.59% YTD, TJ Stocks' 2.99x SPY outperformance, and Cluseau's international basket and options overlays. |
 
 ---
 

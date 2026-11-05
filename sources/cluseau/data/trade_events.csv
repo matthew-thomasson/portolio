@@ -1,6 +1,9 @@
 date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes
 2024-11-20,CBL,:us:,BUY,BUY,,0.08,,its-just-more-fun-the-second-time,article,high,Cluseau documented pick: CBL Properties (CBL)
+2025-06-30,IFOS,:ca:,BUY,BUY,,0.04,,identifying-structuring-and-sizing,article,high,Cluseau documented pick: Itafos (IFOS)
+2025-07-11,9478,:jp:,BUY,BUY,,0.06,,the-value-investors-paradise,article,high,Cluseau documented pick: SE Holdings and Incubations (9478)
 2025-07-17,OPY,:us:,BUY,BUY,,0.08,,betting-on-capital-markets-with-a,article,high,Cluseau documented pick: Oppenheimer Holdings (OPY)
+2025-08-14,3600,:hk:,BUY,BUY,,0.05,,juicing-the-market-one-repurchase,article,high,Cluseau documented pick: Modern Dental Group (3600)
 2025-08-14,AGM,:us:,BUY,BUY,,0.08,,juicing-the-market-one-repurchase,article,high,Cluseau documented pick: Farmer Mac (AGM)
 2025-08-29,KRNY,:us:,BUY,BUY,,0.05,,shifting-into-rates-down,article,high,Cluseau documented pick: Kearny Financial (KRNY)
 2025-08-29,WSBF,:us:,BUY,BUY,,0.08,,shifting-into-rates-down,article,high,Cluseau documented pick: Waterstone Financial (WSBF)
@@ -15,9 +18,15 @@ date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,sou
 2026-03-24,BMBL,:us:,SELL,CLOSED,4.03,0.0,1.0,april-2026-portfolio-review,article,high,"Closed BMBL on March 24, 2026 (+17.07% return)"
 2026-04-10,KRNY,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,"Closed KRNY on April 10, 2026 (+25.80% return)"
 2026-04-10,MCHB,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,"Closed MCHB on April 10, 2026 (+22.98% return)"
+2026-04-17,7089,:jp:,BUY,BUY,1224.0,0.05,,april-2026-portfolio-review,article,high,For Startups (7089.T) initiated in April 2026 Review Idea 3
+2026-04-17,9220,:jp:,BUY,BUY,1200.0,0.04,,april-2026-portfolio-review,article,high,FB Care Services (9220.T) initiated in April 2026 Review Idea 2
+2026-04-17,CCV,:au:,BUY,BUY,0.28,0.03,,april-2026-portfolio-review,article,high,Cash Converters (CCV.AX) initiated in April 2026 Review Idea 4
 2026-04-17,HRTG,:us:,ADD,BUY,,0.08,,april-2026-portfolio-review,article,high,Added to Heritage Insurance (HRTG) position in April review
 2026-04-17,MOMO,:us:,BUY,BUY,,0.06,,april-2026-portfolio-review,article,high,Hello Group (MOMO US) added in April 2026 Portfolio Review
-2026-04-29,402340,:kr:,BUY,BUY,,0.08,,opening-the-gates,article,high,SK Square (402340.KS) initiated in 'Opening the Gates' post
+2026-04-29,139130,:kr:,BUY,BUY,19110.0,0.05,,opening-the-gates,article,high,iM Financial Group (139130.KS) initiated in 'Opening the Gates'
+2026-04-29,402340,:kr:,BUY,BUY,59000.0,0.08,,opening-the-gates,article,high,SK Square (402340.KS) initiated in 'Opening the Gates' post
+2026-05-04,013030,:kr:,BUY,BUY,44000.0,0.04,,opening-the-gates,article,high,Hy-Lok (013030.KQ) Korea Value Basket initiated May 2026 per June review
+2026-05-11,453340,:kr:,BUY,BUY,19200.0,0.05,,boring-is-beautiful,article,high,Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful'
 2026-05-26,VISN,:us:,BUY,BUY,,0.05,,go-stub-yourself,article,high,Vistance Networks (VISN) initiated in 'Go Stub Yourself'
 2026-06-12,CBL,:us:,TRIM,HOLD,,0.04,0.333333,june-2026-portfolio-review,article,high,Reduce CBL & Associates (CBL) in June review
 2026-06-12,GMRS,:us:,BUY,BUY,,0.05,,june-2026-portfolio-review,article,high,New Position: GMR Solutions (GMRS) in June review
@@ -32,6 +41,7 @@ date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,sou
 2026-08-06,VISN,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited VISN on August 6 (-20% return)
 2026-08-21,EVC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited EVC August 21 via options (+171% claimed return)
 2026-08-21,POWL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited POWL August 21 via options (+136% claimed return)
+2026-09-03,6626,:jp:,BUY,BUY,2255.0,0.05,,buying-the-buyback,article,high,"Semitec (6626.T) initiated in 'Buying the Buyback' at 2,255 JPY"
 2026-09-10,MOMO,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Closed MOMO for -15% in Chat (msg 60)
 2026-09-15,CBL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Final CBL exit (+114% return) on September 15
 2026-09-21,GDDY,:us:,BUY,BUY,,0.06,,september-2026-portfolio-review,article,high,GoDaddy (GDDY) added on September 21

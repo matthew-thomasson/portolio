@@ -15,15 +15,15 @@ This report evaluates the risk profiles of **Beating The Tide**, **TJ Stocks**, 
 
 | Metric | Beating The Tide (Strat A) | Beating The Tide (Strat B) | TJ Stocks (StockTok ETF) | Cluseau (Strat A) | Cluseau (Strat B) |
 |---|---|---|---|---|---|
-| **Win Rate (%)** | **47.6%** (10W / 9L / 2F) | **33.3%** (3W / 5L / 1F) | **76.9%** (10W / 3L) | **87.5%** (14W / 2L) | **75.0%** (6W / 2L) |
-| **Average Win (%)** | +42.7% | +45.9% | +27.3% | +36.8% | +42.1% |
-| **Average Loss (%)** | **-21.5%** | **-26.9%** | **-7.1%** | -20.8% | -20.8% |
-| **Profit Factor** | 2.53 | 1.48 | **12.82** | **10.06** | 4.80 |
-| **Worst Single Trade** | `STRL` (**-53.3%**) | `STRL` (**-53.3%**) | `FELE` (**-10.1%**) | `MOMO` (**-21.2%**) | `MOMO` (**-21.2%**) |
-| **Second Worst Trade** | `SNEX` (**-34.7%**) | `SNEX` (**-34.7%**) | `TXT` (**-9.3%**) | `VISN` (**-20.3%**) | `VISN` (**-20.3%**) |
-| **Third Worst Trade** | `PYPL` (**-28.3%**) | `CSTM` (**-22.1%**) | `MSCI` (**-1.9%**) | N/A (14 profitable) | N/A (6 profitable) |
-| **Top 3 Open Concentration** | 33.5% | **60.0%** | **34.8%** | 100.0% (1 open) | 0.0% (fully cash) |
-| **Max Single Stock Weight** | 16.0% (`DELL`) | **36.5%** (`DELL`) | **11.7%** (`SPG`) | 100.0% (`OPY`) | N/A |
+| **Win Rate (%)** | **47.6%** (10W / 9L / 2F) | **33.3%** (3W / 5L / 1F) | **76.9%** (10W / 3L) | **73.1%** (19W / 7L) | **60.0%** (9W / 6L) |
+| **Average Win (%)** | +42.7% | +45.9% | +27.3% | +39.2% | +34.5% |
+| **Average Loss (%)** | **-21.5%** | **-26.9%** | **-7.1%** | -20.6% | -18.7% |
+| **Profit Factor** | 2.53 | 1.48 | **12.82** | **4.22** | **2.79** |
+| **Worst Single Trade** | `STRL` (**-53.3%**) | `STRL` (**-53.3%**) | `FELE` (**-10.1%**) | `IFOS.V` (**-46.5%**) | `013030.KQ` (**-26.3%**) |
+| **Second Worst Trade** | `SNEX` (**-34.7%**) | `SNEX` (**-34.7%**) | `TXT` (**-9.3%**) | `013030.KQ` (**-26.3%**) | `MOMO` (**-21.2%**) |
+| **Third Worst Trade** | `PYPL` (**-28.3%**) | `CSTM` (**-22.1%**) | `MSCI` (**-1.9%**) | `MOMO` (**-21.2%**) | `VISN` (**-20.3%**) |
+| **Top 3 Open Concentration** | 33.5% | **60.0%** | **34.8%** | **28.5%** | 0.0% (fully cash) |
+| **Max Single Stock Weight** | 16.0% (`DELL`) | **36.5%** (`DELL`) | **11.7%** (`SPG`) | **10.4%** (`OPY`) | N/A |
 
 ---
 
@@ -61,18 +61,18 @@ This report evaluates the risk profiles of **Beating The Tide**, **TJ Stocks**, 
 
 ---
 
-### 3. Cluseau — Rating: High Alpha / High Operational & Liquidity Risk
+### 3. Cluseau — Rating: High Alpha / High Operational & Multi-Market Risk
 
-- **Downside Protection (Grade: A-)**:
-  - Exceptional win rate on curated closed positions (**87.5% in Strategy A, 75.0% in Strategy B**), driven by high-conviction exits (`CBL` +51.3% in 2026 / +114% total, `POWL` +68.4% / +136% via options, `EVC` +161.1%, `SK Square` +44.1%).
-  - Controlled downside: only two losing closed trades in 2026 (`VISN` -20.3%, `MOMO` -21.2%).
-  - *(Audit Note: WideOpenWest `WYFI` was closed in October 2025 at +5.0% and correctly excluded from the 2026 book).*
+- **Downside Protection (Grade: B+)**:
+  - Following the complete reconciliation audit, Cluseau's win rate stands at **73.1% in Strategy A (19W / 7L)** and **60.0% in Strategy B (9W / 6L)**.
+  - The previous un-audited 87.5% win rate was biased by omitting active drawdowns. Restoring the Korean Value Basket (`013030.KQ` -26.3%, `139130.KS` -12.1%, `453340.KS` -8.9%) and Canadian micro-cap `IFOS.V` (-46.5%) normalized the Profit Factor from 10.06 to **4.22 in Strategy A** and **2.79 in Strategy B**.
+  - Despite the drawdowns, Cluseau generated extraordinary upside outliers: `EVC` (+161.1%), `POWL` (+68.4%), `CBL` (+51.3%), and `402340.KS` (+44.1%).
 - **Instrument & Operational Risk (Grade: D)**:
   - **Highest execution burden**: Trade alerts, trims, and adjustments occur in real time via **Substack Subscriber Chat** (e.g., *"closing GoDaddy later today"*, *"bought OPY < 85"*).
   - Missing an intraday alert or entering after a gap-up substantially impacts realized returns.
-  - Utilizes complex derivatives and short selling: options collars (`MU` 1,000–1,500 collar, `GOOGL` 325–390 collar), protective puts (`WDC` 350 puts, `IESC` 220 puts, `FIX` 1500 puts), and outright short positions (`Short ACIC`, `Short JPM`).
+  - Utilizes complex derivatives: protective put collars (`IESC` Nov 220 puts, `FIX` Nov 1500 puts, `WDC` Dec 350 puts, `GDDY` collar) and tactical short hedges (`SPY` intraday puts).
 - **Liquidity & Multi-Exchange Risk (Grade: C)**:
-  - Frequently trades international names that require a global broker and FX conversion: Korean equities (`SK Square 402340.KS`, `A Plus Asset Advisors 244920.KS`), Japanese equities (`Semitec 6626.T`, `Kioxia 285A.T`), and French equities (`ABC Arbitrage ABCA.PA`).
+  - Frequently trades international names that require a global broker and multi-currency FX execution: Korean equities (`SK Square 402340.KS`, `Hyundai Green Food 453340.KS`, `iM Financial 139130.KS`, `Hy-Lok 013030.KQ`), Japanese equities (`For Startups 7089.T`, `FB Care Services 9220.T`, `Semitec 6626.T`, `SE Holdings 9478.T`), Australian equities (`Cash Converters CCV.AX`), Hong Kong equities (`Modern Dental 3600.HK`), and Portuguese equities (`CTT.LS`).
 
 ---
 

@@ -1,0 +1,20 @@
+{
+  "source_key": "tjstocks",
+  "source_name": "TJ Stocks",
+  "articles_downloaded": 405,
+  "articles_examined": 405,
+  "chats_downloaded": 0,
+  "chats_examined": 0,
+  "datawrapper_tables": 0,
+  "confirmed_trades_count": 18,
+  "disclosed_holdings_count": 13,
+  "orphan_holdings": [],
+  "unexplained_disappearances": [],
+  "unresolved_candidates": [],
+  "breakdown_by_instrument": {
+    "equity": 13
+  },
+  "breakdown_by_geography": {
+    "US": 13
+  }
+}
