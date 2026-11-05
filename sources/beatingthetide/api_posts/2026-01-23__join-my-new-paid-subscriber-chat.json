@@ -1,0 +1,430 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/join-my-new-paid-subscriber-chat",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 185539371,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-01-23T14:17:58.006Z",
+  "updated_at": "2026-01-23T14:18:03.368Z",
+  "publication_id": 3704888,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "join-my-new-paid-subscriber-chat",
+  "social_title": null,
+  "subtitle": "A private space for us to converse and connect",
+  "teaser_post_eligible": true,
+  "title": "Join my new paid subscriber chat",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 4
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-stock-that-slipped-through-my-fingers",
+  "next_post_slug": "celestica-cls-stock-analysis-2026",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!KYZT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 185539371,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A private space for us to converse and connect",
+  "body_html": "<p>You asked, and I listened!</p><p>Today I’m announcing a brand new addition to my Substack publication, a paid subscriber chat.</p><p>This is a conversation space exclusively for paid subscribers—kind of like a group chat or live hangout. I’ll post stock updates that come my way, and you can jump into the discussion.</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/sharkvalue/chat&quot;,&quot;text&quot;:&quot;Join chat&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://open.substack.com/pub/sharkvalue/chat\"><span>Join chat</span></a></p><div><hr></div><h2>How to get started</h2><ol><li><p><strong>Get the Substack app by clicking <a href=\"https://substack.com/app/app-store-redirect\">this link</a> or the button below.</strong> New chat threads won’t be sent sent via email, so turn on push notifications so you don’t miss conversation as it happens. You can also access chat <a href=\"https://open.substack.com/pub/sharkvalue/chat\">on the web</a>.</p></li></ol><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://substack.com/app/app-store-redirect&quot;,&quot;text&quot;:&quot;Get app&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary button-wrapper\" href=\"https://substack.com/app/app-store-redirect\"><span>Get app</span></a></p><ol start=\"2\"><li><p><strong>Open the app and tap the Chat icon.</strong> It looks like two bubbles in the bottom bar, and you’ll see a row for my chat inside.</p></li></ol><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!KYZT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!KYZT!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 424w, https://substackcdn.com/image/fetch/$s_!KYZT!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 848w, https://substackcdn.com/image/fetch/$s_!KYZT!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!KYZT!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!KYZT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg\" width=\"1456\" height=\"728\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:728,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:241528,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://kylewarrentest.substack.com/i/114198534?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!KYZT!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 424w, https://substackcdn.com/image/fetch/$s_!KYZT!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 848w, https://substackcdn.com/image/fetch/$s_!KYZT!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!KYZT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><ol start=\"3\"><li><p><strong>That’s it!</strong> Jump into my thread to say hi, and if you have any issues, check out <a href=\"https://support.substack.com/hc/en-us/sections/360007461791-Frequently-Asked-Questions\">Substack’s FAQ</a>.</p></li></ol>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "You asked, and I listened!",
+  "wordcount": 144,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        252,
+        111,
+        34
+      ],
+      "population": 116
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4,
+        164,
+        68
+      ],
+      "population": 1504
+    },
+    "LightVibrant": {
+      "rgb": [
+        152,
+        209,
+        175
+      ],
+      "population": 49
+    },
+    "Muted": {
+      "rgb": [
+        95,
+        165,
+        123
+      ],
+      "population": 30
+    },
+    "DarkMuted": {
+      "rgb": [
+        82,
+        82,
+        82
+      ],
+      "population": 75
+    },
+    "LightMuted": {
+      "rgb": [
+        202,
+        162,
+        137
+      ],
+      "population": 58
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 4,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 185539371,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/185539371/tts/22ba6e37-f5af-4338-8be1-8713e56759d4/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "inboxItem": {
+    "content_key": "post:185539371",
+    "updated_at": "2026-03-01T20:08:30.070Z",
+    "content_date": "2026-01-23T14:17:58.007Z",
+    "inbox_date": "2026-01-23T14:17:58.007Z",
+    "seen_at": null,
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": false,
+    "type": "post",
+    "post_id": 185539371,
+    "extra_views": [],
+    "read_progress": 0,
+    "max_read_progress": 0,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "newsletter",
+    "title": "Join my new paid subscriber chat",
+    "subtitle": "A private space for us to converse and connect",
+    "detail_view_subtitle": "A private space for us to converse and connect",
+    "cover_photo_url": "https://substackcdn.com/image/fetch/$s_!KYZT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0f63c9a-2296-4c96-a2f9-52648999bb00_2000x1000.jpeg",
+    "audience": "everyone",
+    "is_preview": false,
+    "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/185539371/tts/22ba6e37-f5af-4338-8be1-8713e56759d4/en-GB-OllieMultilingualNeural.mp3",
+    "audio_type": "tts",
+    "web_url": "https://www.beatingthetide.com/p/join-my-new-paid-subscriber-chat",
+    "duration_metadata": {
+      "word_count": 144
+    },
+    "authors": [
+      "George Atuan, CFA"
+    ],
+    "published_bylines": [
+      {
+        "id": 84964221,
+        "name": "George Atuan, CFA",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          252,
+          111,
+          34
+        ],
+        "population": 116
+      },
+      "DarkVibrant": {
+        "rgb": [
+          4,
+          164,
+          68
+        ],
+        "population": 1504
+      },
+      "LightVibrant": {
+        "rgb": [
+          152,
+          209,
+          175
+        ],
+        "population": 49
+      },
+      "Muted": {
+        "rgb": [
+          95,
+          165,
+          123
+        ],
+        "population": 30
+      },
+      "DarkMuted": {
+        "rgb": [
+          82,
+          82,
+          82
+        ],
+        "population": 75
+      },
+      "LightMuted": {
+        "rgb": [
+          202,
+          162,
+          137
+        ],
+        "population": 58
+      }
+    },
+    "publication_id": 3704888,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+    "publisher_name": "Beating The Tide: Stock Picks That Outperform",
+    "is_personal_mode": false,
+    "like_count": 4,
+    "comment_count": 0,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": false,
+      "post_id": 185539371,
+      "post_type": "newsletter",
+      "publication_id": 3704888,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 0,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "impression_id": "4557c43c-ca77-4130-905a-932532a81976"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}

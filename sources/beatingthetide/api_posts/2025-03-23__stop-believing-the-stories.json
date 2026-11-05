@@ -1,0 +1,375 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/stop-believing-the-stories",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 159619277,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-03-23T12:03:15.136Z",
+  "updated_at": "2025-07-14T12:31:51.916Z",
+  "publication_id": 3704888,
+  "search_engine_description": null,
+  "search_engine_title": "Stop Believing the Stories You're Told",
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "stop-believing-the-stories",
+  "social_title": "Weekly #22: Stop Believing the Stories You're Told",
+  "subtitle": "How Great Narratives Can Make or Break Your Investment Portfolio",
+  "teaser_post_eligible": false,
+  "title": "Weekly #22: Stop Believing the Stories You're Told—Including This One",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 8,
+  "reactions": {
+    "❤": 5
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "you-cannot-win-them-all-why-i-cut",
+  "next_post_slug": "george-atuan-why-ignoring-market-noise",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/a830fe5f-e37c-41c0-8121-8f2b638bc81d_700x449.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 159619277,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "How Great Narratives Can Make or Break Your Investment Portfolio",
+  "body_html": "<p>Happy Sunday, my fellow Sharks!</p><p>Today, we'll explore how narratives shape our perceptions—and why understanding the stories we tell ourselves is crucial to better investing. </p><p>But first, let’s talk about portfolio performance. This week, our portfolios continued the recovery path. Portfolio USA improved more than the S&amp;P 500, narrowing the gap from -373 bps to -308 bps YTD. While Portfolio Canada also recovered, its improvement was slower than the TSX, widening the gap from -555 bps to -584 bps YTD.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!qdhb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!qdhb!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 424w, https://substackcdn.com/image/fetch/$s_!qdhb!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 848w, https://substackcdn.com/image/fetch/$s_!qdhb!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 1272w, https://substackcdn.com/image/fetch/$s_!qdhb!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!qdhb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png\" width=\"1240\" height=\"1010\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1010,&quot;width&quot;:1240,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:117033,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/159619277?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!qdhb!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 424w, https://substackcdn.com/image/fetch/$s_!qdhb!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 848w, https://substackcdn.com/image/fetch/$s_!qdhb!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 1272w, https://substackcdn.com/image/fetch/$s_!qdhb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85cf26d0-6722-411c-9551-db0589c06e2e_1240x1010.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Most sectors were flattish, but Industrials, Consumer Cyclicals, and Technology led the recovery in 🇺🇸, while Financials, Gold, and Industrials led in 🇨🇦.</p><h4>Portfolio USA</h4><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!NV3p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!NV3p!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 424w, https://substackcdn.com/image/fetch/$s_!NV3p!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 848w, https://substackcdn.com/image/fetch/$s_!NV3p!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 1272w, https://substackcdn.com/image/fetch/$s_!NV3p!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!NV3p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png\" width=\"1096\" height=\"351\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:351,&quot;width&quot;:1096,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:65950,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/159619277?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!NV3p!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 424w, https://substackcdn.com/image/fetch/$s_!NV3p!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 848w, https://substackcdn.com/image/fetch/$s_!NV3p!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 1272w, https://substackcdn.com/image/fetch/$s_!NV3p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F590c2d65-acab-41f2-ade9-89901669fcca_1096x351.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h4>Portfolio Canada</h4><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!p8VB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 424w, https://substackcdn.com/image/fetch/$s_!p8VB!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 848w, https://substackcdn.com/image/fetch/$s_!p8VB!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 1272w, https://substackcdn.com/image/fetch/$s_!p8VB!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!p8VB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png\" width=\"418\" height=\"214\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:214,&quot;width&quot;:418,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:25009,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/159619277?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!p8VB!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 424w, https://substackcdn.com/image/fetch/$s_!p8VB!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 848w, https://substackcdn.com/image/fetch/$s_!p8VB!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 1272w, https://substackcdn.com/image/fetch/$s_!p8VB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81727a0c-1805-4200-8eeb-4325ceb36a71_418x214.png 1456w\" sizes=\"100vw\"></picture><div></div></div></div></figure></div><p>Here is the weekly performance of each stock in our portfolios: <a href=\"https://www.beatingthetide.com/p/weekly-stock-performance-tracker\">Weekly Stock Performance Tracker</a></p><p>The <a href=\"https://www.cnn.com/markets/fear-and-greed\">Fear &amp; Greed Index</a> increased from 21 to 23 last week, remaining in extreme fear territory, so we should continue the strategy mentioned in Weekly #21.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;cb542153-5c97-45b9-aa36-bd1a368ef55f&quot;,&quot;caption&quot;:&quot;Happy Sunday, my fellow Sharks!&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Weekly #21: Why You Should Aim to Make a Living Rather Than Making a Killing&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and fund manager at Redfox. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5ef53c43-be13-49d8-8e89-dbabf5918eb1_512x512.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-03-16T23:15:37.002Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9595ecd2-0753-4a16-bff2-18b474724b08_1024x1024.webp&quot;,&quot;cover_image_alt&quot;:null,&quot;cover_image_crop&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/why-you-should-aim-to-make&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:159155344,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:2,&quot;comment_count&quot;:0,&quot;publication_id&quot;:null,&quot;publication_name&quot;:&quot;Beating the Tide&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><h2>Thought of the Week: Storytelling is a double-edged sword, so be careful.</h2><p>Many people claim that storytelling is the main reason that humans have become the dominant species on the face of the earth. As Yuval explains in <em><a href=\"https://www.amazon.com/Nexus-Brief-History-Information-Networks/dp/059373422X\">Nexus</a></em> (I strongly recommend the book), there are three types of truths:</p><ul><li><p><strong>Objective truth:</strong> These truths are empirical and can be tested or observed such as “the sky is blue”.</p></li><li><p><strong>Subjective truth:</strong> These are personal and can vary from one person to another such as “I am hungry”.</p></li><li><p><strong>Inter-subjective truth:</strong> These are social constructs—they’re powerful not because they’re physically real, but because we agree to treat them as real such as “Money has value”. A $100 bill is just paper, but we all agree it represents value.</p></li></ul><p>The most interesting type of truth is the third one. It isn’t based on empirical evidence or personal feelings—it's simply an agreement.</p><h3>So, why did we collectively agree that you can exchange a $20 bill for 87 eggs in Toronto but only 26 eggs in New York? </h3><p>On the surface, this seems like a question about economics, inflation, or cost of living — but at a deeper level, it’s really about belief. Why does a piece of paper with \"$20\" on it have the power to command food, shelter, and labour?</p><p>The answer? Stories.</p><p>The reason you can trade a $20 bill for 87 eggs in Toronto but only <a href=\"https://www.nbcnewyork.com/news/business/money-report/why-eggs-are-selling-for-over-9-a-dozen-in-some-places-and-when-prices-are-expected-to-drop/6106352/\">26 in New York</a> isn’t because of some natural law. It’s because, as humans, we’ve built societies around shared beliefs. We agree — collectively — that this piece of paper represents a certain amount of value. And the <em>amount</em> it represents depends on the local narrative: inflation, labour, supply chains, and what the community is willing to accept. </p><p>You may say “George! you are wrong! Eggs in NY are so expensive because of a severe outbreak of avian flu that began in 2022, leading to the loss of millions of egg-laying hens. This has caused a significant supply shortage while demand remains steady. Additionally, transportation costs and local market conditions have contributed to regional price differences.”</p><p>Or you might blame the high price of eggs on Biden—like some talking heads on TV do…</p><div id=\"youtube2-qLnPjY5dxc0\" class=\"youtube-wrap\" data-attrs=\"{&quot;videoId&quot;:&quot;qLnPjY5dxc0&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}\" data-component-name=\"Youtube2ToDOM\"><div class=\"youtube-inner\"><iframe src=\"https://www.youtube-nocookie.com/embed/qLnPjY5dxc0?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0\" frameborder=\"0\" loading=\"lazy\" gesture=\"media\" allow=\"autoplay; fullscreen\" allowautoplay=\"true\" allowfullscreen=\"true\" width=\"728\" height=\"409\"></iframe></div></div><p>That's a nice explanation, but it raises the question—why is there a shortage in the US and not in Canada? You can’t sell your Canadian eggs in the US — not because they’re bad, but because <em>we’ve agreed on a story</em> that says only certain eggs are allowed. In the US, as per USDA standards, eggs are washed and then refrigerated immediately. In Canada, eggs are often <em>not</em> washed the same way and can be stored at room temperature. So even if Canadian eggs are safe, they may not meet USDA standards, so they’re not allowed across the border. It’s not physics. It’s politics, regulation, economics, and national identity — all wrapped into shared beliefs. And don’t get me started on tariffs…</p><p>Well that is a nice story right? </p><p>Not so fast, is it the full story? check out Johnny Harris explanation (hint: corporate profits was the reason for the egg price shock).</p><div id=\"youtube2-wyo1u9WxUG4\" class=\"youtube-wrap\" data-attrs=\"{&quot;videoId&quot;:&quot;wyo1u9WxUG4&quot;,&quot;startTime&quot;:&quot;876&quot;,&quot;endTime&quot;:null}\" data-component-name=\"Youtube2ToDOM\"><div class=\"youtube-inner\"><iframe src=\"https://www.youtube-nocookie.com/embed/wyo1u9WxUG4?start=876&amp;rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0\" frameborder=\"0\" loading=\"lazy\" gesture=\"media\" allow=\"autoplay; fullscreen\" allowautoplay=\"true\" allowfullscreen=\"true\" width=\"728\" height=\"409\"></iframe></div></div><p>Here's another story: I was born in one of the most contested regions on Earth. The region has been in a state of conflict for over 2,000 years, so living there is far from easy. Getting a good education is a challenge, and security is virtually nonexistent.</p><p>But my daughter, who was born in one of the most stable, developed countries, will enjoy a life of security, a good education and a fair chance to achieve whatever she wants to.</p><p>The objective truth is that both my daughter and I are homo sapiens, we both have one head and four limbs and we both breathe air. The subjective truth (which feels objective to me) is that my daughter has the prettiest smile in the world. But the inter-subjective truth is that she was born Canadian and I was born on non-Canadian land. This inter-subjective truth causes a drastic difference between my life circumstances and my daughter's—all because she was born in a different GPS location than I was.</p><p>Stories develop in four stages:</p><ol><li><p>We invent a narrative (e.g., money = value).</p></li><li><p>We teach it to others (schools, media, government).</p></li><li><p>We act as if it’s true (using money, obeying laws, honouring contracts).</p></li><li><p>The belief becomes reality — not physically, but socially.</p></li></ol><p>While this introduction might sound like I'm against stories, it’s quite the opposite—I’m a believer in stories. Without them, we'd go nowhere. Especially in investing, stories are critical. But to appreciate the good, you have to understand the bad. </p><h3>Be aware of stories and don’t just naively take them in</h3><p>Stories have built empires and religions. The Bible is humanity’s bestseller story that has endured the test of time. The real value of the Bible doesn't hinge on whether Jesus walked on water, but rather on how it provided humanity with a framework of values that enabled coexistence in ever-growing cities. On the dark side, that story has caused countless wars and suffering even in today’s age.</p><p>In investing, stories play a critical role and it sunk in around 2017. That is when I read <a href=\"https://www.amazon.com/Narrative-Numbers-Business-Columbia-Publishing/dp/0231180489\">Narrative and Numbers: The Value of Stories in Business</a> by Damodaran. The book emphasizes that stories add meaning to numbers, and numbers add credibility to stories. Combining them leads to better decision-making and understanding of business. </p><p>It was a game-changer for me. I always knew stories in investing were important, but I never realized just how critical they were. Also, it allowed me to become more critical of what company management and analysts were saying.</p><p>CEOs are storytellers—and sometimes, the story gets ahead of the numbers. Consider Musk. Musk created a shared belief that sustained Tesla until the numbers finally caught up.</p><div id=\"youtube2-Ag279KjPKDQ\" class=\"youtube-wrap\" data-attrs=\"{&quot;videoId&quot;:&quot;Ag279KjPKDQ&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}\" data-component-name=\"Youtube2ToDOM\"><div class=\"youtube-inner\"><iframe src=\"https://www.youtube-nocookie.com/embed/Ag279KjPKDQ?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0\" frameborder=\"0\" loading=\"lazy\" gesture=\"media\" allow=\"autoplay; fullscreen\" allowautoplay=\"true\" allowfullscreen=\"true\" width=\"728\" height=\"409\"></iframe></div></div><p>Elon’s story inspired belief, kept employees and customers motivated, helped Tesla ( <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TSLA&quot;}\" data-component-name=\"CashtagToDOM\"></span> ) raise more capital when it needed it most and drove the stock price up.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!L8aF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!L8aF!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 424w, https://substackcdn.com/image/fetch/$s_!L8aF!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 848w, https://substackcdn.com/image/fetch/$s_!L8aF!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 1272w, https://substackcdn.com/image/fetch/$s_!L8aF!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!L8aF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png\" width=\"807\" height=\"579\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/df7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:579,&quot;width&quot;:807,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;TradingView chart&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"TradingView chart\" title=\"TradingView chart\" srcset=\"https://substackcdn.com/image/fetch/$s_!L8aF!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 424w, https://substackcdn.com/image/fetch/$s_!L8aF!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 848w, https://substackcdn.com/image/fetch/$s_!L8aF!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 1272w, https://substackcdn.com/image/fetch/$s_!L8aF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7ba4ae-b944-43f5-9b0c-20df321d1dec_807x579.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Created with <a href=\"https://tradingview.com\">TradingView</a></figcaption></figure></div><p>But the reality was far riskier and shakier than the story suggested. Tesla could have easily collapsed had the belief from markets and investors not persisted.</p><p>In 2018, Tesla was:</p><ul><li><p>Burning over $1 billion in cash per quarter.</p></li></ul><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Guoh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Guoh!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 424w, https://substackcdn.com/image/fetch/$s_!Guoh!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 848w, https://substackcdn.com/image/fetch/$s_!Guoh!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 1272w, https://substackcdn.com/image/fetch/$s_!Guoh!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Guoh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png\" width=\"652\" height=\"432\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:432,&quot;width&quot;:652,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:40116,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/159619277?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Guoh!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 424w, https://substackcdn.com/image/fetch/$s_!Guoh!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 848w, https://substackcdn.com/image/fetch/$s_!Guoh!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 1272w, https://substackcdn.com/image/fetch/$s_!Guoh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d37dae4-e342-4ebf-ada0-207d56503379_652x432.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><ul><li><p>Operating margins were negative.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!3QEe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!3QEe!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 424w, https://substackcdn.com/image/fetch/$s_!3QEe!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 848w, https://substackcdn.com/image/fetch/$s_!3QEe!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 1272w, https://substackcdn.com/image/fetch/$s_!3QEe!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!3QEe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png\" width=\"649\" height=\"437\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:437,&quot;width&quot;:649,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:38603,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/159619277?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!3QEe!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 424w, https://substackcdn.com/image/fetch/$s_!3QEe!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 848w, https://substackcdn.com/image/fetch/$s_!3QEe!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 1272w, https://substackcdn.com/image/fetch/$s_!3QEe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66584935-0462-4ae2-82a0-b9800c48df5d_649x437.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div></li><li><p>There were <a href=\"https://www.wired.com/story/tesla-model-3-production-stock-problems-engineering/\">frequent Model 3 production delays</a> (the infamous \"production hell\").</p></li><li><p>Suppliers were reportedly <a href=\"https://finance.yahoo.com/news/tesla-reportedly-asked-suppliers-refund-125052327.html\">being asked to refund payments</a> to help Tesla stay afloat.</p></li><li><p>Tesla's own filings included \"going concern\" warnings — language used when a company may not be able to continue operating. Just read the Risk section in the <a href=\"https://seekingalpha.com/filings/pdf/12573636\">2017 10K filing</a>.</p></li></ul><p>Also, the 2025 sell-off of Tesla stock is driven by stories, be it related to the discontent with Elon and Dodge or BYD’s emergence in EV and taking Tesla’s share in China.</p><p>While Elon Musk’s storytelling fueled Tesla’s growth, history is filled with cautionary tales too. Take Theranos, whose visionary story attracted billions but eventually <a href=\"https://www.bbc.com/news/business-58336998\">collapsed under the weight of reality</a>. Or consider WeWork, whose growth narrative was compelling <a href=\"https://www.cbc.ca/news/business/we-work-exiting-bankruptcy-1.7219593\">until it wasn't</a>. These examples remind us that compelling stories alone aren’t enough—they must match the fundamentals.</p><p>And as investors, we need to remember that storytelling can set psychological traps, be it confirmation, recency or narrative bias. Being mindful of these biases can help us remain objective and balanced.</p><p>Confirmation bias makes us favour stories that align with our existing beliefs. I always question the story and put on my devil’s advocate hat. When I finish, I test it by sharing it with someone I know who has the opposite view. For example, for my TSMC deep dive ( <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TSM&quot;}\" data-component-name=\"CashtagToDOM\"></span> ), I asked my friend MJ to test my China assumptions, and he did a great job at countering all my assumptions. The result was a more balanced view and an understanding of where the story could break. If you don’t have access to such a devil’s advocate, you can feed your story to ChatGPT and ask it to do the job for you.</p><p>Recency bias makes recent, vivid stories feel more truthful than they might be. Over my investing journey, one thing I learned was that the market has a very short memory. After the dot-com bust in 2000 came the 2007 housing bubble. Investors piled into real estate and leveraged products just a few years after watching tech stocks implode. Lesson learned? Not quite.</p><p>The narrative fallacy pushes us to simplify messy, complex realities into clean, believable stories. Take job interviews, for example. When they ask, “Tell me about yourself,” you don’t say, “Well, I took the first internship I was offered, switched industries because they paid more, and then got laid off.” Instead, you craft a story—how you intentionally pursued that internship to build a skill set aligned with your long-term goals, then transitioned to a new role to keep growing, and how, in mutual agreement with your manager, you moved on to explore bigger opportunities. That is a story.</p><p>So while listening to stories, you have to question the story and the assumptions behind it. For example, I told the story of Taiwan Semiconductor (NYSE: TSM) earlier this week. It was my 7,400-word deep dive into the company. While the story may sound convincing, you have to remember it is my story of TSMC and you have to bring your judgements to my story. For example, in the story, I was convinced (I still am) that the US would win against China if they went to war over Taiwan. However, you have to question that assumption and make your own call.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;d94de4fe-4237-4948-be88-dca1446d43db&quot;,&quot;caption&quot;:&quot;In Romy and Michele's High School Reunion (1997), there is a scene that was a very common dynamic in high school. Romy excitedly gets invited to prom by a guy, but later, he cancels on her because one of the popular girls becomes available. It’s a classic case of ditching someone for a more desirable option.&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;TSMC Stock: Why This Semiconductor Giant is My Highest-Conviction Buy&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and fund manager at Redfox. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5ef53c43-be13-49d8-8e89-dbabf5918eb1_512x512.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-03-18T23:08:30.407Z&quot;,&quot;cover_image&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec748950-753b-4de7-bf4d-a21c2094cf09_804x767.png&quot;,&quot;cover_image_alt&quot;:null,&quot;cover_image_crop&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/tsmc-stock-why-this-semiconductor&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:159031618,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:2,&quot;comment_count&quot;:0,&quot;publication_id&quot;:null,&quot;publication_name&quot;:&quot;Beating the Tide&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><h3>Use stories to improve your investment process</h3><p>After reading <em>Narrative and Numbers</em>, I started keeping a journal of why I am investing in certain stocks, which would ensure the numbers and story align and I would review my stories post-mortem to understand how my story compared to reality. I think this habit improved my process dramatically.</p><p>To practically apply Damodaran’s lesson, I began to use a checklist whenever assessing investment stories: </p><ul><li><p>What critical assumptions must hold true for this story to be correct?</p></li><li><p>Which metrics can validate these assumptions over time?</p></li><li><p>How might competition, regulation, or consumer preferences disrupt the narrative? </p></li></ul><p>Those are just three items on my checklist, you can find a more comprehensive checklist in <a href=\"https://www.amazon.com/Most-Boring-Stock-Investment-Youll/dp/B0C12529F5/ref=sr_1_1?crid=EIYOUP4ZJ48I&amp;keywords=the+most+boring+stock+investment+book+you%27ll+ever+read&amp;qid=1682348015&amp;sprefix=the+most+boring%2Caps%2C94&amp;sr=8-1\">my book</a>.</p><p>But the stories were not just for when I started a position, but also when I closed them. In the past, whenever I closed a position, I would just move on, not questioning what went wrong or right. That was such a waste of great learning opportunities. For example, in Weekly #20, I shared a post-mortem analysis on <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$AMPH&quot;}\" data-component-name=\"CashtagToDOM\"></span> , which reminded me to thoroughly assess competitive advantages, deeply scrutinize acquisitions, and carefully monitor patent expirations.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;1e13eabe-df0c-4ffb-8193-f1ded5e2e953&quot;,&quot;caption&quot;:&quot;Fellow Sharks,&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Weekly #20: DXPE’s Earnings Shine but Trade at an Even Larger Discount—AMPH’s Post-Mortem Reinforces Discipline&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and fund manager at Redfox. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5ef53c43-be13-49d8-8e89-dbabf5918eb1_512x512.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-03-09T20:35:00.445Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5c172485-d071-4cde-82f0-13a34b08cc7a_960x943.png&quot;,&quot;cover_image_alt&quot;:null,&quot;cover_image_crop&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/dxpes-earnings-shine-but&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:158665992,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:2,&quot;comment_count&quot;:0,&quot;publication_id&quot;:null,&quot;publication_name&quot;:&quot;Beating the Tide&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>When monitoring your story’s assumptions, watch closely for red flags signalling trouble—such as key executives suddenly leaving, unexpected accounting policy shifts, or mounting complaints from suppliers and customers. For instance, Tesla’s 'production hell' period was marked by intense media skepticism, supplier frustrations, and executive turnover—clear indicators the reality was testing Elon’s narrative.</p><p>Investing stories should be in sync with the numbers. I keep the story in the same Google Sheet file as my valuation model, so the story and the numbers are in sync. Below is a screenshot of my TSM story, after any changes in the story or the numbers, I update the file and keep historical versions, so I can always go back and revisit the story behind why I bought the stock.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!2mHE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!2mHE!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 424w, https://substackcdn.com/image/fetch/$s_!2mHE!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 848w, https://substackcdn.com/image/fetch/$s_!2mHE!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 1272w, https://substackcdn.com/image/fetch/$s_!2mHE!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!2mHE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png\" width=\"975\" height=\"775\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:775,&quot;width&quot;:975,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:191120,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/159619277?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9016f81-9a68-4042-b539-db662a4a5514_975x775.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!2mHE!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 424w, https://substackcdn.com/image/fetch/$s_!2mHE!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 848w, https://substackcdn.com/image/fetch/$s_!2mHE!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 1272w, https://substackcdn.com/image/fetch/$s_!2mHE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9a5088b-c301-460e-ad7d-519fb4053ced_975x775.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>One simple improvement to your investment process is keeping a journal about why you bought or sold each stock. I guarantee that this simple habit will improve your portfolio return. </p><p><strong>So always question the stories people tell you—even the one I'm telling you right now. And keep a journal for your investment stories.</strong></p><p><strong>That is it fellow Sharks!</strong></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Happy Sunday, my fellow Sharks!",
+  "wordcount": 2125,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "1da17852-1a3d-4788-a791-6e6febb9d8e3",
+      "publication_id": 3704888,
+      "name": "stock analysis",
+      "slug": "stock-analysis",
+      "hidden": false
+    },
+    {
+      "id": "34403e43-3b98-48fd-882c-d2ee2d576387",
+      "publication_id": 3704888,
+      "name": "Personal Finance",
+      "slug": "personal-finance",
+      "hidden": false
+    },
+    {
+      "id": "59f0f576-7100-419a-aea3-e11daab0b1aa",
+      "publication_id": 3704888,
+      "name": "Money",
+      "slug": "money",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "ba07cd36-9207-48d5-9cef-f13440cbe7d7",
+      "publication_id": 3704888,
+      "name": "Weeklies",
+      "slug": "weekly",
+      "hidden": false
+    },
+    {
+      "id": "d8754a6a-50fc-4f4e-beaf-55e0d0338d70",
+      "publication_id": 3704888,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        196,
+        120,
+        79
+      ],
+      "population": 258
+    },
+    "DarkVibrant": {
+      "rgb": [
+        115,
+        68,
+        28
+      ],
+      "population": 11
+    },
+    "LightVibrant": {
+      "rgb": [
+        232,
+        156,
+        113
+      ],
+      "population": 540
+    },
+    "Muted": {
+      "rgb": [
+        146,
+        93,
+        64
+      ],
+      "population": 1265
+    },
+    "DarkMuted": {
+      "rgb": [
+        58,
+        33,
+        27
+      ],
+      "population": 143
+    },
+    "LightMuted": {
+      "rgb": [
+        175,
+        212,
+        204
+      ],
+      "population": 9
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 5,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 159619277,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/159619277/tts/807ff763-0764-495f-9020-09c9c5c12b5d/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}

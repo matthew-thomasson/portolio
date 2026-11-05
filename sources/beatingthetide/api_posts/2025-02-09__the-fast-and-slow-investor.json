@@ -1,0 +1,361 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/the-fast-and-slow-investor",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 156817947,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-02-09T23:53:34.104Z",
+  "updated_at": "2025-10-15T21:51:28.604Z",
+  "publication_id": 3704888,
+  "search_engine_description": null,
+  "search_engine_title": "The Fast and Slow Investor: When to Wait, When to Strike, and How to Win ",
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "the-fast-and-slow-investor",
+  "social_title": "Week #16: The Fast and Slow Investor: When to Wait, When to Strike, and How to Win ",
+  "subtitle": "Most investors move at the wrong speed—here’s how to time your actions for maximum returns. YTD return of 8.4% crushing the S&P. Plus, a breakdown of Powell Industries' (POWL) strong earnings.",
+  "teaser_post_eligible": false,
+  "title": "Week #16: The Fast and Slow Investor: When to Wait, When to Strike, and How to Win ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 8,
+  "reactions": {
+    "❤": 2
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "dxp-enterprises-dxpe-a-hidden-mro",
+  "next_post_slug": "trade-alert-closing-one-more-position",
+  "cover_image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 156817947,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Most investors move at the wrong speed—here’s how to time your actions for maximum returns. YTD return of 8.4% crushing the S&P. Plus, a breakdown of Powell Industries' (POWL) strong earnings and market reaction.",
+  "body_html": "<p>While the S&amp;P’s YTD return decreased from 2.70% to 2.45%, we have increased our YTD return for the USA portfolio from 7.49% to 8.40% widening our outperformance to 3.4x the benchmark. For the Canadian portfolio, we are outperforming the benchmark by 109 bps. Since launching SwS, the USA portfolio performance is 3.5x that of the benchmark. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!YlgO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!YlgO!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 424w, https://substackcdn.com/image/fetch/$s_!YlgO!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 848w, https://substackcdn.com/image/fetch/$s_!YlgO!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 1272w, https://substackcdn.com/image/fetch/$s_!YlgO!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!YlgO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png\" width=\"1240\" height=\"1010\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/fab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1010,&quot;width&quot;:1240,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:115678,&quot;alt&quot;:&quot;Portfolio retun of 17% since inception and 8.4% ytd crushing the s&amp;p&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Portfolio retun of 17% since inception and 8.4% ytd crushing the s&amp;p\" title=\"Portfolio retun of 17% since inception and 8.4% ytd crushing the s&amp;p\" srcset=\"https://substackcdn.com/image/fetch/$s_!YlgO!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 424w, https://substackcdn.com/image/fetch/$s_!YlgO!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 848w, https://substackcdn.com/image/fetch/$s_!YlgO!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 1272w, https://substackcdn.com/image/fetch/$s_!YlgO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffab0ae44-055e-4abc-aace-b239ce6bc046_1240x1010.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Most of this week’s return came from technology stocks in both portfolios.</p><h5>Portfolio USA</h5><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!xgFj!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 424w, https://substackcdn.com/image/fetch/$s_!xgFj!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 848w, https://substackcdn.com/image/fetch/$s_!xgFj!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 1272w, https://substackcdn.com/image/fetch/$s_!xgFj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!xgFj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png\" width=\"706\" height=\"238\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/db58911e-1b2c-428f-a1e7-098038625282_706x238.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:238,&quot;width&quot;:706,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:36902,&quot;alt&quot;:&quot;return contribution per sector for the USA portfolio&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"return contribution per sector for the USA portfolio\" title=\"return contribution per sector for the USA portfolio\" srcset=\"https://substackcdn.com/image/fetch/$s_!xgFj!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 424w, https://substackcdn.com/image/fetch/$s_!xgFj!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 848w, https://substackcdn.com/image/fetch/$s_!xgFj!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 1272w, https://substackcdn.com/image/fetch/$s_!xgFj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb58911e-1b2c-428f-a1e7-098038625282_706x238.png 1456w\" sizes=\"100vw\"></picture><div></div></div></div></figure></div><h5>Portfolio Canada</h5><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!KT9i!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 424w, https://substackcdn.com/image/fetch/$s_!KT9i!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 848w, https://substackcdn.com/image/fetch/$s_!KT9i!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 1272w, https://substackcdn.com/image/fetch/$s_!KT9i!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!KT9i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png\" width=\"617\" height=\"207\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/295843db-4a00-4244-8066-5fd088a11c76_617x207.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:207,&quot;width&quot;:617,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:32153,&quot;alt&quot;:&quot;Return contribution by sector for the Canada portfolio&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Return contribution by sector for the Canada portfolio\" title=\"Return contribution by sector for the Canada portfolio\" srcset=\"https://substackcdn.com/image/fetch/$s_!KT9i!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 424w, https://substackcdn.com/image/fetch/$s_!KT9i!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 848w, https://substackcdn.com/image/fetch/$s_!KT9i!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 1272w, https://substackcdn.com/image/fetch/$s_!KT9i!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F295843db-4a00-4244-8066-5fd088a11c76_617x207.png 1456w\" sizes=\"100vw\"></picture><div></div></div></div></figure></div><p>Here is the weekly performance of each stock in our portfolios: <a href=\"https://www.beatingthetide.com/p/weekly-stock-performance-tracker\">Weekly Stock Performance Tracker</a></p><h2>19 Earnings Reports In—Here’s How Our Companies Performed</h2><p>So far, 19 portfolio companies have reported earnings—only four missed revenue estimates, and four missed EPS expectations.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!72Cf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!72Cf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 424w, https://substackcdn.com/image/fetch/$s_!72Cf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 848w, https://substackcdn.com/image/fetch/$s_!72Cf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 1272w, https://substackcdn.com/image/fetch/$s_!72Cf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!72Cf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png\" width=\"550\" height=\"722\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8760c595-37bb-471b-b099-643f13505142_550x722.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:722,&quot;width&quot;:550,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:102993,&quot;alt&quot;:&quot;Performance, revenue and eps surprises for portfolio companies that have reported&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Performance, revenue and eps surprises for portfolio companies that have reported\" title=\"Performance, revenue and eps surprises for portfolio companies that have reported\" srcset=\"https://substackcdn.com/image/fetch/$s_!72Cf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 424w, https://substackcdn.com/image/fetch/$s_!72Cf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 848w, https://substackcdn.com/image/fetch/$s_!72Cf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 1272w, https://substackcdn.com/image/fetch/$s_!72Cf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8760c595-37bb-471b-b099-643f13505142_550x722.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h2>Powell Industries (POWL) Earnings: Strong Quarter, Weak Market Reaction</h2><p>Powell Industries ( <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$POWL&quot;}\" data-component-name=\"CashtagToDOM\"></span> ) had a solid first quarter in fiscal 2025, with revenue climbing 24% to $241 million, net income up 44% to $34.8 million and new orders up 36% from last year. The oil and gas sector grew by 14%, while electric utilities and other industries posted even stronger gains. A major win—a $75 million contract for an LNG project—helped fuel this momentum. CEO Brett Cope emphasized the strength of the company’s $1.3 billion backlog, which ensures revenue visibility into 2027, with utilities making up a third of it. The company is also expanding capacity, including new manufacturing space from land acquired in mid-2024 and an ongoing factory expansion in Houston.</p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!jXxW!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 424w, https://substackcdn.com/image/fetch/$s_!jXxW!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 848w, https://substackcdn.com/image/fetch/$s_!jXxW!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 1272w, https://substackcdn.com/image/fetch/$s_!jXxW!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!jXxW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png\" width=\"520\" height=\"189\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:189,&quot;width&quot;:520,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:24504,&quot;alt&quot;:&quot;Summary of lates powell earning results&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Summary of lates powell earning results\" title=\"Summary of lates powell earning results\" srcset=\"https://substackcdn.com/image/fetch/$s_!jXxW!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 424w, https://substackcdn.com/image/fetch/$s_!jXxW!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 848w, https://substackcdn.com/image/fetch/$s_!jXxW!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 1272w, https://substackcdn.com/image/fetch/$s_!jXxW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef531e12-3d89-456c-ac00-749fb26a46fb_520x189.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div></figure></div><p>Gross margins dipped slightly from last quarter due to seasonal factors, but cash flow remained strong. During the earnings call, analysts were cautiously optimistic, noting POWL’s solid backlog and market position but raising concerns about LNG permitting delays and margin pressures. Management is confident, citing steady demand in oil, gas, and utilities, as well as new opportunities in data centers.</p><p>Just days before the call, shares were trading above $250. But as the earnings date approached, the stock slid to $221. Since then, it has recovered to $229. I think the market overreacted to the outlook and LNG concerns. However, I don’t believe the drop was justified, and I saw it as a buying opportunity. Below is the latest note on POWL if you need a refresher on why I love this company.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;296dd49f-2ab4-49ef-9f57-2e4bdb593e29&quot;,&quot;caption&quot;:&quot;At the beginning of 2024, I grabbed POWL shares for $80, and they’ve now shot up over three times to $250. I still think there’s plenty of upside left. In this article, I’ll break down why. If you’re into real-time trade alerts for my portfolio, check out the paid memberships.&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;POWL Power-Up: From $80 to $250 and Still Charging Ahead!&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and fund manager at Redfox. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5ef53c43-be13-49d8-8e89-dbabf5918eb1_512x512.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-01-08T03:33:50.007Z&quot;,&quot;cover_image&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfc2267c-306c-4284-8f44-8c25548ff2e7_648x417.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://sharkvalue.substack.com/p/powl-power-up-from-80-to-250-and&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:154372388,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:2,&quot;comment_count&quot;:0,&quot;publication_id&quot;:null,&quot;publication_name&quot;:&quot;Swimming with Sharks&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe435f702-4446-415f-a4c9-86e198f08624_1024x1024.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><h2>Thought of the Week: Thinking, Fast and Slow</h2><p>I tend to focus on the long term and not place too much weight on short-term results, so I don’t worry about quarterly earnings. However, good quarterly results reinforce that I am buying quality companies, which continue to deliver positive surprises. This ties directly into my Fast vs. Slow Investing approach—knowing when to be patient and when to act quickly.</p><div><hr></div><p>Click the ❤️ button on this post so that more people can discover it on Substack.</p><div><hr></div><p>Books such as <em>Thinking, Fast and Slow</em> and <em>Mindset: The New Psychology of Success</em> have shown me that the best strategy is an adaptive one.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!M2if!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!M2if!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 424w, https://substackcdn.com/image/fetch/$s_!M2if!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 848w, https://substackcdn.com/image/fetch/$s_!M2if!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!M2if!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!M2if!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg\" width=\"1456\" height=\"1941\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1941,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1982768,&quot;alt&quot;:&quot;Thinking, Fast and Slow, a book that changed the way i think &quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Thinking, Fast and Slow, a book that changed the way i think \" title=\"Thinking, Fast and Slow, a book that changed the way i think \" srcset=\"https://substackcdn.com/image/fetch/$s_!M2if!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 424w, https://substackcdn.com/image/fetch/$s_!M2if!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 848w, https://substackcdn.com/image/fetch/$s_!M2if!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!M2if!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F866e8c56-8e72-4f89-abae-6384ef0aef3b_3024x4032.jpeg 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h3><strong>Fast vs. Slow Investing: When to Wait and When to Strike</strong></h3><p>Investing isn’t about constant action. The best investors don’t just buy and sell all the time—they wait, they study, and then, when the right moment arrives, they strike fast. This approach isn’t new. It’s how elite predators hunt. A great white shark doesn’t chase everything in the ocean; it moves slowly, almost lazily, until the perfect opportunity presents itself. Then, in an instant, it explodes into action, securing its prey before the victim even knows what happened.</p><p>I’ve realized over the years that investing should work the same way. Most of the time, you should be slow. But when the stars align, you need to move fast. That’s how I approached my Mastercard buy in 2020—waiting years, then pouncing when the price finally made sense.</p><p>Investing isn't a game of constant trades. It’s a game of positioning. The slow phase is where most of the real work happens—reading financial reports, studying industries, understanding business models, and tracking valuation levels. It’s the time to watch how a company executes over multiple quarters, identify patterns, and wait for the right entry point.</p><h3><strong>When to Act Fast in the Market—and When Not To</strong></h3><p>When the right opportunity appears, hesitation is costly. If a stock you’ve researched drops to an irrational level or a temporary panic sweeps the market, you move quickly. This isn’t the time for endless second-guessing.</p><p>Take Warren Buffett during the 2008 financial crisis. He wasn’t scrambling to understand banks when Lehman collapsed—he already knew what he wanted. He had spent years analyzing bank balance sheets, so when Goldman Sachs needed capital, he didn’t hesitate. He secured an incredible deal while the rest of the market panicked.</p><p>I’ve had my own moments like this. In March 2020, when COVID fear crushed the markets, I had a list of high-quality companies I wanted to own but thought were too expensive. Suddenly, they weren’t. But that window didn’t last long—if you didn’t act fast, you missed it.</p><p>For example, I always wanted to own Mastercard ( <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MA&quot;}\" data-component-name=\"CashtagToDOM\"></span> ), but the valuation was too high—it almost always is. When the market crashed, I bought shares at $240 and sold them at $345 just four months later. That’s a 44% gain in four months, or an annualized return of 197% (not 132%, due to compounding).</p><h5>My Mastercard adventure during COVID</h5><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Wuql!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Wuql!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 424w, https://substackcdn.com/image/fetch/$s_!Wuql!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 848w, https://substackcdn.com/image/fetch/$s_!Wuql!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 1272w, https://substackcdn.com/image/fetch/$s_!Wuql!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Wuql!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png\" width=\"807\" height=\"579\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:579,&quot;width&quot;:807,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;TradingView chart showing when i entered and exited my mastercard position&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"TradingView chart showing when i entered and exited my mastercard position\" title=\"TradingView chart showing when i entered and exited my mastercard position\" srcset=\"https://substackcdn.com/image/fetch/$s_!Wuql!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 424w, https://substackcdn.com/image/fetch/$s_!Wuql!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 848w, https://substackcdn.com/image/fetch/$s_!Wuql!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 1272w, https://substackcdn.com/image/fetch/$s_!Wuql!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f04190b-ea9a-488a-8791-5a91e47c81d6_807x579.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h3><strong>The Biggest Timing Mistakes Investors Make (And How to Avoid Them)</strong></h3><p>Many investors make the mistake of being fast when they should be slow and being slow when they should be fast. They chase hype stocks without doing the research. They hesitate when a great company is trading at a discount. They get emotional over short-term moves instead of sticking to their process.</p><p>I’ve made these mistakes too. Early in my investing career, I held onto bad stocks for too long because I was too focused on the long term. I ignored clear warning signs, thinking time would fix everything. It didn’t. On the other hand, I’ve also hesitated on great opportunities, overanalyzing instead of just buying when I knew I should.</p><h3><strong>Investing Is About Timing—But Not the Way Most Think</strong></h3><p>People often say “You can’t time the market.” That’s true in the sense that predicting exact tops and bottoms is impossible. But <strong>you can time your actions</strong>—when to be patient and when to strike.</p><p>The best investors don’t rush into trades out of boredom or FOMO. They wait, sometimes for years, for the perfect setup. And when that moment comes, they don’t hesitate. They move fast, with conviction.</p><p>So the real question isn’t whether now is a good time to buy or sell. The real question is: Is this the time to be slow or the time to be fast?</p><div><hr></div><p><em><strong>Share the Love!</strong> Invite friends to join our community and earn rewards!</em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/leaderboard?&referrer_token=823wu&amp;utm_source=post&quot;,&quot;text&quot;:&quot;Refer a friend&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary button-wrapper\" href=\"https://www.beatingthetide.com/leaderboard?&referrer_token=823wu&amp;utm_source=post\"><span>Refer a friend</span></a></p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!cEOX!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 424w, https://substackcdn.com/image/fetch/$s_!cEOX!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 848w, https://substackcdn.com/image/fetch/$s_!cEOX!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 1272w, https://substackcdn.com/image/fetch/$s_!cEOX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!cEOX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png\" width=\"514\" height=\"169\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:169,&quot;width&quot;:514,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:11335,&quot;alt&quot;:&quot;type of rewards you earn by referring the newsletter&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"type of rewards you earn by referring the newsletter\" title=\"type of rewards you earn by referring the newsletter\" srcset=\"https://substackcdn.com/image/fetch/$s_!cEOX!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 424w, https://substackcdn.com/image/fetch/$s_!cEOX!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 848w, https://substackcdn.com/image/fetch/$s_!cEOX!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 1272w, https://substackcdn.com/image/fetch/$s_!cEOX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac6a0f98-cce5-441d-94c5-c6809369170e_514x169.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div></figure></div><div><hr></div><h3>I was stuck in the <strong>Slow-verse</strong>.</h3><p>Reviewing my past investments, my biggest opportunity for improvement was incorporating new information into my thesis. I used to spend months developing an investment thesis, becoming so confident in it that I ignored any new information that didn’t align with my original view. My investment criteria focused entirely on the long term and failed to account for the value of time.</p><p>Before, I used to hold <em>all</em> my positions for a very long time. And as I was fully invested, I wouldn't be actively seeking new opportunities. My criteria ignored the value of time and they were:</p><ul><li><p>The company had a moat and good operational metrics</p></li><li><p>The market price was +50% below the fair value</p></li></ul><p>However, as I explain in my <a href=\"https://www.amazon.com/Most-Boring-Stock-Investment-Youll/dp/B0C12529F5/ref=sr_1_1?crid=EIYOUP4ZJ48I&amp;keywords=the+most+boring+stock+investment+book+you%27ll+ever+read&amp;qid=1682348015&amp;sprefix=the+most+boring%2Caps%2C94&amp;sr=8-1\">book</a>, I have refined my approach by adding two more criteria:</p><ul><li><p>The risk-reward profile has to at least be 1:2</p></li><li><p>Find a catalyst and expected timeframe</p></li></ul><p>Focusing on risk-reward ensured my portfolio was positioned <strong>for asymmetric gains</strong>. Identifying catalysts helped enhance IRR—after all, a 50% return over five years is far less attractive than 50% in a single year.</p><p>Over the years, I have built a Google Sheet that tracks all those metrics for the companies I follow and I review it weekly. I only buy the top companies. In the past, I only bought the top 12 companies, but I wasn’t comfortable with the drawdowns. Also, over the past 10+ years, I’ve added more companies to the database and now track around 400. So I have expanded to buying the top 50. Currently, we have 48 holdings as those are the only companies that match the four criteria above.</p><p>What’s one stock you wish you had bought during a market dip but didn’t?</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "While the S&P’s YTD return decreased from 2.70% to 2.45%, we have increased our YTD return for the USA portfolio from 7.49% to 8.40% widening our outperformance to 3.4x the benchmark. For the Canadian portfolio, we are outperforming the benchmark by 109 bps. Since launching SwS, the USA portfolio performance is 3.5x that of the benchmark.",
+  "wordcount": 1427,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "34403e43-3b98-48fd-882c-d2ee2d576387",
+      "publication_id": 3704888,
+      "name": "Personal Finance",
+      "slug": "personal-finance",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "a2a2191a-8ffa-4e7c-8942-22c7c24cf13c",
+      "publication_id": 3704888,
+      "name": "POWL",
+      "slug": "powl",
+      "hidden": false
+    },
+    {
+      "id": "ba07cd36-9207-48d5-9cef-f13440cbe7d7",
+      "publication_id": 3704888,
+      "name": "Weeklies",
+      "slug": "weekly",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        60,
+        180,
+        227
+      ],
+      "population": 49
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4,
+        84,
+        124
+      ],
+      "population": 590
+    },
+    "LightVibrant": {
+      "rgb": [
+        144,
+        213,
+        239
+      ],
+      "population": 19
+    },
+    "Muted": {
+      "rgb": [
+        84,
+        116,
+        140
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "population": 1
+    },
+    "LightMuted": {
+      "rgb": [
+        179,
+        195,
+        200
+      ],
+      "population": 26
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 2,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 156817947,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/156817947/tts/26b01395-8db4-42ba-b70b-dc837df596df/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}

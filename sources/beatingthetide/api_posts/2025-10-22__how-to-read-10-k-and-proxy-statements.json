@@ -1,0 +1,440 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/how-to-read-10-k-and-proxy-statements",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 176740848,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-10-22T15:16:06.555Z",
+  "updated_at": "2025-10-22T16:16:07.487Z",
+  "publication_id": 3704888,
+  "search_engine_description": "Learn how to analyze 10-Ks and proxy statements to uncover risks, red flags, and insights the market often misses.",
+  "search_engine_title": "How to Read 10-Ks and Proxy Statements Like a Pro",
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-to-read-10-k-and-proxy-statements",
+  "social_title": "What Companies Really Tell You in Their 10-Ks (If You Know Where to Look)",
+  "subtitle": "Because every great stock story starts with a 10-K—and ends with whoever actually read it.",
+  "teaser_post_eligible": true,
+  "title": "What Companies Really Tell You in Their 10-Ks (If You Know Where to Look)",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 7
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "tsmc-valuation-upgrade-argentina-market-reset-tsm",
+  "next_post_slug": "discipline-beats-action",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/91a9df5d-8f6c-495e-8b8c-351e81ae36f2_1280x720.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 176740848,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Because every great stock story starts with a 10-K—and ends with whoever actually read it.",
+  "body_html": "<p><em>(Adapted from my LinkedIn newsletter, <a href=\"https://www.linkedin.com/newsletters/weekly-investing-fundamentals-7298749164488642560/\">Monthly Investing Fundamentals</a>)</em></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!yOuR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!yOuR!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 424w, https://substackcdn.com/image/fetch/$s_!yOuR!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 848w, https://substackcdn.com/image/fetch/$s_!yOuR!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 1272w, https://substackcdn.com/image/fetch/$s_!yOuR!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!yOuR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png\" width=\"590\" height=\"331.875\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:720,&quot;width&quot;:1280,&quot;resizeWidth&quot;:590,&quot;bytes&quot;:750355,&quot;alt&quot;:&quot;Comparison of how most people versus serious investors pick stocks — showing a TV analyst using charts for short-term trading versus a long-term investor reading financial filings. Highlights fundamental analysis, 10-K reading, and research-based investing.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/176740848?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Comparison of how most people versus serious investors pick stocks — showing a TV analyst using charts for short-term trading versus a long-term investor reading financial filings. Highlights fundamental analysis, 10-K reading, and research-based investing.\" title=\"Comparison of how most people versus serious investors pick stocks — showing a TV analyst using charts for short-term trading versus a long-term investor reading financial filings. Highlights fundamental analysis, 10-K reading, and research-based investing.\" srcset=\"https://substackcdn.com/image/fetch/$s_!yOuR!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 424w, https://substackcdn.com/image/fetch/$s_!yOuR!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 848w, https://substackcdn.com/image/fetch/$s_!yOuR!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 1272w, https://substackcdn.com/image/fetch/$s_!yOuR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739bde30-9120-4f9f-be5d-e71f6ca39b6b_1280x720.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Peter Lynch once said,</p><blockquote><p>Behind every stock is a company. Find out what it’s doing.</p></blockquote><p>In other words, if you want to understand a business (and not just its tick, you need to roll up your sleeves and dive into its official reports. For US companies, that means poring over the annual 10-K filing and the proxy statement. Yes, those hefty documents full of legalese and tables might seem long and boring but they’re treasure troves of insight for those willing to dig. Even Warren Buffett attests to the value of voracious reading, he famously said knowledge builds up like compound interest.</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">As you can tell from this primer, properly analyzing 10-Ks, proxies, and quarterly filings can take hours. If you’re not up for that or simply prefer spending your evenings elsewhere, I do all the heavy lifting for you.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p>In this article, we will walk through how to read and interpret a 10-K and proxy statement without losing your mind.</p><div class=\"poll-embed\" data-attrs=\"{&quot;id&quot;:393573}\" data-component-name=\"PollToDOM\"></div><div><hr></div><h3>Table of Contents:</h3><ul><li><p><a href=\"https://www.beatingthetide.com/i/176740848/why-bother-reading-these-things\">Why Bother Reading These Things?</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/the-k-your-one-stop-shop-for-company-facts\">The 10-K: Your One-Stop Shop for Company Facts</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/key-sections-of-the-k-and-how-to-decode-them\">Key Sections of the 10-K (and How to Decode Them)</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/pro-tips-for-navigating-a-k-efficiently\">Pro Tips for Navigating a 10-K Efficiently</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/the-proxy-statement-unmasking-the-powers-that-be\">The Proxy Statement: Unmasking the Powers-That-Be</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/how-to-read-ks-and-proxy-statements-efficiently\">How to Read 10-Ks and Proxy Statements Efficiently</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/conclusion-embrace-the-k-you-might-even-start-to-like-it\">Conclusion: Embrace the 10-K (You Might Even Start to Like It)</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/176740848/one-last-tip\">… and one more tip.</a></p></li></ul><div><hr></div><h2><strong>Why Bother Reading These Things?</strong></h2><p>Why should you spend hours with a dry 10-K or Proxy when you could read a snappy blog summary or watch a YouTube recap?</p><p>The short answer: knowledge is power.</p><p>The 10-K and proxy aren’t marketing brochures; they’re the raw, unvarnished (ok, slightly varnished) truth that companies are required to disclose. A 10-K is filed annually with the SEC and contains a detailed picture of a company’s business, financial results, and risks. </p><p>Unlike the glossy annual report sent to shareholders, the 10-K is all business with no pretty pictures or inspiring slogans. It’s where management has to tell it like it is (to an extent) and where you can catch the things they might have mumbled under their breath on the earnings call.</p><p>The proxy statement, on the other hand, is mailed out before the annual shareholder meeting. It’s the fine print of corporate governance: who the directors are, how much the execs are paid and whether there are any potential conflicts of interest or shenanigans afoot.</p><p>Reading these documents arms you with information you just can’t get elsewhere. Benjamin Graham insisted on closely examining a company’s financial statements to spot undervalued opportunities. It’s hard to do that if you haven’t read those statements in the first place! </p><p>Graham’s classic <a href=\"https://www.amazon.ca/Security-Analysis-Foreword-Warren-Buffett/dp/0071592539\">Security Analysis</a> is essentially an ode to deep-dive research, showing how careful study of reports can reveal a stock’s true value versus the market price. And in <a href=\"https://www.amazon.ca/Quality-Earnings-Thornton-L-Oglove/dp/0684863758/ref=sr_1_1?crid=265IIRIESX0CN&amp;dib=eyJ2IjoiMSJ9.06L42xeErBH59q8JMULPQw.iopGk8cHGfgN2TtL9oweQY8gYTdasRCTeCsYLfWL-FI&amp;dib_tag=se&amp;keywords=quality+of+earnings+by+thornton+o+glove&amp;qid=1744039222&amp;sprefix=quality+of+earning%2Caps%2C95&amp;sr=8-1\">Quality of Earnings</a>, Thornton O’glove warns that you can often separate companies that genuinely prosper from those that just project an illusion of prosperity but only if you’re willing to look behind the curtain of the financial statements and footnotes. </p><blockquote><p>Simply put: if you’re investing your hard-earned money in a company, spending a few evenings with its 10-K and proxy is a small price to pay for peace of mind.</p></blockquote><p>There’s another benefit: it sets you apart from the herd. Most casual investors don’t read these filings cover to cover (or at all). By doing so, you join the ranks of more serious investors. And you don’t need a finance degree to extract value, just a bit of patience and a good game plan. </p><p>Let’s start with the 10-K.</p><h2>The 10-K: Your One-Stop Shop for Company Facts</h2><p>Think of the 10-K as a company’s annual “tell-all” autobiography with the SEC acting as the strict editor ensuring certain topics must be covered. In plain terms, a 10-K is a comprehensive annual report that US public companies have to file each year, containing everything an investor might need to know. It’s structured in a standardized way (thanks to SEC rules) so that once you get the hang of it, you’ll know where to find the information in any company’s 10-K. </p><p>Here’s the basic outline:</p><h3>Part I: The business overview and key risks.</h3><p>This includes:</p><ul><li><p>Item 1: Business. Essentially a description of what the company does and how it makes money</p></li><li><p>Item 1A: Risk Factors. Management’s laundry list of all the bad things that could happen.</p></li><li><p>Item 2: Major properties</p></li><li><p>Item 3: Legal proceedings the company is involved in.</p></li></ul><h3>Part II: The financial nitty-gritty</h3><ul><li><p>Item 6: Five-year financial summary</p></li><li><p>Item 7: Management’s Discussion and Analysis (MD&amp;A), where management discusses the past year’s performance in their own words.</p></li><li><p>Item 8: Audited financial statements; income statement, balance sheet, and cash flow with notes and the auditor’s report.</p></li><li><p>Item 9: Discloses disagreements with the auditors.</p></li></ul><p>There are also disclosures about market risks and controls.</p><h3>Part III: Who runs the company and how they’re paid</h3><p>This part covers directors and executive officers (Item 10), executive compensation (Item 11), ownership of big shareholders and management (Item 12), and certain relationships or related transactions (Item 13).</p><blockquote><p><strong>Fun fact:</strong> Many companies skip fully filling out Part III in the 10-K by simply stating that “this information is in our proxy statement” and then they file the proxy a bit later to cover these items. So don’t be confused if a 10-K seems to be “missing” exec pay or director info; you might have to grab the proxy for those details.</p></blockquote><h3>Part IV: Exhibits and schedules</h3><p>Essentially a list of extra documents and attachments (like contracts, bylaws, subsidiary lists, etc.). Important if you’re doing forensic digging but not mandatory reading for a first pass.</p><p>Every 10-K follows this general structure. The consistency is helpful: after you’ve read a few, you’ll know exactly where to look for the MD&amp;A or the Risk Factors in any company. The SEC even tells companies the order of topics to follow. As the SEC’s own guide says,</p><blockquote><p>the “Business” section is a good place to start to understand how the company operates</p></blockquote><p>...and I agree.</p><p>Now, don’t get too excited by how orderly it all sounds. In practice, a 10-K can range from a lean ~40 pages to a doorstopper of +300 pages, depending on the size and complexity of the company. The good news is that you don’t have to read every page to get the gist. I often focus on key sections and skim the rest. So what are the parts of the 10-K that deserve your attention? </p><p>Let’s break it down.</p><h2>Key Sections of the 10-K (and How to Decode Them)</h2><p>Not all parts of a 10-K are created equal. Some sections are pure boilerplate or legal compliance, while others contain the real meat. Here are the most important areas to focus on, and tips for reading them effectively:</p><h3>Business Section (Item 1)</h3><p>This is usually a few pages of a plain description of the company’s operations, main products/services, and the markets it serves. It’s the who/what/where/how of the business. Read this to ensure you understand what the company does to make money (you’d be surprised how many investors skip this and then wonder what drives the revenues!). </p><p>If you can’t grasp the business model from this section, that’s a red flag. Either the company is involved in something ultra-complicated or the 10-K is poorly written. </p><p>As an analogy, the Business section is like the character introduction in a novel. You meet the protagonist (the company), learn the setting and context, and set the stage for the story to come. Graham himself always emphasized understanding a company’s business and industry before getting into numbers, and Phil Fisher (author of <a href=\"https://www.amazon.ca/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509/ref=sr_1_1?crid=34RHNJFIE39MA&amp;dib=eyJ2IjoiMSJ9.YKy-o3KfWkyg5vjFq5jdXXbk4rTGZ-DFidp21qMVfBrzwcADnddL9hGpBm3w22bc4If4naLFd46erDw5XC6vWi1-eLmX8VeMbNiubS4ZlRLb_4OpmYoG0KrHw5CRz_vQw1AS20JP4SKG8ZbDmRqcesQVRnC15yd3UykEa3S9ykAQEt2uKolBn3cTlg5daXrwxy6EWZtczx0Zk2XYfZVLXrYnIZfmiuOpmQdSRmcK1NFqzrSXTCRI5iqVF11N-FktHkNI_G4FlHr-6k3XM-_tD1UAvLKW03PUgbw--KE19ZQ.ZFkW82fUpWIl0TSc1mCAidrAzKXfEHWVRCRAgjiQ-Z0&amp;dib_tag=se&amp;keywords=Common+Stocks+and+Uncommon&amp;qid=1744040530&amp;sprefix=common+stocks+and+uncommon%2Caps%2C163&amp;sr=8-1\">Common Stocks and Uncommon Profits</a>) would agree. He suggested investing in what you know. Use this section to see if the company falls within your circle of competence.</p><blockquote><p><strong>Pro tip:</strong> If you’re already familiar with the company, you can skim this part for any changes or new initiatives mentioned. Sometimes companies update their strategy or segment info year over year.</p></blockquote><h3>Risk Factors (Item 1A)</h3><p>Here, the company lists all the bad things that keep management up at night (or at least the legal department’s exhaustive list of conceivable risks). It’s often several pages long, and yes, much of it can be generic (“if we can’t compete, our revenues might fall…” No kidding). </p><p>However, don’t ignore the Risk Factors. Skim through and highlight anything that seems specific and significant. For instance, if a pharmaceutical company says, “We rely on one supplier for our raw ingredient X,” or a tech company admits, “Our revenue is highly concentrated in two customers,” that’s important to know. This section can tip you off to vulnerabilities.</p><p>Take Celestica (<span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CLS&quot;}\" data-component-name=\"CashtagToDOM\"></span>), for example. In my deep dive on the company, I flagged its customer concentration risk as 40% of its revenue came from just two customers. That detail came straight from the 10-K. Without reading it, you’d probably miss it.</p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!4k6b!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 424w, https://substackcdn.com/image/fetch/$s_!4k6b!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 848w, https://substackcdn.com/image/fetch/$s_!4k6b!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!4k6b!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!4k6b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg\" width=\"1456\" height=\"197\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:197,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Celestica customer risk as stated in its 10-K filing&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Celestica customer risk as stated in its 10-K filing\" title=\"Celestica customer risk as stated in its 10-K filing\" srcset=\"https://substackcdn.com/image/fetch/$s_!4k6b!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 424w, https://substackcdn.com/image/fetch/$s_!4k6b!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 848w, https://substackcdn.com/image/fetch/$s_!4k6b!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!4k6b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F18c2c6d4-54e8-4d87-bb49-2f1fe91b9fac_1544x209.jpeg 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div><figcaption class=\"image-caption\">Celestica’s customer concentration risk, as disclosed in its 10-K filing</figcaption></figure></div><p><a href=\"https://www.beatingthetide.com/p/george-atuan-celestica-the-most-important-ai-stock\">Read my full deep dive on Celestica here</a>, it’s a solid example of the kind of insight you can uncover when you roll up your sleeves and dig through the filings.</p><p>As The Intelligent Investor advises, always invert: think about what could go wrong. A savvy reader might cross-check year-to-year: did the company add a new risk this year (e.g. a new regulatory threat or geopolitical issue)? If yes, why now? It could signal an emerging headwind. </p><p>Sure, it’s written in lawyerly tones, but between the lines, you often find the real-world challenges the company faces (commodity prices, labor issues, patent expirations… whatever). Just don’t let the sheer number of risks scare you off and remember, every company has risks; this section helps you understand what they are.</p><p>To drive this point home, let me give you an example of what happens when companies don’t disclose material risks properly and how that can blow up in their face:</p><p>In 2012, shareholders sued Chesapeake Energy Corporation (<span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$EXE&quot;}\" data-component-name=\"CashtagToDOM\"></span>), alleging that it failed to adequately disclose the extent of its CEO’s personal loans and conflicts of interest in its 10-K report. Turns out the <a href=\"https://www.reuters.com/article/us-chesapeake-mcclendon-deals/exclusive-chesapeake-ceo-took-out-1-1-billion-in-unreported-loans-idUSBRE83H0FN20120418/\">CEO had borrowed over $1.1 billion</a> using his stake in company wells as collateral. A juicy detail that somehow didn’t make it into the risk section.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!9Fmz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!9Fmz!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 424w, https://substackcdn.com/image/fetch/$s_!9Fmz!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 848w, https://substackcdn.com/image/fetch/$s_!9Fmz!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 1272w, https://substackcdn.com/image/fetch/$s_!9Fmz!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!9Fmz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png\" width=\"544\" height=\"442.47353760445685\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:584,&quot;width&quot;:718,&quot;resizeWidth&quot;:544,&quot;bytes&quot;:421516,&quot;alt&quot;:&quot;News headline about Chesapeake Energy’s CEO accused of taking $1.1 billion in undisclosed loans, illustrating the importance of reading 10-K risk disclosures and proxy statements for hidden conflicts and corporate governance red flags.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/176740848?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5bf01cb-c6f5-4a96-94cd-8554f86e9ace_718x584.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"News headline about Chesapeake Energy’s CEO accused of taking $1.1 billion in undisclosed loans, illustrating the importance of reading 10-K risk disclosures and proxy statements for hidden conflicts and corporate governance red flags.\" title=\"News headline about Chesapeake Energy’s CEO accused of taking $1.1 billion in undisclosed loans, illustrating the importance of reading 10-K risk disclosures and proxy statements for hidden conflicts and corporate governance red flags.\" srcset=\"https://substackcdn.com/image/fetch/$s_!9Fmz!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 424w, https://substackcdn.com/image/fetch/$s_!9Fmz!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 848w, https://substackcdn.com/image/fetch/$s_!9Fmz!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 1272w, https://substackcdn.com/image/fetch/$s_!9Fmz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F679a6ed8-fb85-4c72-ad45-0f6566ad6239_718x584.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p> Investors argued that this lack of transparency misled them, especially once the stock dived. The company ended up settling the lawsuit in 2013 for $6.75 million, without admitting wrongdoing. Still, it’s a solid reminder that what’s not disclosed can hurt you and that seemingly “boring” boilerplate sections may be hiding red flags or at least conspicuous omissions.</p><h3>Management’s Discussion &amp; Analysis (MD&amp;A, Item 7)</h3><p>This is arguably the most insightful part of the 10-K. In the MD&amp;A, management discusses the operating results and financial condition in plain(ish) language. They’ll explain why revenue went up or down, what drove changes in profitability, how the cash flow looked, and their perspective on the company’s financial health. </p><p>This is where you gauge management’s candor and competence. Are they honest about challenges, or do they only tout the positives? Do they blame “macro headwinds” for every shortfall, or do they take accountability for mistakes? </p><p>A great management team will provide a clear, coherent story of the year: the good, the bad, and the plans for the future.</p><p>Read the MD&amp;A slowly and carefully. It’s okay if some parts are over your head at first (like detailed discussions of accounting changes or complex financial metrics). Focus on the big picture narrative: “We grew sales by 10% mainly due to new product XYZ, but margins shrank due to higher input costs”, that sort of stuff. </p><p>If something in the MD&amp;A doesn’t make sense, mark it and come back after looking at the financial statements. Often, the MD&amp;A will also discuss future outlook or known trends. This is management essentially giving you their roadmap and maybe subtle warnings (“we expect competition to increase” or “the first quarter is seasonally weak”).</p><p>Compare what they say this year to last year’s MD&amp;A; are they repeating the same promises? Did last year’s plans happen, or are they making excuses? The MD&amp;A and footnotes can reveal whether reported earnings truly reflect economic reality. Watch for any mention of “one-time” items or “adjusted” results. You may need to adjust those out yourself to see the real ongoing performance.</p><h3>Financial Statements and Footnotes (Item 8)</h3><p>This is where the numbers live; the balance sheet, income statement, cash flow, and shareholders’ equity statement followed by a pile of footnotes. For many beginners, this section looks intimidating. But don’t skip it as this is where you verify everything management said. </p><p>You don’t have to be an accountant to glean useful info here. At minimum, look at the trends: </p><ul><li><p>Are revenues growing? </p></li><li><p>Are profits (net income) growing, and are profit margins steady? </p></li><li><p>What about debt levels on the balance sheet, too high relative to assets or equity? </p></li><li><p>Is cash flow from operations consistently positive and ideally growing along with profits?</p></li></ul><p>A classic piece of wisdom from Graham &amp; Dodd is to analyze a company’s earnings power and financial position over several years, not just one. </p><p>For example, calculate a few ratios: current ratio (can they cover short-term liabilities?), debt-to-equity, etc., or look at the footnotes for lease obligations and pension liabilities. If you’re not comfortable with detailed analysis, focus on inconsistencies: Do earnings look strong, but cash from operations is weak? That’s a potential red flag as robust earnings without cash backing them can mean low-quality earnings. It might indicate aggressive revenue recognition (sales recorded that haven’t turned into cash) or high receivables. Similarly, rising inventories while sales are flat could signal that the company is struggling to sell products.</p><p>The footnotes will explain accounting policies and often have hidden gems of information: lawsuits, segment performance, revenue recognition changes, off-balance sheet commitments, etc. Train yourself to at least scan the footnotes for anything unusual. </p><p>For instance, if a footnote reveals the company changed an accounting method that boosted profits, you’d want to know that. Reading footnotes is a bit of an art (and yes, maybe a slog). Even Thornton O’glove says doing so “is an art, not a science”. But it’s where the “surprises” often lurk. Over time, you’ll get a feel for which footnotes are most critical (revenue recognition, debt and leases, stock options, etc.).</p><h3>Auditor’s Opinion</h3><p>Usually found right before the financial statements, it’s a letter from the independent auditor saying whether the financials are presented fairly. Most of the time, it will be an “unqualified” opinion, meaning everything looks okay per GAAP. </p><p>If you ever see a “qualified” opinion or a “going concern” warning, that’s a serious red flag. (It means the auditors had issues or doubted the company’s ability to survive.) Also, check Item 9 (in Part II), which discloses any disagreements with accountants. I consider that a red flag if a company has had a spat with auditors or switched auditors under questionable circumstances. </p><p>The proxy will often give more detail if an auditor was fired or resigned, including if there were disagreements over accounting. Frequent auditor changes could hint at underlying accounting issues.</p><p>Those are the core components worth focusing on initially. In a typical 150-page 10-K, maybe 30-40 pages are truly critical (often the sections above). You don’t necessarily need to read it cover to cover like a novel. The rest (like properties, exact legal proceedings details, and exhibits list) you can skim or reference as needed.</p><h2>Pro Tips for Navigating a 10-K Efficiently</h2><h3>Tip #1: Use the Table of Contents</h3><p>Many 10-Ks have clickable tables of contents at the front. Jump to sections of interest (e.g., jump straight to MD&amp;A or Financial Statements).</p><h3>Tip #2: Leverage Search (Ctrl+F)</h3><p>If you have the PDF, use the search function for keywords. Looking for a discussion of “competition,” “inflation,” or “cybersecurity”? Just search within the document. This can save time. It’s especially handy to find all mentions of a specific product or segment you care about or to locate where in the footnotes “revenue recognition” is discussed, for example.</p><h3>Tip #3: Read with Context</h3><p>Consider reading the latest 10-K alongside the prior year’s 10-K. Compare changes line-by-line, especially in the MD&amp;A and risk factors. If a section was removed or wording changed, that can be telling. (E.g., if last year the company bragged about a certain growth initiative and this year that section is gone, you might wonder what changed.)</p><p>Want to compare two 10-Ks line by line to spot changes in under 2 minutes?</p><p>In Microsoft Word:</p><ol><li><p>Open Word. Click Review &gt; Compare &gt; Compare... again.</p></li><li><p>Upload the previous year’s 10-K as “Original” and the latest one as “Revised.”</p></li><li><p>Click OK, and voila: the changes are highlighted automatically.</p></li></ol><p>In Google Docs:</p><ol><li><p>Open Google Docs and upload both versions of the 10-K.</p></li><li><p>Click Tools &gt; Compare documents.</p></li><li><p>Select the other document and hit Compare.</p></li></ol><p>That’s it. You’ll see insertions, deletions, and modifications like if Risk Factor #7 is mysteriously gone or if management quietly walked back last year’s rosy forecast. Super handy when you’re tracking companies you already own or are considering adding to your portfolio.</p><h3>Tip #4: Skip the Jargon (at first)</h3><p>Don’t get bogged down if you hit a super-technical paragraph about, say, hedging policies or a tax accounting rule. Make a note and move on; focus on the big picture narrative on the first pass. You can always circle back if it seems important or impacting the numbers.</p><h3>Tip #5: Check for Consistency</h3><p>Cross-check what management says in the Shareholder Letter or earnings calls with the 10-K details. If the CEO’s letter (often found in the glossy annual report) says “everything is awesome,” but the 10-K reveals margins are shrinking and debt is ballooning, take note. You want the story and the numbers to align. If they don’t, trust the numbers.</p><h3>Tip #6: Watch for Red Flags</h3><p>Certain items in a 10-K are classic red flags. For example: big jumps in accounts receivable relative to sales (could mean they’re aggressively booking sales); inventory piling up (product not selling); large “other” or “non-recurring” gains propping up income (one-time boosts that won’t repeat); frequent use of phrase “material weakness in internal control” (bad sign for accounting quality); or, as mentioned, a change in auditors or complex related-party transactions. </p><p>One section of the proxy/Part III discloses related-party transactions, which is basically “did the company do deals with insiders or their relatives’ businesses?”. Too many of those, and you have to question management’s integrity.</p><h3>Tip #7: Margin of Safety Mindset</h3><p>Channel Ben Graham’s principle of margin of safety when reading the financials. He liked companies with strong balance sheets such that even if earnings stumble, the company isn’t in peril. </p><p>As you read the 10-K, ask: “In a bad year or a downturn, can this company survive? What’s my downside?” The 10-K will often contain the clues (e.g., debt covenants, cash on hand, etc.). This mindset keeps you from getting swept up in rosy projections by focusing on risk as much as reward.</p><h3>Tip #8: Quality of Earnings Checks</h3><p>Differentiate between reported earnings and real earnings. Check the cash flow statement. Is cash from operations consistently below net income? If yes, find out why (maybe working capital changes, which could be temporary, or maybe aggressive revenue recognition). </p><p>Look at the accounting policies footnote. Did they start capitalizing costs that used to be expensed? Such tweaks can inflate profits without improving the business fundamentally. A Quality of Earnings approach means being a bit skeptical and looking for what’s not being highlighted in big print. </p><p>As O’glove put it, approach financial statements with a healthy dose of skepticism and do your own due diligence. The 10-K gives you the raw materials to do exactly that.</p><p>Whew, that covers the 10-K basics! Now, onto the other half of our dynamic duo: the proxy statement.</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Genuinely understanding a company means digging through hundreds of pages of filings from 10-Ks, 10-Qs, proxies, footnotes…you name it. If you’re short on time or patience, I’ve got your back. I do all that intensive research for you, sharing only my best investment ideas, picks that have consistently outperformed the market.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><div id=\"datawrapper-iframe\" class=\"datawrapper-wrap outer\" data-attrs=\"{&quot;url&quot;:&quot;https://datawrapper.dwcdn.net/GMyv2/11/&quot;,&quot;thumbnail_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/afe311e6-8e0b-4d1c-a3a0-84ba0b6dbc7a_1220x512.png&quot;,&quot;thumbnail_url_full&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c8162386-51bf-4a03-9daf-e07245f2be89_1220x674.png&quot;,&quot;height&quot;:315,&quot;title&quot;:&quot;Portfolio Cumulative Performance&quot;,&quot;description&quot;:&quot;BTT: Beating The Tide Investment Fund&quot;,&quot;belowTheFold&quot;:true}\" data-component-name=\"DatawrapperToDOM\"><iframe id=\"iframe-datawrapper\" class=\"datawrapper-iframe\" src=\"https://datawrapper.dwcdn.net/GMyv2/11/\" width=\"730\" height=\"315\" frameborder=\"0\" scrolling=\"no\" loading=\"lazy\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(e){if(void 0!==e.data[\"datawrapper-height\"]){var t=document.querySelectorAll(\"iframe\");for(var a in e.data[\"datawrapper-height\"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[\"datawrapper-height\"][a]+\"px\"}}}))}();</script></div><h2>The Proxy Statement: Unmasking the Powers-That-Be</h2><p>If the 10-K is the story of the business, the proxy statement (Form DEF 14A) is the story of the people running the business and how they’re keeping shareholders in the loop. </p><p>A proxy statement is sent to shareholders ahead of the annual meeting, and it’s essentially an invitation to vote on important matters. But it’s much more than just a ballot, it’s a rich source of information on corporate governance. </p><p>Here’s what you’ll typically find in a proxy and why it matters:</p><h3>Elections of Directors</h3><p>The proxy will list the nominees for the board of directors, along with their bios, ages, tenure, and other directorships. This is your chance to vet the board’s quality. Are they experienced? Do they have relevant industry expertise, or are they just the CEO’s college buddies? </p><p>The proxy gives insight into each director’s background. It will also often tell you how many board meetings were held and each director’s attendance. Surprisingly useful (if a director missed half the meetings, that’s a red flag on engagement).</p><p>You’ll also see which directors are on key committees like audit or compensation. A strong board has a good mix of relevant experience and independence. If the proxy shows the board is mostly insiders or lacks diversity of skills, you might question how much they challenge management.</p><h3>Executive Profiles and Compensation (the juicy part)</h3><p>Ever wonder how much the CEO makes, down to the last perk? The proxy is where executive compensation is laid bare. There will be tables showing salaries, bonuses, stock awards, options, retirement plan contributions, you name it, for the CEO and top 3-5 other executives (Named Executive Officers, or NEOs).</p><p>Why should you care? Because compensation drives behavior. The proxy’s compensation discussion (often called the CD&amp;A: Compensation Discussion &amp; Analysis) explains the philosophy: are they rewarding short-term stock price pops or long-term value creation? Are goals based on real performance metrics or easily achievable targets?</p><p>The proxy statement shows if a company puts its shareholders first or just looks out for its own insiders. If you see a CEO making tens of millions while the stock languishes or getting big bonuses in a year the company lost money, that’s a bad sign. Look for alignment: ideally, a significant chunk of pay is performance-based or in stock/options that only pay off if shareholders also benefit. The proxy will even show a comparison of CEO pay to median employee pay (a recent SEC requirement), which can be eye-opening but varies by industry.</p><p>Insider ownership is another key piece: the proxy will list how many shares each exec and director owns. If the CEO owns zero stock but gets a huge cash salary, their incentives might not align with yours as a shareholder. Conversely, if management has, say, 5% of the company in stock, they have skin in the game. I like to see insiders owning meaningful stakes as it often makes them act like owners. </p><p>The proxy also discloses option grants: are they getting lavish options every year, and are those rewards contingent on performance? Ideally, options should be structured so that they only become valuable if the stock price rises above a certain bar, encouraging management to drive long-term growth.</p><h3>Shareholder Proposals and Voting Matters</h3><p>The proxy will outline the items up for vote. Standard ones include electing directors, ratifying the auditor (usually a formality), and say-on-pay (a non-binding vote on executive compensation). </p><p>Sometimes there are shareholder proposals, which could be anything from “publish a sustainability report” to “require an independent board chair.” These are great to read because they highlight current debates or discontent.</p><p>For example, if a shareholder proposal asks the company to separate the CEO and Chairman roles, it may indicate that some shareholders think management has too much unchecked power. Or a proposal to increase environmental disclosure might signal that stakeholders want more transparency on ESG issues.</p><p>The company will include a statement recommending how to vote on each. Unsurprisingly, they often recommend voting against shareholder proposals that management doesn’t favor. Even if you’re not voting, this section shows you hot-button issues. It’s like reading the minutes of a town hall and you see what topics are being raised.</p><h3>Related Party Transactions</h3><p>This is the section where they must disclose any deals between the company and its insiders. For instance, if the company leased office space from a firm owned by a board member, that has to be described. Or if the CEO’s brother-in-law is a supplier. </p><p>These relationships aren’t necessarily deal-breakers, but they require scrutiny. The proxy will often detail the nature of the relationship and the dollar amounts. If you see, say, the company is buying $5 million a year of product from a business owned by a director, you might wonder: is that the best deal for the company or is the director self-dealing? The fewer conflicts of interest, the better. Many companies have a policy that any such transactions must be at “arm’s length” and approved by independent directors, the proxy might mention that. But if you see too many cozily interlinked deals, be wary.</p><h3>Corporate Governance Details</h3><p>The proxy usually has a section on how the company is governed. This can include the board’s structure (separation of CEO and Chair roles, or not), how often directors are elected (annually or staggered terms), and what percentage of shares insiders own vs. institutions. </p><p>There may also be info on board evaluations, continuing education, etc. Some of this can be boilerplate, but it can reveal things like whether the company has anti-takeover defenses (poison pills, classified board, etc.), which, as a shareholder, you might not love.</p><p>Also, look for the audit committee report. It usually just says, “We reviewed the financials with management and found everything okay” in standard language. But if there were any issues, they’d surface here or in the auditor’s report.</p><h3>Changes in Auditors</h3><p>Occasionally, a proxy might detail if the company changed its independent auditor and why. As noted, if an auditor resigns or is fired, the company must disclose if there were any disagreements over accounting matters. </p><p>If you ever stumble on that disclosure, it’s a huge red flag. It suggests serious issues were brewing (auditors usually don’t part ways with a client unless there’s smoke, if not fire).</p><h3>Overall Business Health (in brief)</h3><p>Interestingly, some proxies include a summary of the company’s performance or strategy outlook, almost like a mini-annual report. For example, management might highlight key initiatives or challenges ahead in the proxy’s introduction. This isn’t as detailed as the 10-K’s MD&amp;A, but it can reinforce what’s going on. </p><p>Valuable insights can sometimes be gleaned here about backlog, margin trends, or opportunities and concerns that maybe didn’t get full airtime on earnings calls. If nothing else, it’s a consistency check against the 10-K narrative.</p><p>To sum up the proxy: it’s your window into the quality of the stewardship of the company. It helps you answer questions like: </p><p>Are the executives and board members competent and shareholder-focused? </p><ul><li><p>How are they being rewarded? </p></li><li><p>Do they eat their cooking (own stock)? </p></li><li><p>Are there any conflicts of interest or governance concerns? </p></li></ul><p>A strong proxy statement (from an investor’s standpoint) shows a transparent management team that is paid reasonably relative to performance, overseen by an independent and skilled board, with policies in place that align their interests with shareholders’. </p><p>A poor or sketchy proxy might reveal an overpaid CEO, a rubber-stamp board full of cronies, generous “sweetheart” loans or perks for execs (like the company paying for the CEO’s personal use of the corporate jet and forgiving loans), and proposals that serve insiders more than owners.</p><p>As an anecdote, over the years, I have avoided disasters by reading proxy statements, e.g., spotting that a supposedly high-flying company’s execs were bailing out (selling shares while touting the stock), or noticing that management’s pay was entirely detached from any real-world performance metrics (a sign of a potential agency problem where management might enrich themselves even if shareholders suffer).</p><p>On the flip side, finding a proxy where management’s incentives are well-aligned (say, lots of out-of-the-money options that only reward them if the stock rises substantially) can give you confidence that the leadership will strive to build long-term value.</p><h2>How to Read 10-Ks and Proxy Statements Efficiently</h2><p>By now, you might be thinking, “Alright, that’s a lot of info. How do I actually tackle these documents without spending a lifetime?” </p><p>Here’s a simple approach to reading a 10-K and proxy, especially for beginners:</p><ol><li><p>Skim the 10-K’s Business and MD&amp;A first to get the story of the company and its recent performance. This gives you context and frames the numbers you’ll see later.</p></li><li><p>Flip to the financial statements, glance over the key figures (revenues, net income, EPS, assets, debt, cash flow) and see if anything jumps out (big changes, new line items, etc.). Read the footnotes for any big changes in accounting or unusual items. Don’t worry about comprehending every dollar, focus on trends and anomalies.</p></li><li><p>Return to any complex parts of the MD&amp;A or Risk Factors that you marked, now that you’ve seen the numbers. They might make more sense now. For example, if the MD&amp;A said profit dropped due to “lower capacity utilization,” and now you see that inventory spiked, you can connect those dots.</p></li><li><p>Read the proxy (or relevant Part III info) with an eye on the people aspect: Check exec compensation tables (do the rewards make sense relative to results?), scan the biographies of key leaders (seasoned or newbies? any concerning past?), and note insider ownership levels. See if the board has the chops to guide the company. Also note if any shareholder proposals or governance issues are being highlighted.</p></li><li><p>Make a short list of the positives and negatives you gleaned. For instance: Positive: Company grew revenue 15% organically, CEO owns $10 million in stock, business has low debt. Negative: Customer concentration is high (top 2 clients = 30% of sales), CFO resigned and new one is on board, lots of stock options could dilute shareholders if all exercised. This exercise forces you to articulate what you learned.</p></li><li><p>Cross-check with external sources as needed: If something in the 10-K references an industry trend you’re not aware of (“due to new regulation X, we expect increased compliance costs”), you might look up that trend separately. Or, if the proxy mentions a lawsuit, you could search the news for that. The 10-K and proxy will tell you what the company is facing; you can always seek outside info to grasp the implications.</p></li></ol><p>Remember, the goal of reading these is not to memorize every number or phrase but to form a coherent understanding of the business’s health and leadership quality. Over time, you’ll develop pattern recognition; you’ll know what seems “normal” for a company or industry and what doesn’t. That’s when reading filings gets interesting: you start catching subtleties, like a slight change in wording from “we have adequate liquidity” to “we believe we have adequate liquidity” (extra hedge word noted!), or noticing the CFO’s pay jumped 50% because of a “one-time retention bonus” (hmm, were they considering leaving?).</p><p>Also, don’t be discouraged if the first few 10-Ks you read feel overwhelming. It’s like learning a language. Initially, you might have to look up terms (what the heck is a deferred tax asset? what does “goodwill impairment” mean?). But each report you read builds your financial vocabulary and confidence. Benjamin Graham’s <a href=\"https://www.amazon.ca/Interpretation-Financial-Statements-Classic-1937/dp/0887309135/ref=sr_1_1?crid=2OVO2G9JWW6BH&amp;dib=eyJ2IjoiMSJ9.JE99cWhvdzA5IaygWPYwrmP74YQ1BTLSX2Ybp84ysYpGx_1OI0zXQaIHo3sEns5UVnwJrzogY_guRi3pHAoOviMRTVhZ3-6soJ8DrQPpx72iPlkFrxwfaMF2_kuJ5bbTxYeskpehNYofZPPJaZ0PyDVP83rgG_w-TPOwhFtbrlyA57Xhk0ClOuPLa6sYpEv_tyY5mNqHPJGwWb6EMEfwI3uTyQSbmlykowMniE9QIn4egOHSI352wHA5Vvc47M2AQmfvGo1pz442aeTARWNRLhPyQ7bLHgydu_ceyXAo6KY.OpV1Ui1Ne5qusIF5RKJDv2BpudKPtlZfleI_uhBSiw4&amp;dib_tag=se&amp;keywords=The+Interpretation+of+Financial+Statements&amp;qid=1744041745&amp;sprefix=the+interpretation+of+financial+statements%2Caps%2C168&amp;sr=8-1\">The Interpretation of Financial Statements</a> is a handy classic that walks through the basics of balance sheets and income statements if you need a primer. And there are modern guides and websites for every skill level.</p><p>Finally, a note on tone and trust: Regulatory filings like the 10-K and proxy are where companies have to comply with rules, but there’s still room for personality. Some management teams write candid, even enjoyable MD&amp;As that honestly discuss challenges (a refreshing find!), while others write dense, jargon-laden paragraphs that obscure more than they reveal. </p><p>For example, the Jaffee family (owners and long-time managers of <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$ODC&quot;}\" data-component-name=\"CashtagToDOM\"></span>) are a textbook case of transparency. Their shareholder letters and filings read like an honest conversation rather than a legal disclaimer. They openly discuss both wins and stumbles, giving us real insight into how the business is run and what drives its results.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;7d5535eb-4459-404a-82aa-e7b866805bdd&quot;,&quot;caption&quot;:&quot;Update:&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Oil-Dri Corporation of America (ODC) Deep Dive: The Dirt on a Quiet Compounder Hiding in Plain Sight&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30d66f60-0f62-4274-9b45-e951e053ed6d_3264x3264.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-04-15T16:08:05.957Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/0ff29a88-c694-4caf-bb7d-50060f38964f_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/george-atuan-the-dirt-on-a-quiet-compounder-hiding&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:160972584,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:6,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!U6tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>Pay attention to this tone as it often correlates with corporate culture. For example, Warren Buffett famously writes his shareholder letters in plain English with a dose of humor and folksy analogies (and Berkshire’s 10-K, while comprehensive, is relatively straightforward). If a company’s filings are needlessly convoluted, it might reflect either an overly bureaucratic culture or, worse, an attempt to mask issues. Charlie Munger said he looked for businesses run by people who are “able to articulate their thoughts clearly” because if they can’t explain what’s going on in understandable terms, maybe they don’t fully understand it, or they’re hiding something. Food for thought as you read.</p><p>By now, you should have a clearer idea of how to approach these documents and why they’re worth your time. You don’t have to become an accounting savant or a corporate lawyer; even a beginner-friendly, common-sense reading of 10-Ks and proxies will dramatically improve your investment due diligence. You’ll start seeing through the hype and headlines and gain insight into the actual condition of a company.</p><h2>Conclusion: Embrace the 10-K (You Might Even Start to Like It)</h2><p>Reading 10-Ks and proxy statements might never become as fun as binge-watching the latest Netflix series, but they don’t need to be a form of torture, either. Approach them with curiosity: You’re a detective hunting for clues about what makes a company tick (and what risks could make it stumble). Over time, you’ll likely find a rhythm and maybe even catch yourself enjoying the empowerment that comes from gleaning information first-hand. </p><p>There’s a certain satisfaction in not having to rely on second-hand summaries because you’ve seen the source with your own eyes. As you develop this skill, you’ll be practicing what Graham, Dodd, Lynch, Buffett, and many other investment greats preached: doing your homework and thinking for yourself.</p><p>In a slightly sarcastic nutshell: reading 10-Ks is like eating your investing vegetables. Not always delectable, but very good for you. And the proxy is like the fiber that keeps the market healthy by exposing governance that might otherwise cause indigestion. 😏</p><p>So, next time you’re considering an investment, try downloading the company’s latest 10-K and proxy. Skim the sections we talked about, jot down a few observations, and see how it informs (or even changes) your investment thesis. You’ll be surprised how often something in the fine print can materially impact your view of a company’s value or risks. </p><p>Plus, imagine the swagger of being able to say, “According to the 10-K, the company’s operating cash flow grew faster than net income indicating high earnings quality” at your next meet-up, instead of just parroting Jim Cramer.</p><p>Jokes aside, becoming fluent in 10-Ks and proxies is a superpower for the serious investor. It’s a bit like X-ray vision into a company’s inner workings and power structure. Many won’t take the time to do it, but those who do will often find themselves a step ahead.</p><h3>One last tip</h3><p>Keep a notebook or document for each company you research, and record key points from the 10-K and proxy. Read my tips on building your knowledge base <a href=\"https://www.beatingthetide.com/i/175806120/build-a-knowledge-base-you-can-search-in-seconds\">here</a>. </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;46e1761b-a0ce-421b-8978-a09ea4d58ee1&quot;,&quot;caption&quot;:&quot;Hello fellow Sharks,&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Weekly #51: Tariffs Again? I’ll Stick to Process&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30d66f60-0f62-4274-9b45-e951e053ed6d_3264x3264.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-10-12T14:11:09.712Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/882d37ed-7470-4d64-9d64-ed9ff9cf28d0_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/tariff-noise-faster-research-odc-update-oil-dri&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:175806120,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:5,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!U6tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>Over the years, this becomes an invaluable reference. You can track how a company evolves, how management’s tone changes, how financials trend essentially building your cumulative knowledge base. This is exactly how long-term fundamental investors build deep expertise.</p><p>What’s the most surprising or illuminating thing you’ve ever learned from a 10-K or proxy statement that you wouldn’t have known otherwise?</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/how-to-read-10-k-and-proxy-statements/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/how-to-read-10-k-and-proxy-statements/comments\"><span>Leave a comment</span></a></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "(Adapted from my LinkedIn newsletter, Monthly Investing Fundamentals)",
+  "wordcount": 6139,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "34403e43-3b98-48fd-882c-d2ee2d576387",
+      "publication_id": 3704888,
+      "name": "Personal Finance",
+      "slug": "personal-finance",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "ab5b8012-aa43-4908-a8fb-422482d089c6",
+      "publication_id": 3704888,
+      "name": "Education",
+      "slug": "education",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": {
+    "post_id": 176740848,
+    "starts_at": "2025-10-22T15:16:07.022Z",
+    "ended_at": "2025-10-22T16:16:07.276Z",
+    "planned_duration_ms": 3600000,
+    "test_cohort_percent": 50,
+    "test_cohort_emailed": true,
+    "main_cohort_emailed": true,
+    "created_at": "2025-10-22T15:12:55.523Z",
+    "updated_at": "2025-10-22T16:16:12.171Z",
+    "creator_id": 84964221,
+    "ended_early": false,
+    "winner_overridden": false
+  },
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        28,
+        120,
+        194
+      ],
+      "population": 15
+    },
+    "DarkVibrant": {
+      "rgb": [
+        22,
+        63,
+        113
+      ],
+      "population": 239
+    },
+    "LightVibrant": {
+      "rgb": [
+        224,
+        95,
+        132
+      ],
+      "population": 61
+    },
+    "Muted": {
+      "rgb": [
+        137,
+        111,
+        103
+      ],
+      "population": 216
+    },
+    "DarkMuted": {
+      "rgb": [
+        45,
+        47,
+        79
+      ],
+      "population": 91
+    },
+    "LightMuted": {
+      "rgb": [
+        219,
+        172,
+        184
+      ],
+      "population": 61
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 7,
+  "comment_count": 2,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 176740848,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/176740848/tts/7c1ce2c2-6f1a-4600-b721-14fe8162207f/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": [
+    {
+      "id": 172444066,
+      "body": "Regarding the topic of the article, it's funny how something so crucial is often buried under layers of corporate prose. You make a great point about those documents being treasure troves. With all the data parsing involved, what do you think is the biggest \"red flag\" or subtle hint that AI might miss, that only a human reader can truely spot? Very insightful, thnks for demystifying this.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Regarding the topic of the article, it's funny how something so crucial is often buried under layers of corporate prose. You make a great point about those documents being treasure troves. With all the data parsing involved, what do you think is the biggest \"red flag\" or subtle hint that AI might miss, that only a human reader can truely spot? Very insightful, thnks for demystifying this."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3704888,
+      "post_id": 176740848,
+      "user_id": 405122571,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-11-01T13:27:23.215Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Rainbow Roxy",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b98fdd41-e8f8-4b6a-900e-ac00feba0477_600x600.jpeg",
+      "handle": "rainbowroxy",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "❤": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "rainbowroxy",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Rainbow Roxy",
+          "id": 6647658,
+          "base_url": "https://rainbowroxy.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by George Atuan, CFA"
+    }
+  ]
+}

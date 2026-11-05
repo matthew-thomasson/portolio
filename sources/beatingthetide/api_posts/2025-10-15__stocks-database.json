@@ -1,0 +1,322 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/stocks-database",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 176275003,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-10-15T22:52:37.442Z",
+  "updated_at": "2025-10-16T10:06:32.147Z",
+  "publication_id": 3704888,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "stocks-database",
+  "social_title": null,
+  "subtitle": "",
+  "teaser_post_eligible": true,
+  "title": "🏭 Stocks Database",
+  "type": "page",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "manulife-mfc-deep-dive-stock-analysis-beating-the-tide",
+  "next_post_slug": "tsmc-valuation-upgrade-argentina-market-reset-tsm",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!Gckq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e44a7ba-2fd6-4993-8579-47aa86fe5d81_1220x1310.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 176275003,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "You can find all my deep dives here.",
+  "body_html": "<p>You can find all my deep dives <a href=\"https://www.beatingthetide.com/t/idea\">here</a>.</p><p>Here are the companies I’ve covered in the newsletter; this list excludes paid-tier coverage.</p><div id=\"datawrapper-iframe\" class=\"datawrapper-wrap outer\" data-attrs=\"{&quot;url&quot;:&quot;https://datawrapper.dwcdn.net/C82oK/4/&quot;,&quot;thumbnail_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5e44a7ba-2fd6-4993-8579-47aa86fe5d81_1220x1310.png&quot;,&quot;thumbnail_url_full&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a5d5977c-7971-4a5f-b1b3-91cb777f1b20_1220x1380.png&quot;,&quot;height&quot;:757,&quot;title&quot;:&quot;Stocks Database&quot;,&quot;description&quot;:&quot;This database contains all the stocks I have written about. Use the search bar as only the first 20 stocks appear on the first page.&quot;,&quot;belowTheFold&quot;:false}\" data-component-name=\"DatawrapperToDOM\"><iframe id=\"iframe-datawrapper\" class=\"datawrapper-iframe\" src=\"https://datawrapper.dwcdn.net/C82oK/4/\" width=\"730\" height=\"757\" frameborder=\"0\" scrolling=\"no\"></iframe><script type=\"text/javascript\">!function(){\"use strict\";window.addEventListener(\"message\",(function(e){if(void 0!==e.data[\"datawrapper-height\"]){var t=document.querySelectorAll(\"iframe\");for(var a in e.data[\"datawrapper-height\"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data[\"datawrapper-height\"][a]+\"px\"}}}))}();</script></div><h6><span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MFC&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TSM&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$RAIL&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$POWL&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SUPV&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$QSR&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$DXPE&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$WGS&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CLOV&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SMR&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$PRTH&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$AMPH&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$FTRE&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CLS&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$KINS&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TMUS&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$RCL&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$URI&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TCBX&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$LRN&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$AGX&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$KHC&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$OPFI&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$GM&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MLI&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$ANF&quot;}\" data-component-name=\"CashtagToDOM\"></span>                            </h6>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "You can find all my deep dives here.",
+  "wordcount": 49,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        68,
+        132,
+        148
+      ],
+      "population": 1
+    },
+    "DarkVibrant": {
+      "rgb": [
+        22,
+        95,
+        119
+      ],
+      "population": 285
+    },
+    "LightVibrant": {
+      "rgb": [
+        164.14444444444445,
+        203.4333333333333,
+        213.25555555555556
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        100,
+        148,
+        164
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        23.87234042553192,
+        103.08510638297872,
+        129.12765957446808
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        172,
+        196,
+        204
+      ],
+      "population": 8
+    }
+  },
+  "publishedBylines": [],
+  "reaction": false,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "inboxItem": {
+    "content_key": "post:176275003",
+    "updated_at": "2026-02-09T15:12:01.263Z",
+    "content_date": "2025-10-15T22:52:37.442Z",
+    "seen_at": "2026-02-09T15:12:01.263Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": true,
+    "type": "post",
+    "post_id": 176275003,
+    "extra_views": [],
+    "read_progress": 0,
+    "max_read_progress": 0,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "page",
+    "title": "🏭 Stocks Database",
+    "subtitle": "You can find all my deep dives here.",
+    "detail_view_subtitle": "",
+    "cover_photo_url": "https://substackcdn.com/image/fetch/$s_!Gckq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e44a7ba-2fd6-4993-8579-47aa86fe5d81_1220x1310.png",
+    "audience": "everyone",
+    "is_preview": false,
+    "web_url": "https://www.beatingthetide.com/p/stocks-database",
+    "duration_metadata": {
+      "word_count": 49
+    },
+    "authors": [],
+    "published_bylines": [],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          68,
+          132,
+          148
+        ],
+        "population": 1
+      },
+      "DarkVibrant": {
+        "rgb": [
+          22,
+          95,
+          119
+        ],
+        "population": 285
+      },
+      "LightVibrant": {
+        "rgb": [
+          164.14444444444445,
+          203.4333333333333,
+          213.25555555555556
+        ],
+        "population": 0
+      },
+      "Muted": {
+        "rgb": [
+          100,
+          148,
+          164
+        ],
+        "population": 1
+      },
+      "DarkMuted": {
+        "rgb": [
+          23.87234042553192,
+          103.08510638297872,
+          129.12765957446808
+        ],
+        "population": 0
+      },
+      "LightMuted": {
+        "rgb": [
+          172,
+          196,
+          204
+        ],
+        "population": 8
+      }
+    },
+    "publication_id": 3704888,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+    "publisher_name": "Beating The Tide: Stock Picks That Outperform",
+    "is_personal_mode": false,
+    "like_count": 0,
+    "comment_count": 0,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 176275003,
+      "post_type": "page",
+      "publication_id": 3704888,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 0,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2026-02-09T15:12:01.263Z",
+      "impression_id": "54a1ba9b-6ee9-4efb-9c49-e43ef945557f"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}

@@ -1,0 +1,86 @@
+date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes
+2024-01-02,BAC,:us:,BUY,BUY,56.64207617,0.0562,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,BRK.B,:us:,BUY,HOLD,405.612705,0.0154,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,BRK.B,:us:,BUY,HOLD,405.612705,0.012,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CCL,:us:,BUY,HOLD,22.02607952,0.0147,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CDE,:us:,BUY,HOLD,11.30462217,0.0341,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CDE,:us:,BUY,HOLD,11.30462217,0.044199999999999996,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CLS,:ca:,BUY,BUY,75.08555554,0.0584,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CLS,:ca:,BUY,BUY,75.08555554,0.0681,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CRDO,:ky:,BUY,BUY,107.5243837,0.054400000000000004,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CRDO,:ky:,BUY,BUY,75.2915741,0.056299999999999996,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CVSA,:us:,BUY,HOLD,73.246971,0.019799999999999998,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,CVSA,:us:,BUY,HOLD,73.246971,0.019,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,DXPE,:us:,BUY,HOLD,93.54020711,0.0379,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,DXPE,:us:,BUY,HOLD,93.54020711,0.041299999999999996,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,EAT,:us:,BUY,HOLD,51.2256,0.046799999999999994,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,EAT,:us:,BUY,HOLD,51.2256,0.044800000000000006,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,FTK,:us:,BUY,BUY,25.63387092,0.0348,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,POWL,:us:,BUY,HOLD,26.78005,0.0152,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,POWL,:us:,BUY,HOLD,26.78005,0.019,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,SYF,:us:,BUY,HOLD,49.7490621,0.0191,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,TSM,:tw:,BUY,BUY,169.3306058,0.06309999999999999,,2025-01-11__svif-usa-portfolio__IOJBk.csv,portfolio_table,review,Baseline holding from portfolio table
+2024-01-02,TSM,:tw:,BUY,BUY,169.3306058,0.0593,,2025-11-29__global-portfolio-free__8zf5q.csv,portfolio_table,review,Baseline holding from portfolio table
+2025-01-15,PYPL,$42.92,BUY,BUY,89.76,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-02-03,HITI,:us:,SELL,CLOSED,,,,trade-alert-closing-a-position-in,trade_alert,high,Below is a closing trade: TSXV: HITI Portfolio: SVIF Canada
+2025-02-04,FFH,:us:,SELL,CLOSED,,,,trade-alert-ffh-reallocation,trade_alert,high,"Closing FFH with a 14.5% Gain to Redeploy Capital into a High-Growth, Cash-Flow-Driven Opportunity."
+2025-02-19,ITRN,$40.18,BUY,BUY,40.46,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-02-19,JD,$29.94,BUY,BUY,39.2,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-02-19,JD,$29.94,SELL,CLOSED,,,,trade-alert-two-hidden-gems-poised,trade_alert,high,"Exit from low-margin businesses: JD has divested from non-core ventures, including community group purchasing and unprofitable international expansions, to improve overall profitab"
+2025-03-04,WFC,:us:,BUY,BUY,,,,one-addition-to-usa-portfolio,article,high,One addition to USA portfolio
+2025-03-17,ARQT,:us:,BUY,BUY,,,,new-addition-to-portfolio-usa,article,high,New addition to Portfolio USA
+2025-04-08,ODC,$68.28,BUY,BUY,,,,george-atuan-this-cats-got-claws-and,trade_alert,high,Trade Alert: Buy ODC for Portfolio USA
+2025-04-15,ODC,$68.28,BUY,BUY,43.48,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-04-24,IBEX,$35.31,SELL,CLOSED,,,,trade-alert-closing-zeta-buying-undervalued-stock,trade_alert,high,"Upgrade to paid Happy investing, George Trade details below: Trade Alert: Closing ZETA in Portfolio USA Buy IBEX in Portfolio USA"
+2025-05-07,IBEX,$36.56,BUY,BUY,24.25,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-05-27,RYAM,$8.66,BUY,BUY,3.96,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-05-28,NIM,:us:,SELL,CLOSED,,,1.0,closing-position-tcbx-stock-analysis,article,high,"Why I Just Closed My Third Coast Bancshares (TCBX) Position: Slowing Growth, No Catalyst, Better Opportunities "
+2025-06-10,QFIN,$19.28,BUY,BUY,42.08,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-06-15,CLS,:ca:,SELL,CLOSED,,,1.0,when-sell-stock-closing-positions-beating-tide,article,high,Weekly #34: The Art of Knowing When to Sell a Stock (And When to Sit Tight)
+2025-06-24,NGD,$9.08,BUY,BUY,4.89,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-07-07,KB,$117.74,SELL,CLOSED,,,,trade-alert-replacing-a-finance-stock,trade_alert,high,Trade Alert: Buy KB Financial Group (NYSE: KB ) Close LendingClub Corporation (NYSE: LC ) and Q2 Holdings (NYSE: QTWO ) We closed LC with a loss of -29.5% and QTWO with a loss of -
+2025-07-07,LC,:us:,SELL,CLOSED,,,,trade-alert-replacing-a-finance-stock,trade_alert,high,Trade Alert: Buy KB Financial Group (NYSE: KB ) Close LendingClub Corporation (NYSE: LC ) and Q2 Holdings (NYSE: QTWO ) We closed LC with a loss of -29.5% and QTWO with a loss of -
+2025-07-07,QTWO,:us:,SELL,CLOSED,,,,trade-alert-replacing-a-finance-stock,trade_alert,high,Trade Alert: Buy KB Financial Group (NYSE: KB ) Close LendingClub Corporation (NYSE: LC ) and Q2 Holdings (NYSE: QTWO ) We closed LC with a loss of -29.5% and QTWO with a loss of -
+2025-07-11,BOK,:us:,TRIM,HOLD,,,,deep-dive-cheapest-asia-bank-stock-dividend-upside,trade_alert,high,Banks quickly trimmed deposit rates after each BOK cut.
+2025-07-11,KB,$117.96,BUY,BUY,84.42,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-08-06,HRTG,$23.31,BUY,BUY,19.3,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-08-06,ITRN,$40.18,SELL,CLOSED,40.18,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-09-04,TPC,$91.27,BUY,BUY,60.12,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-09-17,ODC,$68.28,SELL,CLOSED,68.28,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-10-06,VEON,$59.38,BUY,BUY,51.27,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-11-13,BSVN,$51.83,BUY,BUY,41.79,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-12-09,QFIN,$19.28,SELL,CLOSED,19.28,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-12-14,CLS,:ca:,SELL,CLOSED,,,1.0,finv-qfin-qifu-finvolution-why-i-sold-my-chinese-fintech,article,high,Weekly #60: Why I Sold My Chinese Fintech Stocks
+2025-12-16,PARR,$79.03,BUY,BUY,38.86,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-12-16,PARR,$80.86,ADD,BUY,,,,ignored-energy-stock-2025,trade_alert,high,This “Par Montana” acquisition added significant scale and extended PARR’s Rockies presence into Montana and surrounding states.
+2025-12-16,PARR,$80.86,SELL,CLOSED,,,,ignored-energy-stock-2025,trade_alert,high,"In October 2025, that JV closed and PARR received $100 million in cash proceeds ."
+2025-12-16,RFS,:us:,BUY,BUY,,,,ignored-energy-stock-2025,trade_alert,high,"Also, in the U.S., renewable fuel standards (RFS) require blending biofuels or buying credits (RINs) which is a cost for refiners."
+2025-12-30,MU,$966.78,BUY,BUY,295.18,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-01-06,JD,$29.94,SELL,CLOSED,29.94,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-01-08,AXIA,$9.71,BUY,BUY,9.47,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-01-28,RBS,:us:,SELL,CLOSED,,,1.0,why-im-closing-my-position-in-natwest-nwg,article,high,Why I’m Closing My Position in NatWest Group (NWG) After a 42% Run
+2026-02-03,PYPL,$42.92,SELL,CLOSED,42.92,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-02-04,PYPL,$42.92,SELL,CLOSED,,,1.0,paypal-post-mortem-why-i-sold-pypl,article,high,PayPal Post-Mortem: Why I Sold PYPL and What Changed in the Investment Thesis
+2026-02-23,DELL,$442.08,BUY,BUY,123.28,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-03-16,NESR,$33.03,BUY,BUY,20.38,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-03-16,POWL,:us:,TRIM,HOLD,,,,energy-in-the-crossfire-selling-opfi,trade_alert,high,"Also, I reduced the POWL position to finance the rest of the position."
+2026-03-16,POWL,:us:,SELL,CLOSED,,,,energy-in-the-crossfire-selling-opfi,trade_alert,high,Trade alert: Close OPFI Reduce POWL position (from 4.7% to 3.1%) to finance the new position Buy NESR (3.5% of the portfolio)
+2026-03-20,NGD,$9.08,SELL,CLOSED,9.08,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-04-13,ATI,$207.01,BUY,BUY,162.01,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-04-13,POWL,:us:,TRIM,HOLD,,,,april-2026-stock-pick-aerospace-defense-trade-alert,trade_alert,high,Trimming POWL.
+2026-04-23,PPC,:us:,SELL,CLOSED,,,1.0,pilgrims-pride-ppc-closing-trade-deep-dive,article,high,The Halal Chicken Plant That Taught Me To Close Pilgrim's Pride
+2026-05-18,DAR,$65.74,BUY,BUY,62.42,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-05-18,STRL,:us:,SELL,CLOSED,,,,trade-alert-closed-all-trimmed-strl,trade_alert,high,"Trade Alert: Closed ALL, Trimmed STRL, Bought My Fourth-Bucket Pick."
+2026-05-18,STRL,:us:,TRIM,HOLD,,,,trade-alert-closed-all-trimmed-strl,trade_alert,high,Today I closed Allstate (ALL) and trimmed Sterling Infrastructure (STRL).
+2026-05-25,DELL,$469.28,BUY,BUY,,,,dell-stock-still-a-buy,trade_alert,high,"DELL is still a buy Thesis scorecard after Q4 2026 In February, I argued three compounding engines were working at once, on top of an operator edge and a cash machine that few peop"
+2026-05-25,STRL,:us:,SELL,CLOSED,,,,dell-stock-still-a-buy,trade_alert,high,"I closed ALL and trimmed STRL and recycled the cash into one of the most hated names in consumer staples, a business so unglamorous most people scroll right past it."
+2026-06-08,AXIA,$9.71,SELL,CLOSED,9.71,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-06-10,SNEX,$68.47,BUY,BUY,83.52,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-06-18,HRTG,$23.31,SELL,CLOSED,23.31,0.0,1.0,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-07-15,CSTM,$27.04,BUY,BUY,28.96,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-08-05,STRL,:us:,BUY,BUY,,,,sterling-infrastructure-strl-q2-2026-update-upgrading-to-buy,article,high,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
+2026-08-17,OSCR,$32.04,BUY,BUY,31.41,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-09-06,DELL,$469.28,HOLD,HOLD,,,,dell-q2-fy2027-update-95-billion-ai-backlog-buy-to-hold,article,high,Weekly #98: DELL Is Up 325%. I’m Moving It To HOLD
+2026-09-27,SYF,:us:,SELL,CLOSED,,,1.0,synchrony-financial-syf-stock-sale,article,high,"Weekly #101: Synchrony Financial, Sold After +56.6%"
+2026-10-15,PRO,:us:,ADD,BUY,,,,september-pick-update-fine-q3-rates,article,high,"Mr. Market Got Generous With My September Pick, So I Added"
+2026-11-03,LCE,:us:,BUY,BUY,,,,sociedad-quimica-minera-sqm-lithium-buy-90-target-chile,article,high,"I Lost Money On SQM In 2023. At $55, I’m Buying It Again With A $90 Target"

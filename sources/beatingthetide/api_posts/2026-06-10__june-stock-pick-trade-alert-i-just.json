@@ -1,0 +1,463 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/june-stock-pick-trade-alert-i-just",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 201471962,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-06-10T16:48:47.668Z",
+  "updated_at": "2026-06-10T16:49:48.691Z",
+  "publication_id": 3704888,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "june-stock-pick-trade-alert-i-just",
+  "social_title": "[June Stock Pick] Trade Alert: I Just Added a New Position",
+  "subtitle": "A boring middleman that prints when markets panic, and I just bought it this morning.",
+  "teaser_post_eligible": true,
+  "title": "[June Stock Pick] Trade Alert: I Just Added a New Position",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 5
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "trade-alert-closing-axia-on-the-adr",
+  "next_post_slug": "slow-death-brand-investing-nike",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/8d9366fa-be76-490c-bf08-d4ebffd5d132_1920x1080.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 201471962,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A boring middleman that prints when markets panic, and I just bought it this morning.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!kgNb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!kgNb!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 424w, https://substackcdn.com/image/fetch/$s_!kgNb!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 848w, https://substackcdn.com/image/fetch/$s_!kgNb!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!kgNb!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!kgNb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg\" width=\"577\" height=\"419.1499227202473\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:470,&quot;width&quot;:647,&quot;resizeWidth&quot;:577,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Beating the Tide June stock pick is out right for the 2026 world cup&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Beating the Tide June stock pick is out right for the 2026 world cup\" title=\"Beating the Tide June stock pick is out right for the 2026 world cup\" srcset=\"https://substackcdn.com/image/fetch/$s_!kgNb!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 424w, https://substackcdn.com/image/fetch/$s_!kgNb!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 848w, https://substackcdn.com/image/fetch/$s_!kgNb!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!kgNb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922a9d76-5ed8-432e-bc5b-190af789d184_647x470.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>This morning I bought a new position. It’s a misunderstood middle-market financial firm that most people misread as a thin-margin commodity trader. It books around +$100B of pass-through revenue, so it screens ugly, but the number that actually matters, its real top line, has compounded close to 20% a year for five years.</p><p>It earns more when markets get volatile, which makes it a rare thing: a hedge that also compounds. It just posted back-to-back record quarters with a return on equity north of 20%. It recently became the largest player of its kind in the US after a major acquisition. And it throws off FCF worth a mid-single-digit yield against, mostly retained and reinvested at a 20%-plus return. My DCF base case sits +50% above where I bought it this morning.</p><p>That’s the shape of it. A boring-looking business, a cash machine underneath, and a market that still files it under the wrong category.</p><p>The ticker, my exact entry, the trade ticket, the full thesis and my DCF target are below the line for paid subscribers.</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">If you want to act on this with me, <strong>upgrade to paid</strong>. You’ll also get every deep dive and the full portfolio with real-time trade alerts like this one.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p>Paid subscribers have ridden calls like DELL (+217%), Micron / MU (+213%), NGD (+86%, taken out in a buyout) and ODC (+57%). Not every pick works, and the full record with the misses is right here, but the winners have carried the book.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!rI_f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!rI_f!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 424w, https://substackcdn.com/image/fetch/$s_!rI_f!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 848w, https://substackcdn.com/image/fetch/$s_!rI_f!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 1272w, https://substackcdn.com/image/fetch/$s_!rI_f!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!rI_f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png\" width=\"641\" height=\"828\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:828,&quot;width&quot;:641,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:138248,&quot;alt&quot;:&quot;Beating The Tide pick track record table showing returns since pick including DELL plus 217 percent, Micron plus 213 percent, New Gold plus 86 percent and Oil-Dri plus 57 percent&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/201471962?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Beating The Tide pick track record table showing returns since pick including DELL plus 217 percent, Micron plus 213 percent, New Gold plus 86 percent and Oil-Dri plus 57 percent\" title=\"Beating The Tide pick track record table showing returns since pick including DELL plus 217 percent, Micron plus 213 percent, New Gold plus 86 percent and Oil-Dri plus 57 percent\" srcset=\"https://substackcdn.com/image/fetch/$s_!rI_f!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 424w, https://substackcdn.com/image/fetch/$s_!rI_f!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 848w, https://substackcdn.com/image/fetch/$s_!rI_f!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 1272w, https://substackcdn.com/image/fetch/$s_!rI_f!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12e115f1-b047-45f2-979f-bbbeb1b6672d_641x828.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div class=\"paywall-jump\" data-component-name=\"PaywallToDOM\"></div><div><hr></div><h3>Trade alert</h3><ul><li><p>Buy StoneX Group (SNEX). </p></li><li><p>4.0% of the portfolio</p></li></ul><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!4Jkh!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 424w, https://substackcdn.com/image/fetch/$s_!4Jkh!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 848w, https://substackcdn.com/image/fetch/$s_!4Jkh!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 1272w, https://substackcdn.com/image/fetch/$s_!4Jkh!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!4Jkh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png\" width=\"909\" height=\"47\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/926e44d0-b604-4397-87c1-3d775871606d_909x47.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:47,&quot;width&quot;:909,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6175,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/201471962?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!4Jkh!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 424w, https://substackcdn.com/image/fetch/$s_!4Jkh!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 848w, https://substackcdn.com/image/fetch/$s_!4Jkh!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 1272w, https://substackcdn.com/image/fetch/$s_!4Jkh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F926e44d0-b604-4397-87c1-3d775871606d_909x47.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div></figure></div><div><hr></div><p>StoneX is the toll booth on the plumbing of global markets, the middleman that connects farmers, corporates, asset managers and retail traders to exchanges and OTC markets when the big banks won’t serve them. </p><p>It earns spreads, fees, and interest on client cash, and it earns the most when markets are volatile. Q2 FY2026, the quarter ended 31 March, was a record: net operating revenue up 70% to $829M, net income at a record $174M, and a 26.5% return on equity. </p><p>The R.J. O’Brien deal made it the largest non-bank futures broker in the US. And the cash flow against the price is the tell. The business is on a run-rate north of $600M of earnings against a roughly $9B market cap, mostly retained and reinvested at a 20%-plus return.</p><ul><li><p>DCF base case: about $190, roughly 52% above my entry</p></li><li><p>Bear case: about $80</p></li></ul><p>The deep dive is coming out early next week.</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "This morning I bought a new position. It’s a misunderstood middle-market financial firm that most people misread as a thin-margin commodity trader. It books around +$100B of pass-through revenue, so it screens ugly, but the number that actually matters, its real top line, has compounded close to 20% a year for five years.",
+  "wordcount": 424,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "5afba12b-d635-49d1-9ca7-5e907b96f797",
+      "publication_id": 3704888,
+      "name": "Trade Alerts",
+      "slug": "trades",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        217,
+        56,
+        52
+      ],
+      "population": 45
+    },
+    "DarkVibrant": {
+      "rgb": [
+        164,
+        17,
+        13
+      ],
+      "population": 14
+    },
+    "LightVibrant": {
+      "rgb": [
+        232,
+        151,
+        160
+      ],
+      "population": 13
+    },
+    "Muted": {
+      "rgb": [
+        91,
+        110,
+        146
+      ],
+      "population": 407
+    },
+    "DarkMuted": {
+      "rgb": [
+        61,
+        76,
+        82
+      ],
+      "population": 175
+    },
+    "LightMuted": {
+      "rgb": [
+        163,
+        190,
+        193
+      ],
+      "population": 270
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 5,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 201471962,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/201471962/tts/2b7f137b-c48b-4d72-b580-67a030410137/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "inboxItem": {
+    "content_key": "post:201471962",
+    "updated_at": "2026-06-16T19:32:50.224Z",
+    "content_date": "2026-06-10T16:48:47.668Z",
+    "inbox_date": "2026-06-10T16:48:47.668Z",
+    "seen_at": "2026-06-16T19:32:50.224Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": false,
+    "type": "post",
+    "post_id": 201471962,
+    "extra_views": [
+      "media",
+      "paid"
+    ],
+    "read_progress": 0.890095,
+    "max_read_progress": 1,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "newsletter",
+    "title": "[June Stock Pick] Trade Alert: I Just Added a New Position",
+    "subtitle": "A boring middleman that prints when markets panic, and I just bought it this morning.",
+    "detail_view_subtitle": "A boring middleman that prints when markets panic, and I just bought it this morning.",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8d9366fa-be76-490c-bf08-d4ebffd5d132_1920x1080.png",
+    "audience": "only_paid",
+    "is_preview": true,
+    "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/201471962/tts/2b7f137b-c48b-4d72-b580-67a030410137/en-GB-OllieMultilingualNeural.mp3",
+    "audio_type": "tts",
+    "web_url": "https://www.beatingthetide.com/p/june-stock-pick-trade-alert-i-just",
+    "duration_metadata": {
+      "word_count": 424
+    },
+    "authors": [
+      "George Atuan, CFA"
+    ],
+    "published_bylines": [
+      {
+        "id": 84964221,
+        "name": "George Atuan, CFA",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          217,
+          56,
+          52
+        ],
+        "population": 45
+      },
+      "DarkVibrant": {
+        "rgb": [
+          164,
+          17,
+          13
+        ],
+        "population": 14
+      },
+      "LightVibrant": {
+        "rgb": [
+          232,
+          151,
+          160
+        ],
+        "population": 13
+      },
+      "Muted": {
+        "rgb": [
+          91,
+          110,
+          146
+        ],
+        "population": 407
+      },
+      "DarkMuted": {
+        "rgb": [
+          61,
+          76,
+          82
+        ],
+        "population": 175
+      },
+      "LightMuted": {
+        "rgb": [
+          163,
+          190,
+          193
+        ],
+        "population": 270
+      }
+    },
+    "publication_id": 3704888,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+    "publisher_name": "Beating The Tide: Stock Picks That Outperform",
+    "is_personal_mode": false,
+    "like_count": 5,
+    "comment_count": 0,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 201471962,
+      "post_type": "newsletter",
+      "publication_id": 3704888,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 1,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2026-06-16T19:32:50.224Z",
+      "impression_id": "f6f05da7-1753-410b-acca-c3a38123a32d"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 0.890095,
+  "max_read_progress": 1,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}

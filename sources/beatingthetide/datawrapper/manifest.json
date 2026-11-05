@@ -1,0 +1,973 @@
+[
+  {
+    "slug": "svif-usa-portfolio",
+    "post_date": "2025-01-11",
+    "title": "Portfolio",
+    "chart_id": "IOJBk",
+    "version": "1",
+    "raw_url": "https://datawrapper.dwcdn.net/IOJBk/1/",
+    "resolved_url": "https://datawrapper.dwcdn.net/IOJBk/32/dataset.csv",
+    "csv_path": "datawrapper\\2025-01-11__svif-usa-portfolio__IOJBk.csv",
+    "columns": [
+      "STOCKS",
+      "SYMBOL",
+      "RECO.",
+      "COUNTRY",
+      "WEIGHT",
+      "COST",
+      "PRICE",
+      "TOTAL % CHANGE",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 27
+  },
+  {
+    "slug": "historical-performance",
+    "post_date": "2025-01-12",
+    "title": "Historical Performance",
+    "chart_id": "vPKjt",
+    "version": "6",
+    "raw_url": "https://datawrapper.dwcdn.net/vPKjt/6/",
+    "resolved_url": "https://datawrapper.dwcdn.net/vPKjt/114/dataset.csv",
+    "csv_path": "datawrapper\\2025-01-12__historical-performance__vPKjt.csv",
+    "columns": [
+      "",
+      "MTD",
+      "QTD",
+      "YTD",
+      "1 Year",
+      "Since inception"
+    ],
+    "rows": 2
+  },
+  {
+    "slug": "historical-performance",
+    "post_date": "2025-01-12",
+    "title": "Historical Performance",
+    "chart_id": "GMyv2",
+    "version": "1",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/1/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-01-12__historical-performance__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "historical-performance",
+    "post_date": "2025-01-12",
+    "title": "Historical Performance",
+    "chart_id": "ZQbH8",
+    "version": "1",
+    "raw_url": "https://datawrapper.dwcdn.net/ZQbH8/1/",
+    "resolved_url": "https://datawrapper.dwcdn.net/ZQbH8/17/dataset.csv",
+    "csv_path": "datawrapper\\2025-01-12__historical-performance__ZQbH8.csv",
+    "columns": [
+      "Year",
+      "Beating The Tide",
+      "S&P"
+    ],
+    "rows": 15
+  },
+  {
+    "slug": "historical-performance",
+    "post_date": "2025-01-12",
+    "title": "Historical Performance",
+    "chart_id": "qIPVV",
+    "version": "3",
+    "raw_url": "https://datawrapper.dwcdn.net/qIPVV/3/",
+    "resolved_url": "https://datawrapper.dwcdn.net/qIPVV/3/dataset.csv",
+    "csv_path": "datawrapper\\2025-01-12__historical-performance__qIPVV.csv",
+    "columns": [
+      "",
+      ""
+    ],
+    "rows": 3
+  },
+  {
+    "slug": "historical-performance",
+    "post_date": "2025-01-12",
+    "title": "Historical Performance",
+    "chart_id": "adNaZ",
+    "version": "45",
+    "raw_url": "https://datawrapper.dwcdn.net/adNaZ/45/",
+    "resolved_url": "https://datawrapper.dwcdn.net/adNaZ/45/dataset.csv",
+    "csv_path": "datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "best-stock-newsletter-2025",
+    "post_date": "2025-04-24",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "GMyv2",
+    "version": "5",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/5/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-04-24__best-stock-newsletter-2025__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "best-stock-newsletter-2025",
+    "post_date": "2025-04-24",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "8zf5q",
+    "version": "6",
+    "raw_url": "https://datawrapper.dwcdn.net/8zf5q/6/",
+    "resolved_url": "https://datawrapper.dwcdn.net/8zf5q/10/dataset.csv",
+    "csv_path": "datawrapper\\2025-04-24__best-stock-newsletter-2025__8zf5q.csv",
+    "columns": [
+      "STOCKS",
+      "SYMBOL",
+      "RECO.",
+      "COUNTRY",
+      "WEIGHT",
+      "COST",
+      "PRICE",
+      "TOTAL % CHANGE",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 27
+  },
+  {
+    "slug": "best-stock-newsletter-2025",
+    "post_date": "2025-04-24",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "Lz6Br",
+    "version": "5",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/5/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2025-04-24__best-stock-newsletter-2025__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "why-beating-the-tide-is-one-of-the-reddit-40off",
+    "post_date": "2025-05-22",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "GMyv2",
+    "version": "9",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/9/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-05-22__why-beating-the-tide-is-one-of-the-reddit-40off__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "why-beating-the-tide-is-one-of-the-reddit30",
+    "post_date": "2025-05-22",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "GMyv2",
+    "version": "10",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/10/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-05-22__why-beating-the-tide-is-one-of-the-reddit30__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "why-beating-the-tide-is-one-of-the-30ad2",
+    "post_date": "2025-06-05",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "GMyv2",
+    "version": "10",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/10/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-06-05__why-beating-the-tide-is-one-of-the-30ad2__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "why-beating-the-tide-is-one-of-the-ad2",
+    "post_date": "2025-06-05",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2025",
+    "chart_id": "GMyv2",
+    "version": "9",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/9/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-06-05__why-beating-the-tide-is-one-of-the-ad2__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "google-best-stock-newsletter",
+    "post_date": "2025-06-06",
+    "title": "Get Stock Ideas That Beat the Market — 3,000% Better Than the S&P 500",
+    "chart_id": "GMyv2",
+    "version": "10",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/10/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-06-06__google-best-stock-newsletter__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "best-stock-investing-book",
+    "post_date": "2025-06-20",
+    "title": "The Education Hub",
+    "chart_id": "GMyv2",
+    "version": "10",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/10/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-06-20__best-stock-investing-book__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "frequently-asked-questions-faqs",
+    "post_date": "2025-07-06",
+    "title": "Frequently Asked Questions (FAQs)",
+    "chart_id": "GMyv2",
+    "version": "10",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/10/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-07-06__frequently-asked-questions-faqs__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "frequently-asked-questions-faqs",
+    "post_date": "2025-07-06",
+    "title": "Frequently Asked Questions (FAQs)",
+    "chart_id": "vPKjt",
+    "version": "20",
+    "raw_url": "https://datawrapper.dwcdn.net/vPKjt/20/",
+    "resolved_url": "https://datawrapper.dwcdn.net/vPKjt/114/dataset.csv",
+    "csv_path": "datawrapper\\2025-07-06__frequently-asked-questions-faqs__vPKjt.csv",
+    "columns": [
+      "",
+      "MTD",
+      "QTD",
+      "YTD",
+      "1 Year",
+      "Since inception"
+    ],
+    "rows": 2
+  },
+  {
+    "slug": "stock-picks-performance-paid",
+    "post_date": "2025-08-14",
+    "title": "Stock Picks Performance (Paid)",
+    "chart_id": "qIPVV",
+    "version": "1",
+    "raw_url": "https://datawrapper.dwcdn.net/qIPVV/1/",
+    "resolved_url": "https://datawrapper.dwcdn.net/qIPVV/3/dataset.csv",
+    "csv_path": "datawrapper\\2025-08-14__stock-picks-performance-paid__qIPVV.csv",
+    "columns": [
+      "",
+      ""
+    ],
+    "rows": 3
+  },
+  {
+    "slug": "stock-picks-performance-paid",
+    "post_date": "2025-08-14",
+    "title": "Stock Picks Performance (Paid)",
+    "chart_id": "adNaZ",
+    "version": "45",
+    "raw_url": "https://datawrapper.dwcdn.net/adNaZ/45/",
+    "resolved_url": "https://datawrapper.dwcdn.net/adNaZ/45/dataset.csv",
+    "csv_path": "datawrapper\\2025-08-14__stock-picks-performance-paid__adNaZ.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "stock-picks-performance",
+    "post_date": "2025-08-14",
+    "title": "Stock Picks Performance",
+    "chart_id": "qIPVV",
+    "version": "1",
+    "raw_url": "https://datawrapper.dwcdn.net/qIPVV/1/",
+    "resolved_url": "https://datawrapper.dwcdn.net/qIPVV/3/dataset.csv",
+    "csv_path": "datawrapper\\2025-08-14__stock-picks-performance__qIPVV.csv",
+    "columns": [
+      "",
+      ""
+    ],
+    "rows": 3
+  },
+  {
+    "slug": "stock-picks-performance",
+    "post_date": "2025-08-14",
+    "title": "Stock Picks Performance",
+    "chart_id": "Lz6Br",
+    "version": "64",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/64/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2025-08-14__stock-picks-performance__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "watchlist",
+    "post_date": "2025-08-28",
+    "title": "Watchlist",
+    "chart_id": "WHSKt",
+    "version": "24",
+    "raw_url": "https://datawrapper.dwcdn.net/WHSKt/24/",
+    "resolved_url": "https://datawrapper.dwcdn.net/WHSKt/39/dataset.csv",
+    "csv_path": "datawrapper\\2025-08-28__watchlist__WHSKt.csv",
+    "columns": [
+      "Symbol",
+      "Country",
+      "Reco.",
+      "Current $",
+      "Target $",
+      "Target Date",
+      "Upside %",
+      "Risk : Reward",
+      "Included in portfolio?",
+      "Thesis",
+      "Model",
+      "Last Update",
+      "Link to Model"
+    ],
+    "rows": 62
+  },
+  {
+    "slug": "roic-vs-roe-investing-metric-stock-analysis",
+    "post_date": "2025-09-03",
+    "title": "ROIC Explained: The Most Overlooked Metric That Drives Stock Returns",
+    "chart_id": "GMyv2",
+    "version": "11",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/11/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-09-03__roic-vs-roe-investing-metric-stock-analysis__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "roic-vs-roe-investing-metric-stock-analysis",
+    "post_date": "2025-09-03",
+    "title": "ROIC Explained: The Most Overlooked Metric That Drives Stock Returns",
+    "chart_id": "vPKjt",
+    "version": "42",
+    "raw_url": "https://datawrapper.dwcdn.net/vPKjt/42/",
+    "resolved_url": "https://datawrapper.dwcdn.net/vPKjt/114/dataset.csv",
+    "csv_path": "datawrapper\\2025-09-03__roic-vs-roe-investing-metric-stock-analysis__vPKjt.csv",
+    "columns": [
+      "",
+      "MTD",
+      "QTD",
+      "YTD",
+      "1 Year",
+      "Since inception"
+    ],
+    "rows": 2
+  },
+  {
+    "slug": "while-the-rest-chase-victory-the-best-avoid-losing",
+    "post_date": "2025-09-14",
+    "title": "Weekly #47: The Hidden Power of Playing Defense in Investing",
+    "chart_id": "GMyv2",
+    "version": "11",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/11/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-09-14__while-the-rest-chase-victory-the-best-avoid-losing__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "stocks-database",
+    "post_date": "2025-10-15",
+    "title": "🏭 Stocks Database",
+    "chart_id": "C82oK",
+    "version": "4",
+    "raw_url": "https://datawrapper.dwcdn.net/C82oK/4/",
+    "resolved_url": "https://datawrapper.dwcdn.net/C82oK/11/dataset.csv",
+    "csv_path": "datawrapper\\2025-10-15__stocks-database__C82oK.csv",
+    "columns": [
+      "Stock",
+      "Reco.",
+      "Research"
+    ],
+    "rows": 50
+  },
+  {
+    "slug": "how-to-read-10-k-and-proxy-statements",
+    "post_date": "2025-10-22",
+    "title": "What Companies Really Tell You in Their 10-Ks (If You Know Where to Look)",
+    "chart_id": "GMyv2",
+    "version": "11",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/11/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-10-22__how-to-read-10-k-and-proxy-statements__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "discipline-beats-action",
+    "post_date": "2025-10-26",
+    "title": "Weekly #53: Fast Feels Good. Slow Wins",
+    "chart_id": "GMyv2",
+    "version": "12",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/12/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-10-26__discipline-beats-action__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "weekly-56-why-passive-taking-over",
+    "post_date": "2025-11-16",
+    "title": "Weekly #56: Why Passive Taking Over Is Great News for the Rest of Us",
+    "chart_id": "GMyv2",
+    "version": "12",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/12/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2025-11-16__weekly-56-why-passive-taking-over__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "global-portfolio-free",
+    "post_date": "2025-11-29",
+    "title": "Global Portfolio (free)",
+    "chart_id": "8zf5q",
+    "version": "1",
+    "raw_url": "https://datawrapper.dwcdn.net/8zf5q/1/",
+    "resolved_url": "https://datawrapper.dwcdn.net/8zf5q/10/dataset.csv",
+    "csv_path": "datawrapper\\2025-11-29__global-portfolio-free__8zf5q.csv",
+    "columns": [
+      "STOCKS",
+      "SYMBOL",
+      "RECO.",
+      "COUNTRY",
+      "WEIGHT",
+      "COST",
+      "PRICE",
+      "TOTAL % CHANGE",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 27
+  },
+  {
+    "slug": "finv-qfin-qifu-finvolution-why-i-sold-my-chinese-fintech",
+    "post_date": "2025-12-14",
+    "title": "Weekly #60: Why I Sold My Chinese Fintech Stocks",
+    "chart_id": "8zf5q",
+    "version": "2",
+    "raw_url": "https://datawrapper.dwcdn.net/8zf5q/2/",
+    "resolved_url": "https://datawrapper.dwcdn.net/8zf5q/10/dataset.csv",
+    "csv_path": "datawrapper\\2025-12-14__finv-qfin-qifu-finvolution-why-i-sold-my-chinese-fintech__8zf5q.csv",
+    "columns": [
+      "STOCKS",
+      "SYMBOL",
+      "RECO.",
+      "COUNTRY",
+      "WEIGHT",
+      "COST",
+      "PRICE",
+      "TOTAL % CHANGE",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 27
+  },
+  {
+    "slug": "the-stock-that-slipped-through-my-fingers",
+    "post_date": "2026-01-21",
+    "title": "AXIA Deep Dive: A Boring LATAM Utility With a Not-So-Boring +40% Upside",
+    "chart_id": "Lz6Br",
+    "version": "51",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/51/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-01-21__the-stock-that-slipped-through-my-fingers__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "why-im-closing-my-position-in-natwest-nwg",
+    "post_date": "2026-01-28",
+    "title": "Why I’m Closing My Position in NatWest Group (NWG) After a 42% Run",
+    "chart_id": "Lz6Br",
+    "version": "51",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/51/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-01-28__why-im-closing-my-position-in-natwest-nwg__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "trade-alert-closing-position-in-pypl",
+    "post_date": "2026-02-03",
+    "title": "Trade alert: Closing position in PYPL",
+    "chart_id": "Lz6Br",
+    "version": "55",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/55/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-02-03__trade-alert-closing-position-in-pypl__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "trade-alert-february-pick-a-commodity",
+    "post_date": "2026-02-23",
+    "title": "Trade alert: February Pick, A Commodity Business With an Operator Edge",
+    "chart_id": "Lz6Br",
+    "version": "55",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/55/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-02-23__trade-alert-february-pick-a-commodity__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "deep-dive-the-market-is-confusing",
+    "post_date": "2026-02-27",
+    "title": "Dell Deep Dive: The Market Is Confusing “Commodity” With “Uninvestable”",
+    "chart_id": "Lz6Br",
+    "version": "55",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/55/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-02-27__deep-dive-the-market-is-confusing__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "weekly-71-dxpes-water-segment-is",
+    "post_date": "2026-03-01",
+    "title": "Weekly #71: DXPE’s Water Segment Is Carrying",
+    "chart_id": "Lz6Br",
+    "version": "56",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/56/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-03-01__weekly-71-dxpes-water-segment-is__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "kins-q4-2025-earnings-kingstone-companies-analysis",
+    "post_date": "2026-03-08",
+    "title": "Weekly #72: The Year the KINS Thesis Graduated. Plus, the Friction That's Quietly Destroying Your Returns.",
+    "chart_id": "Lz6Br",
+    "version": "56",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/56/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-03-08__kins-q4-2025-earnings-kingstone-companies-analysis__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "investing-during-iran-war",
+    "post_date": "2026-03-15",
+    "title": "Weekly #73: The Fog of War & Why I’m Ignoring The Friction",
+    "chart_id": "8zf5q",
+    "version": "6",
+    "raw_url": "https://datawrapper.dwcdn.net/8zf5q/6/",
+    "resolved_url": "https://datawrapper.dwcdn.net/8zf5q/10/dataset.csv",
+    "csv_path": "datawrapper\\2026-03-15__investing-during-iran-war__8zf5q.csv",
+    "columns": [
+      "STOCKS",
+      "SYMBOL",
+      "RECO.",
+      "COUNTRY",
+      "WEIGHT",
+      "COST",
+      "PRICE",
+      "TOTAL % CHANGE",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 27
+  },
+  {
+    "slug": "micron-technology-mu-q2-2026-earnings-review-price-target",
+    "post_date": "2026-03-22",
+    "title": "Weekly #74: Micron Q2 2026. The Supercycle Just Got Louder. My Target Goes to $934.",
+    "chart_id": "Lz6Br",
+    "version": "57",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/57/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-03-22__micron-technology-mu-q2-2026-earnings-review-price-target__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "april-2026-stock-pick-aerospace-defense-trade-alert",
+    "post_date": "2026-04-13",
+    "title": "Trade alert: The April Pick is A Picks-and-Shovels Play on Aerospace and Defence ",
+    "chart_id": "Lz6Br",
+    "version": "57",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/57/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-04-13__april-2026-stock-pick-aerospace-defense-trade-alert__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "tsm-q1-2026-earnings-fundamentals-accelerated-market-yawned",
+    "post_date": "2026-04-19",
+    "title": "Weekly #78: TSMC Beat Every Line, The Market Yawned. That's the Setup",
+    "chart_id": "Lz6Br",
+    "version": "58",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/58/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-04-19__tsm-q1-2026-earnings-fundamentals-accelerated-market-yawned__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "position-sizing-arithmetic",
+    "post_date": "2026-04-26",
+    "title": "Weekly #79: Why I Cap Even My Best Calls at 5% (Position Sizing)",
+    "chart_id": "Lz6Br",
+    "version": "58",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/58/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-04-26__position-sizing-arithmetic__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "why-beating-the-tide-is-one-of-the",
+    "post_date": "2026-05-09",
+    "title": "Why Beating the Tide Is One of the Best Stock Investing Newsletters in 2026",
+    "chart_id": "GMyv2",
+    "version": "25",
+    "raw_url": "https://datawrapper.dwcdn.net/GMyv2/25/",
+    "resolved_url": "https://datawrapper.dwcdn.net/GMyv2/27/dataset.csv",
+    "csv_path": "datawrapper\\2026-05-09__why-beating-the-tide-is-one-of-the__GMyv2.csv",
+    "columns": [
+      "Year",
+      "BTT",
+      "S&P"
+    ],
+    "rows": 16
+  },
+  {
+    "slug": "trade-alert-closed-all-trimmed-strl",
+    "post_date": "2026-05-18",
+    "title": "Trade Alert: Closed ALL, Trimmed STRL, Bought My Fourth-Bucket Pick",
+    "chart_id": "Lz6Br",
+    "version": "59",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/59/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-05-18__trade-alert-closed-all-trimmed-strl__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "slow-death-brand-investing-nike",
+    "post_date": "2026-06-15",
+    "title": "Weekly #86: Why Buying Nike Today Isn't Brand Investing  ",
+    "chart_id": "Lz6Br",
+    "version": "60",
+    "raw_url": "https://datawrapper.dwcdn.net/Lz6Br/60/",
+    "resolved_url": "https://datawrapper.dwcdn.net/Lz6Br/64/dataset.csv",
+    "csv_path": "datawrapper\\2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+    "columns": [
+      "Date of Pick",
+      "Status",
+      "Symbol",
+      "Stock",
+      "Cost",
+      "Market price",
+      "Return since pick",
+      "Annualized return",
+      "Close Date",
+      "Days held",
+      "Thesis",
+      "Investment Thesis"
+    ],
+    "rows": 24
+  },
+  {
+    "slug": "ai-capex-energy-audit",
+    "post_date": "2026-10-25",
+    "title": "Weekly #105: The Physics of Investing, Part 5, Energy Never Disappears",
+    "chart_id": "ZQbH8",
+    "version": "17",
+    "raw_url": "https://datawrapper.dwcdn.net/ZQbH8/17/",
+    "resolved_url": "https://datawrapper.dwcdn.net/ZQbH8/17/dataset.csv",
+    "csv_path": "datawrapper\\2026-10-25__ai-capex-energy-audit__ZQbH8.csv",
+    "columns": [
+      "Year",
+      "Beating The Tide",
+      "S&P"
+    ],
+    "rows": 15
+  },
+  {
+    "slug": "anthropic-ipo-s1-suppliers",
+    "post_date": "2026-11-02",
+    "title": "Weekly #106: I Read Anthropic’s 300-Page S-1. I’m Not Buying the IPO.",
+    "chart_id": "qIPVV",
+    "version": "3",
+    "raw_url": "https://datawrapper.dwcdn.net/qIPVV/3/",
+    "resolved_url": "https://datawrapper.dwcdn.net/qIPVV/3/dataset.csv",
+    "csv_path": "datawrapper\\2026-11-02__anthropic-ipo-s1-suppliers__qIPVV.csv",
+    "columns": [
+      "",
+      ""
+    ],
+    "rows": 3
+  }
+]

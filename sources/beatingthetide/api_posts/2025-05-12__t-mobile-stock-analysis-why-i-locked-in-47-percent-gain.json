@@ -1,0 +1,436 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 163400465,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-05-12T17:53:55.918Z",
+  "updated_at": "2025-10-15T22:08:27.753Z",
+  "publication_id": 3704888,
+  "search_engine_description": "A telecom insider’s deep dive into TMUS: what worked, what changed, and why the risk-reward now points to “sell” despite solid fundamentals.",
+  "search_engine_title": "T-Mobile Stock Deep Dive: How I Banked a 47% Gain and Why I’m Cashing Out",
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "t-mobile-stock-analysis-why-i-locked-in-47-percent-gain",
+  "social_title": "T-Mobile Stock Analysis & 47% Gain: Why I’m Taking Profits Now",
+  "subtitle": "A telecom insider’s deep dive into TMUS: what worked, what changed, and why the risk-reward now points to “sell” despite solid fundamentals. ",
+  "teaser_post_eligible": true,
+  "title": "T-Mobile (TMUS) Stock Deep Dive: How I Banked a 47% Gain and Why I’m Cashing Out",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 5
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "connecting-the-dots-stock-investing",
+  "next_post_slug": "royal-caribbean-stock-analysis-2025-rcl-valuation-earnings-outlook",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/ba0544a4-acfd-451c-9c76-e5802dbbe0fa_1920x1080.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 163400465,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A telecom insider’s deep dive into TMUS: what worked, what changed, and why the risk-reward now points to “sell” despite solid fundamentals.",
+  "body_html": "<p>Telecom has a soft spot in my heart, and this <em>deep dive</em> on T-Mobile (NASDAQ: TMUS) explains why I first bought — and why I’m selling today. Telecom was one of my core sectors as an investment analyst on the buyside. Later, I ran corporate development for the largest telco in Chile, where I evaluated M&amp;A deals and growth initiatives across Latin America. This front-row experience taught me how telecom operators tick — from spectrum investments to subscriber economics — and it has shaped how I invest in telco. So when I saw an opportunity in T-Mobile US (NASDAQ: <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TMUS&quot;}\" data-component-name=\"CashtagToDOM\"></span> ), I jumped in with an insider’s perspective.</p><p>I bought T-Mobile stock at $163 per share, confident its “Un-carrier” strategy and Sprint merger synergies would drive outsized growth. By October 2024, T-Mobile’s stock surged to around $223, and I published a <a href=\"https://seekingalpha.com/article/4731862-tmobile-stock-leaner-cost-structure-higher-margins-market-share-gains\">bullish thesis on Seeking Alpha</a> outlining why I believed more upside was ahead. By the start of 2025, the share price was above $270.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!PYcL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!PYcL!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 424w, https://substackcdn.com/image/fetch/$s_!PYcL!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 848w, https://substackcdn.com/image/fetch/$s_!PYcL!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 1272w, https://substackcdn.com/image/fetch/$s_!PYcL!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!PYcL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png\" width=\"807\" height=\"579\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:579,&quot;width&quot;:807,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot; T-Mobile (TMUS) stock chart showing entry at $163 and Seeking Alpha buy recommendation at $223, used in a deep dive on telecom investing and stock analysis.&quot;,&quot;title&quot;:&quot;TradingView chart&quot;,&quot;type&quot;:&quot;image/jpg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\" T-Mobile (TMUS) stock chart showing entry at $163 and Seeking Alpha buy recommendation at $223, used in a deep dive on telecom investing and stock analysis.\" title=\"TradingView chart\" srcset=\"https://substackcdn.com/image/fetch/$s_!PYcL!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 424w, https://substackcdn.com/image/fetch/$s_!PYcL!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 848w, https://substackcdn.com/image/fetch/$s_!PYcL!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 1272w, https://substackcdn.com/image/fetch/$s_!PYcL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0709a43-974e-4ae4-a60e-a8bfdc6ee9e8_807x579.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Created with <a href=\"https://tradingview.com\">TradingView</a></figcaption></figure></div><p>Fast-forward to today—the stock has declined to $239, and I’ve decided to exit my position, locking in a 46.7% total gain. </p><div><hr></div><h2>Trade alert:</h2><ul><li><p>Close TMUS in Portfolio USA</p></li></ul><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!C3jt!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 424w, https://substackcdn.com/image/fetch/$s_!C3jt!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 848w, https://substackcdn.com/image/fetch/$s_!C3jt!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 1272w, https://substackcdn.com/image/fetch/$s_!C3jt!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!C3jt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png\" width=\"471\" height=\"52\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:52,&quot;width&quot;:471,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4385,&quot;alt&quot;:&quot;Trade alert showing TMUS stock sell order at $239.33, part of a T-Mobile stock investing deep dive and portfolio update.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Trade alert showing TMUS stock sell order at $239.33, part of a T-Mobile stock investing deep dive and portfolio update.\" title=\"Trade alert showing TMUS stock sell order at $239.33, part of a T-Mobile stock investing deep dive and portfolio update.\" srcset=\"https://substackcdn.com/image/fetch/$s_!C3jt!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 424w, https://substackcdn.com/image/fetch/$s_!C3jt!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 848w, https://substackcdn.com/image/fetch/$s_!C3jt!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 1272w, https://substackcdn.com/image/fetch/$s_!C3jt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61867e58-15e6-4dba-b8ea-d66aec7414d4_471x52.png 1456w\" sizes=\"100vw\"></picture><div></div></div></div><figcaption class=\"image-caption\">Interactive Brokers</figcaption></figure></div><div><hr></div><p>I’ll recap my original thesis, dissect what still holds and what has changed, and explain why I closed my TMUS position.</p><div><hr></div><h2>Deep Dive Roadmap:</h2><ul><li><p><a href=\"https://www.beatingthetide.com/i/163400465/deep-dive-recap-my-bullish-thesis-on-t-mobile-at\">Deep Dive Recap: My Bullish Thesis on T-Mobile at $223</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/163400465/what-still-holds-true-t-mobiles-strong-fundamentals\">What Still Holds True: T-Mobile’s Strong Fundamentals</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/163400465/whats-changed-a-shifting-landscape\">What’s Changed: A Shifting Landscape</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/163400465/valuation-when-the-math-stops-making-sense\">Valuation: When the Math Stops Making Sense</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/163400465/conclusion-lessons-learned-and-final-takeaways\">Conclusion: Lessons Learned and Final Takeaways</a></p></li></ul><div><hr></div><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Beating The Tide: Stock Picks That Outperform is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><h2>Deep Dive Recap: My Bullish Thesis on T-Mobile at $223</h2><p>When I first wrote about T-Mobile in late 2024, my optimism stemmed from several key factors:</p><h3><strong>Dominating Subscriber Growth</strong></h3><p>T-Mobile was adding more postpaid phone customers than Verizon and AT&amp;T combined, showcasing a growth story that was hard to ignore. For instance, in Q3 2024 T-Mobile added around 865,000 postpaid phone subscribers in one quarter – far exceeding AT&amp;T’s ~403,000 and Verizon’s ~239,000 adds. </p><p>This trend continued through year-end; for all of 2024, T-Mobile led the industry with over 3 million postpaid net adds, dramatically outpacing AT&amp;T (~1.65 million) and Verizon (a mere ~82,000). Clearly, consumers were flocking to T-Mobile’s Un-carrier offerings.</p><h3><strong>Leaner Cost Structure &amp; Higher Margins</strong></h3><p>Thanks to the Sprint merger and savvy network investments, T-Mobile operates with a lower cost base and higher margins than its peers. It doesn’t carry the same legacy baggage — like extensive copper networks or costly wireline businesses – that AT&amp;T and Verizon do. </p><p>In practice, this means T-Mobile can offer aggressive pricing and still enjoy better profitability. Indeed, T-Mobile’s gross margins have been running structurally higher than Verizon’s or AT&amp;T’s, a gap I expected to persist and expand as T-Mobile focused purely on wireless and 5G home broadband without the drag of legacy assets.</p><p>My expectation has played out, and we can see how the margin gap has been expanding compared to its competition.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!jKLM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!jKLM!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 424w, https://substackcdn.com/image/fetch/$s_!jKLM!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 848w, https://substackcdn.com/image/fetch/$s_!jKLM!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 1272w, https://substackcdn.com/image/fetch/$s_!jKLM!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!jKLM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png\" width=\"652\" height=\"472\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:472,&quot;width&quot;:652,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:62268,&quot;alt&quot;:&quot;Chart comparing T-Mobile (TMUS), AT&amp;T (T), and Verizon (VZ) gross profit margins from 2020 to 2025, highlighting TMUS’s superior margins in telecom stock investing analysis.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Chart comparing T-Mobile (TMUS), AT&amp;T (T), and Verizon (VZ) gross profit margins from 2020 to 2025, highlighting TMUS’s superior margins in telecom stock investing analysis.\" title=\"Chart comparing T-Mobile (TMUS), AT&amp;T (T), and Verizon (VZ) gross profit margins from 2020 to 2025, highlighting TMUS’s superior margins in telecom stock investing analysis.\" srcset=\"https://substackcdn.com/image/fetch/$s_!jKLM!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 424w, https://substackcdn.com/image/fetch/$s_!jKLM!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 848w, https://substackcdn.com/image/fetch/$s_!jKLM!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 1272w, https://substackcdn.com/image/fetch/$s_!jKLM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6810ff98-bcc5-450b-a933-e5e2e7b0ad5f_652x472.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">caption...</figcaption></figure></div><h3><strong>Robust Free Cash Flow Growth</strong></h3><p>By late 2024, T-Mobile was translating its subscriber gains and cost advantages into impressive financial results. Free cash flow was climbing rapidly as the heavy lifting of the 5G buildout and Sprint integration eased. </p><p>In the first three quarters of 2024, T-Mobile had generated nearly $13 billion of free cash flow and was on track for ~$17 billion for the full year, according to management’s guidance at the time. </p><p>The combination of rising operating cash and disciplined capital spending was fueling record cash generation. Management had even initiated shareholder returns, including a first-ever dividend and large share buybacks, signalling confidence in future cash flows.</p><p>By the way, they achieved that $17 billion free cash flow.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!g2yW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!g2yW!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 424w, https://substackcdn.com/image/fetch/$s_!g2yW!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 848w, https://substackcdn.com/image/fetch/$s_!g2yW!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 1272w, https://substackcdn.com/image/fetch/$s_!g2yW!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!g2yW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png\" width=\"806\" height=\"305\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:305,&quot;width&quot;:806,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:110953,&quot;alt&quot;:&quot;T-Mobile US (TMUS) Q4 2024 financial table showing $17.03 billion in adjusted free cash flow, supporting stock investing analysis in telecom sector deep dive.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a7b4abb-e6fe-4da4-be42-d7fe7bbf9b7c_806x305.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"T-Mobile US (TMUS) Q4 2024 financial table showing $17.03 billion in adjusted free cash flow, supporting stock investing analysis in telecom sector deep dive.\" title=\"T-Mobile US (TMUS) Q4 2024 financial table showing $17.03 billion in adjusted free cash flow, supporting stock investing analysis in telecom sector deep dive.\" srcset=\"https://substackcdn.com/image/fetch/$s_!g2yW!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 424w, https://substackcdn.com/image/fetch/$s_!g2yW!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 848w, https://substackcdn.com/image/fetch/$s_!g2yW!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 1272w, https://substackcdn.com/image/fetch/$s_!g2yW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51c4009f-84fa-4954-bd5a-a87ec271e3e9_806x305.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h3><strong>Attractive Valuation (Then)</strong></h3><p>Despite these strengths, back in October 2024 T-Mobile’s stock still looked undervalued once you adjusted for its growth. On surface multiples (like EV/EBITDA or P/E), TMUS appeared pricier than AT&amp;T or Verizon; however, its growth rate was also much higher. Using a PEG ratio and other growth-adjusted metrics, I argued T-Mobile was cheaper than its slower-growing rivals. Essentially, the market wasn’t fully pricing in T-Mobile’s superior growth outlook, making it a compelling “growth at a reasonable price” story. In my analysis, I estimated a fair value well above $223 – hence a <strong>Buy</strong> rating at that time.</p><p>In short, my initial bullish thesis was that T-Mobile’s superior subscriber growth, cost structure, and cash flow trajectory would continue to drive market share gains and earnings outperformance, and that the stock had further upside to reflect these advantages.</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe&quot;,&quot;text&quot;:&quot;Upgrade to paid&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/subscribe\"><span>Upgrade to paid</span></a></p><h2>What Still Holds True: T-Mobile’s Strong Fundamentals</h2><p>Looking at T-Mobile today, many elements of my original thesis have indeed played out — the company’s operational performance remains impressive on multiple fronts:</p><h3><strong>Continued Customer Momentum</strong></h3><p>T-Mobile is still winning the subscriber battle. Even as the overall wireless market slows, T-Mobile keeps grabbing the lion’s share of new customers. In Q1 2025, T-Mobile added <a href=\"https://seekingalpha.com/pr/20078785-t-mobile-leads-the-industry-once-again-with-continued-durable-customer-growth-including-best\">495,000 postpaid phone subscribers</a>, more than AT&amp;T <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$T&quot;}\" data-component-name=\"CashtagToDOM\"></span> added and while Verizon <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$VZ&quot;}\" data-component-name=\"CashtagToDOM\"></span>  actually lost subscribers in the quarter. In fact, T-Mobile just reported its highest-ever Q1 postpaid net additions in 2025, leading the industry in phone, account, and home internet customer growth. </p><p>The Un-carrier strategy of better value and no-contract flexibility is clearly still resonating with consumers, which speaks to a sustained competitive advantage in customer acquisition.</p><h3><strong>Record Financial Results</strong></h3><p>Those customer gains are translating into strong financial growth, just as anticipated. T-Mobile’s service revenues and profits are rising solidly. In the first quarter of 2025, total revenue was up 6.6% y/y to $20.9 billion, beating expectations. Adjusted EBITDA grew around 8%, and free cash flow jumped 31% y/y to a record $4.4 billion — T-Mobile’s highest ever for Q1. </p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!r60q!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 424w, https://substackcdn.com/image/fetch/$s_!r60q!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 848w, https://substackcdn.com/image/fetch/$s_!r60q!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 1272w, https://substackcdn.com/image/fetch/$s_!r60q!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!r60q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png\" width=\"526\" height=\"183\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:183,&quot;width&quot;:526,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:24344,&quot;alt&quot;:&quot;T-Mobile (TMUS) Q1 2025 earnings beat with $2.58 GAAP EPS and $20.89B in revenue, highlighting telecom stock performance in deep dive analysis.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"T-Mobile (TMUS) Q1 2025 earnings beat with $2.58 GAAP EPS and $20.89B in revenue, highlighting telecom stock performance in deep dive analysis.\" title=\"T-Mobile (TMUS) Q1 2025 earnings beat with $2.58 GAAP EPS and $20.89B in revenue, highlighting telecom stock performance in deep dive analysis.\" srcset=\"https://substackcdn.com/image/fetch/$s_!r60q!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 424w, https://substackcdn.com/image/fetch/$s_!r60q!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 848w, https://substackcdn.com/image/fetch/$s_!r60q!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 1272w, https://substackcdn.com/image/fetch/$s_!r60q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb47fbb3d-4357-4ced-b604-96e60aa44518_526x183.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div><figcaption class=\"image-caption\">Seeking Alpha</figcaption></figure></div><p>The company is effectively scaling its business: both adding subscribers and extracting more value per customer (helped by upselling plans and cost efficiencies). Notably, T-Mobile’s Core Adjusted EBITDA growth in Q1 was roughly double the average of its peer group, and it posted a record high Q1 net income as well. These metrics affirm that the core business remains very healthy.</p><h3><strong>Shareholder Returns and Capital Discipline</strong></h3><p>Another thing that came true — T-Mobile has begun returning cash to shareholders in a meaningful way, without compromising its network investments. </p><p>In Q1 alone, the company returned $3.5 billion to stockholders, including $2.5 billion in share buybacks and $1.0 billion in dividends. (T-Mobile initiated its first-ever dividend in late 2024 as part of a <a href=\"https://www.reuters.com/business/media-telecom/t-mobile-announces-14-bln-buyback-2024-12-13/#:~:text=T%2DMobile%27s%20latest%20shareholder%20return,and%20capital%20returns%20through%202027.\">$14 billion shareholder return program</a>.) </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!X2FF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!X2FF!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 424w, https://substackcdn.com/image/fetch/$s_!X2FF!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 848w, https://substackcdn.com/image/fetch/$s_!X2FF!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 1272w, https://substackcdn.com/image/fetch/$s_!X2FF!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!X2FF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png\" width=\"655\" height=\"443\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:443,&quot;width&quot;:655,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:38784,&quot;alt&quot;:&quot;Chart showing decline in T-Mobile (TMUS) shares outstanding to 1.135 billion as of May 2025, reflecting stock buybacks and capital discipline in telecom investing deep dive.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Chart showing decline in T-Mobile (TMUS) shares outstanding to 1.135 billion as of May 2025, reflecting stock buybacks and capital discipline in telecom investing deep dive.\" title=\"Chart showing decline in T-Mobile (TMUS) shares outstanding to 1.135 billion as of May 2025, reflecting stock buybacks and capital discipline in telecom investing deep dive.\" srcset=\"https://substackcdn.com/image/fetch/$s_!X2FF!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 424w, https://substackcdn.com/image/fetch/$s_!X2FF!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 848w, https://substackcdn.com/image/fetch/$s_!X2FF!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 1272w, https://substackcdn.com/image/fetch/$s_!X2FF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5224e1f-a1e7-45c3-95bb-32cf8fde028a_655x443.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Management still sees ample free cash flow growth ahead — they even raised 2025 cash flow guidance slightly — so they’re confident enough to both invest in the business and reward investors. </p><p>The Sprint merger synergies and cost-cutting efforts are largely done, and T-Mobile is now a cash machine. This capital discipline was exactly what we expected from the company: they’re keeping capex in check even as they expand 5G coverage, and are prioritizing profitability and returns. </p><h3><strong>Network and Technology Edge</strong></h3><p>T-Mobile also still enjoys a network advantage in 5G — it has the largest mid-band 5G footprint and consistently top-ranked speeds, which underpin its fixed wireless broadband growth and mobile experience. </p><p>The company’s innovative moves (like the new satellite-to-cell <a href=\"https://www.capacitymedia.com/article/2eeffyg66s12n6lcn8h6o/news/article-t-mobile-starlink\">partnership with SpaceX’s Starlink</a>) show it’s not resting on its laurels in tech. While that Starlink “Coverage Above and Beyond” service is only in beta, hundreds of thousands of customers have already tried it, and T-Mobile is the only U.S. carrier with a live satellite-to-phone network offering so far. </p><p>This kind of innovation, along with exploring generative AI for customer service and network optimization, aligns with broader industry trends and keeps T-Mobile ahead of the curve. Across the telecom industry, operators are looking to <em>“shift into growth mode with gen AI”</em> and other new tech, aiming to monetize their investments in 5G and eventually 6G. T-Mobile’s tech-forward approach fits well with this outlook.</p><p>In summary, T-Mobile’s fundamental story remains strong: the company is executing well, growing profitably, and maintaining advantages in network performance and cost structure. So with so many positives intact, why sell now? The answer lies in emerging risks that skew the risk/reward balance.</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTYzNDAwNDY1LCJpYXQiOjE3OTM4OTc2NTAsImV4cCI6MTc5NjQ4OTY1MCwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Q4TsUugtSw2thQPf05mfmEVWoLCbczQIjzLDYveiEZk&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTYzNDAwNDY1LCJpYXQiOjE3OTM4OTc2NTAsImV4cCI6MTc5NjQ4OTY1MCwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Q4TsUugtSw2thQPf05mfmEVWoLCbczQIjzLDYveiEZk\"><span>Share</span></a></p><h2>What’s Changed: A Shifting Landscape</h2><p>Despite T-Mobile’s operational excellence, I closed my TMUS position. I see the limited upside in the share price does not justify the downside risk. That is because I believe the competitive landscape is getting trickier. </p><h3>Competitive Pressure and the Risk of a Price War</h3><p>Another development: the competitive environment in U.S. wireless is heating up. The industry is edging closer to a potential price war, which could threaten T-Mobile’s future growth and margins. This is a stark change from a year ago, when Verizon and AT&amp;T were relatively restrained and T-Mobile benefited from benign pricing trends. Now, faced with subscriber losses and a saturated market, rivals are dialling up promotions and discounts to win customers, and T-Mobile itself has had to respond more aggressively.</p><p>Recent signs of this competitive uptick include: Verizon and AT&amp;T offering <a href=\"https://www.att.com/wireless/switch-and-save/\">richer switcher deals</a>, <a href=\"https://www.kiplinger.com/personal-finance/home/verizon-phone-and-plan-deals\">free or discounted phones</a>, and even <a href=\"https://www.verizon.com/about/news/accelerating-customer-first-strategy-3-year-price-lock-and-free-phone\">“price lock” guarantees</a> to lure users in a saturating market. In fact, T-Mobile’s Q1 postpaid phone adds, while strong, came in slightly below analyst expectations for the first time in a while, indicating the others’ promotions are having some effect. To defend its turf, T-Mobile’s prepaid brand (Metro) just rolled out new plans with a <a href=\"https://www.metrobyt-mobile.com/deals/one-line-for-25-phone-plan\">5-year price guarantee and rates as low as $25/month</a> — a notably aggressive move to lock in budget-conscious customers. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!f25x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!f25x!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 424w, https://substackcdn.com/image/fetch/$s_!f25x!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 848w, https://substackcdn.com/image/fetch/$s_!f25x!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 1272w, https://substackcdn.com/image/fetch/$s_!f25x!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!f25x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png\" width=\"359\" height=\"375\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/bcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:375,&quot;width&quot;:359,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:40955,&quot;alt&quot;:&quot;Metro by T-Mobile $25/month unlimited 5G plan with 5-year price guarantee, featured in telecom stock investing deep dive on TMUS strategy and promotions.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d6d1de6-50a1-44ac-8905-1ba2594b643f_359x375.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Metro by T-Mobile $25/month unlimited 5G plan with 5-year price guarantee, featured in telecom stock investing deep dive on TMUS strategy and promotions.\" title=\"Metro by T-Mobile $25/month unlimited 5G plan with 5-year price guarantee, featured in telecom stock investing deep dive on TMUS strategy and promotions.\" srcset=\"https://substackcdn.com/image/fetch/$s_!f25x!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 424w, https://substackcdn.com/image/fetch/$s_!f25x!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 848w, https://substackcdn.com/image/fetch/$s_!f25x!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 1272w, https://substackcdn.com/image/fetch/$s_!f25x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbcb9b464-eeca-4d85-9df0-8df7644f0a82_359x375.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The company is even leveraging the upcoming Starlink satellite texting service as a differentiator (with a planned $10/month add-on) to entice and retain subscribers. All of this points to a more intense battle for each incremental subscriber.</p><p>I think the U.S. telecom market may be on the verge of a price war and that is the main downside risk I see. While T-Mobile is best positioned among the carriers, any prolonged pricing battles would erode everyone’s economics. We haven’t seen a true price war in wireless for many years (the last one was probably in the early 2010s when T-Mobile itself slashed prices to gain share). If Verizon and AT&amp;T decide they’re willing to sacrifice some profitability to win back customers, it would likely force T-Mobile to cut prices or increase promotional spending, compressing margins across the board. T-Mobile’s entire thesis of superior margins and cash flow could be undermined in a price war scenario.</p><p>It’s telling that T-Mobile set what some called “conservative” guidance for 2025, implicitly bracing for tougher competition. In fact, the company slightly boosted its EBITDA forecast for 2025, but this was <em>after</em> factoring in higher spending on customer retention. </p><p>According to <a href=\"https://www.reuters.com/business/media-telecom/t-mobile-misses-estimates-wireless-subscriber-additions-2025-04-24/?utm_source=chatgpt.com\">New Street Research</a>, </p><blockquote><p><em>T-Mobile set very conservative EBITDA guidance for the year because they were preparing to spend more on acquisition and retention to get the adds they want in a shrinking pool.</em> </p></blockquote><p>In other words, T-Mobile knows it may have to spend more marketing dollars (or offer juicier promos) to keep growing in a “shrinking pool” of potential new subscribers. That is essentially the front line of a price war — higher cost to acquire each customer.</p><p>For a stock that’s now priced for perfection, this brewing competitive storm poses a real risk. Even slightly slower subscriber growth or a dip in profit margins (due to promotional activity) could lead the market to rethink T-Mobile’s lofty valuation. We’ve already seen the stock wobble on any hint of softer customer adds. My original thesis assumed the competitors would stay rational on pricing (indeed, I noted that Verizon and AT&amp;T had been holding off on price wars, which put T-Mobile in a great spot). That assumption may not hold going forward, and thus a core pillar of the bull case (continued easy market share gains) is shakier now.</p><h3>Heavily Insider Selling Signals Caution</h3><p>One more red flag: T-Mobile’s insiders have been selling the stock heavily. I always pay attention when the people running the company are consistently cashing out their shares. In the six months, T-Mobile has seen an <em>avalanche</em> of insider sales. According to Dataroma, there was only 1 notable insider buy (~$0.9 million by Andre Almeida) versus 27 insider sale transactions totalling a whopping $69 million.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!DCKi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!DCKi!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 424w, https://substackcdn.com/image/fetch/$s_!DCKi!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 848w, https://substackcdn.com/image/fetch/$s_!DCKi!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 1272w, https://substackcdn.com/image/fetch/$s_!DCKi!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!DCKi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png\" width=\"1006\" height=\"891\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/dceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:891,&quot;width&quot;:1006,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:240865,&quot;alt&quot;:&quot;T-Mobile (TMUS) insider trading report showing significant executive stock sales in early 2025, used in telecom stock analysis to assess valuation and risk.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/163400465?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"T-Mobile (TMUS) insider trading report showing significant executive stock sales in early 2025, used in telecom stock analysis to assess valuation and risk.\" title=\"T-Mobile (TMUS) insider trading report showing significant executive stock sales in early 2025, used in telecom stock analysis to assess valuation and risk.\" srcset=\"https://substackcdn.com/image/fetch/$s_!DCKi!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 424w, https://substackcdn.com/image/fetch/$s_!DCKi!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 848w, https://substackcdn.com/image/fetch/$s_!DCKi!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 1272w, https://substackcdn.com/image/fetch/$s_!DCKi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdceee939-1f3d-494a-9577-add6d7ad801a_1006x891.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Dataroma</figcaption></figure></div><p>Drilling down, these sellers aren’t just random directors; they include top executives. In the first quarter of 2025, CEO Mike Sievert sold 45,000 shares in late February at $265-$270 per share, CFO Peter Osvaldik sold 25,000 shares at $263 per share, and several other key officers and directors unloaded tens of thousands of shares each. </p><p>While executives sell stock for many reasons, the sheer scale and timing of these sales, near all-time high stock prices, suggest they view the stock as fully valued. It’s hard to stay bullish when those with the most insight into the company are consistently trimming their stakes. This insider behaviour aligns with my view that upside is now limited; if T-Mobile were still a bargain, we’d expect to see more insider buying or at least holding, not this kind of mass selling.</p><h3>Industry Outlook: Discipline Meets Reality</h3><p>Zooming out, the broader telecom industry context for 2025 also plays into my more cautious stance. The industry is at an interesting juncture: on one hand, telecom companies (including T-Mobile) are emphasizing capital discipline, cost cuts, and monetizing past investments — essentially a focus on efficiency and profitability. On the other hand, they are hunting for new growth avenues like generative AI services, 5.5G/6G technology, and strategic M&amp;A because core connectivity growth has slowed.</p><p>For T-Mobile, this outlook has two sides. The good news: T-Mobile exemplifies the “discipline” mantra — it has kept capex in check after building out a broad 5G network, and it’s squeezing more growth from assets like its mid-band spectrum (e.g. offering 5G Home Internet without massive new infrastructure costs). It’s also exploring new revenue streams, such as selling fixed-wireless broadband and potentially leveraging AI in customer care (T-Mobile’s new AI-powered customer service initiatives could reduce costs and improve retention). </p><p>The M&amp;A angle in telecom is intriguing too; while U.S. regulators likely wouldn’t allow another big carrier merger, T-Mobile could pursue smaller acquisitions (for example, it <a href=\"https://www.cnet.com/tech/mobile/t-mobile-closes-mint-mobile-deal-promises-to-keep-15-monthly-plan-option/\">acquired Mint Mobile</a> in 2023 to bolster its prepaid segment). T-Mobile might find opportunistic deals in areas like fibre partnerships or enterprise services. All of this should, in theory, support the bull case by adding incremental growth or efficiency.</p><p>However, the bad news is that these industry moves also underscore how challenging organic growth is becoming. Telcos can keep cutting costs and even deploy AI, but at the end of the day, U.S. wireless is a mature market — nearly everyone has a cellphone and a data plan. The <em>search for growth</em> leads to battles at the margins (stealing each other’s customers or bundling new services). T-Mobile participating in things like AI or new service bundles is smart, but those are unlikely to be needle-movers in the near term. And pursuing growth via M&amp;A often means paying up for assets or taking on integration risk (just look at how long it took Sprint’s merger to pay off). </p><p>The industry outlook of controlled spending and cautious expansion suggests no carrier, even an aggressive one like T-Mobile, will be able to break away with runaway growth. Everyone is trying to “keep capital expenditures under control… and use M&amp;A to drive value”, as <a href=\"https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-telecom-outlooks/telecommunications-industry-outlook-2025.html\">Deloitte’s 2025 telecom outlook</a> puts it. In such an environment, it’s hard to envision T-Mobile dramatically outperforming the way it did in the past few years. It will have to fight harder for each subscriber and innovate just to maintain (not exponentially grow) its earnings.</p><p>In essence, the macro context reinforces my decision: T-Mobile’s management is doing all the right things, but the easy wins are largely behind it. The stock’s high valuation implies the market expects near-flawless execution and sustained high growth in a low-growth industry — a tough bar to clear. When an industry is “rapidly evolving” but largely ex-growth, and CEOs are asking <em>‘How can we become a growth industry again?’</em>, it tells you that all telecom players, T-Mobile included, face an uphill battle to exceed expectations.</p><h2>Valuation: When the Math Stops Making Sense</h2><p>My upside target hasn’t moved much — my updated DCF still pegs fair value around $280. But what’s changed is the downside risk. With competitive pressure rising and insider selling flashing yellow, the floor has dropped. In a bear case, I now see the stock falling as low as $150.</p><p>So at $240, I’m looking at $40 of upside vs $90 of potential downside. That’s not a bet I’m willing to keep riding. The risk-reward has flipped, and with better ideas on my radar, I’d rather reallocate the capital.</p><h2>Conclusion: Lessons Learned and Final Takeaways</h2><p>As I close out this investment, I’m reminded of a few key lessons:</p><ul><li><p><strong>Trust the Process, But Update the Data:</strong> My telecom background helped identify T-Mobile’s edge early on, and the thesis played out. But it’s crucial to continually update your assumptions. I remained bullish until new data told a different story. Always re-evaluate your thesis with fresh eyes, especially after a big run-up in stock price.</p></li><li><p><strong>Don’t Fall in Love with the Stock:</strong> T-Mobile is a great company, but even great companies can become overvalued. We must distinguish between the business and the stock. I still admire T-Mobile’s business and wouldn’t bet against its management. However, at $239/share, the <strong>stock’s risk/reward is no longer attractive</strong>. Be willing to flip your stance when the facts change (in this case, my rating goes from Buy to Sell/Hold after a 47% gain).</p></li><li><p><strong>The Market Looks Forward:</strong> Much of T-Mobile’s rosy future is now priced in. When a stock hits your estimated fair value, it’s often wise to trim or exit, even if the company’s current results are stellar. By the time everyone is singing its praises, that optimism is usually embedded in the stock. The limited upside from here means my capital can likely be better deployed in the next underappreciated idea.</p></li></ul><p>For subscribers of Beating The Tide, the takeaway is to stay nimble and value-oriented. We seek deep dive stock investing insights like this to know when to ride a winning wave and when to step off before the tide turns. T-Mobile was a great ride — a high-conviction idea that delivered — but now it’s time to take profits and say “thank you, next.”</p><p>I hope you found this T-Mobile stock analysis helpful. The fundamentals remain strong, but the stock’s valuation and rising risks have tilted the balance. In investing, sometimes the hardest decision is knowing when to sell. This was one of those times for me, and I’m happy to lock in gains and watch from the sidelines for now.</p><p>As always, happy investing — and don’t hesitate to reply with your own thoughts or questions. I look forward to beating the tide together!</p><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTYzNDAwNDY1LCJpYXQiOjE3OTM4OTc2NTAsImV4cCI6MTc5NjQ4OTY1MCwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Q4TsUugtSw2thQPf05mfmEVWoLCbczQIjzLDYveiEZk&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">Thanks for reading Beating The Tide: Stock Picks That Outperform! This post is public so feel free to share it.</p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTYzNDAwNDY1LCJpYXQiOjE3OTM4OTc2NTAsImV4cCI6MTc5NjQ4OTY1MCwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Q4TsUugtSw2thQPf05mfmEVWoLCbczQIjzLDYveiEZk&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTYzNDAwNDY1LCJpYXQiOjE3OTM4OTc2NTAsImV4cCI6MTc5NjQ4OTY1MCwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.Q4TsUugtSw2thQPf05mfmEVWoLCbczQIjzLDYveiEZk\"><span>Share</span></a></p></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Telecom has a soft spot in my heart, and this deep dive on T-Mobile (NASDAQ: TMUS) explains why I first bought — and why I’m selling today. Telecom was one of my core sectors as an investment analyst on the buyside. Later, I ran corporate development for the largest telco in Chile, where I evaluated M&A deals and growth initiatives across Latin America.…",
+  "wordcount": 3285,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "4cf0e7ea-5b88-40b1-b6cd-062a2ee3ce93",
+      "publication_id": 3704888,
+      "name": "Deep Dives",
+      "slug": "idea",
+      "hidden": false
+    },
+    {
+      "id": "5afba12b-d635-49d1-9ca7-5e907b96f797",
+      "publication_id": 3704888,
+      "name": "Trade Alerts",
+      "slug": "trades",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "fd0d9dc8-0623-4511-afc8-65021acfac1f",
+      "publication_id": 3704888,
+      "name": "TMUS",
+      "slug": "tmus",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        201,
+        177,
+        89
+      ],
+      "population": 481
+    },
+    "DarkVibrant": {
+      "rgb": [
+        140,
+        113,
+        32
+      ],
+      "population": 58
+    },
+    "LightVibrant": {
+      "rgb": [
+        100,
+        112,
+        196
+      ],
+      "population": 81
+    },
+    "Muted": {
+      "rgb": [
+        92,
+        154,
+        147
+      ],
+      "population": 524
+    },
+    "DarkMuted": {
+      "rgb": [
+        85,
+        75,
+        57
+      ],
+      "population": 37
+    },
+    "LightMuted": {
+      "rgb": [
+        164,
+        156,
+        196
+      ],
+      "population": 1
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 5,
+  "comment_count": 2,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 163400465,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/163400465/tts/dae26eb2-7861-434f-b070-67671a4eac16/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": [
+    {
+      "id": 117281138,
+      "body": "Such a great article. Very interesting to read your thoughts and analysis. ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Such a great article. Very interesting to read your thoughts and analysis."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3704888,
+      "post_id": 163400465,
+      "user_id": 312233317,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-05-15T05:06:35.602Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Dennis Riosa",
+      "photo_url": "https://substackcdn.com/image/fetch/$s_!KkXj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F666b5d21-f253-42f2-b7a2-a9dcafc75e0b_1448x1448.png",
+      "handle": "dennisriosa",
+      "reactor_names": [
+        "George Atuan, CFA"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "dennisriosa",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Dennis Riosa",
+          "id": 3859650,
+          "base_url": "https://dennisriosa.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by George Atuan, CFA"
+    }
+  ]
+}

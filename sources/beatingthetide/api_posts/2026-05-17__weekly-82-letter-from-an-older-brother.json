@@ -1,0 +1,552 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 197714960,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-05-17T21:32:00.853Z",
+  "updated_at": "2026-05-17T22:32:01.326Z",
+  "publication_id": 3704888,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "weekly-82-letter-from-an-older-brother",
+  "social_title": "Weekly #82: Letter From an Older Brother (Who Also Started Broke)",
+  "subtitle": "Portfolio +27.7% YTD, 2.8x the S&P since inception. Plus, a letter for anyone in their twenties who's been told the system is rigged and the only way out is the trade that 10x's by Friday.",
+  "teaser_post_eligible": true,
+  "title": "Weekly #82: Letter From an Older Brother (Who Also Started Broke)",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 14,
+  "reactions": {
+    "❤": 4
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "sterling-infrastructure-strl-q1-2026-update-target-1010",
+  "next_post_slug": "trade-alert-closed-all-trimmed-strl",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/e4652532-d6c9-4960-ad94-9333e5fc1b17_1920x1080.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 197714960,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Portfolio +27.7% YTD. Plus, a letter for anyone in their twenties who's been told the system is rigged and the only way out is the trade that 10x's by Friday.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!zHVI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!zHVI!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 424w, https://substackcdn.com/image/fetch/$s_!zHVI!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 848w, https://substackcdn.com/image/fetch/$s_!zHVI!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!zHVI!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!zHVI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg\" width=\"612\" height=\"400\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:500,&quot;width&quot;:765,&quot;resizeWidth&quot;:612,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;George behind the Second Cup coffee counter in 2002, captioned NOT GEN Z / SAME BROKE DIFFERENT DECADE&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"George behind the Second Cup coffee counter in 2002, captioned NOT GEN Z / SAME BROKE DIFFERENT DECADE\" title=\"George behind the Second Cup coffee counter in 2002, captioned NOT GEN Z / SAME BROKE DIFFERENT DECADE\" srcset=\"https://substackcdn.com/image/fetch/$s_!zHVI!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 424w, https://substackcdn.com/image/fetch/$s_!zHVI!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 848w, https://substackcdn.com/image/fetch/$s_!zHVI!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!zHVI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7edf677d-ffd6-461c-a3e4-8b47d7e90a05_765x500.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Hello fellow Sharks,</p><p>This week was a down week for the portfolio and we lagged the S&amp;P 500. But it is all good as we are in this for the long term. If you want to skip straight to the numbers, jump to the <a href=\"https://www.beatingthetide.com/i/197714960/portfolio-update\">Portfolio Update</a>.</p><p>Some have been asking about the May Stock Pick, usually by now it would be out but I changed my pick halfway when I didn’t like what channel checks revealed. This one should be coming out next week!</p><p>As per the Thought Of The Week, I had a different piece queued for this week. Net leverage, and how it sinks cyclical companies. That one runs next week.</p><p>The reason I’m pulling it is that I had a strange week. Three separate conversations with people in their early twenties. A TD ad that told me I was ‘meant to trade,’ and a Bloomberg video on how scammers are feeding on the frustration of Gen Z.</p><div id=\"youtube2-gcejYnDV-jM\" class=\"youtube-wrap\" data-attrs=\"{&quot;videoId&quot;:&quot;gcejYnDV-jM&quot;,&quot;startTime&quot;:&quot;4s&quot;,&quot;endTime&quot;:null}\" data-component-name=\"Youtube2ToDOM\"><div class=\"youtube-inner\"><iframe src=\"https://www.youtube-nocookie.com/embed/gcejYnDV-jM?start=4s&amp;rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0\" frameborder=\"0\" loading=\"lazy\" gesture=\"media\" allow=\"autoplay; fullscreen\" allowautoplay=\"true\" allowfullscreen=\"true\" width=\"728\" height=\"409\"></iframe></div></div><p>All running on the same loop: the system is rigged, the job didn’t materialize, the rent is impossible, and the only way out is the trade that 10x’s by Friday.</p><p>So this week is for them.</p><div class=\"poll-embed\" data-attrs=\"{&quot;id&quot;:514183}\" data-component-name=\"PollToDOM\"></div><p>The poll allows 5 options but if you’re from The Silent or The Greatest generations, please let me know!</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother/comments\"><span>Leave a comment</span></a></p><p>Based on email interactions and last year’s survey, I believe most of you reading this are Millennials and Gen X. Some Gen Z, but not many. So this Thought of the Week may not land for most of you directly, and that’s fine. I’d ask you to share it with the Gen Z people in your life anyway. We can sacrifice one Thought of the Week to help the generation coming up. They are struggling, and the light at the end of the tunnel is not even visible from where they’re standing. Jump to the letter <a href=\"https://www.beatingthetide.com/i/197714960/letter-from-an-older-brother-who-also-started-broke\">here</a>.</p><p>Enjoy the read, and have a great Sunday.</p><p>~George</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">New here? This is Beating The Tide, fundamental investing thinking that turns conviction into compoundable returns. Subscribe to get every Weekly.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><div><hr></div><h3>Table of Contents:</h3><ul><li><p><a href=\"https://www.beatingthetide.com/i/197714960/in-case-you-missed-it\">In Case You Missed It</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/197714960/earnings-results\">Earnings Results</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/197714960/letter-from-an-older-brother-who-also-started-broke\">Letter From an Older Brother (Who Also Started Broke)</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/197714960/portfolio-update\">Portfolio Update</a></p></li></ul><div><hr></div><h2>In Case You Missed It</h2><p>STRL printed its biggest quarter yet, all comfortably above consensus. Four of my five thesis pillars are confirmed and strengthening; the fifth (valuation) is now the constraint. New DCF target lifts to $1,010 from $600, but with the stock at $851 the model now reads HOLD, not BUY. Risk/reward is essentially 1:1 from here. Conviction in the business is unchanged, what changed is how much room price has left to run.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;e9d86558-4cf1-4e71-a678-fd46548197dc&quot;,&quot;caption&quot;:&quot;Since I added STRL to the portfolio at $76.68, the position has compounded to $851.35 today, a return of +1,010% at an 8.9% portfolio weight.&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;STRL Q1 2026 Update: Tsunami Confirmed, Asymmetry Spent&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2026-05-14T14:00:51.159Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/93f0f195-cbe4-4d9e-be5c-e4ee2e98de08_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/sterling-infrastructure-strl-q1-2026-update-target-1010&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:197427595,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:2,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!gAPf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d3ba013-697a-4c40-8852-b0e744ef69c5_351x351.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>Two days after I said POWL stays, I refreshed the DCF. Target lands at $329, slight discount to fair value, no longer above it. All four original thesis pillars are confirmed: data centre exposure jumped to $800M of forward revenue after the post-quarter +$400M NeoCloud win; utility revenue grew double digits; the balance sheet still carries zero debt and $545M cash. Position is +1,103% since entry, now the first candidate to trim when capital finds a clearer home.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;dabdeee2-869b-4ffd-8028-c019a23f1fbb&quot;,&quot;caption&quot;:&quot;Two days ago, I said POWL stays. The refreshed model targets $329, a 2% discount to today’s $322 close. Thesis intact. Holding and will trim only when capital finds a clearer home.&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Powell (POWL) Update: Holding the +1,103% Unicorn at Fair Value&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2026-05-12T02:12:31.581Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9b17559d-1848-40bb-9bf5-2daada41460b_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/powl-update-holding-1055-percent-unicorn-fair-value-q2-fy2026&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:197280410,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:5,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!gAPf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d3ba013-697a-4c40-8852-b0e744ef69c5_351x351.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&quot;,&quot;text&quot;:&quot;Share Beating The Tide: Stock Picks That Outperform&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Beating The Tide: Stock Picks That Outperform</span></a></p><div><hr></div><h2>Earnings Results</h2><p>This week two companies reported earnings and both beat top and bottom line estimates. Both are up around 10% this week.</p><p>Paid subscribers can read my quick take on the earnings results <a href=\"https://www.beatingthetide.com/i/161621583/earnings-results\">here</a><strong>.</strong></p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!qWQd!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 424w, https://substackcdn.com/image/fetch/$s_!qWQd!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 848w, https://substackcdn.com/image/fetch/$s_!qWQd!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 1272w, https://substackcdn.com/image/fetch/$s_!qWQd!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!qWQd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png\" width=\"612\" height=\"114\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:114,&quot;width&quot;:612,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:17121,&quot;alt&quot;:&quot;Earnings table showing two portfolio holdings with last-quarter announce dates, revenue and EPS surprises, and one-month performance&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/197714960?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff838dd95-7957-427f-a225-a425f313e535_612x114.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Earnings table showing two portfolio holdings with last-quarter announce dates, revenue and EPS surprises, and one-month performance\" title=\"Earnings table showing two portfolio holdings with last-quarter announce dates, revenue and EPS surprises, and one-month performance\" srcset=\"https://substackcdn.com/image/fetch/$s_!qWQd!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 424w, https://substackcdn.com/image/fetch/$s_!qWQd!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 848w, https://substackcdn.com/image/fetch/$s_!qWQd!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 1272w, https://substackcdn.com/image/fetch/$s_!qWQd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccd08eca-d657-42dc-9f19-baa60117d5e7_612x114.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!E51n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!E51n!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 424w, https://substackcdn.com/image/fetch/$s_!E51n!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 848w, https://substackcdn.com/image/fetch/$s_!E51n!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 1272w, https://substackcdn.com/image/fetch/$s_!E51n!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!E51n!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png\" width=\"635\" height=\"439\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/eada2639-cd5c-41e1-9843-62c51776c16a_635x439.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:439,&quot;width&quot;:635,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:61938,&quot;alt&quot;:&quot;Chart showing the week's performance of two positions in Beating The Tide portfolio&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Chart showing the week's performance of two positions in Beating The Tide portfolio\" title=\"Chart showing the week's performance of two positions in Beating The Tide portfolio\" srcset=\"https://substackcdn.com/image/fetch/$s_!E51n!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 424w, https://substackcdn.com/image/fetch/$s_!E51n!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 848w, https://substackcdn.com/image/fetch/$s_!E51n!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 1272w, https://substackcdn.com/image/fetch/$s_!E51n!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feada2639-cd5c-41e1-9843-62c51776c16a_635x439.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><h5>Thought Of The Week </h5><h2>Letter From an Older Brother (Who Also Started Broke)</h2><p>Dear younger brother,</p><p>I’m not going to tell you the system isn’t rigged. It is. The cost of a degree, a house, a car, a Bobby the dog and a Garfield the cat is not what it was when I was your age. You are not making that up. My generation, and the ones before it, got greedy and didn’t think about you. I’m not here to apologize on behalf of anyone. I’m here to tell you what worked for me when I had nothing, because it might work for you.</p><p>In 2000, I got into the University of Toronto on a half scholarship. International tuition was $13K. My family had no money. I held three part-time jobs through college. Rent took $450 a month. Phone and internet cost $50. Books, clothes, the small emergencies that always show up, took another $200. That left $200 for food in a good month.</p><p>Here is what mattered. Before I paid rent, before I paid the phone bill, before I bought a single can of tuna, I paid myself 10%. On a $1,000 month, the first $100 went to me. Not to a fund manager. Not to a robo-advisor. To a paper savings booklet the bank actually printed. If you don’t know what that is, ask your parents. Later to GICs. Much later to stocks.</p><p>One month, I had a real emergency, and the math didn’t work. I paid myself anyway. That month, I ate pasta and peanut butter sandwiches on $50. I survived. The discipline survived, too, which is the part that actually compounded.</p><p>I am not telling you this because pasta builds character.</p><p>I am telling you because the loudest voices in your feed make money when you trade or buy their get-rich-quick program, not when you save and build wealth the slow and boring way.</p><p>I caught a TD ad on a podcast last week that said, more or less, “since you were a kid you knew what a baseball card was worth… you were meant to trade.” That is one of the more irresponsible things I’ve heard run and it wasn’t from Crypto.com, it was one of the largest Canadian banks. They were not telling you to invest. They were telling you to transact, because every transaction is a fee they earn. Also, not everyone is meant to trade.</p><p>The accounts on TikTok with 600,000 followers selling you daily setups are running the same playbook. They get rich when you click. You get poorer.</p><p>To be fair, not every voice on TikTok is selling smoke. For example, <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;kyla scanlon&quot;,&quot;id&quot;:13311420,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e904ac4a-741b-4e30-bf96-d89950a6135b_996x1288.png&quot;,&quot;uuid&quot;:&quot;159974f7-c01a-42fa-ab06-8b2e60738983&quot;}\" data-component-name=\"MentionToDOM\"></span> does real work and tries to educate Gen Z (however, I don’t agree with her allocation to crypto but that is a different topic). Note that the people doing real work <strong>explain</strong> money while the people running scams <strong>promise</strong> richness.</p><p>The ones running the scams are preying on your desperation. Remember who actually makes money out of a get-rich-quick scheme. It is the person selling you the system. Never the person buying it.</p><p>Here’s the math the system-sellers hide. You think a 1-in-50 options bet means 49 of you go broke and 1 of you wins. That is not how it works. I can almost guarantee that all 50 of you go broke. The one winner doesn’t post the loss that comes after.</p><p><a href=\"https://www.reddit.com/r/wallstreetbets/\">r/WallStreetBets</a> is the museum of this. Someone hits a six-figure win, posts the screenshot, says they are going to take the money and invest carefully into their future. That post is rarely the last post from that handle. The next one, three months later, is the same person admitting they lost the winnings, the original stake, and a loan from their parents on top. </p><p>Easy come, easy go.</p><p>That’s why I keep recommending the slow, disciplined, boring approach. You don’t need to make 30% a year. You need 12%. Deposit $100 a month from your 22nd birthday at 12% a year (earlier if you can). By 40 you have roughly $76,000. By 50, roughly $273,000. By 65, $1.7 million.</p><p>That’s $100 a month. Less than what some of you spend on DoorDash. The reason it works isn’t skill. It’s time. Time is the only ingredient compound interest needs, and it’s the one ingredient the 1-in-50 crowd burns first.</p><p>So yes, the approach is boring. Yes, <strong>it’s unsexy AND it works</strong>. This reminded me of Buckley’s advertising…</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Dogy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Dogy!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Dogy!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Dogy!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Dogy!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Dogy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg\" width=\"586\" height=\"419.0661938534279\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:605,&quot;width&quot;:846,&quot;resizeWidth&quot;:586,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Iconic Buckley's Mixture cough syrup ad with the tagline It tastes awful And it works&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Iconic Buckley's Mixture cough syrup ad with the tagline It tastes awful And it works\" title=\"Iconic Buckley's Mixture cough syrup ad with the tagline It tastes awful And it works\" srcset=\"https://substackcdn.com/image/fetch/$s_!Dogy!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Dogy!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Dogy!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Dogy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73de44a9-99cd-4db5-b490-5159f73ecc93_846x605.jpeg 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>You have heard the latte version of this lecture and I know you’re tired of it. Forget the latte. Try this one.</p><p>The latest iPhone is $1,200. $1,200 of Apple stock at 22 has a wildly different ending than the phone. In three years, the phone is worth at most $400. The shares, on Apple’s average return, are closer to $2,094.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!aHbg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!aHbg!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 424w, https://substackcdn.com/image/fetch/$s_!aHbg!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 848w, https://substackcdn.com/image/fetch/$s_!aHbg!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 1272w, https://substackcdn.com/image/fetch/$s_!aHbg!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!aHbg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png\" width=\"635\" height=\"364\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:364,&quot;width&quot;:635,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Apple AAPL price percent change chart from July 2023 to May 2026 showing +74.48% return&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Apple AAPL price percent change chart from July 2023 to May 2026 showing +74.48% return\" title=\"Apple AAPL price percent change chart from July 2023 to May 2026 showing +74.48% return\" srcset=\"https://substackcdn.com/image/fetch/$s_!aHbg!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 424w, https://substackcdn.com/image/fetch/$s_!aHbg!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 848w, https://substackcdn.com/image/fetch/$s_!aHbg!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 1272w, https://substackcdn.com/image/fetch/$s_!aHbg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9e7c026-bdba-4126-8bd9-e03e7477f081_635x364.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Or you could buy a $50,000 car or have invested the $50,000 in GM stock. After three years, the car cost you a couple of thousands to maintain and is worth $25,000, but if you had invested in GM stock, those shares would be worth $118,650.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!S8E0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!S8E0!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 424w, https://substackcdn.com/image/fetch/$s_!S8E0!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 848w, https://substackcdn.com/image/fetch/$s_!S8E0!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 1272w, https://substackcdn.com/image/fetch/$s_!S8E0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!S8E0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png\" width=\"635\" height=\"364\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:364,&quot;width&quot;:635,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!S8E0!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 424w, https://substackcdn.com/image/fetch/$s_!S8E0!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 848w, https://substackcdn.com/image/fetch/$s_!S8E0!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 1272w, https://substackcdn.com/image/fetch/$s_!S8E0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5cf1036e-fd2f-4644-b618-e2824bbf235a_635x364.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Now here’s the part nobody says out loud. If everyone bought the shares and nobody bought the phone or car, the shares would be worthless. Capitalism needs both sides of that trade. Your job is to be more on the shares side than the phone side.</p><p>That is the K-shaped economy people keep writing about. Owners of stocks on the top of the K, owners of depreciated phones and cars at the bottom. You get to choose which side you want to be in.</p><p>In the short term, that’s the move. Pay yourself first, even when the month is bad. Cut what you can. Earn more where you can. It isn’t a complete answer. I know it.</p><p>In the long term, vote. I’m not telling you who for. I’m telling you to read the actual policy, not the clip your cousin posted, and pick the candidate who is thinking about you ten years out. If none of them are, demand new ones. If none can be demanded, build the movement that produces them. The French Revolution didn’t start with a campaign rally either.</p><p>That’s the whole letter.</p><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTk3NzE0OTYwLCJpYXQiOjE3OTM4OTc1ODEsImV4cCI6MTc5NjQ4OTU4MSwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mtLctNT_hKRByxZAJanMx7h0X8owWga5w_VocbwMwxM&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">If it landed, share it with one person who needs it.</p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTk3NzE0OTYwLCJpYXQiOjE3OTM4OTc1ODEsImV4cCI6MTc5NjQ4OTU4MSwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mtLctNT_hKRByxZAJanMx7h0X8owWga5w_VocbwMwxM&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTk3NzE0OTYwLCJpYXQiOjE3OTM4OTc1ODEsImV4cCI6MTc5NjQ4OTU4MSwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.mtLctNT_hKRByxZAJanMx7h0X8owWga5w_VocbwMwxM\"><span>Share</span></a></p></div><div><hr></div><h2>Portfolio Update</h2><p>The market hit all-time highs this week again while the portfolio was down for the week. But that is okay, we are here for the long term :) </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!KK89!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!KK89!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 424w, https://substackcdn.com/image/fetch/$s_!KK89!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 848w, https://substackcdn.com/image/fetch/$s_!KK89!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 1272w, https://substackcdn.com/image/fetch/$s_!KK89!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!KK89!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png\" width=\"505\" height=\"501.86821705426354\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/eee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/79bae1b8-29a6-4c78-a0b8-54c46d9a04a9_645x641.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:641,&quot;width&quot;:645,&quot;resizeWidth&quot;:505,&quot;bytes&quot;:48324,&quot;alt&quot;:&quot;Cumulative benchmark comparison May 11 to 15 2026: portfolio ended -3.28%, S&amp;P 500 ended +0.13%&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/197714960?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79bae1b8-29a6-4c78-a0b8-54c46d9a04a9_645x641.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Cumulative benchmark comparison May 11 to 15 2026: portfolio ended -3.28%, S&amp;P 500 ended +0.13%\" title=\"Cumulative benchmark comparison May 11 to 15 2026: portfolio ended -3.28%, S&amp;P 500 ended +0.13%\" srcset=\"https://substackcdn.com/image/fetch/$s_!KK89!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 424w, https://substackcdn.com/image/fetch/$s_!KK89!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 848w, https://substackcdn.com/image/fetch/$s_!KK89!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 1272w, https://substackcdn.com/image/fetch/$s_!KK89!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee0faf8-eb90-468f-a003-3405f85e35d1_645x641.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h3>Portfolio Return</h3><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!fGJg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!fGJg!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 424w, https://substackcdn.com/image/fetch/$s_!fGJg!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 848w, https://substackcdn.com/image/fetch/$s_!fGJg!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 1272w, https://substackcdn.com/image/fetch/$s_!fGJg!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!fGJg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png\" width=\"1242\" height=\"766\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/af3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/195b2ac0-a571-4edb-b943-5b8a0ad8af78_1242x766.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:766,&quot;width&quot;:1242,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:106091,&quot;alt&quot;:&quot;Portfolio Return bar chart comparing Beating The Tide vs S&amp;P 500 across MTD QTD YTD 1-year and Since Inception, with since-inception at 80.19% vs 28.82%&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/197714960?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F195b2ac0-a571-4edb-b943-5b8a0ad8af78_1242x766.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Portfolio Return bar chart comparing Beating The Tide vs S&amp;P 500 across MTD QTD YTD 1-year and Since Inception, with since-inception at 80.19% vs 28.82%\" title=\"Portfolio Return bar chart comparing Beating The Tide vs S&amp;P 500 across MTD QTD YTD 1-year and Since Inception, with since-inception at 80.19% vs 28.82%\" srcset=\"https://substackcdn.com/image/fetch/$s_!fGJg!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 424w, https://substackcdn.com/image/fetch/$s_!fGJg!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 848w, https://substackcdn.com/image/fetch/$s_!fGJg!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 1272w, https://substackcdn.com/image/fetch/$s_!fGJg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf3d74a3-2806-4293-8fea-f4a3f4c1b837_1242x766.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><ul><li><p><strong>Month-to-date:</strong> +0.7% vs. the S&amp;P 500’s +2.8%.</p></li><li><p><strong>Year-to-date:</strong> +27.7% vs. the S&amp;P 500’s +8.2%. That is a gap of 1,945 basis points. </p></li><li><p><strong>Since inception:</strong> +80.2% vs. the S&amp;P 500’s +28.8%. <strong>That’s 2.8x the market.</strong></p></li></ul><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/80-20-rule-investing-celestica-cls-argan-agx?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&amp;token=eyJ1c2VyX2lkIjo4NDk2NDIyMSwicG9zdF9pZCI6MTcyODg1MTUxLCJpYXQiOjE3NTc2OTMwODYsImV4cCI6MTc2MDI4NTA4NiwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.IEzIKNVQbUj2jS7qD8nYRVt1lL76aVlu4gQtfJMgJKk&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary button-wrapper\" href=\"https://www.beatingthetide.com/p/80-20-rule-investing-celestica-cls-argan-agx?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&amp;token=eyJ1c2VyX2lkIjo4NDk2NDIyMSwicG9zdF9pZCI6MTcyODg1MTUxLCJpYXQiOjE3NTc2OTMwODYsImV4cCI6MTc2MDI4NTA4NiwiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.IEzIKNVQbUj2jS7qD8nYRVt1lL76aVlu4gQtfJMgJKk\"><span>Share</span></a></p><h3>Contribution by Sector</h3><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!FlG2!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 424w, https://substackcdn.com/image/fetch/$s_!FlG2!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 848w, https://substackcdn.com/image/fetch/$s_!FlG2!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 1272w, https://substackcdn.com/image/fetch/$s_!FlG2!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!FlG2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png\" width=\"593\" height=\"160\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e50d91f0-b34d-4c3b-bbd9-86549382565e_593x160.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:160,&quot;width&quot;:593,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:30946,&quot;alt&quot;:&quot;Contribution by sector donut chart showing Technology -1.47%, Industrial -0.63%, Utilities -0.46%, Basic Materials -0.37% as the largest detractors&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/197714960?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe50d91f0-b34d-4c3b-bbd9-86549382565e_593x160.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Contribution by sector donut chart showing Technology -1.47%, Industrial -0.63%, Utilities -0.46%, Basic Materials -0.37% as the largest detractors\" title=\"Contribution by sector donut chart showing Technology -1.47%, Industrial -0.63%, Utilities -0.46%, Basic Materials -0.37% as the largest detractors\" srcset=\"https://substackcdn.com/image/fetch/$s_!FlG2!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 424w, https://substackcdn.com/image/fetch/$s_!FlG2!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 848w, https://substackcdn.com/image/fetch/$s_!FlG2!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 1272w, https://substackcdn.com/image/fetch/$s_!FlG2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b06f195-18dd-4010-984b-203bcfdbe18c_593x160.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div></figure></div><p>Tech and Industrials led the losses this week.</p><h3>Contribution by Position</h3><p><em>(For the full breakdown plus commentary on earnings results and the big movers, see <a href=\"https://www.beatingthetide.com/p/weekly-stock-performance-tracker\">Weekly Stock Performance Tracker</a>)</em></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!l4s-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!l4s-!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 424w, https://substackcdn.com/image/fetch/$s_!l4s-!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 848w, https://substackcdn.com/image/fetch/$s_!l4s-!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 1272w, https://substackcdn.com/image/fetch/$s_!l4s-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!l4s-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png\" width=\"918\" height=\"592\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e931b31f-21eb-45e9-859a-c6b0ebaf3a55_918x592.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:592,&quot;width&quot;:918,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:55213,&quot;alt&quot;:&quot;Heat map of weekly position contributions in basis points with STRL +4, LRN flat, TSM -11, MU -17, POWL -17, DXPE -21, CDE -21, CLS -52&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/197714960?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8df7b05-a0cb-45c7-b8ff-091c49eff830_934x601.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Heat map of weekly position contributions in basis points with STRL +4, LRN flat, TSM -11, MU -17, POWL -17, DXPE -21, CDE -21, CLS -52\" title=\"Heat map of weekly position contributions in basis points with STRL +4, LRN flat, TSM -11, MU -17, POWL -17, DXPE -21, CDE -21, CLS -52\" srcset=\"https://substackcdn.com/image/fetch/$s_!l4s-!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 424w, https://substackcdn.com/image/fetch/$s_!l4s-!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 848w, https://substackcdn.com/image/fetch/$s_!l4s-!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 1272w, https://substackcdn.com/image/fetch/$s_!l4s-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e86e79a-9dd3-4811-a2ca-1949fc6393eb_918x592.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">How to read the heat map? Click <a href=\"https://www.beatingthetide.com/p/celestica-cls-stock-analysis-2026?open=false#%C2%A7answer-5-heat-index\">here</a>.</figcaption></figure></div><ul><li><p>+4 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;STRL&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/p/investment-thesis-strl-sterling-infrastructure\">Thesis</a>)</p></li><li><p>flat <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;LRN&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/p/stride-lrn-stock-deep-dive-upside-2025?utm_source=publication-search\">Thesis</a>)</p></li><li><p>-11 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;TSM&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/p/tsmc-stock-why-this-semiconductor?utm_source=publication-search\">Thesis</a>)</p></li><li><p>-17 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;MU&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/p/micron-mu-top-stock-pick-2026\">Thesis</a>)</p></li><li><p>-17 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;POWL&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/p/powl-power-up-from-80-to-250-and?utm_source=publication-search\">Thesis</a>)</p></li><li><p>-21 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;DXPE&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/p/dxp-enterprises-dxpe-a-hidden-mro?utm_source=publication-search\">Thesis</a>)</p></li><li><p>-21 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;CDE&quot;}\" data-component-name=\"CashtagToDOM\"></span> (<a href=\"https://www.beatingthetide.com/i/192450766/coeur-mining-cde-the-new-north-american-precious-metals-powerhouse\">Thesis</a>) </p></li><li><p>-52 bps <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;CLS&quot;}\" data-component-name=\"CashtagToDOM\"></span> (TSX: CLS) (<a href=\"https://www.beatingthetide.com/p/george-atuan-celestica-the-most-important-ai-stock?utm_source=publication-search\">Thesis</a>)</p></li></ul><div><hr></div><p><strong>That’s it for this week.</strong></p><p><strong>Stay calm. Stay focused. And remember to stay sharp, fellow Sharks!</strong></p><p>Further Sunday reading to help your investment process:</p><ul><li><p><a href=\"https://www.beatingthetide.com/i/174035309/thought-of-the-week-never-stop-asking-why-using-the-whys-to-solve-problems-and-pick-stocks\">Never Stop Asking Why, Using the “5 Whys” to Solve Problems and Pick Stocks</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/171674993/thought-of-the-week-the-walls-you-put-up-to-protect-yourself-can-imprison-you\">The Rise and Fall of Moats: When Walls Built to Protect Become Traps</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/170451644/thought-of-the-week-design-your-life-around-your-nature\">Design Your Life Around Your Nature</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/166420512/thought-of-the-week-how-i-earn-a-month-while-waiting-to-buy-great-stocks-cheaper\">How I Earn $3,000-$7,000 a Month While Waiting to Buy Great Stocks Cheaper</a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/163786322/thought-of-the-week-cheat-codes-for-life-monopoly\">Cheat Codes for Life Monopoly</a></p></li></ul>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Hello fellow Sharks,",
+  "wordcount": 1834,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "ba07cd36-9207-48d5-9cef-f13440cbe7d7",
+      "publication_id": 3704888,
+      "name": "Weeklies",
+      "slug": "weekly",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": {
+    "post_id": 197714960,
+    "starts_at": "2026-05-17T21:32:01.132Z",
+    "ended_at": "2026-05-17T22:32:01.256Z",
+    "planned_duration_ms": 3600000,
+    "test_cohort_percent": 50,
+    "test_cohort_emailed": true,
+    "main_cohort_emailed": true,
+    "created_at": "2026-05-17T17:50:23.820Z",
+    "updated_at": "2026-05-17T22:32:12.546Z",
+    "creator_id": 84964221,
+    "ended_early": false,
+    "winner_overridden": false
+  },
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        209,
+        71,
+        63
+      ],
+      "population": 49
+    },
+    "DarkVibrant": {
+      "rgb": [
+        126,
+        43,
+        33
+      ],
+      "population": 18
+    },
+    "LightVibrant": {
+      "rgb": [
+        231,
+        192,
+        151
+      ],
+      "population": 130
+    },
+    "Muted": {
+      "rgb": [
+        159,
+        130,
+        113
+      ],
+      "population": 89
+    },
+    "DarkMuted": {
+      "rgb": [
+        79,
+        57,
+        51
+      ],
+      "population": 358
+    },
+    "LightMuted": {
+      "rgb": [
+        184,
+        158,
+        133
+      ],
+      "population": 359
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 4,
+  "comment_count": 2,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 197714960,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/197714960/tts/13d640bf-3575-4498-8bbc-b0a7ab7547ba/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "inboxItem": {
+    "content_key": "post:197714960",
+    "updated_at": "2026-07-28T13:42:57.809Z",
+    "content_date": "2026-05-17T21:32:00.853Z",
+    "inbox_date": "2026-05-17T21:32:00.853Z",
+    "seen_at": "2026-07-28T13:42:57.809Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": false,
+    "type": "post",
+    "post_id": 197714960,
+    "extra_views": [
+      "media",
+      "paid"
+    ],
+    "read_progress": 1,
+    "max_read_progress": 1,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "newsletter",
+    "title": "Weekly #82: Letter From an Older Brother (Who Also Started Broke)",
+    "subtitle": "Portfolio +27.7% YTD. Plus, a letter for anyone in their twenties who's been told the system is rigged and the only way out is the trade that 10x's by Friday.",
+    "detail_view_subtitle": "Portfolio +27.7% YTD, 2.8x the S&P since inception. Plus, a letter for anyone in their twenties who's been told the system is rigged and the only way out is the trade that 10x's by Friday.",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e4652532-d6c9-4960-ad94-9333e5fc1b17_1920x1080.png",
+    "audience": "everyone",
+    "is_preview": false,
+    "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/197714960/tts/13d640bf-3575-4498-8bbc-b0a7ab7547ba/en-GB-OllieMultilingualNeural.mp3",
+    "audio_type": "tts",
+    "web_url": "https://www.beatingthetide.com/p/weekly-82-letter-from-an-older-brother",
+    "duration_metadata": {
+      "word_count": 1834
+    },
+    "authors": [
+      "George Atuan, CFA"
+    ],
+    "published_bylines": [
+      {
+        "id": 84964221,
+        "name": "George Atuan, CFA",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          209,
+          71,
+          63
+        ],
+        "population": 49
+      },
+      "DarkVibrant": {
+        "rgb": [
+          126,
+          43,
+          33
+        ],
+        "population": 18
+      },
+      "LightVibrant": {
+        "rgb": [
+          231,
+          192,
+          151
+        ],
+        "population": 130
+      },
+      "Muted": {
+        "rgb": [
+          159,
+          130,
+          113
+        ],
+        "population": 89
+      },
+      "DarkMuted": {
+        "rgb": [
+          79,
+          57,
+          51
+        ],
+        "population": 358
+      },
+      "LightMuted": {
+        "rgb": [
+          184,
+          158,
+          133
+        ],
+        "population": 359
+      }
+    },
+    "publication_id": 3704888,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+    "publisher_name": "Beating The Tide: Stock Picks That Outperform",
+    "is_personal_mode": false,
+    "like_count": 4,
+    "comment_count": 2,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 197714960,
+      "post_type": "newsletter",
+      "publication_id": 3704888,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 1,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2026-07-28T13:42:57.809Z",
+      "impression_id": "4fdb5724-6209-4bf5-8280-28266c8341aa"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 1,
+  "max_read_progress": 1,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": [
+    {
+      "id": 265775476,
+      "body": "Baby boomer here but I like to run with the millennials They keep me young!",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Baby boomer here but I like to run with the millennials They keep me young!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3704888,
+      "post_id": 197714960,
+      "user_id": 386385337,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-05-27T02:22:53.977Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Jeffrey Hilliard",
+      "photo_url": null,
+      "handle": "jeffhilliard",
+      "reactor_names": [
+        "George Atuan, CFA"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jeffhilliard",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Jeffrey Hilliard",
+          "id": 10616627,
+          "base_url": "https://jeffhilliard.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by George Atuan, CFA"
+    }
+  ]
+}

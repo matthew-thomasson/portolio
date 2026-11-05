@@ -1,0 +1,484 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/blockchain-real-estate-middlemen",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 213395703,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-08-30T13:24:52.523Z",
+  "updated_at": "2026-08-30T14:24:53.566Z",
+  "publication_id": 3704888,
+  "search_engine_description": "I am flying 36-hour flight to sign one paper. Why blockchain real estate transactions are coming for brokers, notaries, and the 5% commission.",
+  "search_engine_title": "Blockchain Is Coming for Real Estate’s Middlemen",
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "blockchain-real-estate-middlemen",
+  "social_title": "Weekly #97: Blockchain Is Coming for the Middlemen",
+  "subtitle": "Portfolio +40.5% YTD, 2.9x the S&P since inception. Plus, I’s flying 36 hours (round trip) to sign one piece of paper, and why that trip convinced me blockchain will eat the middlemen.",
+  "teaser_post_eligible": true,
+  "title": "Weekly #97: Blockchain Is Coming for the Middlemen",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 7,
+  "reactions": {
+    "❤": 6
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "bessent-put-treasury-buybacks",
+  "next_post_slug": "mena-oilfield-services-q2-2026-earnings-update",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/0819dff9-8d54-4fbb-9dc9-ca5ca19d6331_1920x1080.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 213395703,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Portfolio +40.5% YTD, 2.9x the S&P since inception. Plus, I flew 36 hours (round trip) to sign one piece of paper, and why that trip convinced me blockchain will eat the middlemen.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!pFbi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!pFbi!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 424w, https://substackcdn.com/image/fetch/$s_!pFbi!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 848w, https://substackcdn.com/image/fetch/$s_!pFbi!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 1272w, https://substackcdn.com/image/fetch/$s_!pFbi!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!pFbi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png\" width=\"597\" height=\"419\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:419,&quot;width&quot;:597,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;A real estate broker smiling in front of a sold house. Blockchain could do 90% of his job for a fraction of the commission. Please don’t tell his clients.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"A real estate broker smiling in front of a sold house. Blockchain could do 90% of his job for a fraction of the commission. Please don’t tell his clients.\" title=\"A real estate broker smiling in front of a sold house. Blockchain could do 90% of his job for a fraction of the commission. Please don’t tell his clients.\" srcset=\"https://substackcdn.com/image/fetch/$s_!pFbi!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 424w, https://substackcdn.com/image/fetch/$s_!pFbi!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 848w, https://substackcdn.com/image/fetch/$s_!pFbi!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 1272w, https://substackcdn.com/image/fetch/$s_!pFbi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4a30f3c-4354-4b87-8e4c-8ba9f82451e9_597x419.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p><span>Hello fellow Sharks,</span></p><p><span>Until Thursday, we were comfortably beating the index, but momentum shifted on Friday, and we ended the week slightly trailing the market. If you want to skip straight to the numbers, jump to the </span><a href=\"https://www.beatingthetide.com/i/213395703/portfolio-update\"><span>Portfolio Update</span></a><span>.</span></p><p><span>Last week STRT reported earnings.</span></p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!t6p9!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 424w, https://substackcdn.com/image/fetch/$s_!t6p9!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 848w, https://substackcdn.com/image/fetch/$s_!t6p9!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 1272w, https://substackcdn.com/image/fetch/$s_!t6p9!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!t6p9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png\" width=\"1351\" height=\"247\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:247,&quot;width&quot;:1351,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;STRT FQ4 2026: revenue of $152M beat consensus by 3.4% and normalized EPS of $2.06 beat by 51.5%, yet the stock fell 6.3% on the print. Source: RankedStocks.com earnings calendar.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"STRT FQ4 2026: revenue of $152M beat consensus by 3.4% and normalized EPS of $2.06 beat by 51.5%, yet the stock fell 6.3% on the print. Source: RankedStocks.com earnings calendar.\" title=\"STRT FQ4 2026: revenue of $152M beat consensus by 3.4% and normalized EPS of $2.06 beat by 51.5%, yet the stock fell 6.3% on the print. Source: RankedStocks.com earnings calendar.\" srcset=\"https://substackcdn.com/image/fetch/$s_!t6p9!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 424w, https://substackcdn.com/image/fetch/$s_!t6p9!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 848w, https://substackcdn.com/image/fetch/$s_!t6p9!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 1272w, https://substackcdn.com/image/fetch/$s_!t6p9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff84d9918-1581-4588-b00e-caeb0fecfbf1_1351x247.png 1456w\" sizes=\"100vw\"></picture><div></div></div></div><figcaption class=\"image-caption\">RankedStocks.com</figcaption></figure></div><p><span>Remember that I </span><a href=\"https://www.beatingthetide.com/p/trade-alert-august-stock-pick\"><span>closed the position</span></a><span> on Aug 17 at $81.56. The quarter itself was strong, STRT beat on both revenue and EPS, and the stock briefly spiked toward $89 on the print. Then it reversed hard as </span><a href=\"https://finance.yahoo.com/markets/stocks/articles/strattec-security-corp-strt-q4-030106526.html\"><span>management called FY2027 challenging</span></a><span> on lower vehicle production and FX headwinds, and it closed the week at $75, under our exit.</span></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!nDUS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!nDUS!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 424w, https://substackcdn.com/image/fetch/$s_!nDUS!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 848w, https://substackcdn.com/image/fetch/$s_!nDUS!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 1272w, https://substackcdn.com/image/fetch/$s_!nDUS!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!nDUS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png\" width=\"594\" height=\"366.2099370188943\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:881,&quot;width&quot;:1429,&quot;resizeWidth&quot;:594,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;STRT slid from our $81.56 exit on Aug 17 to $75.10 by Friday’s close, after a failed spike toward $89 on the Aug 26 earnings reaction. Source: TradingView.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"STRT slid from our $81.56 exit on Aug 17 to $75.10 by Friday’s close, after a failed spike toward $89 on the Aug 26 earnings reaction. Source: TradingView.\" title=\"STRT slid from our $81.56 exit on Aug 17 to $75.10 by Friday’s close, after a failed spike toward $89 on the Aug 26 earnings reaction. Source: TradingView.\" srcset=\"https://substackcdn.com/image/fetch/$s_!nDUS!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 424w, https://substackcdn.com/image/fetch/$s_!nDUS!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 848w, https://substackcdn.com/image/fetch/$s_!nDUS!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 1272w, https://substackcdn.com/image/fetch/$s_!nDUS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcec6f0e9-74a4-47bd-865b-d9fe52945c04_1429x881.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p><span>In the coming week, two portfolio companies report: DELL and CRDO.</span></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!B3wu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!B3wu!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 424w, https://substackcdn.com/image/fetch/$s_!B3wu!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 848w, https://substackcdn.com/image/fetch/$s_!B3wu!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 1272w, https://substackcdn.com/image/fetch/$s_!B3wu!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!B3wu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png\" width=\"1338\" height=\"345\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:345,&quot;width&quot;:1338,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Two portfolio companies report on Tuesday, Sept 1: DELL (consensus revenue $44.93B, EPS $4.91) and CRDO (consensus revenue $473M, EPS $1.17). Source: RankedStocks.com earnings calendar.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Two portfolio companies report on Tuesday, Sept 1: DELL (consensus revenue $44.93B, EPS $4.91) and CRDO (consensus revenue $473M, EPS $1.17). Source: RankedStocks.com earnings calendar.\" title=\"Two portfolio companies report on Tuesday, Sept 1: DELL (consensus revenue $44.93B, EPS $4.91) and CRDO (consensus revenue $473M, EPS $1.17). Source: RankedStocks.com earnings calendar.\" srcset=\"https://substackcdn.com/image/fetch/$s_!B3wu!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 424w, https://substackcdn.com/image/fetch/$s_!B3wu!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 848w, https://substackcdn.com/image/fetch/$s_!B3wu!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 1272w, https://substackcdn.com/image/fetch/$s_!B3wu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d543827-f04f-4491-ace2-b52bdc7faf31_1338x345.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">RankedStocks.com</figcaption></figure></div><p><span>This Weekly will be shorter than usual. As I mentioned last week, I would be traveling this week on short notice. Since Monday, all my time has been spent coordinating the trip so that I stay in Chile for the fewest days possible, as I need to be back so as not to miss my son’s birth.</span></p><p><span>As you would imagine, investing took a back seat this week. I barely turned on my computer; I think I saw some news about Iran but I’m not sure. I assumed my oil positions would do well and my tech ones would be hurt. You would say not checking the market every day is irresponsible for someone running an investing newsletter, but I have to eat my own cooking as well. Long-term investing means that short-term noise shouldn’t trigger me to change my positions. My portfolio is not a momentum-driven portfolio so I would be fine not having internet access and not following the news for ten years and then checking my positions. True, maybe some positions drew down from the peak in that time, but ultimately in 10 years my portfolio would be much higher than today.</span></p><p><span>To stay true to the spirit of the “Thought of the Week”, my piece this week won’t be about investing, as I didn’t think about investing this week. It is about something that preoccupied my mind instead … blockchain.</span></p><p><span>Enjoy the read, and have a great Sunday.</span></p><div><hr></div><h3><span>Table of Contents:</span></h3><ul><li><p><a href=\"https://www.beatingthetide.com/i/213395703/im-flying-36-hours-to-sign-one-piece-of-paper\"><span>I’m Flying 36 Hours to Sign One Piece of Paper</span></a></p></li><li><p><a href=\"https://www.beatingthetide.com/i/213395703/portfolio-update\"><span>Portfolio Update</span></a></p></li></ul><div><hr></div><h5><span>Thought Of The Week</span></h5><h2><span>I’m Flying 36 Hours to Sign One Piece of Paper</span></h2><p><span>I don’t run away from hard work or challenging jobs. But I do hate inefficiencies. One idea that stuck with me from Walter’s Elon Musk book is from when he was talking about SpaceX: </span></p><blockquote><p><span>“the only rules that matter are the ones dictated by the laws of physics, everything else is a recommendation.”</span></p></blockquote><p><span>And I totally agree with him (unless the rules are there to protect people). That is how bureaucracy works. I bet many rules were implemented because of one specific screw-up in the past, then got grandfathered, and if you ask regulators today what the point of the rule is, they don’t even know why it is there.</span></p><p><span>So most people would have hated to go on this short trip to Chile. From Canada to Chile, including the transit is 15-16 hours; include the time from home to the airport and then from the airport to my destination, and I would be traveling 36 hours round trip to stay just a few days in Chile.</span></p><p><span>I was okay with the trip, but what I hated was the reason I had to make it. I am selling one of my properties in Chile, and I have to go sign the final document for the transaction. But wait…I remember when I bought my place in Toronto, all the signing was done online. So that was the first thing I tried to do: I investigated if I could sign online, and I was told it has to be signed in person, in front of a notary chosen by the bank in Chile.</span></p><p><span>This clouded my head the entire week: how a so-called modernized country still had to use paper signatures. Then I thought about how these inefficiencies in the system are the reason that blockchain will be massively adopted.</span></p><p><span>You can use blockchain for anything where you need to confirm ownership. Cryptos were the first blockchain implementation to confirm ownership of a digital asset, and </span><a href=\"https://www.washingtonpost.com/technology/2018/08/10/west-virginia-pilots-mobile-blockchain-voting-app-overseas-voters-november-election/\"><span>blockchain voting</span></a><span> has been used to confirm a voter is who they say they are (West Virginia let soldiers deployed overseas vote through a blockchain app back in 2018). Governments are moving physical assets on-chain too: </span><a href=\"https://www.coindesk.com/business/2024/07/30/california-dmv-puts-42m-car-titles-on-the-avalanche-network-in-digitization-push\"><span>California’s DMV put all 42 million of its car titles on a blockchain</span></a><span> in 2024, cutting a title transfer from two weeks at a counter to a few minutes.</span></p><p><span>But I think the next blockchain implementation with many low-hanging fruits is real estate transactions. Besides the ~5% commission for brokers/agents, there is the title lawyer, the financing cost, the title insurance, the appraisal, the land transfer tax, and the notary. All those are inefficiencies inserted in the system; brokers are an inefficiency blocking buyers from sellers (I expect many of you, especially brokers, to attack me on this. Unless the broker can sell an unsaleable property or bring the buyer his dream house that is not even on the market, I don’t think the 5% commission is justified…sorry but it is the fact). </span></p><p><span>Lawyers are an inefficiency to ensure that the person selling the property actually holds the title for that asset. And there are others: title insurers exist because the registry might be wrong, escrow agents exist because the buyer and the seller don’t trust each other, and the notary exists to confirm that I am me. </span><mark data-color=\"#ffff00\" style=\"background-color: rgb(255, 255, 0); color: rgb(0, 0, 0);\"><span>All of them charge for the same product, trust, and trust is exactly what a blockchain automates.</span></mark></p><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/blockchain-real-estate-middlemen?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MjEzMzk1NzAzLCJpYXQiOjE3OTM4OTc1NTcsImV4cCI6MTc5NjQ4OTU1NywiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0._oDiytbKIj9B_japuVIJEaI4Oz0NoMz7Lgktjobmwl0&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">If you have a broker in your life, share this piece with them, I am ready for the hate mail.</p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/blockchain-real-estate-middlemen?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MjEzMzk1NzAzLCJpYXQiOjE3OTM4OTc1NTcsImV4cCI6MTc5NjQ4OTU1NywiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0._oDiytbKIj9B_japuVIJEaI4Oz0NoMz7Lgktjobmwl0&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/blockchain-real-estate-middlemen?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MjEzMzk1NzAzLCJpYXQiOjE3OTM4OTc1NTcsImV4cCI6MTc5NjQ4OTU1NywiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0._oDiytbKIj9B_japuVIJEaI4Oz0NoMz7Lgktjobmwl0\"><span>Share</span></a></p></div><p><span>So imagine, rather than me flying to Chile and both sides paying closing fees</span><a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-1\" href=\"#footnote-1\" target=\"_self\">1</a><span>, I could have logged into a system that has every property on a blockchain, with a smart contract that executes once the down payment is in escrow and the bank has settled the mortgage. One further step is to have the mortgage itself on a blockchain, financing peer-to-peer mortgages…a great idea in my opinion. The transaction would be recorded on the chain and my name replaced with the new owner’s.</span></p><div class=\"poll-embed\" data-attrs=\"{&quot;id&quot;:1110581}\" data-component-name=\"PollToDOM\"></div><p><span>And this is not science fiction; the plumbing already exists. </span><a href=\"https://www.newsweek.com/blockchain-sell-real-estate-first-time-ethereum-682982\"><span>Propy recorded the first blockchain property sale back in 2017</span></a><span> (TechCrunch’s founder bought a Kyiv apartment through an Ethereum smart contract), </span><a href=\"https://www.computerweekly.com/news/450421958/Sweden-trials-blockchain-for-land-registry-management\"><span>Sweden’s land registry has piloted blockchain title transfers</span></a><span>, </span><a href=\"https://exonum.com/story-georgia\"><span>the country of Georgia registers land titles on one</span></a><span>, and </span><a href=\"https://dubailand.gov.ae/en/eservices/real-estate-tokenization/\"><span>Dubai’s Land Department already issues blockchain title deeds</span></a><span>. The technology is there; what is missing is the will to fire the middlemen.</span></p><p><span>However, I am not naive; there will always be a middleman. For example, even though you can transact cryptos directly, most transactions are done on platforms such as Coinbase [<span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$COIN&quot;}\" data-component-name=\"CashtagToDOM\"></span>] that take a fee. And some middlemen earn their keep: forget your private key and your bitcoins are gone forever; forget your Coinbase password and you reset it and still have them.</span></p><p>You don’t want to be James Howells…</p><div id=\"youtube2-8BedFrt7mAk\" class=\"youtube-wrap\" data-attrs=\"{&quot;videoId&quot;:&quot;8BedFrt7mAk&quot;,&quot;startTime&quot;:null,&quot;endTime&quot;:null}\" data-component-name=\"Youtube2ToDOM\"><div class=\"youtube-inner\"><iframe src=\"https://www.youtube-nocookie.com/embed/8BedFrt7mAk?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0\" frameborder=\"0\" loading=\"lazy\" gesture=\"media\" allow=\"autoplay; fullscreen\" allowautoplay=\"true\" allowfullscreen=\"true\" width=\"728\" height=\"409\"></iframe></div></div><p><span>But the transaction cost, or friction (read </span><a href=\"https://www.beatingthetide.com/i/190111712/thought-of-the-week-the-physics-of-investing-part-2-understanding-friction\"><span>my piece on friction</span></a><span>), would be reduced. </span></p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;82b397d8-9f5f-403e-900f-eb7eec4b0f7d&quot;,&quot;caption&quot;:&quot;Hello fellow Sharks,&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Weekly #72: The Year the KINS Thesis Graduated. Plus, the Friction That's Quietly Destroying Your Returns.&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:100}],&quot;post_date&quot;:&quot;2026-03-08T16:50:40.688Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1efdc80a-55c6-480e-98a0-9e69a5ca195e_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/kins-q4-2025-earnings-kingstone-companies-analysis&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:190111712,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:5,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p><span>So I think there will be two types of middlemen, new entrants and incumbents. </span></p><p><span>I expect the incumbents in some markets to disrupt themselves to stay in the loop, such as financial firms. Right now, when you transact stocks, settlement is T+1: your trade runs through a central clearinghouse that nets and guarantees every trade between brokers, a batch process designed decades ago, so the shares are officially yours one business day after you click buy (it was T+2 until May 2024). </span></p><p><span>On a blockchain it could settle almost immediately, at a fraction of the cost. Financial firms saw this kind of disruption coming before and disrupted themselves: some of you are too young, but there was a time when buying shares cost you $50 a trade, then came the discount brokers at $9.95, then $6.95, and now most brokers charge no commission at all (they sell your order flow to high-frequency market makers instead, check out Flash Boys by Michael Lewis).</span></p><p><span>There has also been a push toward T+0, same-day settlement, to bulletproof the system against exactly this kind of blockchain disruption. That is how incumbents disrupt themselves.</span></p><p><span>The new middlemen, I think, will show up in real estate transactions as I don’t see brokers/agents disrupting themselves for two reasons. </span></p><p><span>First, brokers are fragmented rather than concentrated like the financial firms above. Second, if a financial firm disrupts stock trading, it is jeopardizing one revenue line, but for many brokers the commission is their sole income, so going from a $25,000 commission to $25 would hit them very hard. </span></p><p><span>We have seen this movie before: travel agents did not build Expedia, and taxi owners did not build Uber, the disruption came from outside because the incumbents had everything to lose. Even the courts could not move the fee: the National Association of Realtors paid </span><a href=\"https://www.fastexpert.com/blog/nar-settlement-impact/\"><span>$418M to settle an antitrust case</span></a><span> over commissions, the rules changed in August 2024, and </span><a href=\"https://www.mikedp.com/articles/2024/11/20/post-settlement-buyer-agent-commissions-remain-unchanged\"><span>buyer-agent commissions have not budged</span></a><span>.</span></p><p><span>That was my short thought of the week. And here is the question I kept turning over: once a public ledger can prove who owns what, what exactly are we paying the middlemen 5% for… and which of them do you think gets fired first?</span></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/blockchain-real-estate-middlemen/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/blockchain-real-estate-middlemen/comments\"><span>Leave a comment</span></a></p><div><hr></div><h2><span>Portfolio Update</span></h2><p><span>The week came down to Friday. Through Thursday we were 65 bps ahead of the index for the week; Friday alone cost the portfolio almost two points, and we closed the week about a point behind the S&amp;P 500.</span></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!8-N8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!8-N8!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 424w, https://substackcdn.com/image/fetch/$s_!8-N8!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 848w, https://substackcdn.com/image/fetch/$s_!8-N8!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 1272w, https://substackcdn.com/image/fetch/$s_!8-N8!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!8-N8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png\" width=\"566\" height=\"469.23473541383987\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5c6b261b-cb97-4a24-bb49-21b625809f37_737x611.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:611,&quot;width&quot;:737,&quot;resizeWidth&quot;:566,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Beating The Tide vs the S&amp;P 500, Aug 24-28: the portfolio led through Thursday (+1.39% vs +0.74%) and closed the week at -0.54% vs +0.49%. Source: IBKR PortfolioAnalyst.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Beating The Tide vs the S&amp;P 500, Aug 24-28: the portfolio led through Thursday (+1.39% vs +0.74%) and closed the week at -0.54% vs +0.49%. Source: IBKR PortfolioAnalyst.\" title=\"Beating The Tide vs the S&amp;P 500, Aug 24-28: the portfolio led through Thursday (+1.39% vs +0.74%) and closed the week at -0.54% vs +0.49%. Source: IBKR PortfolioAnalyst.\" srcset=\"https://substackcdn.com/image/fetch/$s_!8-N8!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 424w, https://substackcdn.com/image/fetch/$s_!8-N8!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 848w, https://substackcdn.com/image/fetch/$s_!8-N8!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 1272w, https://substackcdn.com/image/fetch/$s_!8-N8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0cf996b-d7c5-44d8-b488-8b3dec2871b8_737x611.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h3><span>Portfolio Return</span></h3><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!OaBA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!OaBA!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 424w, https://substackcdn.com/image/fetch/$s_!OaBA!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 848w, https://substackcdn.com/image/fetch/$s_!OaBA!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 1272w, https://substackcdn.com/image/fetch/$s_!OaBA!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!OaBA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png\" width=\"584\" height=\"360.1803542673108\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e8721b6c-c80c-4e0a-aab4-c59987bd6178_1242x766.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:766,&quot;width&quot;:1242,&quot;resizeWidth&quot;:584,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Beating The Tide vs the S&amp;P 500 as of Aug 28, 2026: +40.5% vs +12.7% YTD and +98.3% vs +34.1% since the Oct 2024 inception, 2.9x the market. Source: Datawrapper, author data.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Beating The Tide vs the S&amp;P 500 as of Aug 28, 2026: +40.5% vs +12.7% YTD and +98.3% vs +34.1% since the Oct 2024 inception, 2.9x the market. Source: Datawrapper, author data.\" title=\"Beating The Tide vs the S&amp;P 500 as of Aug 28, 2026: +40.5% vs +12.7% YTD and +98.3% vs +34.1% since the Oct 2024 inception, 2.9x the market. Source: Datawrapper, author data.\" srcset=\"https://substackcdn.com/image/fetch/$s_!OaBA!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 424w, https://substackcdn.com/image/fetch/$s_!OaBA!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 848w, https://substackcdn.com/image/fetch/$s_!OaBA!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 1272w, https://substackcdn.com/image/fetch/$s_!OaBA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20196e38-9f7e-4930-b1c9-98900f7da5a8_1242x766.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><ul><li><p><strong><span>Month-to-date:</span></strong><span> +4.3% vs. the S&amp;P 500’s +3.0%.</span></p></li><li><p><strong><span>Year-to-date:</span></strong><span> +40.5% vs. the S&amp;P 500’s +12.7%. That is a gap of 2,783 basis points.</span></p></li><li><p><strong><span>Since inception:</span></strong><span> +98.3% vs. the S&amp;P 500’s +34.1%. </span><strong><span>That’s 2.9x the market.</span></strong></p></li></ul><h3><span>Contribution by Sector</span></h3><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!7eyR!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 424w, https://substackcdn.com/image/fetch/$s_!7eyR!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 848w, https://substackcdn.com/image/fetch/$s_!7eyR!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 1272w, https://substackcdn.com/image/fetch/$s_!7eyR!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!7eyR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png\" width=\"586\" height=\"144.7109905020353\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/aa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cd7d2874-bc4a-4af8-b59e-0b1927cc0c95_737x182.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:182,&quot;width&quot;:737,&quot;resizeWidth&quot;:586,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Sector contribution for the week: industrials (-0.56%) and consumer cyclicals (-0.35%) led the drawdown; technology (+0.29%) and energy (+0.18%) offset part of it. Source: IBKR PortfolioAnalyst.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Sector contribution for the week: industrials (-0.56%) and consumer cyclicals (-0.35%) led the drawdown; technology (+0.29%) and energy (+0.18%) offset part of it. Source: IBKR PortfolioAnalyst.\" title=\"Sector contribution for the week: industrials (-0.56%) and consumer cyclicals (-0.35%) led the drawdown; technology (+0.29%) and energy (+0.18%) offset part of it. Source: IBKR PortfolioAnalyst.\" srcset=\"https://substackcdn.com/image/fetch/$s_!7eyR!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 424w, https://substackcdn.com/image/fetch/$s_!7eyR!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 848w, https://substackcdn.com/image/fetch/$s_!7eyR!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 1272w, https://substackcdn.com/image/fetch/$s_!7eyR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa2c8758-afe3-4bac-b5ed-90c8392c95dc_737x182.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div></figure></div><p><span>Industrials and consumer cyclicals did the damage this week. My airport guess was only half right: the oil names did what I assumed they would, but tech, which I had assumed would be the casualty, was the top contributor thanks to DELL.</span></p><h3><span>Contribution by Position</span></h3><p><em>How to read the heat map? Click <a href=\"https://www.beatingthetide.com/p/celestica-cls-stock-analysis-2026?open=false#%C2%A7answer-5-heat-index\">here</a>.</em></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Rfum!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Rfum!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 424w, https://substackcdn.com/image/fetch/$s_!Rfum!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 848w, https://substackcdn.com/image/fetch/$s_!Rfum!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 1272w, https://substackcdn.com/image/fetch/$s_!Rfum!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Rfum!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png\" width=\"1160\" height=\"758\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png&quot;,&quot;srcNoWatermark&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a2e1a322-c9e7-48f1-a5e8-56a3ffa08c67_1160x758.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:758,&quot;width&quot;:1160,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Weekly contribution by position: DELL +31 bps led; STRL -32 bps, EAT -30 bps and MU -24 bps were the largest drags. Source: IBKR PortfolioAnalyst.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Weekly contribution by position: DELL +31 bps led; STRL -32 bps, EAT -30 bps and MU -24 bps were the largest drags. Source: IBKR PortfolioAnalyst.\" title=\"Weekly contribution by position: DELL +31 bps led; STRL -32 bps, EAT -30 bps and MU -24 bps were the largest drags. Source: IBKR PortfolioAnalyst.\" srcset=\"https://substackcdn.com/image/fetch/$s_!Rfum!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 424w, https://substackcdn.com/image/fetch/$s_!Rfum!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 848w, https://substackcdn.com/image/fetch/$s_!Rfum!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 1272w, https://substackcdn.com/image/fetch/$s_!Rfum!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208f760-d362-4be3-a3d8-eac586e5ccbb_1160x758.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><p><strong><span>That’s it for this week.</span></strong></p><p><strong><span>Stay calm. Stay focused. And remember to stay sharp, fellow Sharks!</span></strong></p><div class=\"footnote\" data-component-name=\"FootnoteToDOM\"><a id=\"footnote-1\" href=\"#footnote-anchor-1\" class=\"footnote-number\" contenteditable=\"false\" target=\"_self\">1</a><div class=\"footnote-content\"><p> At least we avoided the broker fee; it was a private transaction between people who know each other.</p></div></div>",
+  "has_dynamic_content": true,
+  "truncated_body_text": "Hello fellow Sharks,",
+  "wordcount": 1829,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "43946330-d69a-4b46-83fa-d0d74a829b39",
+      "publication_id": 3704888,
+      "name": "blockchain",
+      "slug": "blockchain",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "ba07cd36-9207-48d5-9cef-f13440cbe7d7",
+      "publication_id": 3704888,
+      "name": "Weeklies",
+      "slug": "weekly",
+      "hidden": false
+    },
+    {
+      "id": "c5951432-5619-4697-b770-27f36ac24149",
+      "publication_id": 3704888,
+      "name": "AI",
+      "slug": "ai",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": {
+    "post_id": 213395703,
+    "starts_at": "2026-08-30T13:24:53.132Z",
+    "ended_at": "2026-08-30T14:24:53.356Z",
+    "planned_duration_ms": 3600000,
+    "test_cohort_percent": 40,
+    "test_cohort_emailed": true,
+    "main_cohort_emailed": true,
+    "created_at": "2026-08-30T12:58:21.824Z",
+    "updated_at": "2026-08-30T14:25:11.134Z",
+    "creator_id": 84964221,
+    "ended_early": false,
+    "winner_overridden": false
+  },
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        148,
+        13,
+        23
+      ],
+      "population": 232
+    },
+    "DarkVibrant": {
+      "rgb": [
+        166,
+        44,
+        55
+      ],
+      "population": 52
+    },
+    "LightVibrant": {
+      "rgb": [
+        211,
+        226,
+        245
+      ],
+      "population": 117
+    },
+    "Muted": {
+      "rgb": [
+        162,
+        133,
+        119
+      ],
+      "population": 309
+    },
+    "DarkMuted": {
+      "rgb": [
+        52,
+        76,
+        84
+      ],
+      "population": 1
+    },
+    "LightMuted": {
+      "rgb": [
+        161,
+        180,
+        199
+      ],
+      "population": 241
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 6,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 213395703,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/213395703/tts/3d3bc7b6-a2a2-4558-b6e7-dc463e44ab86/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "inboxItem": {
+    "content_key": "post:213395703",
+    "updated_at": "2026-08-30T13:36:52.895Z",
+    "content_date": "2026-08-30T13:24:52.523Z",
+    "inbox_date": "2026-08-30T13:24:52.523Z",
+    "seen_at": "2026-08-30T13:36:52.895Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": false,
+    "type": "post",
+    "post_id": 213395703,
+    "extra_views": [
+      "media",
+      "paid"
+    ],
+    "read_progress": 1,
+    "max_read_progress": 1,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "newsletter",
+    "title": "Weekly #97: Blockchain Is Coming for the Middlemen",
+    "subtitle": "Portfolio +40.5% YTD, 2.9x the S&P since inception. Plus, I flew 36 hours (round trip) to sign one piece of paper, and why that trip convinced me blockchain will eat the middlemen.",
+    "detail_view_subtitle": "Portfolio +40.5% YTD, 2.9x the S&P since inception. Plus, I’s flying 36 hours (round trip) to sign one piece of paper, and why that trip convinced me blockchain will eat the middlemen.",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/0819dff9-8d54-4fbb-9dc9-ca5ca19d6331_1920x1080.png",
+    "audience": "everyone",
+    "is_preview": false,
+    "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/213395703/tts/3d3bc7b6-a2a2-4558-b6e7-dc463e44ab86/en-GB-OllieMultilingualNeural.mp3",
+    "audio_type": "tts",
+    "web_url": "https://www.beatingthetide.com/p/blockchain-real-estate-middlemen",
+    "duration_metadata": {
+      "word_count": 1829
+    },
+    "authors": [
+      "George Atuan, CFA"
+    ],
+    "published_bylines": [
+      {
+        "id": 84964221,
+        "name": "George Atuan, CFA",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          148,
+          13,
+          23
+        ],
+        "population": 232
+      },
+      "DarkVibrant": {
+        "rgb": [
+          166,
+          44,
+          55
+        ],
+        "population": 52
+      },
+      "LightVibrant": {
+        "rgb": [
+          211,
+          226,
+          245
+        ],
+        "population": 117
+      },
+      "Muted": {
+        "rgb": [
+          162,
+          133,
+          119
+        ],
+        "population": 309
+      },
+      "DarkMuted": {
+        "rgb": [
+          52,
+          76,
+          84
+        ],
+        "population": 1
+      },
+      "LightMuted": {
+        "rgb": [
+          161,
+          180,
+          199
+        ],
+        "population": 241
+      }
+    },
+    "publication_id": 3704888,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+    "publisher_name": "Beating The Tide: Stock Picks That Outperform",
+    "is_personal_mode": false,
+    "like_count": 6,
+    "comment_count": 0,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 213395703,
+      "post_type": "newsletter",
+      "publication_id": 3704888,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 1,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2026-08-30T13:36:52.895Z",
+      "impression_id": "378bed4a-e553-4775-916c-29b6363c6a81"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 1,
+  "max_read_progress": 1,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "is_ai_generated_text": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}

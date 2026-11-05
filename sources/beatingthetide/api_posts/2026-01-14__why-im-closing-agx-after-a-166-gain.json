@@ -1,0 +1,467 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 184445914,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-01-14T17:59:39.931Z",
+  "updated_at": "2026-01-14T18:00:13.615Z",
+  "publication_id": 3704888,
+  "search_engine_description": "I’m not timing the top. I’m rotating capital because Argan (AGX) upside shrank and better risk-reward opportunities emerged.",
+  "search_engine_title": "Why I’m Closing Argan (AGX) After a 166% Gain But Still Bullish",
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "why-im-closing-agx-after-a-166-gain",
+  "social_title": "Why I’m Closing AGX After a 166% Gain",
+  "subtitle": "I’m not timing the top. I’m rotating capital because upside shrank and better setups showed up.",
+  "teaser_post_eligible": true,
+  "title": "Why I’m Closing AGX after a +166% Gain",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "investment-risk-and-reward",
+  "next_post_slug": "why-im-raising-my-tsmc-taiwan-semiconductor-tsm",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/ba868240-5784-4999-970c-6a65bf36128a_1920x1080.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 184445914,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "I’m not timing the top. I’m rotating capital because upside shrank and better setups showed up.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!J47b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!J47b!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 424w, https://substackcdn.com/image/fetch/$s_!J47b!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 848w, https://substackcdn.com/image/fetch/$s_!J47b!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!J47b!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!J47b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg\" width=\"437\" height=\"327.93934142114387\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:433,&quot;width&quot;:577,&quot;resizeWidth&quot;:437,&quot;bytes&quot;:72205,&quot;alt&quot;:&quot;Meme about selling AGX stock after a big gain while staying bullish, focused on capital rotation and risk reward discipline.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ae15436-317d-4863-90a7-afb35374b9c5_577x433.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Meme about selling AGX stock after a big gain while staying bullish, focused on capital rotation and risk reward discipline.\" title=\"Meme about selling AGX stock after a big gain while staying bullish, focused on capital rotation and risk reward discipline.\" srcset=\"https://substackcdn.com/image/fetch/$s_!J47b!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 424w, https://substackcdn.com/image/fetch/$s_!J47b!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 848w, https://substackcdn.com/image/fetch/$s_!J47b!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!J47b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731e4adc-eefc-433a-bb27-04f7528d53cd_577x433.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I closed my AGX position after a +166% gain.</p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!dDHB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 424w, https://substackcdn.com/image/fetch/$s_!dDHB!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 848w, https://substackcdn.com/image/fetch/$s_!dDHB!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 1272w, https://substackcdn.com/image/fetch/$s_!dDHB!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!dDHB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png\" width=\"629\" height=\"80.5615763546798\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:156,&quot;width&quot;:1218,&quot;resizeWidth&quot;:629,&quot;bytes&quot;:30746,&quot;alt&quot;:&quot;AGX portfolio screenshot showing cost basis 118.13, price 313.90, and total gain 165.7%, Beating The Tide AGX stock analysis.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"AGX portfolio screenshot showing cost basis 118.13, price 313.90, and total gain 165.7%, Beating The Tide AGX stock analysis.\" title=\"AGX portfolio screenshot showing cost basis 118.13, price 313.90, and total gain 165.7%, Beating The Tide AGX stock analysis.\" srcset=\"https://substackcdn.com/image/fetch/$s_!dDHB!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 424w, https://substackcdn.com/image/fetch/$s_!dDHB!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 848w, https://substackcdn.com/image/fetch/$s_!dDHB!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 1272w, https://substackcdn.com/image/fetch/$s_!dDHB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b91faf8-24f6-4f4d-8c3c-32affe21de72_1218x156.png 1456w\" sizes=\"100vw\"></picture><div></div></div></div></figure></div><div><hr></div><h3>Trade alert:</h3><ul><li><p>Close <strong>AGX</strong></p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!iKTG!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 424w, https://substackcdn.com/image/fetch/$s_!iKTG!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 848w, https://substackcdn.com/image/fetch/$s_!iKTG!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!iKTG!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!iKTG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg\" width=\"602\" height=\"38\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:38,&quot;width&quot;:602,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6295,&quot;alt&quot;:&quot;Trade alert screenshot showing AGX action “SELL”, closing AGX position as part of portfolio rotation and risk reward management.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Trade alert screenshot showing AGX action “SELL”, closing AGX position as part of portfolio rotation and risk reward management.\" title=\"Trade alert screenshot showing AGX action “SELL”, closing AGX position as part of portfolio rotation and risk reward management.\" srcset=\"https://substackcdn.com/image/fetch/$s_!iKTG!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 424w, https://substackcdn.com/image/fetch/$s_!iKTG!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 848w, https://substackcdn.com/image/fetch/$s_!iKTG!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!iKTG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4eaa6235-32b2-46ab-a543-f487272a69e0_602x38.jpeg 1456w\" sizes=\"100vw\"></picture><div></div></div></div></figure></div></li></ul><div><hr></div><p>AGX was my top pick for 2025 (read thesis <a href=\"https://www.linkedin.com/pulse/growing-energy-demand-makes-argan-agx-my-top-pick-2025-george-atuan-4cb7c/?trackingId=if7upE2nRka9nBwcD9X8%2Fw%3D%3D\">here</a>) and it is a company dear to me. So, I closed it not because the business broke nor because management lost the plot. I’m closing because I found a better use for my capital.</p><p>That sentence sounds colder than it feels. I like this company. I like how they run it. Read my investment thesis below.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;58f8dc34-8570-4e58-9be5-b909415f8eb7&quot;,&quot;caption&quot;:&quot;Update:&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Argan (AGX) Deep Dive: Why I’m Still Bullish After a 87% Run&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30d66f60-0f62-4274-9b45-e951e053ed6d_3264x3264.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-06-23T12:07:20.007Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/2c89fcac-3aad-4380-aae3-272db309a3d5_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/argan-agx-deep-dive-stock-analysis-2025&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:166085900,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:8,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!U6tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>Years ago I learned that the market does not pay me for loyalty. It pays me for risk adjusted returns.</p><p>My AGX target price stays $374 and AGX trades around $314 as I write this.<br>That leaves me with a 19% upside. That is fine. It just isn’t the best bet on my board right now.</p><h2>I’m closing because the risk reward shrank</h2><p>I run a long only portfolio. So every dollar I keep in AGX is a dollar I cannot put into a name with larger upside. So the question is not “Do I like AGX?”</p><p>The question is “Does AGX rank high enough today to deserve its capital?”</p><p>With a $374 target and a $314 stock, I see limited upside. At the same time, AGX carries real risks. EPC work stays lumpy. Revenue can swing quarter to quarter based on project timing. Margins look great, but management does not promise they hold at today’s highs forever.</p><p>None of that breaks the thesis. It just compresses the return profile.</p><p>I would rather redeploy into something where the upside makes the bumps worth it.</p><h2>I am not a great market timer</h2><p>I want to say this clearly: I do not sell because I think I nailed the top.</p><p>Remember that I sold DQ around $95. It ran to $130 before it collapsed. The run-up did not make my sell wrong. The later crash did not make it right. The only thing that matters is whether the risk reward made sense when I acted.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Xt-G!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Xt-G!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 424w, https://substackcdn.com/image/fetch/$s_!Xt-G!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 848w, https://substackcdn.com/image/fetch/$s_!Xt-G!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 1272w, https://substackcdn.com/image/fetch/$s_!Xt-G!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Xt-G!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png\" width=\"638\" height=\"411.4574175824176\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:939,&quot;width&quot;:1456,&quot;resizeWidth&quot;:638,&quot;bytes&quot;:220675,&quot;alt&quot;:&quot;Daqo New Energy (DQ) stock chart showing 2021 spike and long decline, example of selling without trying to time the top.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Daqo New Energy (DQ) stock chart showing 2021 spike and long decline, example of selling without trying to time the top.\" title=\"Daqo New Energy (DQ) stock chart showing 2021 spike and long decline, example of selling without trying to time the top.\" srcset=\"https://substackcdn.com/image/fetch/$s_!Xt-G!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 424w, https://substackcdn.com/image/fetch/$s_!Xt-G!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 848w, https://substackcdn.com/image/fetch/$s_!Xt-G!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 1272w, https://substackcdn.com/image/fetch/$s_!Xt-G!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98afcac6-1f90-4ee1-a514-4c9860492c07_1746x1126.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I closed URI around $725. </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;e9f0c12e-67e6-4a13-9eb1-2d7c9c4fbf8f&quot;,&quot;caption&quot;:&quot;Yesterday, I sent out a trade alert to close our position in United Rentals (URI). Today’s deep dive stock analysis is my detailed post-mortem on the investment—an essential practice I've emphasized multiple times before, such as in Weekly #22 and Weekly #29.&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;United Rentals (URI) Deep Dive: Why I’m Taking Profits on This Equipment Rental Giant&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30d66f60-0f62-4274-9b45-e951e053ed6d_3264x3264.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-05-20T16:50:59.218Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/702b3cc0-7e02-47a8-b9a0-7cc58894cd8e_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/united-rentals-uri-deep-dive-stock-sold-thesis-played-out&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:163921305,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:4,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!U6tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>URI crossed the $1,000 mark before collapsing below $800 and now trades around $940. So was my $725-close right or wrong?</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!NRbl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!NRbl!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 424w, https://substackcdn.com/image/fetch/$s_!NRbl!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 848w, https://substackcdn.com/image/fetch/$s_!NRbl!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 1272w, https://substackcdn.com/image/fetch/$s_!NRbl!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!NRbl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png\" width=\"640\" height=\"411.42857142857144\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:936,&quot;width&quot;:1456,&quot;resizeWidth&quot;:640,&quot;bytes&quot;:232874,&quot;alt&quot;:&quot;United Rentals (URI) stock chart showing rally, drawdown, and rebound, example of closing a position when risk reward shifts.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"United Rentals (URI) stock chart showing rally, drawdown, and rebound, example of closing a position when risk reward shifts.\" title=\"United Rentals (URI) stock chart showing rally, drawdown, and rebound, example of closing a position when risk reward shifts.\" srcset=\"https://substackcdn.com/image/fetch/$s_!NRbl!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 424w, https://substackcdn.com/image/fetch/$s_!NRbl!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 848w, https://substackcdn.com/image/fetch/$s_!NRbl!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 1272w, https://substackcdn.com/image/fetch/$s_!NRbl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c18f00d-577e-47ff-88d9-5b2a220a5bed_1754x1128.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I closed TMUS around $240. Was it a right or wrong call?</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;ec384572-63c3-4cf7-bf3d-a92d70c8840c&quot;,&quot;caption&quot;:&quot;Telecom has a soft spot in my heart, and this deep dive on T-Mobile (NASDAQ: TMUS) explains why I first bought — and why I’m selling today. Telecom was one of my core sectors as an investment analyst on the buyside. Later, I ran corporate development for the largest telco in Chile, where I evaluated M&amp;A deals and growth initiatives across Latin America.…&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;T-Mobile (TMUS) Stock Deep Dive: How I Banked a 47% Gain and Why I’m Cashing Out&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30d66f60-0f62-4274-9b45-e951e053ed6d_3264x3264.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-05-12T17:53:55.918Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ba0544a4-acfd-451c-9c76-e5802dbbe0fa_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/t-mobile-stock-analysis-why-i-locked-in-47-percent-gain&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:163400465,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:5,&quot;comment_count&quot;:2,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!U6tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>It pushed to $260, then slid under $200.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!MydH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!MydH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 424w, https://substackcdn.com/image/fetch/$s_!MydH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 848w, https://substackcdn.com/image/fetch/$s_!MydH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 1272w, https://substackcdn.com/image/fetch/$s_!MydH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!MydH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png\" width=\"623\" height=\"400.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:936,&quot;width&quot;:1456,&quot;resizeWidth&quot;:623,&quot;bytes&quot;:218869,&quot;alt&quot;:&quot;T-Mobile (TMUS) stock chart showing move toward 260 then drop under 200, example of closing a winner without perfect timing.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"T-Mobile (TMUS) stock chart showing move toward 260 then drop under 200, example of closing a winner without perfect timing.\" title=\"T-Mobile (TMUS) stock chart showing move toward 260 then drop under 200, example of closing a winner without perfect timing.\" srcset=\"https://substackcdn.com/image/fetch/$s_!MydH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 424w, https://substackcdn.com/image/fetch/$s_!MydH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 848w, https://substackcdn.com/image/fetch/$s_!MydH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 1272w, https://substackcdn.com/image/fetch/$s_!MydH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcda9bb47-3439-4923-8e80-3aa5fd46a89d_1752x1126.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>So if AGX rips after I sell, that does not shock me. If it drops, that does not prove skill either.</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Beating The Tide: Stock Picks That Outperform is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p>I care about process and the risk:reward does not seem very attractive. </p><p>Here is a simple way to think about it.</p><p>Imagine someone offers you this bet:</p><ul><li><p>If a coin lands heads, you win $50.</p></li><li><p>If it lands tails, you lose $100.</p></li></ul><p>Now imagine the coin lands heads three times in a row. You just made $150.</p><p>You still took a bad bet.</p><p>The outcome does not change the expected value. The bet stays negative. Over time, it will eat you.</p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;b09f69cc-ecf4-4125-9f55-3d4ace1c5fd3&quot;,&quot;caption&quot;:&quot;So far in 2025, both portfolios have gained double the benchmark's returns.&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;sm&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Weekly #13: Let's invest like professional poker players&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:84964221,&quot;name&quot;:&quot;George Atuan, CFA&quot;,&quot;bio&quot;:&quot;Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30d66f60-0f62-4274-9b45-e951e053ed6d_3264x3264.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2025-01-19T16:26:14.287Z&quot;,&quot;cover_image&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/aea2f7b9-80aa-48c5-8ac7-0e4ae5d81559_1920x1080.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://www.beatingthetide.com/p/poker-investing-strategies&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:154689525,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:2,&quot;comment_count&quot;:0,&quot;publication_id&quot;:3704888,&quot;publication_name&quot;:&quot;Beating The Tide: Stock Picks That Outperform&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!U6tY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02d8d6dc-cded-4940-a95a-dcf5962b8925_176x176.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>Investing works the same way. A stock can rise after I sell. That does not mean I made a mistake.</p><p>So when I sell AGX, I do not try to predict the next $20 move. I ask one question: does the payoff still justify the risk versus my alternatives?</p><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTg0NDQ1OTE0LCJpYXQiOjE3OTM4OTc2MDMsImV4cCI6MTc5NjQ4OTYwMywiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rtpQ3761_lT3rIKazQcOPgv9IZWOJSc3y9HQIkjp6p4&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">This post is public so feel free to share it.</p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTg0NDQ1OTE0LCJpYXQiOjE3OTM4OTc2MDMsImV4cCI6MTc5NjQ4OTYwMywiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rtpQ3761_lT3rIKazQcOPgv9IZWOJSc3y9HQIkjp6p4&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjoxMzUzNTMxMCwicG9zdF9pZCI6MTg0NDQ1OTE0LCJpYXQiOjE3OTM4OTc2MDMsImV4cCI6MTc5NjQ4OTYwMywiaXNzIjoicHViLTM3MDQ4ODgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rtpQ3761_lT3rIKazQcOPgv9IZWOJSc3y9HQIkjp6p4\"><span>Share</span></a></p></div><h2>Why I still hold names with “low” upside?</h2><p>You might look at the <a href=\"https://www.beatingthetide.com/p/watchlist\">watchlist</a> and think: “Wait, why do you still own POWL if the upside shows less than 20%?”</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!HeWe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!HeWe!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 424w, https://substackcdn.com/image/fetch/$s_!HeWe!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 848w, https://substackcdn.com/image/fetch/$s_!HeWe!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 1272w, https://substackcdn.com/image/fetch/$s_!HeWe!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!HeWe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png\" width=\"562\" height=\"359.07601572739185\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:975,&quot;width&quot;:1526,&quot;resizeWidth&quot;:562,&quot;bytes&quot;:212125,&quot;alt&quot;:&quot;Beating The Tide watchlist screenshot with AGX target price 374 and current price near 321, plus POWL and other holdings with upside and scores.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe191ccb8-717d-40ac-9a8f-39320f3f0063_1624x986.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Beating The Tide watchlist screenshot with AGX target price 374 and current price near 321, plus POWL and other holdings with upside and scores.\" title=\"Beating The Tide watchlist screenshot with AGX target price 374 and current price near 321, plus POWL and other holdings with upside and scores.\" srcset=\"https://substackcdn.com/image/fetch/$s_!HeWe!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 424w, https://substackcdn.com/image/fetch/$s_!HeWe!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 848w, https://substackcdn.com/image/fetch/$s_!HeWe!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 1272w, https://substackcdn.com/image/fetch/$s_!HeWe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec07cc3c-ccc6-41da-b342-b46f102a3b12_1526x975.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Fair question. </p><p>My target prices do not update in real time. I do not tweak one assumption to force a higher target. Every time I update a target, I do a full refresh. I recheck the thesis. I run the model again. I read the latest filings and the new quarter. I do the channel checks… That takes time.</p><p>So there is often a gap between what the spreadsheet shows and what my current view is becoming as I work through new data. In that gap, I prefer to hold rather than sell just because the stock touched an old target. I learned that selling mid refresh creates more mistakes than it prevents. I would rather finish the work, then decide with a clear head.</p><p>Also, every stock that makes it into the portfolio starts as a great investment. These are not lottery tickets. These are solid businesses with real fundamentals. If you held a basket of the companies I cover for decades, I think you would do well. So these companies tend to apreciate (assymetric returns to the upside).</p><p>Rotation can still add juice. That is the whole point of what I do. I try to move capital toward the best risk reward available today. But when a company stays strong, I do not rush to the exit just because my target price update has not caught up yet.</p><p>That said, I hear you. One of the strongest pieces of feedback from the survey is that you want clearer guidance on the watchlist. Buy. Hold. Exit. I agree. I am going to add that soon. But as you know by now, I don’t like to rush things as I like to do them properly.</p><p>And if you have not filled the short survey yet, please do. It directly shapes what I build next, it helps me raise the value of this newsletter and you could win a 1-month access to paid.</p><p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfX_fItHMOe6hZWeV-lrWzH2i2aj90ZR9gYiq-5AQqNOiJinw/viewform?usp=header\">Complete the short survey!</a></p><h2>What would make me buy AGX again</h2><p>I would not blacklist AGX. I would revisit if one of these happens:</p><ul><li><p>The stock drops enough to restore a fat margin of safety versus my $374 target.</p></li><li><p>The company wins more large projects, and my target moves up in a way that restores meaningful upside.</p></li><li><p>The market offers me a new setup where I get both earnings growth and a favorable re-rating again.</p></li></ul><p>Until then, I tip my hat, take my gains, and move on.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ELbX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ELbX!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 424w, https://substackcdn.com/image/fetch/$s_!ELbX!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 848w, https://substackcdn.com/image/fetch/$s_!ELbX!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 1272w, https://substackcdn.com/image/fetch/$s_!ELbX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ELbX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif\" width=\"400\" height=\"400\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:400,&quot;width&quot;:400,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2200451,&quot;alt&quot;:&quot;Grit image emphasizing discipline and process when selling AGX stock and reallocating capital to higher upside ideas.&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://www.beatingthetide.com/i/184445914?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Grit image emphasizing discipline and process when selling AGX stock and reallocating capital to higher upside ideas.\" title=\"Grit image emphasizing discipline and process when selling AGX stock and reallocating capital to higher upside ideas.\" srcset=\"https://substackcdn.com/image/fetch/$s_!ELbX!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 424w, https://substackcdn.com/image/fetch/$s_!ELbX!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 848w, https://substackcdn.com/image/fetch/$s_!ELbX!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 1272w, https://substackcdn.com/image/fetch/$s_!ELbX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03087210-7d93-44fd-9526-10a0ca0ef57c_400x400.gif 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain/comments\"><span>Leave a comment</span></a></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "I closed my AGX position after a +166% gain.",
+  "wordcount": 1009,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "5afba12b-d635-49d1-9ca7-5e907b96f797",
+      "publication_id": 3704888,
+      "name": "Trade Alerts",
+      "slug": "trades",
+      "hidden": false
+    },
+    {
+      "id": "618b6fed-bf18-4f92-a3b7-62ce80a60a11",
+      "publication_id": 3704888,
+      "name": "Business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "a1d0fb42-7c4c-4a7f-93c4-24686dad205d",
+      "publication_id": 3704888,
+      "name": "Finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e1017a2e-1ce1-4417-86a5-00b9e418ea73",
+      "publication_id": 3704888,
+      "name": "AGX",
+      "slug": "agx",
+      "hidden": false
+    },
+    {
+      "id": "f99b4e65-de37-4a64-8ea1-1e74e90a76ed",
+      "publication_id": 3704888,
+      "name": "Investing",
+      "slug": "investing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        163,
+        105,
+        75
+      ],
+      "population": 377
+    },
+    "DarkVibrant": {
+      "rgb": [
+        108,
+        36,
+        12
+      ],
+      "population": 1
+    },
+    "LightVibrant": {
+      "rgb": [
+        212,
+        157,
+        124
+      ],
+      "population": 229
+    },
+    "Muted": {
+      "rgb": [
+        167,
+        141,
+        114
+      ],
+      "population": 41
+    },
+    "DarkMuted": {
+      "rgb": [
+        72,
+        63,
+        54
+      ],
+      "population": 383
+    },
+    "LightMuted": {
+      "rgb": [
+        200,
+        190,
+        175
+      ],
+      "population": 84
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 84964221,
+      "name": "George Atuan, CFA",
+      "handle": "beatingthetide",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg",
+      "bio": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+      "profile_set_up_at": "2024-10-29T12:02:01.145Z",
+      "reader_installed_at": "2024-10-29T12:01:49.667Z",
+      "publicationUsers": [
+        {
+          "id": 3776802,
+          "user_id": 84964221,
+          "publication_id": 3704888,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3704888,
+            "name": "Beating The Tide: Stock Picks That Outperform",
+            "subdomain": "sharkvalue",
+            "custom_domain": "www.beatingthetide.com",
+            "custom_domain_optional": false,
+            "hero_text": "Unlock exclusive real-time stock ideas and full access to my high-conviction portfolio that’s consistently outperformed the market for over a decade (+31% in 2025; +53% in 2024; 30% annualized since 2012).",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+            "author_id": 84964221,
+            "primary_user_id": null,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2025-01-07T17:36:11.766Z",
+            "email_from_name": "George from Beating the Tide",
+            "copyright": "Beating The Tide",
+            "founding_plan_name": "Founding Member",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/0e70f5f3-d341-4447-95d2-bb5e8506f728_1344x256.png"
+          }
+        },
+        {
+          "id": 8445228,
+          "user_id": 84964221,
+          "publication_id": 8250046,
+          "role": "admin",
+          "public": true,
+          "is_primary": false,
+          "publication": {
+            "id": 8250046,
+            "name": "George Atuan, CFA",
+            "subdomain": "beatingthetide",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Engineer, MBA, CFA and portfolio manager. Sharing insights from 14 years of beating the market, blending deep analysis with real-world experience. Subscribe for actionable investment ideas and strategies.",
+            "logo_url": null,
+            "author_id": 84964221,
+            "primary_user_id": 84964221,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2026-03-08T11:26:15.292Z",
+            "email_from_name": null,
+            "copyright": "George Atuan, CFA",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "disabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "profile",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 100,
+      "status": {
+        "bestsellerTier": 100,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 100
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 8,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 184445914,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/184445914/tts/e9230dc8-0e5c-4f5f-bc6e-5ba16b2f5ca9/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "inboxItem": {
+    "content_key": "post:184445914",
+    "updated_at": "2026-01-28T16:47:46.419Z",
+    "content_date": "2026-01-14T17:59:39.931Z",
+    "inbox_date": "2026-01-14T17:59:39.931Z",
+    "seen_at": "2026-01-16T11:07:23.053Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": false,
+    "type": "post",
+    "post_id": 184445914,
+    "extra_views": [],
+    "read_progress": 0.1559177888022679,
+    "max_read_progress": 0.1559177888022679,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "newsletter",
+    "title": "Why I’m Closing AGX after a +166% Gain",
+    "subtitle": "I’m not timing the top. I’m rotating capital because upside shrank and better setups showed up.",
+    "detail_view_subtitle": "I’m not timing the top. I’m rotating capital because upside shrank and better setups showed up.",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/ba868240-5784-4999-970c-6a65bf36128a_1920x1080.png",
+    "audience": "everyone",
+    "is_preview": false,
+    "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/184445914/tts/e9230dc8-0e5c-4f5f-bc6e-5ba16b2f5ca9/en-GB-OllieMultilingualNeural.mp3",
+    "audio_type": "tts",
+    "web_url": "https://www.beatingthetide.com/p/why-im-closing-agx-after-a-166-gain",
+    "duration_metadata": {
+      "word_count": 1009
+    },
+    "authors": [
+      "George Atuan, CFA"
+    ],
+    "published_bylines": [
+      {
+        "id": 84964221,
+        "name": "George Atuan, CFA",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/e772d065-0c6f-4078-a88c-106ff8783751_830x830.jpeg"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          163,
+          105,
+          75
+        ],
+        "population": 377
+      },
+      "DarkVibrant": {
+        "rgb": [
+          108,
+          36,
+          12
+        ],
+        "population": 1
+      },
+      "LightVibrant": {
+        "rgb": [
+          212,
+          157,
+          124
+        ],
+        "population": 229
+      },
+      "Muted": {
+        "rgb": [
+          167,
+          141,
+          114
+        ],
+        "population": 41
+      },
+      "DarkMuted": {
+        "rgb": [
+          72,
+          63,
+          54
+        ],
+        "population": 383
+      },
+      "LightMuted": {
+        "rgb": [
+          200,
+          190,
+          175
+        ],
+        "population": 84
+      }
+    },
+    "publication_id": 3704888,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!4nA8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbad29286-ea1a-481b-b418-44e354d63789_1024x1024.png",
+    "publisher_name": "Beating The Tide: Stock Picks That Outperform",
+    "is_personal_mode": false,
+    "like_count": 8,
+    "comment_count": 0,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 184445914,
+      "post_type": "newsletter",
+      "publication_id": 3704888,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 0.1559177888022679,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2026-01-16T11:07:23.053Z",
+      "impression_id": "4b4a9de4-7390-491d-bebc-fcd2238478bc"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 0.1559177888022679,
+  "max_read_progress": 0.1559177888022679,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#2563eb",
+    "background_pop": "#2563eb",
+    "color_theme_bg_web": "#ffffff",
+    "cover_bg_color": "#ffffff",
+    "cover_bg_color_secondary": "#f0f0f0",
+    "background_pop_darken": "#1555e2",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#1555e2",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(37, 99, 235, 0.2)",
+    "color_theme_bg_pop_30": "rgba(37, 99, 235, 0.3)",
+    "print_pop": "#2563eb",
+    "color_theme_accent": "#2563eb",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#2563eb",
+    "font_family_headings_preset": "'Roboto Slab',sans-serif",
+    "font_weight_headings_preset": 700,
+    "font_family_body_preset": "Spectral,sans-serif",
+    "font_weight_body_preset": 400,
+    "font_size_body_offset": "1px",
+    "font_preset_heading": "slab",
+    "font_preset_body": "classic_serif",
+    "home_hero": "newspaper",
+    "home_posts": "list",
+    "home_show_top_posts": true,
+    "web_bg_color": "#ffffff",
+    "background_contrast_1": "#f0f0f0",
+    "background_contrast_2": "#dddddd",
+    "background_contrast_3": "#b7b7b7",
+    "background_contrast_4": "#929292",
+    "background_contrast_5": "#515151",
+    "color_theme_bg_contrast_1": "#f0f0f0",
+    "color_theme_bg_contrast_2": "#dddddd",
+    "color_theme_bg_contrast_3": "#b7b7b7",
+    "color_theme_bg_contrast_4": "#929292",
+    "color_theme_bg_contrast_5": "#515151",
+    "color_theme_bg_elevated": "#ffffff",
+    "color_theme_bg_elevated_secondary": "#f0f0f0",
+    "color_theme_bg_elevated_tertiary": "#dddddd",
+    "color_theme_detail": "#e6e6e6",
+    "background_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(37, 99, 235, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "#363737",
+    "print_secondary_on_web_bg_color": "#868787",
+    "footer_bg_color": "#1e1b4b",
+    "footer_bg_color_h": "243.75",
+    "footer_bg_color_s": "47.05882352941176%",
+    "footer_bg_color_l": "20%",
+    "print_on_footer_bg_color": "hsl(243.75000000000009, 11.764705882352908%, 92%)",
+    "print_secondary_on_footer_bg_color": "#a5a4b7",
+    "footer_bg_contrast_1": "#2c2956",
+    "footer_bg_contrast_2": "#3c3a63",
+    "footer_bg_contrast_3": "#5d5b7e",
+    "footer_bg_contrast_4": "#7e7c98",
+    "footer_bg_elevated": "#2c2956",
+    "footer_bg_elevated_secondary": "#3c3a63",
+    "footer_bg_elevated_tertiary": "#5d5b7e",
+    "footer_detail_color": "#34325d",
+    "background_pop_rgb": "37, 99, 235",
+    "color_theme_bg_pop_rgb": "37, 99, 235",
+    "color_theme_accent_rgb": "37, 99, 235"
+  },
+  "comments": []
+}
