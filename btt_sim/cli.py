@@ -93,6 +93,63 @@ def cmd_parse(args: argparse.Namespace) -> None:
             console.print(f"  Event breakdown: {counts}")
 
 
+def cmd_trades(args: argparse.Namespace) -> None:
+    settings = load_settings()
+    sources = _get_target_sources(settings, args.source)
+    for src in sources:
+        events_path = src.data_dir / "trade_events.csv"
+        if not events_path.exists() or events_path.stat().st_size == 0:
+            console.print(f"[yellow]{src.display_name}: trade_events.csv not found.[/yellow]")
+            continue
+        try:
+            df = pd.read_csv(events_path)
+        except Exception as e:
+            console.print(f"[red]Error reading {events_path}: {e}[/red]")
+            continue
+        if df.empty:
+            console.print(f"[yellow]{src.display_name}: No trade events recorded.[/yellow]")
+            continue
+
+        df["date"] = df["date"].astype(str).str.slice(0, 10)
+        df = df.sort_values("date", ascending=False)
+        if getattr(args, "limit", None):
+            df = df.head(args.limit)
+
+        table = Table(title=f"{src.display_name} Trade History ({len(df)} trades shown)")
+        table.add_column("Date", style="cyan")
+        table.add_column("Ticker", style="bold yellow")
+        table.add_column("Action", style="bold")
+        table.add_column("Rating", style="green")
+        table.add_column("Ref Px", justify="right")
+        table.add_column("Weight", justify="right")
+        table.add_column("Trim", justify="right")
+        table.add_column("Source Slug", style="dim")
+        table.add_column("Notes")
+
+        for _, r in df.iterrows():
+            act = str(r.get("action", ""))
+            act_color = "green" if act in ("BUY", "ADD") else ("red" if act == "SELL" else "yellow")
+            px_val = f"${float(r['ref_price']):.2f}" if pd.notna(r.get("ref_price")) and str(r.get("ref_price")) != "" else "—"
+            wgt_val = f"{float(r['target_weight'])*100:.1f}%" if pd.notna(r.get("target_weight")) and str(r.get("target_weight")) != "" else "—"
+            trim_val = f"{float(r['trim_fraction'])*100:.0f}%" if pd.notna(r.get("trim_fraction")) and str(r.get("trim_fraction")) != "" else "—"
+            notes = str(r.get("notes", ""))
+            if len(notes) > 60:
+                notes = notes[:57] + "..."
+
+            table.add_row(
+                str(r.get("date", "")),
+                str(r.get("ticker", "")),
+                f"[{act_color}]{act}[/{act_color}]",
+                str(r.get("rating_after", "")),
+                px_val,
+                wgt_val,
+                trim_val,
+                str(r.get("source_slug", "")),
+                notes,
+            )
+        console.print(table)
+
+
 def _run_sim_for_source(
     settings: Settings,
     prices: PriceProvider,
@@ -281,6 +338,10 @@ def main() -> None:
 
     p_parse = sub.add_parser("parse", help="Parse downloaded posts & tables into holdings and trade events")
     p_parse.set_defaults(func=cmd_parse)
+
+    p_trades = sub.add_parser("trades", help="Display trade history table for source(s)")
+    p_trades.add_argument("--limit", type=int, help="Limit number of most recent trades to display")
+    p_trades.set_defaults(func=cmd_trades)
 
     p_sim = sub.add_parser("simulate", help="Compare Strategy A vs Strategy B for source(s)")
     p_sim.add_argument("--start", required=True, help="Start date T0 (YYYY-MM-DD)")

@@ -20,10 +20,11 @@ All findings, quantitative risk metrics, and track-record reconciliations are pe
 
 | Report | Direct Link | Key Focus |
 |---|---|---|
+| 📜 **Complete Trade Histories** | [**`docs/TRADE_HISTORY.md`**](docs/TRADE_HISTORY.md) | Chronological trade logs for all 3 portfolios with action breakdowns, entry/exit prices, and source posts. |
 | 📊 **Performance Comparison** | [**`docs/PERFORMANCE_COMPARISON.md`**](docs/PERFORMANCE_COMPARISON.md) | Head-to-head backtest results (Jan 1, 2026 to present), Strategy A vs. Strategy B sensitivity, and top/bottom performers. |
 | 🛡️ **Risk & Volatility Analysis** | [**`docs/RISK_ANALYSIS.md`**](docs/RISK_ANALYSIS.md) | Win rates, downside loss distributions, profit factors, single-stock concentration, and execution complexity. |
 | 🔍 **Author Claims Reconciliation** | [**`docs/AUTHOR_RECONCILIATION.md`**](docs/AUTHOR_RECONCILIATION.md) | Line-by-line audit reconciling author-claimed returns (+23.59% YTD, 2.55x SPY, 11 closed trades) against market quotes. |
-| 📁 **Documentation Index** | [**`docs/README.md`**](docs/README.md) | Central hub linking all research reports and source profiles. |
+| 📁 **Documentation Index** | [**`docs/README.md`**](docs/README.md) | Central hub linking all research reports, trade histories, and source profiles. |
 
 ---
 
@@ -113,7 +114,18 @@ uv run btt --source all download
 uv run btt --source all parse
 ```
 
-### 5. Run Simulations & Head-to-Head Comparison
+### 5. View Trade History in Terminal
+```powershell
+# View trades for any source (or all)
+uv run btt --source tjstocks trades
+uv run btt --source cluseau trades
+uv run btt --source beatingthetide trades
+
+# Or view the most recent N trades across all sources
+uv run btt --source all trades --limit 20
+```
+
+### 6. Run Simulations & Head-to-Head Comparison
 ```powershell
 # Compare all 3 publications from Jan 1, 2026 side-by-side
 uv run btt compare --start 2026-01-01
