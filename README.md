@@ -13,6 +13,7 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 
 | Document | Link | Description |
 |---|---|---|
+| 🔬 **Primary Trade Extraction Audit** | [**`docs/PRIMARY_EXTRACTION_AUDIT.md`**](docs/PRIMARY_EXTRACTION_AUDIT.md) | 5-stage root-cause failure breakdown, deterministic Pydantic extraction pipeline, and 100% precision/recall ground-truth validation. |
 | 🎯 **Universal Checkpoint Audit** | [**`docs/CHECKPOINT_RECONCILIATION.md`**](docs/CHECKPOINT_RECONCILIATION.md) | Universal point-in-time portfolio reconciliation auditing 23 checkpoints across all 3 publications with automated error investigation. |
 | 🔍 **Root Cause & Reliability Audit** | [**`docs/ROOT_CAUSE_AUDIT.md`**](docs/ROOT_CAUSE_AUDIT.md) | In-depth investigation of omitted positions (`013030.KQ`, `453340.KS`, `139130.KS`, `IFOS`), paywall stub caching bugs, and failure mode fixes. |
 | 🛡️ **Source Coverage & Reconciliation** | [**`docs/COVERAGE_REPORT.md`**](docs/COVERAGE_REPORT.md) | Full source-to-trade reconciliation across all 3 publications, orphan holding detection, disappearance warnings, and 8-point metrics. |

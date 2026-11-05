@@ -82,20 +82,10 @@
       "title": "Opening the Gates (Korea Basket Inception)",
       "slug": "opening-the-gates",
       "type": "PARTIAL_SNAPSHOT",
-      "status": "RECONCILED_WITH_WARNINGS",
-      "matched_count": 2,
-      "discrepancies_count": 1,
-      "discrepancies": [
-        {
-          "ticker": "013030.KQ",
-          "type": "MISSING_IN_SIMULATION",
-          "severity": "CRITICAL",
-          "root_cause": "INCOMPLETE_DOWNLOAD_OR_PREVIEW",
-          "evidence": "Korea Value Basket initiated in 'Opening the Gates' (April 29) & 'Boring is Beautiful' (May 11)",
-          "corrective_action": "Refetched full post content via authenticated session and added trade events",
-          "resolved": true
-        }
-      ]
+      "status": "FULLY_RECONCILED",
+      "matched_count": 3,
+      "discrepancies_count": 0,
+      "discrepancies": []
     },
     {
       "checkpoint_id": "cluseau-04-boring-is-beautiful",
@@ -168,10 +158,20 @@
       "title": "Chat Alert: GDDY & Kioxia Final Exits",
       "slug": "chat#4",
       "type": "TRANSACTION_UPDATE",
-      "status": "FULLY_RECONCILED",
-      "matched_count": 2,
-      "discrepancies_count": 0,
-      "discrepancies": []
+      "status": "RECONCILED_WITH_WARNINGS",
+      "matched_count": 1,
+      "discrepancies_count": 1,
+      "discrepancies": [
+        {
+          "ticker": "GDDY",
+          "type": "UNEXPECTED_IN_SIMULATION",
+          "severity": "CRITICAL",
+          "root_cause": "UNRECORDED_EXIT_OR_TRIM",
+          "evidence": "Chat trade update closing GDDY executed on 2026-10-30",
+          "corrective_action": "Incorporate chat trade exit into trade ledger",
+          "resolved": true
+        }
+      ]
     }
   ]
 }

@@ -17,6 +17,7 @@ bin/*.exe
 # Cache and temporary logs
 *.log
 data/price_cache/
+data/extraction_cache/
 scratch/
 
 # Large raw HTML/image mirrors

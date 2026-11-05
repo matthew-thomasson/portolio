@@ -13,6 +13,7 @@ This directory contains in-depth quantitative studies, risk evaluations, and tra
 
 | Report | Description | Key Takeaway |
 |---|---|---|
+| [**Primary Extraction Audit**](PRIMARY_EXTRACTION_AUDIT.md) | 5-stage root-cause failure breakdown, deterministic Pydantic extraction pipeline, and 100% precision/recall ground-truth validation. | Eliminated hardcoded trade lists; established general-purpose deterministic NLP extraction with 100% precision and recall on 52-item labelled corpus. |
 | [**Checkpoint Reconciliation**](CHECKPOINT_RECONCILIATION.md) | Universal quality-control framework auditing point-in-time portfolio snapshots across all publications. | 23 checkpoints audited across all 3 publications; mandatory validation runs automatically on every analysis command. |
 | [**Root Cause Investigation**](ROOT_CAUSE_AUDIT.md) | Exhaustive investigation of omitted positions (`013030.KQ`, `453340.KS`, `139130.KS`, `IFOS`), paywall caching bugs, and static list flaws. | Resolved 20 paywall preview stubs via authenticated scraping, corrected KOSDAQ/KOSPI suffixes, and fixed tautological test harness. |
 | [**Source Coverage Report**](COVERAGE_REPORT.md) | Independent source-to-trade inventory, orphan holding guards, disappearance alerts, and 8-point audit metrics. | 1,094 sources audited (100% coverage); 133 trades extracted; automated guards prevent future omissions across all 3 publications. |

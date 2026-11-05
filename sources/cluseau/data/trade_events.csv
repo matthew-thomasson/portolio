@@ -1,53 +1,54 @@
 date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes
-2024-11-20,CBL,:us:,BUY,BUY,,0.08,,its-just-more-fun-the-second-time,article,high,Cluseau documented pick: CBL Properties (CBL)
-2025-06-30,IFOS,:ca:,BUY,BUY,,0.04,,identifying-structuring-and-sizing,article,high,Cluseau documented pick: Itafos (IFOS)
-2025-07-11,9478,:jp:,BUY,BUY,,0.06,,the-value-investors-paradise,article,high,Cluseau documented pick: SE Holdings and Incubations (9478)
-2025-07-17,OPY,:us:,BUY,BUY,,0.08,,betting-on-capital-markets-with-a,article,high,Cluseau documented pick: Oppenheimer Holdings (OPY)
-2025-08-14,3600,:hk:,BUY,BUY,,0.05,,juicing-the-market-one-repurchase,article,high,Cluseau documented pick: Modern Dental Group (3600)
-2025-08-14,AGM,:us:,BUY,BUY,,0.08,,juicing-the-market-one-repurchase,article,high,Cluseau documented pick: Farmer Mac (AGM)
-2025-08-29,KRNY,:us:,BUY,BUY,,0.05,,shifting-into-rates-down,article,high,Cluseau documented pick: Kearny Financial (KRNY)
-2025-08-29,WSBF,:us:,BUY,BUY,,0.08,,shifting-into-rates-down,article,high,Cluseau documented pick: Waterstone Financial (WSBF)
-2025-09-10,MCHB,:us:,BUY,BUY,,0.05,,dividends-discounts-diamonds-in-the,article,high,Cluseau documented pick: Mechanics Bancorp (MCHB)
-2025-10-01,WYFI,:us:,BUY,BUY,31.0,0.03,,chat,trade_alert,high,Adding speculative position in White Fiber WYFI at $31
-2025-10-08,HRTG,:us:,BUY,BUY,,0.08,,30-days-to-november,article,high,Cluseau documented pick: Heritage Insurance Holdings (HRTG)
-2025-10-09,WYFI,:us:,SELL,CLOSED,33.0,0.0,1.0,chat,trade_alert,high,Closing WYFI at $33 for a 5% gain
-2025-10-15,POWL,:us:,BUY,BUY,,0.08,,capital-markets-ai-and-rare-earths,article,high,Cluseau documented pick: Powell Industries (POWL)
-2025-11-25,ASIC,:us:,BUY,BUY,,0.08,,snacking-on-banking-and-insurance,article,high,Cluseau documented pick: Ategrity Specialty Insurance (ASIC)
-2026-02-03,BMBL,:us:,BUY,BUY,,0.04,,february-3-2026,article,high,Bumble (BMBL) initiated in February 2026
-2026-03-09,EVC,:us:,BUY,BUY,,0.06,,march-2026-trade-review,article,high,Entravision Communications (EVC) initiated in March 2026 review
-2026-03-24,BMBL,:us:,SELL,CLOSED,4.03,0.0,1.0,april-2026-portfolio-review,article,high,"Closed BMBL on March 24, 2026 (+17.07% return)"
-2026-04-10,KRNY,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,"Closed KRNY on April 10, 2026 (+25.80% return)"
-2026-04-10,MCHB,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,"Closed MCHB on April 10, 2026 (+22.98% return)"
-2026-04-17,7089,:jp:,BUY,BUY,1224.0,0.05,,april-2026-portfolio-review,article,high,For Startups (7089.T) initiated in April 2026 Review Idea 3
-2026-04-17,9220,:jp:,BUY,BUY,1200.0,0.04,,april-2026-portfolio-review,article,high,FB Care Services (9220.T) initiated in April 2026 Review Idea 2
-2026-04-17,CCV,:au:,BUY,BUY,0.28,0.03,,april-2026-portfolio-review,article,high,Cash Converters (CCV.AX) initiated in April 2026 Review Idea 4
-2026-04-17,HRTG,:us:,ADD,BUY,,0.08,,april-2026-portfolio-review,article,high,Added to Heritage Insurance (HRTG) position in April review
-2026-04-17,MOMO,:us:,BUY,BUY,,0.06,,april-2026-portfolio-review,article,high,Hello Group (MOMO US) added in April 2026 Portfolio Review
-2026-04-29,139130,:kr:,BUY,BUY,19110.0,0.05,,opening-the-gates,article,high,iM Financial Group (139130.KS) initiated in 'Opening the Gates'
-2026-04-29,402340,:kr:,BUY,BUY,59000.0,0.08,,opening-the-gates,article,high,SK Square (402340.KS) initiated in 'Opening the Gates' post
-2026-05-04,013030,:kr:,BUY,BUY,44000.0,0.04,,opening-the-gates,article,high,Hy-Lok (013030.KQ) Korea Value Basket initiated May 2026 per June review
-2026-05-11,453340,:kr:,BUY,BUY,19200.0,0.05,,boring-is-beautiful,article,high,Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful'
+2024-11-20,CBL,:us:,BUY,BUY,,0.08,,its-just-more-fun-the-second-time,article,high,"CBL Properties (CBL) initiated in 'It's Just More Fun the Second Time Around - $CBL, You Decide'"
+2025-06-30,IFOS,:ca:,BUY,BUY,,0.04,,identifying-structuring-and-sizing,article,high,"Itafos (IFOS) initiated in 'Identifying, Structuring, and Sizing a Value Trade'"
+2025-07-11,9478,:jp:,BUY,BUY,,0.06,,the-value-investors-paradise,article,high,SE Holdings (9478) initiated in 'A Value Investor's Paradise'
+2025-07-17,OPY,:us:,BUY,BUY,,0.08,,betting-on-capital-markets-with-a,article,high,Oppenheimer Holdings (OPY) initiated in 'Betting on Capital Markets with a Value Twist'
+2025-08-14,3600,:hk:,BUY,BUY,,0.05,,juicing-the-market-one-repurchase,article,high,"Modern Dental Group (3600) initiated in 'Juicing The Market, One Repurchase at a Time'"
+2025-08-14,AGM,:us:,BUY,BUY,,0.08,,juicing-the-market-one-repurchase,article,high,"Farmer Mac (AGM) initiated in 'Juicing The Market, One Repurchase at a Time'"
+2025-08-29,KRNY,:us:,BUY,BUY,,0.05,,shifting-into-rates-down,article,high,"Kearny Financial (KRNY) initiated in 'Shifting Into ""Rates Down""'"
+2025-08-29,WSBF,:us:,BUY,BUY,,0.08,,shifting-into-rates-down,article,high,"Waterstone Financial (WSBF) initiated in 'Shifting Into ""Rates Down""'"
+2025-09-10,MCHB,:us:,BUY,BUY,,0.05,,dividends-discounts-diamonds-in-the,article,high,"Mechanics Bancorp (MCHB) initiated in 'Dividends, Discounts, Diamonds in the Rough'"
+2025-10-01,WYFI,:us:,BUY,BUY,31.0,0.03,,chat#402,trade_alert,high,Speculative buy WYFI at $31
+2025-10-08,HRTG,:us:,BUY,BUY,,0.08,,30-days-to-november,article,high,Heritage Insurance Holdings (HRTG) initiated in '30 Days to November'
+2025-10-09,WYFI,:us:,SELL,CLOSED,33.0,0.0,1.0,chat#386,trade_alert,high,Closed WYFI at $33 (+5%)
+2025-10-15,POWL,:us:,BUY,BUY,,0.08,,capital-markets-ai-and-rare-earths,article,high,"Powell Industries (POWL) initiated in 'Capital Markets, AI, and Rare Earths'"
+2025-11-25,ASIC,:us:,BUY,BUY,,0.08,,snacking-on-banking-and-insurance,article,high,Ategrity Specialty Insurance (ASIC) initiated in 'Snacking on Banking and Insurance'
+2026-02-03,BMBL,:us:,BUY,BUY,,0.04,,february-3-2026,article,high,Bumble (BMBL) initiated in 'February 3 2026'
+2026-03-09,EVC,:us:,BUY,BUY,,0.06,,march-2026-trade-review,article,high,Entravision Communications (EVC) initiated in 'March 2026 Trade Review'
+2026-03-24,BMBL,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,Closed Bumble (BMBL) in review
+2026-04-10,KRNY,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,Closed Kearny Financial (KRNY) in review
+2026-04-10,MCHB,:us:,SELL,CLOSED,,0.0,1.0,april-2026-portfolio-review,article,high,Closed Mechanics Bancorp (MCHB) in review
+2026-04-17,7089,:jp:,BUY,BUY,1224.0,0.05,,april-2026-portfolio-review,article,high,Idea: For Startups (7089) in April review
+2026-04-17,9220,:jp:,BUY,BUY,1200.0,0.04,,april-2026-portfolio-review,article,high,Idea: FB Care Services (9220) in April review
+2026-04-17,CCV,:au:,BUY,BUY,0.28,0.03,,april-2026-portfolio-review,article,high,Idea: Cash Converters (CCV) in April review
+2026-04-17,MOMO,:us:,BUY,BUY,,0.06,,april-2026-portfolio-review,article,high,Hello Group (MOMO US) added in April review
+2026-04-29,013030,:kr:,BUY,BUY,44000.0,0.04,,opening-the-gates,article,high,Hy-Lok (013030) initiated in 'Opening the Gates'
+2026-04-29,139130,:kr:,BUY,BUY,19110.0,0.05,,opening-the-gates,article,high,iM Financial Group (139130) initiated in 'Opening the Gates'
+2026-04-29,402340,:kr:,BUY,BUY,59000.0,0.08,,opening-the-gates,article,high,SK Square (402340) initiated in 'Opening the Gates'
+2026-05-11,453340,:kr:,BUY,BUY,19200.0,0.05,,boring-is-beautiful,article,high,"Hyundai Green Food purchased in 19,000s in 'Boring Is Beautiful'"
 2026-05-26,VISN,:us:,BUY,BUY,,0.05,,go-stub-yourself,article,high,Vistance Networks (VISN) initiated in 'Go Stub Yourself'
-2026-06-12,CBL,:us:,TRIM,HOLD,,0.04,0.333333,june-2026-portfolio-review,article,high,Reduce CBL & Associates (CBL) in June review
-2026-06-12,GMRS,:us:,BUY,BUY,,0.05,,june-2026-portfolio-review,article,high,New Position: GMR Solutions (GMRS) in June review
-2026-06-12,VISN,:us:,ADD,BUY,,0.08,,june-2026-portfolio-review,article,high,Position Increase: Vistance Networks (VISN) in June review
-2026-07-02,GMRS,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited GMRS on July 2 (+10% return)
-2026-07-06,OPY,:us:,TRIM,HOLD,117.0,0.05,0.333333,chat,trade_alert,high,Trimmed 1/3 of OPY at $117 in Chat (msg 115)
-2026-07-27,AGM,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,AGM full exit (+30%) in Chat (msg 96)
-2026-07-27,OPY,:us:,TRIM,HOLD,,0.025,0.5,chat,trade_alert,high,OPY half exit (+59%) in Chat (msg 96)
-2026-07-29,CBL,:us:,TRIM,HOLD,,0.02,0.5,chat,trade_alert,high,Cut CBL by half in Chat (msg 94)
-2026-07-29,HRTG,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Totally sold HRTG in Chat (msg 94)
-2026-07-29,WSBF,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Totally sold WSBF in Chat (msg 94)
-2026-08-06,VISN,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited VISN on August 6 (-20% return)
-2026-08-21,EVC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited EVC August 21 via options (+171% claimed return)
-2026-08-21,POWL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited POWL August 21 via options (+136% claimed return)
-2026-09-03,6626,:jp:,BUY,BUY,2255.0,0.05,,buying-the-buyback,article,high,"Semitec (6626.T) initiated in 'Buying the Buyback' at 2,255 JPY"
-2026-09-10,MOMO,:us:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Closed MOMO for -15% in Chat (msg 60)
-2026-09-15,CBL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Final CBL exit (+114% return) on September 15
-2026-09-21,GDDY,:us:,BUY,BUY,,0.06,,september-2026-portfolio-review,article,high,GoDaddy (GDDY) added on September 21
-2026-09-28,ASIC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited ASIC on September 28 (+39% return)
-2026-10-01,402340,:kr:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited SK Square (402340.KS) on October 1 (+44% return)
-2026-10-14,IFOS,:ca:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Closing out the IFOS position today for a 30% loss in Chat (msg 29)
-2026-10-16,GDDY,:us:,TRIM,HOLD,110.0,0.04,0.333333,chat,trade_alert,high,Trimmed 1/3 GDDY at $110 in Chat (msg 26)
-2026-10-30,285A.T,:jp:,SELL,CLOSED,,0.0,1.0,chat,trade_alert,high,Trade Update on Kioxia (Closed)
-2026-10-30,GDDY,:us:,SELL,CLOSED,116.0,0.0,1.0,chat,trade_alert,high,Closed remaining GDDY at $116 in Chat (msg 4)
+2026-06-12,CBL,:us:,TRIM,HOLD,,,0.333333,june-2026-portfolio-review,article,high,Reduce CBL in June review
+2026-06-12,GMRS,:us:,BUY,BUY,,0.05,,june-2026-portfolio-review,article,high,New Position: GMRS in June review
+2026-06-12,VISN,:us:,ADD,BUY,,0.08,,june-2026-portfolio-review,article,high,Position Increase: VISN in June review
+2026-06-28,ACIC,:us:,BUY,BUY,,0.05,,september-2026-portfolio-review,article,high,Added American Coastal (ACIC) in portfolio review
+2026-07-02,GMRS,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Global Medical Response Solutions (GMRS) in portfolio review recap
+2026-07-06,OPY,:us:,TRIM,HOLD,117.0,,0.333333,chat#115,trade_alert,high,Trimmed 1/3 of OPY at $117 in Chat
+2026-07-27,AGM,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Farmer Mac (AGM) in portfolio review recap
+2026-07-29,CBL,:us:,TRIM,HOLD,,,0.5,chat#94,trade_alert,high,Cut CBL in half in Chat
+2026-07-29,HRTG,:us:,SELL,CLOSED,,0.0,1.0,chat#94,trade_alert,high,Totally sold HRTG in Chat (Corroborated by september-2026-portfolio-review)
+2026-07-29,WSBF,:us:,SELL,CLOSED,,0.0,1.0,chat#94,trade_alert,high,Totally sold WSBF in Chat (Corroborated by september-2026-portfolio-review)
+2026-08-06,VISN,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Vistance Networks (VISN) in portfolio review recap
+2026-08-21,EVC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Entravision Communications (EVC) in portfolio review recap
+2026-08-21,POWL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Powell Industries (POWL) in portfolio review recap
+2026-09-03,244920,:kr:,BUY,BUY,,0.05,,september-2026-portfolio-review,article,high,Added A Plus Asset Advisors (244920) in portfolio review
+2026-09-03,6626,:jp:,BUY,BUY,,0.05,,buying-the-buyback,article,high,Semitec (6626) initiated in 'Buying the Buyback' (Corroborated by september-2026-portfolio-review)
+2026-09-03,ABCA,:eu:,BUY,BUY,,0.05,,september-2026-portfolio-review,article,high,Added ABC Arbitrage (ABCA) in portfolio review
+2026-09-10,MOMO,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Hello Group (MOMO) in portfolio review recap
+2026-09-15,CBL,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited CBL Properties (CBL) in portfolio review recap
+2026-09-21,GDDY,:us:,BUY,BUY,,0.05,,september-2026-portfolio-review,article,high,Added GoDaddy (GDDY) in portfolio review
+2026-09-28,ASIC,:us:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited Ategrity Specialty Insurance (ASIC) in portfolio review recap
+2026-09-28,JPM,:us:,BUY,BUY,,0.05,,september-2026-portfolio-review,article,high,Added J.P Morgan (JPM) in portfolio review
+2026-10-01,402340,:kr:,SELL,CLOSED,,0.0,1.0,september-2026-portfolio-review,article,high,Exited SK Square (402340) in portfolio review recap
+2026-10-14,IFOS,:ca:,SELL,CLOSED,,0.0,1.0,chat#29,trade_alert,high,Closing out IFOS position today for a 30% loss in Chat
+2026-10-16,GDDY,:us:,TRIM,HOLD,110.0,,0.333333,chat#26,trade_alert,high,Trimmed 1/3 GDDY at $110 in Chat
+2026-10-30,285A.T,:jp:,SELL,CLOSED,,0.0,1.0,chat#5,trade_alert,high,Trade Update on Kioxia (Closed) in Chat

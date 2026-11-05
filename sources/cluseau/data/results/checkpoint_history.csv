@@ -1,10 +1,10 @@
 checkpoint_id,date,title,type,status,matched,discrepancies,notes
 cluseau-01-march-2026-trade-review,2026-03-09,March 2026 Trade Review,COMPLETE_SNAPSHOT,RECONCILED_WITH_WARNINGS,3,4,Inception portfolio baseline & March trade review
 cluseau-02-april-2026-portfolio-review,2026-04-17,April 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,6,1,April portfolio review introducing global value ideas
-cluseau-03-opening-the-gates,2026-04-29,Opening the Gates (Korea Basket Inception),PARTIAL_SNAPSHOT,RECONCILED_WITH_WARNINGS,2,1,Korea Value Basket initiation
+cluseau-03-opening-the-gates,2026-04-29,Opening the Gates (Korea Basket Inception),PARTIAL_SNAPSHOT,FULLY_RECONCILED,3,0,Korea Value Basket initiation
 cluseau-04-boring-is-beautiful,2026-05-11,Boring is Beautiful (Hyundai Green Food Purchase),TRANSACTION_UPDATE,FULLY_RECONCILED,1,0,Confirmed execution of Hyundai Green Food
 cluseau-05-june-2026-portfolio-review,2026-06-12,June 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,6,0,June comprehensive review and Korea Value Basket progress
 cluseau-06-september-2026-portfolio-review,2026-09-15,CBL Final Exit Recap,TRANSACTION_UPDATE,FULLY_RECONCILED,1,0,CBL closed trade execution
 cluseau-07-september-2026-portfolio-review,2026-10-05,September 2026 Portfolio Review,COMPLETE_SNAPSHOT,RECONCILED_WITH_WARNINGS,10,1,Q3 comprehensive portfolio holdings and closed trades recap
 cluseau-08-chat#29,2026-10-14,Chat Alert: IFOS Exit,TRANSACTION_UPDATE,FULLY_RECONCILED,1,0,Explicit chat trade exit on Itafos
-cluseau-09-chat#4,2026-10-30,Chat Alert: GDDY & Kioxia Final Exits,TRANSACTION_UPDATE,FULLY_RECONCILED,2,0,Year-end chat exit executions
+cluseau-09-chat#4,2026-10-30,Chat Alert: GDDY & Kioxia Final Exits,TRANSACTION_UPDATE,RECONCILED_WITH_WARNINGS,1,1,Year-end chat exit executions
