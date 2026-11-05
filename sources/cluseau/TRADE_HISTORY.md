@@ -1,13 +1,13 @@
 # Cluseau — Complete Chronological Trade History
 
 - **Publication URL**: https://www.cluseau.com/
-- **Total Trade Signals**: 51
+- **Total Trade Signals**: 52
 - **Date Range**: 2024-11-20 to 2026-10-30
 
 ### Action Breakdown
 
 - **BUY**: 27
-- **SELL**: 17
+- **SELL**: 18
 - **TRIM**: 5
 - **ADD**: 2
 
@@ -20,6 +20,7 @@
 | 2026-10-30 | **`285A.T`** | `:jp:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Trade Update on Kioxia (Closed) |
 | 2026-10-30 | **`GDDY`** | `:us:` | `SELL` | CLOSED | $116.00 | 0.0% | 100% | `chat` | Closed remaining GDDY at $116 in Chat (msg 4) |
 | 2026-10-16 | **`GDDY`** | `:us:` | `TRIM` | HOLD | $110.00 | 4.0% | 33% | `chat` | Trimmed 1/3 GDDY at $110 in Chat (msg 26) |
+| 2026-10-14 | **`IFOS`** | `:ca:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Closing out IFOS position today for a 30% loss in Chat (msg 29) |
 | 2026-10-01 | **`402340`** | `:kr:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited SK Square (402340.KS) on October 1 (+44% return) |
 | 2026-09-28 | **`ASIC`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited ASIC on September 28 (+39% return) |
 | 2026-09-21 | **`GDDY`** | `:us:` | `BUY` | BUY | — | 6.0% | — | `september-2026-portfolio-review` | GoDaddy (GDDY) added on September 21 |

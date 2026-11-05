@@ -1,0 +1,177 @@
+{
+  "source_key": "cluseau",
+  "source_name": "Cluseau",
+  "overall_status": "RECONCILED_WITH_WARNINGS",
+  "total_checkpoints": 9,
+  "reconciled_checkpoints": 9,
+  "discrepancies_resolved": 7,
+  "outstanding_issues": 0,
+  "checkpoints": [
+    {
+      "checkpoint_id": "cluseau-01-march-2026-trade-review",
+      "date": "2026-03-09",
+      "title": "March 2026 Trade Review",
+      "slug": "march-2026-trade-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "RECONCILED_WITH_WARNINGS",
+      "matched_count": 3,
+      "discrepancies_count": 4,
+      "discrepancies": [
+        {
+          "ticker": "WDC",
+          "type": "MISSING_IN_SIMULATION",
+          "severity": "INFO",
+          "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+          "evidence": "Pre-2026 holding with protective options collar disclosed in march-2026-trade-review",
+          "corrective_action": "Documented as baseline open holding in portfolio_holdings.csv",
+          "resolved": true
+        },
+        {
+          "ticker": "FIX",
+          "type": "MISSING_IN_SIMULATION",
+          "severity": "INFO",
+          "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+          "evidence": "Pre-2026 holding with protective options collar disclosed in march-2026-trade-review",
+          "corrective_action": "Documented as baseline open holding in portfolio_holdings.csv",
+          "resolved": true
+        },
+        {
+          "ticker": "IESC",
+          "type": "MISSING_IN_SIMULATION",
+          "severity": "INFO",
+          "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+          "evidence": "Pre-2026 holding with protective options collar disclosed in march-2026-trade-review",
+          "corrective_action": "Documented as baseline open holding in portfolio_holdings.csv",
+          "resolved": true
+        },
+        {
+          "ticker": "285A.T",
+          "type": "MISSING_IN_SIMULATION",
+          "severity": "CRITICAL",
+          "root_cause": "INCORRECT_TICKER_OR_EXCHANGE",
+          "evidence": "Tokyo-listed holding 285A.T featured in march-2026-trade-review",
+          "corrective_action": "Mapped with .T suffix and multi-currency JPY FX conversion",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "checkpoint_id": "cluseau-02-april-2026-portfolio-review",
+      "date": "2026-04-17",
+      "title": "April 2026 Portfolio Review",
+      "slug": "april-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 6,
+      "discrepancies_count": 1,
+      "discrepancies": [
+        {
+          "ticker": "CTT",
+          "type": "MISSING_IN_SIMULATION",
+          "severity": "INFO",
+          "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+          "evidence": "Pre-2026 holding with protective options collar disclosed in april-2026-portfolio-review",
+          "corrective_action": "Documented as baseline open holding in portfolio_holdings.csv",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "checkpoint_id": "cluseau-03-opening-the-gates",
+      "date": "2026-04-29",
+      "title": "Opening the Gates (Korea Basket Inception)",
+      "slug": "opening-the-gates",
+      "type": "PARTIAL_SNAPSHOT",
+      "status": "RECONCILED_WITH_WARNINGS",
+      "matched_count": 2,
+      "discrepancies_count": 1,
+      "discrepancies": [
+        {
+          "ticker": "013030.KQ",
+          "type": "MISSING_IN_SIMULATION",
+          "severity": "CRITICAL",
+          "root_cause": "INCOMPLETE_DOWNLOAD_OR_PREVIEW",
+          "evidence": "Korea Value Basket initiated in 'Opening the Gates' (April 29) & 'Boring is Beautiful' (May 11)",
+          "corrective_action": "Refetched full post content via authenticated session and added trade events",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "checkpoint_id": "cluseau-04-boring-is-beautiful",
+      "date": "2026-05-11",
+      "title": "Boring is Beautiful (Hyundai Green Food Purchase)",
+      "slug": "boring-is-beautiful",
+      "type": "TRANSACTION_UPDATE",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 1,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "cluseau-05-june-2026-portfolio-review",
+      "date": "2026-06-12",
+      "title": "June 2026 Portfolio Review",
+      "slug": "june-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 6,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "cluseau-06-september-2026-portfolio-review",
+      "date": "2026-09-15",
+      "title": "CBL Final Exit Recap",
+      "slug": "september-2026-portfolio-review",
+      "type": "TRANSACTION_UPDATE",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 1,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "cluseau-07-september-2026-portfolio-review",
+      "date": "2026-10-05",
+      "title": "September 2026 Portfolio Review",
+      "slug": "september-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "RECONCILED_WITH_WARNINGS",
+      "matched_count": 10,
+      "discrepancies_count": 1,
+      "discrepancies": [
+        {
+          "ticker": "013030.KQ",
+          "type": "UNEXPLAINED_DISAPPEARANCE",
+          "severity": "WARNING",
+          "root_cause": "UNEXPLAINED_DISAPPEARANCE",
+          "evidence": "Omitted from Open and Closed tables in September/October review",
+          "corrective_action": "Preserve position in trade history with warning flag; do not synthesize exit",
+          "resolved": true
+        }
+      ]
+    },
+    {
+      "checkpoint_id": "cluseau-08-chat#29",
+      "date": "2026-10-14",
+      "title": "Chat Alert: IFOS Exit",
+      "slug": "chat#29",
+      "type": "TRANSACTION_UPDATE",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 1,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "cluseau-09-chat#4",
+      "date": "2026-10-30",
+      "title": "Chat Alert: GDDY & Kioxia Final Exits",
+      "slug": "chat#4",
+      "type": "TRANSACTION_UPDATE",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 2,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    }
+  ]
+}

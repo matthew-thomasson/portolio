@@ -6,8 +6,8 @@
   "chats_downloaded": 404,
   "chats_examined": 404,
   "datawrapper_tables": 0,
-  "confirmed_trades_count": 51,
-  "disclosed_holdings_count": 16,
+  "confirmed_trades_count": 52,
+  "disclosed_holdings_count": 18,
   "orphan_holdings": [
     {
       "ticker": "IESC",
@@ -189,13 +189,11 @@
   ],
   "breakdown_by_instrument": {
     "protective_put": 3,
-    "equity": 13
+    "equity": 15
   },
   "breakdown_by_geography": {
-    "US": 3,
-    "Japan": 6,
-    "Canada": 1,
-    "Australia": 1,
+    "US": 12,
+    "Japan": 1,
     "Europe": 1,
     "Korea": 4
   }

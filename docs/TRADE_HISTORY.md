@@ -10,7 +10,7 @@ This document provides quick access to the complete chronological trade historie
 |---|---|---|---|---|
 | **Beating The Tide** | **63 trades** | [**`sources/beatingthetide/TRADE_HISTORY.md`**](../sources/beatingthetide/TRADE_HISTORY.md) | 2024-01-02 to 2026-11-02 | 30 BUY, 26 SELL, 4 TRIM, 2 ADD, 1 HOLD |
 | **TJ Stocks** | **18 trades** | [**`sources/tjstocks/TRADE_HISTORY.md`**](../sources/tjstocks/TRADE_HISTORY.md) | 2025-05-12 to 2026-11-03 | 14 BUY, 3 SELL, 1 TRIM |
-| **Cluseau** | **51 trades** | [**`sources/cluseau/TRADE_HISTORY.md`**](../sources/cluseau/TRADE_HISTORY.md) | 2024-11-20 to 2026-10-30 | 27 BUY, 17 SELL, 5 TRIM, 2 ADD |
+| **Cluseau** | **52 trades** | [**`sources/cluseau/TRADE_HISTORY.md`**](../sources/cluseau/TRADE_HISTORY.md) | 2024-11-20 to 2026-10-30 | 27 BUY, 18 SELL, 5 TRIM, 2 ADD |
 
 ---
 

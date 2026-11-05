@@ -1,0 +1,12 @@
+checkpoint_id,date,title,type,status,matched,discrepancies,notes
+btt-01-2026-01-02,2026-01-02,January 2026 Portfolio Snapshot,COMPLETE_SNAPSHOT,FULLY_RECONCILED,33,0,Point-in-time Datawrapper portfolio snapshot
+btt-02-2026-02-06,2026-02-06,February 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,33,0,Point-in-time Datawrapper portfolio snapshot
+btt-03-2026-03-06,2026-03-06,March 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,34,0,Point-in-time Datawrapper portfolio snapshot
+btt-04-2026-04-03,2026-04-03,April 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,31,0,Point-in-time Datawrapper portfolio snapshot
+btt-05-2026-05-08,2026-05-08,May 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,32,0,Point-in-time Datawrapper portfolio snapshot
+btt-06-2026-06-05,2026-06-05,June 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,31,0,Point-in-time Datawrapper portfolio snapshot
+btt-07-2026-07-03,2026-07-03,July 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,29,0,Point-in-time Datawrapper portfolio snapshot
+btt-08-2026-08-07,2026-08-07,August 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,30,0,Point-in-time Datawrapper portfolio snapshot
+btt-09-2026-09-04,2026-09-04,September 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,30,0,Point-in-time Datawrapper portfolio snapshot
+btt-10-2026-10-02,2026-10-02,October 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,30,0,Point-in-time Datawrapper portfolio snapshot
+btt-11-2026-11-02,2026-11-02,November 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,31,0,Point-in-time Datawrapper portfolio snapshot

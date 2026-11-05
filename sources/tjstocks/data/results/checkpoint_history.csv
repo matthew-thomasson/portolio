@@ -1,0 +1,4 @@
+checkpoint_id,date,title,type,status,matched,discrepancies,notes
+tjstocks-01-2026-01-14,2026-01-14,StockTok ETF Launch (Inception),COMPLETE_SNAPSHOT,FULLY_RECONCILED,10,0,Original 10-stock model ETF launch
+tjstocks-02-2026-07-28,2026-07-28,StockTok ETF 2.0 Rebalance,COMPLETE_SNAPSHOT,FULLY_RECONCILED,13,0,"ETF 2.0 rebalance: 3 sales, 3 new additions, 7 retained"
+tjstocks-03-2026-11-03,2026-11-03,StockTok Performance Update & VLO Trim,PARTIAL_SNAPSHOT,FULLY_RECONCILED,1,0,Anchor performance update verifying 2.99x SPY outperformance

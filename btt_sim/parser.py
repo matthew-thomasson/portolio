@@ -1215,6 +1215,23 @@ def parse_source_data(source: SourceConfig) -> tuple[pd.DataFrame, pd.DataFrame]
                                 notes="Trade Update on Kioxia (Closed)",
                             )
                         )
+                    if "Closing out the IFOS position today for a 30% loss" in body or ("closing out the ifos position" in body.lower() and "loss" in body.lower()):
+                        events.append(
+                            TradeEvent(
+                                date=dt,
+                                ticker="IFOS",
+                                market=":ca:",
+                                action="SELL",
+                                rating_after="CLOSED",
+                                ref_price=None,
+                                target_weight=0.0,
+                                trim_fraction=1.0,
+                                source_slug="chat",
+                                source_type="trade_alert",
+                                confidence="high",
+                                notes="Closing out the IFOS position today for a 30% loss in Chat (msg 29)",
+                            )
+                        )
             except Exception as e:
                 console.print(f"[yellow]Warning parsing chat events: {e}[/yellow]")
 

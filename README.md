@@ -13,7 +13,8 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 
 | Document | Link | Description |
 |---|---|---|
-| 🔍 **Root Cause & Reliability Audit** | [**`docs/ROOT_CAUSE_AUDIT.md`**](docs/ROOT_CAUSE_AUDIT.md) | In-depth investigation of omitted Korean positions (`013030.KQ`, `453340.KS`, `139130.KS`), paywall stub caching bugs, and failure mode fixes. |
+| 🎯 **Universal Checkpoint Audit** | [**`docs/CHECKPOINT_RECONCILIATION.md`**](docs/CHECKPOINT_RECONCILIATION.md) | Universal point-in-time portfolio reconciliation auditing 23 checkpoints across all 3 publications with automated error investigation. |
+| 🔍 **Root Cause & Reliability Audit** | [**`docs/ROOT_CAUSE_AUDIT.md`**](docs/ROOT_CAUSE_AUDIT.md) | In-depth investigation of omitted positions (`013030.KQ`, `453340.KS`, `139130.KS`, `IFOS`), paywall stub caching bugs, and failure mode fixes. |
 | 🛡️ **Source Coverage & Reconciliation** | [**`docs/COVERAGE_REPORT.md`**](docs/COVERAGE_REPORT.md) | Full source-to-trade reconciliation across all 3 publications, orphan holding detection, disappearance warnings, and 8-point metrics. |
 | 📜 **Complete Trade Histories** | [**`docs/TRADE_HISTORY.md`**](docs/TRADE_HISTORY.md) | Chronological trade logs with entry/exit prices, sizing, ratings, and source post references. |
 | 📊 **Performance Comparison** | [**`docs/PERFORMANCE_COMPARISON.md`**](docs/PERFORMANCE_COMPARISON.md) | Head-to-head backtest results (Jan 1, 2026 to present), Strategy A vs. Strategy B sensitivity, and top/bottom performers. |
@@ -31,7 +32,7 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 |---|---|---|---|---|---|---|---|
 | **Beating The Tide** | **+16.45%** | **+23.23%** | **+7.58%** | **+15.83%** | +10.12% / +7.44% | 47.6% (10W / 9L) | `STRL` (-53.3%) |
 | **TJ Stocks** | **+21.00%** | **+30.13%** | **+21.00%** | **+30.13%** | +9.87% / +9.87% | **76.9%** (10W / 3L) | `FELE` (-10.1%) |
-| **Cluseau** | **+22.14%** | **+32.34%** | **+15.00%** | **+29.74%** | +10.26% / +8.07% | **73.1%** (19W / 7L) | `IFOS` (-46.5%) / `013030` (-26.3%) |
+| **Cluseau** | **+22.66%** | **+33.12%** | **+15.00%** | **+29.74%** | +10.26% / +8.07% | **73.1%** (19W / 7L) | `IFOS` (-30.0%) / `013030` (-26.3%) |
 
 > **Strategy Definitions**:
 > - **Strategy A**: Buy all existing active `BUY` recommendations at $T_0$ (Jan 1, 2026) + execute subsequent buys/adds/trims/sells.

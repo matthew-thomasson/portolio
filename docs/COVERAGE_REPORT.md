@@ -20,7 +20,7 @@ We audited the entire Cluseau corpus:
 | Classification Category | Description | Count | Instruments / Examples |
 |---|---|---|---|
 | **Category 1: Confirmed Trade Already Captured** | Previously captured trades verified against primary text. | 25 | `POWL`, `EVC`, `CBL`, `GMRS`, `VISN`, `ASIC`, `GDDY`, `MOMO`, `HRTG`, `WSBF`, `AGM`, `OPY`, `402340.KS` |
-| **Category 2: Confirmed Trade Missing (Now Captured)** | Explicitly executed trades discovered in paid text / chat and restored to the ledger. | 26 | `013030.KQ` (Hy-Lok), `453340.KS` (Hyundai Green Food), `139130.KS` (iM Financial), `7089.T` (For Startups), `9220.T` (FB Care Services), `CCV.AX` (Cash Converters), `6626.T` (Semitec), chat trims for `OPY`, `GDDY`, `CBL`, `285A.T` (Kioxia) |
+| **Category 2: Confirmed Trade Missing (Now Captured)** | Explicitly executed trades discovered in paid text / chat and restored to the ledger. | 27 | `013030.KQ` (Hy-Lok), `453340.KS` (Hyundai Green Food), `139130.KS` (iM Financial), `7089.T` (For Startups), `9220.T` (FB Care Services), `CCV.AX` (Cash Converters), `6626.T` (Semitec), `IFOS` (Oct 14 Chat exit), chat trims for `OPY`, `GDDY`, `CBL`, `285A.T` (Kioxia) |
 | **Category 3: Confirmed Open Position (Baseline Holding)** | Disclosed as held in reviews but initiated prior to 2026 tracking window. | 12 | `9478.T` (SE Holdings), `3600.HK` (Modern Dental), `IFOS.V` (I-Fox Bio), `IESC` (IES Holdings), `FIX` (Comfort Systems), `WDC` (Western Digital), `CTT` (Correios de Portugal), `EVC`, `POWL`, `CBL`, `HRTG`, `WSBF` |
 | **Category 4: Possible Trade Requiring Review** | Ambiguous tickers or commentary in chat without explicit trade confirmation. | 11 | `IGIC` (Earnings discussion), `HBF` (Mention in GDDY note), `GOOGL` (Earnings reaction), `AI` (Sector commentary), `SPY` (Tactical put day-trade) |
 | **Category 5: Watchlist / Commentary / Hypothetical** | Author pitched thesis or set price alert without taking executed position. | 18 | `PUM.DE` (Puma analysis), `BABA` (Alibaba spin-off stub idea), `BN` (Brookfield stub math), `WYFI` (Pre-IPO discussion) |
@@ -150,10 +150,10 @@ The audit engine produces `coverage_report.json` for each publication. Below are
 | **   Subscriber Chats Downloaded** | 404 | 0 | 0 | **404 Threads** |
 | **2. Sources Examined for Trades** | 442 (100%) | 247 (100%) | 405 (100%) | **1,094 Sources (100%)** |
 | **3. Candidate Trade Events Found** | 68 | 63 | 18 | **149 Candidates** |
-| **4. Confirmed Trades Extracted** | **51** | **63** | **18** | **132 Trades** |
+| **4. Confirmed Trades Extracted** | **52** | **63** | **18** | **133 Trades** |
 | **5. Disclosed Holdings Lacking Entry (Orphans)** | **5** (Documented baseline/options) | **0** | **0** | **5 Baseline Open** |
 | **6. Positions Lacking Confirmed Exit** | **1** (`013030.KQ` Hy-Lok) | **0** | **0** | **1 Warning** |
-| **7. Unresolved Candidates** | **11** (Chat mentions/hedges) | **0** | **0** | **11 Quarantined** |
+| **7. Unresolved Candidates** | **15** (Chat mentions/hedges) | **0** | **0** | **15 Quarantined** |
 | **8. Documents with High-Confidence Candidates** | `march-2026-trade-review`, `chat#55` | None | None | **Reviewed & Quarantined** |
 
 ### Specific Breakdown of Cluseau Disclosed Holdings Without Buy Signal (Question 5)
@@ -170,17 +170,17 @@ These are recorded in `sources/cluseau/data/portfolio_holdings.csv` as **Baselin
 
 ## 7. Performance Recalculation Summary
 
-Following complete reconciliation, Cluseau's performance was recalculated under exact cash-flow conditions:
+Following complete reconciliation (including the `IFOS` October 14 chat exit at -30%), Cluseau's performance was recalculated under exact cash-flow conditions:
 
 | Simulation Strategy | Invested Capital | Net Profit | ROI | Annualized XIRR | SPY XIRR | Alpha | Win Rate | Profit Factor |
 |---|---|---|---|---|---|---|---|---|
-| **Strategy A (Fixed Unit)** | $21,314.80 | +$4,718.77 | **+22.14%** | **+32.34%** | +10.26% | **+22.08%** | **73.1%** (19W / 7L) | **4.22** |
-| **Strategy A (Target Weight)** | $23,944.57 | +$6,536.42 | **+27.30%** | **+38.97%** | +10.37% | **+28.60%** | **73.1%** (19W / 7L) | **5.45** |
+| **Strategy A (Fixed Unit)** | $21,314.80 | +$4,829.21 | **+22.66%** | **+33.12%** | +10.26% | **+22.86%** | **73.1%** (19W / 7L) | **4.32** |
+| **Strategy A (Target Weight)** | $19,109.39 | +$5,283.21 | **+27.65%** | **+39.48%** | +10.51% | **+28.97%** | **73.1%** (19W / 7L) | **5.62** |
 | **Strategy B (Fixed Unit)** | $11,950.62 | +$1,792.65 | **+15.00%** | **+29.74%** | +8.07% | **+21.67%** | **60.0%** (9W / 6L) | **2.79** |
-| **Strategy B (Target Weight)** | $12,944.57 | +$2,534.50 | **+19.58%** | **+39.84%** | +8.25% | **+31.59%** | **60.0%** (9W / 6L) | **3.88** |
+| **Strategy B (Target Weight)** | $9,267.03 | +$1,814.61 | **+19.58%** | **+39.84%** | +8.15% | **+31.69%** | **60.0%** (9W / 6L) | **3.88** |
 
 ### Key Takeaway
-While Cluseau's ROI adjusted from +38.00% to +22.14% after incorporating realistic international drawdowns, the publication continues to demonstrate remarkable stock-picking acumen:
-- **Strategy A outpaced the S&P 500 by +22.08% annualized alpha**.
+While Cluseau's ROI adjusted from +38.00% to +22.66% after incorporating realistic international drawdowns and closing out Itafos on October 14, the publication continues to demonstrate remarkable stock-picking acumen:
+- **Strategy A outpaced the S&P 500 by +22.86% annualized alpha**.
 - **Strategy B outpaced the S&P 500 by +21.67% annualized alpha**.
-- The portfolio is now fully verified, auditable, and resilient against future silent omissions.
+- The portfolio is now fully verified across all 23 checkpoints, auditable, and resilient against future silent omissions. See [CHECKPOINT_RECONCILIATION.md](CHECKPOINT_RECONCILIATION.md) for full point-in-time audit logs.

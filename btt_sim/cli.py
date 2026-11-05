@@ -57,8 +57,11 @@ def cmd_audit(args: argparse.Namespace) -> None:
     engine = ReconciliationEngine(settings)
 
     for src in sources:
+        audit = engine.validate_and_reconcile_source(src)
         rep = engine.audit_source(src)
-        table = Table(title=f"Source Coverage & Trade Reconciliation: {src.display_name}")
+
+        # 1. High-level coverage metrics
+        table = Table(title=f"Source Coverage & Verification: {src.display_name}")
         table.add_column("Audit Metric", style="cyan")
         table.add_column("Result", style="bold")
         table.add_row("Source Articles Downloaded", str(rep.articles_downloaded))
@@ -80,6 +83,29 @@ def cmd_audit(args: argparse.Namespace) -> None:
         )
         table.add_row("Unresolved Candidates Requiring Review", str(len(rep.unresolved_candidates)))
         console.print(table)
+
+        # 2. Checkpoint-by-checkpoint reconciliation table
+        cp_table = Table(title=f"Point-in-Time Checkpoint Audits: {src.display_name} ({audit.reconciled_checkpoints}/{audit.total_checkpoints} Verified)")
+        cp_table.add_column("Date", style="cyan")
+        cp_table.add_column("Checkpoint Title", style="bold")
+        cp_table.add_column("Type", style="dim")
+        cp_table.add_column("Status", justify="center")
+        cp_table.add_column("Matched", justify="right")
+        cp_table.add_column("Discrepancies", justify="right")
+        cp_table.add_column("Notes")
+
+        for cp in audit.checkpoints:
+            st_color = "green" if cp.status.value == "FULLY_RECONCILED" else ("yellow" if cp.status.value == "RECONCILED_WITH_WARNINGS" else "red")
+            cp_table.add_row(
+                cp.checkpoint_date,
+                cp.title,
+                cp.checkpoint_type.value,
+                f"[{st_color}]{cp.status.value}[/{st_color}]",
+                str(len(cp.matched_positions)),
+                str(len(cp.discrepancies)),
+                cp.notes,
+            )
+        console.print(cp_table)
 
         if rep.orphan_holdings:
             console.print("[bold red]⚠ Orphan Holdings Disclosed in Source But Missing from Trade Ledger:[/bold red]")
@@ -207,6 +233,19 @@ def _run_sim_for_source(
     src: SourceConfig,
     args: argparse.Namespace,
 ) -> tuple[SimulationResult | None, SimulationResult | None]:
+    # Mandatory Universal Validation & Checkpoint Reconciliation
+    from .reconciliation import ReconciliationEngine
+
+    engine = ReconciliationEngine(settings)
+    audit = engine.validate_and_reconcile_source(src)
+    st_val = audit.overall_status.value
+    st_col = "green" if st_val == "FULLY_RECONCILED" else ("yellow" if st_val == "RECONCILED_WITH_WARNINGS" else "red")
+    console.print(
+        f"[bold cyan]✓ Checkpoint Reconciliation:[/] [{st_col}]{st_val}[/{st_col}] "
+        f"({audit.reconciled_checkpoints}/{audit.total_checkpoints} checkpoints verified | "
+        f"Discrepancies Resolved: {audit.discrepancies_resolved} | Outstanding: {audit.outstanding_issues})"
+    )
+
     holdings_path = src.data_dir / "portfolio_holdings.csv"
     events_path = src.data_dir / "trade_events.csv"
     if not events_path.exists():
@@ -306,11 +345,15 @@ def cmd_simulate(args: argparse.Namespace) -> None:
 
 def cmd_compare(args: argparse.Namespace) -> None:
     """Compare all three newsletters side-by-side."""
+    from .reconciliation import ReconciliationEngine
+
     settings = load_settings()
     prices = PriceProvider(settings)
+    engine = ReconciliationEngine(settings)
 
     tbl = Table(title=f"Multi-Source Newsletter Comparison ({args.start} -> {args.end or 'Latest'} | Mode: {args.mode or settings.allocation_mode})", show_lines=True)
     tbl.add_column("Newsletter / Source", style="bold")
+    tbl.add_column("Reconciliation Status", justify="center")
     tbl.add_column("Strategy A Profit ($)", justify="right", style="cyan")
     tbl.add_column("Strategy A ROI %", justify="right", style="cyan")
     tbl.add_column("Strategy A XIRR %", justify="right", style="cyan")
@@ -320,12 +363,18 @@ def cmd_compare(args: argparse.Namespace) -> None:
     tbl.add_column("SPY Benchmark XIRR", justify="right")
 
     for src in settings.sources.values():
+        audit = engine.validate_and_reconcile_source(src)
+        st_val = audit.overall_status.value
+        st_col = "green" if st_val == "FULLY_RECONCILED" else ("yellow" if st_val == "RECONCILED_WITH_WARNINGS" else "red")
+        st_badge = f"[{st_col}]{st_val}[/{st_col}]"
+
         res_a, res_b = _run_sim_for_source(settings, prices, src, args)
         if not res_a or not res_b:
-            tbl.add_row(src.display_name, "No data", "No data", "No data", "No data", "No data", "No data", "—")
+            tbl.add_row(src.display_name, st_badge, "No data", "No data", "No data", "No data", "No data", "No data", "—")
             continue
         tbl.add_row(
             src.display_name,
+            st_badge,
             _fmt_money(res_a.net_profit),
             _fmt_pct(res_a.roi_pct),
             _fmt_pct(res_a.xirr_pct),

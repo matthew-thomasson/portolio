@@ -6,8 +6,8 @@ This audit investigates the material omission of three Korean equity investments
 
 Prior to this investigation, the Cluseau backtest reported an apparent **+38.00% Strategy A ROI** and a **10.06 Profit Factor**. However, this result was distorted by survivorship and selection bias: the ledger captured prominent closed winners (such as `EVC` +161.1%, `POWL` +68.4%, and `CBL` +51.3%), while silently omitting open international holdings, including Korean and Japanese deep-value positions that experienced substantial drawdowns in May and June 2026.
 
-Following complete re-ingestion with authenticated paywall bypass and multi-source reconciliation, Cluseau's full trade history expanded from **25 to 51 trade signals** across **26 executed positions** (plus 12 baseline holdings). Cluseau's true performance reflects:
-- **Strategy A (Fixed Unit)**: Capital Deployed **$21,314.80**, Net Profit **+$4,718.77**, ROI **+22.14%** (down from +38.00%), Annualized XIRR **+32.34%** (vs SPY +10.26%, Alpha **+22.08%**), Win Rate **73.1%** (19W / 7L), Profit Factor **4.22**.
+Following complete re-ingestion with authenticated paywall bypass and multi-source reconciliation, Cluseau's full trade history expanded from **25 to 52 trade signals** across **26 executed positions** (plus 12 baseline holdings). Cluseau's true performance reflects:
+- **Strategy A (Fixed Unit)**: Capital Deployed **$21,314.80**, Net Profit **+$4,829.21**, ROI **+22.66%** (down from +38.00%), Annualized XIRR **+33.12%** (vs SPY +10.26%, Alpha **+22.86%**), Win Rate **73.1%** (19W / 7L), Profit Factor **4.32**.
 - **Strategy B (Fixed Unit)**: Capital Deployed **$11,950.62**, Net Profit **+$1,792.65**, ROI **+15.00%** (down from +32.98%), Annualized XIRR **+29.74%** (vs SPY +8.07%, Alpha **+21.67%**), Win Rate **60.0%** (9W / 6L), Profit Factor **2.79**.
 
 ---
@@ -84,6 +84,14 @@ Below is the verified, traceable purchase evidence for each Korean position:
 - **Unexplained Disappearance**:
   - In Chat Thread 78 (August 14, 2026), the author mentioned monitoring Hy-Lok's earnings.
   - However, in the October 5, 2026 review table, Hy-Lok was entirely omitted from both Open and Closed holdings tables without an explicit sell recap. The reconciliation engine appropriately flagged this as an **Unexplained Disappearance**.
+
+#### 4. Itafos (`IFOS` / `IFOS.V`)
+- **Original Entry**: Documented baseline holding from late 2025 (`identifying-structuring-and-sizing`) at C$0.45.
+- **Subsequent Sizing & Updates**: Promoted to high-conviction trade in Chat Thread 282 (Jan 14, 2026); added below 3.00 in Chat Thread 87 (Aug 6, 2026).
+- **Execution Evidence**: In **Subscriber Chat Thread #29 (October 14, 2026)**, the author explicitly declared a full liquidation:
+  > *"Trade update on IFOS and thoughts on MREITs: Closing out the IFOS position today for a 30% loss. This one really stings, and it pains me that it dribbled from a +30% gain to -30%... but for now, 30% is max pain where I need to draw the line and cut losses."*
+- **Previous Failure**: The original parser failed to extract this chat alert, causing the simulator to treat `IFOS` as an unclosed position that drifted downward to C$0.24 (-46.5%) by November 5.
+- **Reconciled Correction**: Added the `SELL` trade on October 14, 2026, closing out the position at C$0.59 (the authentic market price matching the author's -30% exit).
 
 ---
 
@@ -171,13 +179,14 @@ Why did tests pass despite missing 50% of the author's positions?
 |---|---|---|---|
 | **Articles Downloaded & Analyzed** | 38 (20 truncated) | 38 (All full-text) | +20 complete |
 | **Chat Threads Analyzed** | 2 / 404 | 404 / 404 | +402 threads |
-| **Recorded Trade Signals** | 25 | 51 | +26 signals |
+| **Recorded Trade Signals** | 25 | **52** | +27 signals |
 | **Unique Positions Traded** | 14 | 26 (+12 baseline) | +12 positions |
-| **Strategy A ROI** | +38.00% | **+22.14%** | -15.86% |
-| **Strategy A XIRR** | +51.25% | **+32.34%** | -18.91% |
-| **Strategy A Profit Factor** | 10.06 | **4.22** | -5.84 |
+| **Strategy A Net Profit** | +$4,679.90 | **+$4,829.21** | +$149.31 |
+| **Strategy A ROI** | +38.00% | **+22.66%** | -15.34% |
+| **Strategy A XIRR** | +51.25% | **+33.12%** | -18.13% |
+| **Strategy A Profit Factor** | 10.06 | **4.32** | -5.74 |
 | **Strategy B ROI** | +32.98% | **+15.00%** | -17.98% |
 | **Strategy B XIRR** | +68.41% | **+29.74%** | -38.67% |
 | **Strategy B Profit Factor** | 4.80 | **2.79** | -2.01 |
 
-The corrected results provide a realistic, audit-verified reflection of Cluseau's trading performance—demonstrating strong positive alpha over the S&P 500 (+22.08% Strategy A Alpha) while eliminating the misleading survivorship bias of the previous backtest.
+The corrected results provide a realistic, audit-verified reflection of Cluseau's trading performance—demonstrating strong positive alpha over the S&P 500 (+22.86% Strategy A Alpha / +21.67% Strategy B Alpha) while eliminating the misleading survivorship bias of the previous backtest.

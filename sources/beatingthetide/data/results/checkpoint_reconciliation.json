@@ -1,0 +1,132 @@
+{
+  "source_key": "beatingthetide",
+  "source_name": "Beating The Tide",
+  "overall_status": "FULLY_RECONCILED",
+  "total_checkpoints": 11,
+  "reconciled_checkpoints": 11,
+  "discrepancies_resolved": 0,
+  "outstanding_issues": 0,
+  "checkpoints": [
+    {
+      "checkpoint_id": "btt-01-2026-01-02",
+      "date": "2026-01-02",
+      "title": "January 2026 Portfolio Snapshot",
+      "slug": "january-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 33,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-02-2026-02-06",
+      "date": "2026-02-06",
+      "title": "February 2026 Portfolio Review",
+      "slug": "february-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 33,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-03-2026-03-06",
+      "date": "2026-03-06",
+      "title": "March 2026 Portfolio Review",
+      "slug": "march-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 34,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-04-2026-04-03",
+      "date": "2026-04-03",
+      "title": "April 2026 Portfolio Review",
+      "slug": "april-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 31,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-05-2026-05-08",
+      "date": "2026-05-08",
+      "title": "May 2026 Portfolio Review",
+      "slug": "may-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 32,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-06-2026-06-05",
+      "date": "2026-06-05",
+      "title": "June 2026 Portfolio Review",
+      "slug": "june-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 31,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-07-2026-07-03",
+      "date": "2026-07-03",
+      "title": "July 2026 Portfolio Review",
+      "slug": "july-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 29,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-08-2026-08-07",
+      "date": "2026-08-07",
+      "title": "August 2026 Portfolio Review",
+      "slug": "august-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 30,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-09-2026-09-04",
+      "date": "2026-09-04",
+      "title": "September 2026 Portfolio Review",
+      "slug": "september-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 30,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-10-2026-10-02",
+      "date": "2026-10-02",
+      "title": "October 2026 Portfolio Review",
+      "slug": "october-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 30,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "btt-11-2026-11-02",
+      "date": "2026-11-02",
+      "title": "November 2026 Portfolio Review",
+      "slug": "november-2026-portfolio-review",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 31,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    }
+  ]
+}

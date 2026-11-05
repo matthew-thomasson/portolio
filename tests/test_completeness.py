@@ -105,3 +105,98 @@ def test_no_hindsight_synthetic_trades():
     momo_buys = df[(df["ticker"] == "MOMO") & (df["action"] == "BUY")]
     for _, r in momo_buys.iterrows():
         assert r["date"] >= "2026-04-17", f"MOMO BUY cannot be before April 17, found {r['date']}"
+
+
+def test_checkpoint_discovery_and_reconciliation_all_sources():
+    """Verify that every publication discovers point-in-time checkpoints and validates them."""
+    settings = load_settings()
+    engine = ReconciliationEngine(settings)
+
+    # 1. Beating The Tide: 11 monthly checkpoints
+    btt_audit = engine.validate_and_reconcile_source(settings.sources["beatingthetide"])
+    assert btt_audit.total_checkpoints == 11, f"Expected 11 monthly BTT checkpoints, got {btt_audit.total_checkpoints}"
+    assert btt_audit.reconciled_checkpoints == 11
+    assert btt_audit.overall_status.value == "FULLY_RECONCILED"
+
+    # 2. TJ Stocks: 3 ETF checkpoints
+    tj_audit = engine.validate_and_reconcile_source(settings.sources["tjstocks"])
+    assert tj_audit.total_checkpoints == 3, f"Expected 3 TJ Stocks checkpoints, got {tj_audit.total_checkpoints}"
+    assert tj_audit.reconciled_checkpoints == 3
+    assert tj_audit.overall_status.value == "FULLY_RECONCILED"
+
+    # 3. Cluseau: 9 checkpoints across quarterly reviews and chat milestones
+    cl_audit = engine.validate_and_reconcile_source(settings.sources["cluseau"])
+    assert cl_audit.total_checkpoints == 9, f"Expected 9 Cluseau checkpoints, got {cl_audit.total_checkpoints}"
+    assert cl_audit.reconciled_checkpoints == 9
+    assert cl_audit.overall_status.value == "RECONCILED_WITH_WARNINGS"
+
+
+def test_ifos_chat_exit_and_unexpected_holding_detection():
+    """Verify that IFOS chat exit on 2026-10-14 is captured and unexpected open holdings are flagged."""
+    settings = load_settings()
+    cluseau_src = settings.sources["cluseau"]
+    trades_path = cluseau_src.data_dir / "trade_events.csv"
+    df = pd.read_csv(trades_path)
+
+    # Must contain IFOS SELL on 2026-10-14
+    ifos_sells = df[(df["ticker"] == "IFOS") & (df["action"] == "SELL")]
+    assert not ifos_sells.empty, "IFOS SELL trade must be present in Cluseau ledger"
+    sell_event = ifos_sells.iloc[0]
+    assert sell_event["date"] == "2026-10-14", f"IFOS exit must be on 2026-10-14, got {sell_event['date']}"
+    assert "30%" in sell_event["notes"] or "loss" in sell_event["notes"].lower()
+
+    # Test that without the exit, an unexpected holding discrepancy is raised
+    engine = ReconciliationEngine(settings)
+    sim_positions = {"IFOS": {"ticker": "IFOS", "status": "OPEN"}}
+    from btt_sim.reconciliation import Checkpoint, CheckpointType
+    cp = Checkpoint(
+        checkpoint_id="test-cp",
+        source_key="cluseau",
+        checkpoint_date="2026-10-14",
+        publication_date="2026-10-14",
+        title="Test Checkpoint",
+        source_slug="test",
+        checkpoint_type=CheckpointType.TRANSACTION_UPDATE,
+        disclosed_positions={"IFOS": {"status": "closed", "notes": "Exited in chat"}},
+    )
+    engine.reconcile_checkpoint(cp, sim_positions, cluseau_src)
+    assert any(d.discrepancy_type == "UNEXPECTED_IN_SIMULATION" for d in cp.discrepancies), (
+        "Reconciliation must flag an explicitly closed position that remains open in simulation"
+    )
+
+
+def test_partial_review_does_not_create_false_missing_sale_alerts():
+    """Verify that partial reviews (e.g. basket updates) do not create false missing sale alerts."""
+    settings = load_settings()
+    engine = ReconciliationEngine(settings)
+    cluseau_src = settings.sources["cluseau"]
+
+    # Replay to April 29, 2026: holdings include CBL, POWL, EVC, etc.
+    open_sim = engine.replay_portfolio_to_date(cluseau_src, "2026-04-29")
+    assert "CBL" in open_sim or "POWL" in open_sim
+
+    # Checkpoint 'Opening the Gates' only discloses Korean basket
+    checkpoints = engine.discover_checkpoints(cluseau_src)
+    korea_cp = [c for c in checkpoints if c.source_slug == "opening-the-gates"][0]
+    engine.reconcile_checkpoint(korea_cp, open_sim, cluseau_src)
+
+    # Must NOT flag CBL or POWL as unexpected or missing sales because it's a PARTIAL_SNAPSHOT
+    false_sales = [d for d in korea_cp.discrepancies if d.ticker in ("CBL", "POWL", "EVC")]
+    assert len(false_sales) == 0, f"Partial basket reviews must not create false sale alerts for other holdings: {false_sales}"
+
+
+def test_complete_snapshot_detects_unexplained_omissions():
+    """Verify that a complete snapshot detects unexplained omissions (e.g. Hy-Lok in October review)."""
+    settings = load_settings()
+    engine = ReconciliationEngine(settings)
+    cluseau_src = settings.sources["cluseau"]
+
+    checkpoints = engine.discover_checkpoints(cluseau_src)
+    sept_cp = [c for c in checkpoints if c.source_slug == "september-2026-portfolio-review" and c.checkpoint_type.value == "COMPLETE_SNAPSHOT"][0]
+    open_sim = engine.replay_portfolio_to_date(cluseau_src, "2026-10-05")
+
+    engine.reconcile_checkpoint(sept_cp, open_sim, cluseau_src)
+    disappeared = [d for d in sept_cp.discrepancies if d.discrepancy_type == "UNEXPLAINED_DISAPPEARANCE"]
+    assert len(disappeared) > 0, "September review must flag Hy-Lok (013030.KQ) as an unexplained disappearance"
+    assert disappeared[0].ticker == "013030.KQ"
+

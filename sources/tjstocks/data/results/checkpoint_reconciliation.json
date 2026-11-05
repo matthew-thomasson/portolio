@@ -1,0 +1,44 @@
+{
+  "source_key": "tjstocks",
+  "source_name": "TJ Stocks",
+  "overall_status": "FULLY_RECONCILED",
+  "total_checkpoints": 3,
+  "reconciled_checkpoints": 3,
+  "discrepancies_resolved": 0,
+  "outstanding_issues": 0,
+  "checkpoints": [
+    {
+      "checkpoint_id": "tjstocks-01-2026-01-14",
+      "date": "2026-01-14",
+      "title": "StockTok ETF Launch (Inception)",
+      "slug": "only-10-stocks-made-the-cut",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 10,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "tjstocks-02-2026-07-28",
+      "date": "2026-07-28",
+      "title": "StockTok ETF 2.0 Rebalance",
+      "slug": "stocktok-etf-20",
+      "type": "COMPLETE_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 13,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    },
+    {
+      "checkpoint_id": "tjstocks-03-2026-11-03",
+      "date": "2026-11-03",
+      "title": "StockTok Performance Update & VLO Trim",
+      "slug": "stocktok-etf-doubles-the-s-and-p",
+      "type": "PARTIAL_SNAPSHOT",
+      "status": "FULLY_RECONCILED",
+      "matched_count": 1,
+      "discrepancies_count": 0,
+      "discrepancies": []
+    }
+  ]
+}

@@ -18,7 +18,7 @@ All backtests use identical, dollar-matched cash-flow conditions:
 | | **Strategy B** | $8,500.00 | +$644.00 | **+7.58%** | **+15.83%** | +7.44% | **+8.39%** |
 | **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** |
 | | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** |
-| **Cluseau** | **Strategy A** | $21,314.80 | +$4,718.77 | **+22.14%** | **+32.34%** | +10.26% | **+22.08%** |
+| **Cluseau** | **Strategy A** | $21,314.80 | +$4,829.21 | **+22.66%** | **+33.12%** | +10.26% | **+22.86%** |
 | | **Strategy B** | $11,950.62 | +$1,792.65 | **+15.00%** | **+29.74%** | +8.07% | **+21.67%** |
 
 ---
@@ -28,7 +28,7 @@ All backtests use identical, dollar-matched cash-flow conditions:
 ### Strategy A vs. Strategy B Sensitivity
 - **Beating The Tide**: Severe penalty for entering late if missing pre-existing winners. While Strategy B achieved +7.58% ROI (+15.83% XIRR), nearly the entire dollar gain was concentrated in a single ticker (`DELL` +122.3%, +$1,834.25). Without `DELL`, Strategy B was heavily underwater (-$1,190.25). In contrast, Strategy A benefited from 2025 positions (`MU` +121.0%, `VEON` +44.5%).
 - **TJ Stocks**: Zero difference between Strategy A and Strategy B. The model **StockTok ETF** was constructed from scratch on January 14, 2026, meaning an investor starting on Jan 1 faced no legacy bagholding risk or missing past run-ups. The ETF 2.0 rebalance on July 28 properly sold `SPB`, `MSCI`, and `FDX` while adding `CAKE`, `CNXN`, and `FELE`.
-- **Cluseau**: In the original un-audited ledger, Cluseau showed an apparent +38.00% Strategy A ROI. Following the comprehensive completeness audit (which resolved 20 paywall stubs and added 26 previously omitted international positions), Strategy A returned **+22.14% ROI (+32.34% XIRR)** and Strategy B returned **+15.00% ROI (+29.74% XIRR)**. While the inclusion of underwater Korean and micro-cap holdings normalized headline returns, Cluseau still generated substantial alpha over the S&P 500 (+22.08% Strategy A Alpha / +21.67% Strategy B Alpha), driven by extraordinary realized exits (`EVC` +161.1%, `POWL` +68.4%, `CBL` +51.3%, `SK Square` +44.1%).
+- **Cluseau**: In the original un-audited ledger, Cluseau showed an apparent +38.00% Strategy A ROI. Following the comprehensive completeness audit (which resolved 20 paywall stubs, added 27 previously omitted international positions, and closed `IFOS` on October 14 per Chat Msg #29), Strategy A returned **+22.66% ROI (+33.12% XIRR)** and Strategy B returned **+15.00% ROI (+29.74% XIRR)**. While the inclusion of underwater Korean holdings normalized headline returns, Cluseau generated substantial alpha over the S&P 500 (+22.86% Strategy A Alpha / +21.67% Strategy B Alpha), driven by extraordinary realized exits (`EVC` +161.1%, `POWL` +68.4%, `CBL` +51.3%, `SK Square` +44.1%).
 
 ---
 
