@@ -1,0 +1,469 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-market-post-nvidia-earnings",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 172168722,
+  "podcast_art_url": null,
+  "podcast_duration": 462.83755,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "1282c29f-55ce-4068-a0c2-840190f03d36",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/1282c29f-55ce-4068-a0c2-840190f03d36/src",
+  "post_date": "2025-08-28T13:22:45.607Z",
+  "updated_at": "2025-08-28T13:22:45.718Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "stock-market-post-nvidia-earnings",
+  "social_title": null,
+  "subtitle": "Plus: Tired of getting stopped out, and then the stock goes up? I got you...",
+  "teaser_post_eligible": true,
+  "title": "Stock Market POST Nvidia Earnings",
+  "type": "podcast",
+  "video_upload_id": "f37893f8-3a51-4850-b3fb-4f2fbbd2a9de",
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 28
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "nvidia-earnings-and-the-broader-market",
+  "next_post_slug": "picking-up-2-new-stocks-today",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/172168722/f37893f8-3a51-4850-b3fb-4f2fbbd2a9de/transcoded-00169.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!JqYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!JqYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "f37893f8-3a51-4850-b3fb-4f2fbbd2a9de",
+    "name": "copy_344821F1-3AE5-44EC-9D77-76F6E1048B6B.mov",
+    "created_at": "2025-08-28T12:50:59.636Z",
+    "uploaded_at": "2025-08-28T12:56:05.002Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 172168722,
+    "user_id": 301052325,
+    "duration": 462.86667,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 169,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 873151011,
+    "is_mux": true,
+    "mux_asset_id": "FrlBFNxhk1BLNDBRkOLq7fJ4GiTv300srK89QSXhpkrg",
+    "mux_playback_id": "02Ztg2vwA1yZ2bB7k202016e4OK5ej01vmn8qO4kZyav36E",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null,
+    "extractedAudio": {
+      "id": "1282c29f-55ce-4068-a0c2-840190f03d36",
+      "name": null,
+      "created_at": "2025-08-28T12:56:05.033Z",
+      "uploaded_at": "2025-08-28T12:56:05.002Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 172168722,
+      "user_id": 301052325,
+      "duration": 462.83755,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 7406139,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "f37893f8-3a51-4850-b3fb-4f2fbbd2a9de",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "1282c29f-55ce-4068-a0c2-840190f03d36",
+        "created_at": "2025-08-28T12:56:15.802Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01K3RC04GHJ1WBVH28A7JTK3HV",
+        "approved_at": "2025-08-28T12:56:48.154Z",
+        "transcript_url": "s3://substack-video/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/transcription.json?Expires=1794076616&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Z6cPJveBzqCG~cWZmdZSQL~PsneDEwOnkrb1tRgk-q9yn8~dQZnRiXhZ2n729531FLDL7cN8Us1gIo3o9z3EKainR67VZS4RZ3GKY9wq5DD70025fQs94BNT2LN-IAsPXJDnPOOol9i16fZ~Fnzc6ItLumfHDrr5XXHFUEyFR64DfGtTjWRnJnWryLxTXWjdrnStzhfp~4G2FruiphtRAk-rmUrdnwqDG4CSx2e7TIyGzOnXbqOgRIkI8f5wJSxHQLVrzypRTSYjwma00Jk7Uh5k9KWtD8cBcaI0VAtYEk0ZAuAohyofA~SSroXEQ-L0ky14TmdopJ97n0lU~tehmw__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/unaligned_transcription.json?Expires=1794076616&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=XytcdwGpS1SAKkEWmyk7-dXU0WZN2PEumC7csKCoFCShzv4Xl9x1SBh~IxOqbveSaJbXueKRVgX6w7Wd9-s4QtN~VHL3F1A56YhprbVC-dbjjK9saMZttKP81ialIvhJEVp9ytyP8cg~UtFiQ71kCJe5~0hdsqeBf8lIZfV6GT8JqJ1VLgaOZ98wBV3~n-R6HJRD-HufTvmdBhamnKNI2KXI6OR~w8EbIrrl5l7lJw-CWow4lLGniUnhnVb0q6YX-p~6JHN4jrkI4M3iCs6opq7ivcarwaivF8HW3J-3SDzKy1sPJeqiIwoRZhkVOWgbYAScPguVskSvmGI7VOGhtQ__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/en.vtt?Expires=1794076616&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=CsKc5xrXlprqAS0HUSxNRoVwoPcNsDGF2XbHfiKMOxENoiWazcd1DRxikhmDbTyHZQxC0WYTF8b4oAZZocMRPHKaaVk9dN~LZ4BIRwCVqWZE1Sd7oWNTWuGkaoHFs6R-lDsOg0Lpp0HaRP3HH7k3Kb2z-bi8xrE1NI2Hhy7pjBB~472W3WbTegir476JPLDlN4czIYYTxdSDE71GMcoZ~zq4oWFu1RZmyYZlB1No1JBfZI2gkfhStd-rpDHKV5GDQK32mNRQ88jWrCE-YIuFRhbAu7zHe4P0th~cCIC7pRKspoJe-Jd-xNEtDhtZCI6KB4kDBDFPwyXwyqxNcqrgvg__",
+            "original": true
+          }
+        ]
+      }
+    }
+  },
+  "podcastFields": {
+    "post_id": 172168722,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "1282c29f-55ce-4068-a0c2-840190f03d36",
+    "name": null,
+    "created_at": "2025-08-28T12:56:05.033Z",
+    "uploaded_at": "2025-08-28T12:56:05.002Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 172168722,
+    "user_id": 301052325,
+    "duration": 462.83755,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 7406139,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "f37893f8-3a51-4850-b3fb-4f2fbbd2a9de",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "1282c29f-55ce-4068-a0c2-840190f03d36",
+      "created_at": "2025-08-28T12:56:15.802Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01K3RC04GHJ1WBVH28A7JTK3HV",
+      "approved_at": "2025-08-28T12:56:48.154Z",
+      "transcript_url": "s3://substack-video/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/transcription.json?Expires=1794076616&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Z6cPJveBzqCG~cWZmdZSQL~PsneDEwOnkrb1tRgk-q9yn8~dQZnRiXhZ2n729531FLDL7cN8Us1gIo3o9z3EKainR67VZS4RZ3GKY9wq5DD70025fQs94BNT2LN-IAsPXJDnPOOol9i16fZ~Fnzc6ItLumfHDrr5XXHFUEyFR64DfGtTjWRnJnWryLxTXWjdrnStzhfp~4G2FruiphtRAk-rmUrdnwqDG4CSx2e7TIyGzOnXbqOgRIkI8f5wJSxHQLVrzypRTSYjwma00Jk7Uh5k9KWtD8cBcaI0VAtYEk0ZAuAohyofA~SSroXEQ-L0ky14TmdopJ97n0lU~tehmw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/unaligned_transcription.json?Expires=1794076616&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=XytcdwGpS1SAKkEWmyk7-dXU0WZN2PEumC7csKCoFCShzv4Xl9x1SBh~IxOqbveSaJbXueKRVgX6w7Wd9-s4QtN~VHL3F1A56YhprbVC-dbjjK9saMZttKP81ialIvhJEVp9ytyP8cg~UtFiQ71kCJe5~0hdsqeBf8lIZfV6GT8JqJ1VLgaOZ98wBV3~n-R6HJRD-HufTvmdBhamnKNI2KXI6OR~w8EbIrrl5l7lJw-CWow4lLGniUnhnVb0q6YX-p~6JHN4jrkI4M3iCs6opq7ivcarwaivF8HW3J-3SDzKy1sPJeqiIwoRZhkVOWgbYAScPguVskSvmGI7VOGhtQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/172168722/1282c29f-55ce-4068-a0c2-840190f03d36/1756385777/en.vtt?Expires=1794076616&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=CsKc5xrXlprqAS0HUSxNRoVwoPcNsDGF2XbHfiKMOxENoiWazcd1DRxikhmDbTyHZQxC0WYTF8b4oAZZocMRPHKaaVk9dN~LZ4BIRwCVqWZE1Sd7oWNTWuGkaoHFs6R-lDsOg0Lpp0HaRP3HH7k3Kb2z-bi8xrE1NI2Hhy7pjBB~472W3WbTegir476JPLDlN4czIYYTxdSDE71GMcoZ~zq4oWFu1RZmyYZlB1No1JBfZI2gkfhStd-rpDHKV5GDQK32mNRQ88jWrCE-YIuFRhbAu7zHe4P0th~cCIC7pRKspoJe-Jd-xNEtDhtZCI6KB4kDBDFPwyXwyqxNcqrgvg__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Plus: Tired of getting stopped out, and then the stock goes up? I got you...",
+  "body_html": "<p>Nvidia only dropped a little bit…nothing terrible. With an earnings beat, kind of tells us that price action leading up to the earnings, was pricing in the beat. Fortunately, price action remained above the 200 day moving average and we did not form a lower low. These are great sign!</p><p>Regardless…<em><strong>it did go down</strong></em> though. And we follow rules here with our trades. <a href=\"https://tjstocks.substack.com/p/nvidia-earnings-warning?r=4z8lgl\">In this post</a>, we talked about picking up new positions only if Nvidia moved upwards. Now my speculation is Nvidia will recover and continue trending upwards (as ridiculous as I think it is!) Over valued can become significantly more over valued. Just like cheap can get cheaper. Maybe it will recover today…maybe tomorrow…maybe never! When we see Nvidia, and the broader market working in tandem upwards, then we will pick up new positions. I <a href=\"https://tjstocks.substack.com/p/nvidia-earnings-and-the-broader-market?r=4z8lgl\">talk about two positions, Affirm and Kratos here</a>, that I am interested in. By following strict rules, this is how we achieve results like this:</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!JqYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!JqYS!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 424w, https://substackcdn.com/image/fetch/$s_!JqYS!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 848w, https://substackcdn.com/image/fetch/$s_!JqYS!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 1272w, https://substackcdn.com/image/fetch/$s_!JqYS!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!JqYS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png\" width=\"502\" height=\"313\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5dfb94af-625a-41cf-9d42-62416b518817_502x313.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:313,&quot;width&quot;:502,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:30019,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/172168722?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!JqYS!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 424w, https://substackcdn.com/image/fetch/$s_!JqYS!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 848w, https://substackcdn.com/image/fetch/$s_!JqYS!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 1272w, https://substackcdn.com/image/fetch/$s_!JqYS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfb94af-625a-41cf-9d42-62416b518817_502x313.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p> Sorry, tooting my horn a little bit. Just like the croissant discussion with <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$EBAY&quot;}\" data-component-name=\"CashtagToDOM\"></span>. You can <a href=\"https://tjstocks.substack.com/p/2-stocks-with-great-setups-the-croissant?r=4z8lgl\">learn about good croissants here</a>, or about <a href=\"https://tjstocks.substack.com/p/selling-a-stock-the-bad-croissant?r=4z8lgl\">bad croissants here</a>.</p><p>Finally, if you are sick of being stopped out, there is no way to 100% eliminate the occurrence (at least that I have found). But you can <strong>reduce the frequency</strong>. Save this chart below…and tactfully apply it to whatever you are trading. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!bbA6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!bbA6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 424w, https://substackcdn.com/image/fetch/$s_!bbA6!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 848w, https://substackcdn.com/image/fetch/$s_!bbA6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 1272w, https://substackcdn.com/image/fetch/$s_!bbA6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!bbA6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png\" width=\"806\" height=\"286\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/eff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:286,&quot;width&quot;:806,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!bbA6!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 424w, https://substackcdn.com/image/fetch/$s_!bbA6!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 848w, https://substackcdn.com/image/fetch/$s_!bbA6!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 1272w, https://substackcdn.com/image/fetch/$s_!bbA6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feff94fe4-0b56-4511-9c90-1b19acddb863_806x286.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!8vBD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!8vBD!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 424w, https://substackcdn.com/image/fetch/$s_!8vBD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 848w, https://substackcdn.com/image/fetch/$s_!8vBD!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 1272w, https://substackcdn.com/image/fetch/$s_!8vBD!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!8vBD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png\" width=\"698\" height=\"418\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:418,&quot;width&quot;:698,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:45013,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!8vBD!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 424w, https://substackcdn.com/image/fetch/$s_!8vBD!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 848w, https://substackcdn.com/image/fetch/$s_!8vBD!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 1272w, https://substackcdn.com/image/fetch/$s_!8vBD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5a3b9b7-c969-458d-b4b8-933eb9aa0068_698x418.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Determine what the market cap is for your stock of choice. You can see the average daily volatility based on that market cap. Then your stop should be somewhere between the red lines directly above. If the volatility and stop range is really high, you can decrease your position side to reduce risk to portfolio equity. </figcaption></figure></div><p> Be on the lookout for new stock purchases sometime soon, pending market works favorably. Hopefully! Hope you all have a great day, and feel free to stop by the chat with any questions! Thanks for stopping by!</p><p><em>For more visit: <strong><a href=\"https://www.stocktokdashboard.com/\">StockTokDashboard</a> (going away)</strong></em> <em><strong>|</strong> <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/\">All Publications</a></strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to our StockTok Dashboard, updated daily. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a> </strong></em></p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Nvidia only dropped a little bit…nothing terrible. With an earnings beat, kind of tells us that price action leading up to the earnings, was pricing in the beat. Fortunately, price action remained above the 200 day moving average and we did not form a lower low. These are great sign!",
+  "wordcount": 310,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "17ad5bff-d980-4b31-81b8-ecc2f37a29b1",
+      "publication_id": 3537822,
+      "name": "stopped",
+      "slug": "stopped",
+      "hidden": false
+    },
+    {
+      "id": "41ebb604-6f20-42b6-9b74-1bc183d2df27",
+      "publication_id": 3537822,
+      "name": "best stocks 2025",
+      "slug": "best-stocks-2025",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "a87a5f26-d950-437b-b0c8-fa4b119a3463",
+      "publication_id": 3537822,
+      "name": "Timothy",
+      "slug": "timothy",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    },
+    {
+      "id": "e6880352-a119-4d15-be4c-c9bf9b1298fd",
+      "publication_id": 3537822,
+      "name": "stops",
+      "slug": "stops",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        229,
+        145,
+        100
+      ],
+      "population": 13
+    },
+    "DarkVibrant": {
+      "rgb": [
+        102,
+        99,
+        23
+      ],
+      "population": 57
+    },
+    "LightVibrant": {
+      "rgb": [
+        234,
+        152,
+        136
+      ],
+      "population": 560
+    },
+    "Muted": {
+      "rgb": [
+        164,
+        104,
+        94
+      ],
+      "population": 503
+    },
+    "DarkMuted": {
+      "rgb": [
+        71,
+        51,
+        39
+      ],
+      "population": 326
+    },
+    "LightMuted": {
+      "rgb": [
+        221,
+        197,
+        185
+      ],
+      "population": 181
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 28,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

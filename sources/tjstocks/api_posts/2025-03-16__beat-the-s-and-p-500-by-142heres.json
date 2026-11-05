@@ -1,0 +1,383 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/beat-the-s-and-p-500-by-142heres",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 159177120,
+  "podcast_art_url": null,
+  "podcast_duration": 234.03102,
+  "podcast_preview_upload_id": "f8815ac3-ff05-4461-8b3a-cbb86605ebfb",
+  "podcast_upload_id": "f8815ac3-ff05-4461-8b3a-cbb86605ebfb",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/f8815ac3-ff05-4461-8b3a-cbb86605ebfb/src",
+  "post_date": "2025-03-16T17:24:16.077Z",
+  "updated_at": "2025-03-16T17:24:16.180Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "beat-the-s-and-p-500-by-142heres",
+  "social_title": null,
+  "subtitle": "Step-by-Step Stock Filtering Process + 5 Stocks Gaining Momentum 💪",
+  "teaser_post_eligible": false,
+  "title": "Beat The S&P 500 by 142%...Here's How!",
+  "type": "podcast",
+  "video_upload_id": "5ec6e90b-b0ae-456e-b831-97b8ab19c82d",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 6,
+  "reactions": {
+    "❤": 63
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "commodity-to-run-124",
+  "next_post_slug": "stocktok-newsletter",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/159177120/5ec6e90b-b0ae-456e-b831-97b8ab19c82d/transcoded-1742145748.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!AuUU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!AuUU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "5ec6e90b-b0ae-456e-b831-97b8ab19c82d",
+    "name": "stock market.mp4",
+    "created_at": "2025-03-16T16:46:09.786Z",
+    "uploaded_at": "2025-03-16T17:10:01.495Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 159177120,
+    "user_id": 301052325,
+    "duration": 464.3979,
+    "height": 2048,
+    "width": 1152,
+    "thumbnail_id": 1742145748,
+    "preview_start": 0,
+    "preview_duration": 234,
+    "media_type": "video",
+    "primary_file_size": 2024098426,
+    "is_mux": true,
+    "mux_asset_id": "ZgSWw1gBmQ64l9c1Nlowfwi01sGx4FnnfTBq01eDnz7E8",
+    "mux_playback_id": "TNMief700hfsO00JmImJcpmLAuzHuxd1SFEWA5TBhm01uQ",
+    "mux_preview_asset_id": "EfRn9rgwVtcwyT3nvfprZA02vVYgL8e2gmgwER9R6PBk",
+    "mux_preview_playback_id": "X4xFXnHa01yL6WdrP9RQBHjsoZS4JnUe74NjuFVpbkqs",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 159177120,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "f8815ac3-ff05-4461-8b3a-cbb86605ebfb",
+    "name": null,
+    "created_at": "2025-03-16T17:22:53.119Z",
+    "uploaded_at": "2025-03-16T17:10:01.496Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 159177120,
+    "user_id": 301052325,
+    "duration": 234.03102,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 3745047,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "5ec6e90b-b0ae-456e-b831-97b8ab19c82d",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "f8815ac3-ff05-4461-8b3a-cbb86605ebfb",
+      "created_at": "2025-03-16T17:23:14.091Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JPFZPBZGMH833853YQC6WY94",
+      "approved_at": "2025-03-16T17:23:46.061Z",
+      "transcript_url": "s3://substack-video/video_upload/post/159177120/f8815ac3-ff05-4461-8b3a-cbb86605ebfb/1742145810/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/159177120/f8815ac3-ff05-4461-8b3a-cbb86605ebfb/1742145810/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/159177120/f8815ac3-ff05-4461-8b3a-cbb86605ebfb/1742145810/transcription.json?Expires=1794105450&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=QETFfIrxAUzy~E~qUw9hFIiTbSsaEU0cD-~ocB6YA-k~n1DQy-dTiHjg97SFcaBPclTe1qm9-zLwO7XDq6MLqNZQweZ1LkoQir2xUm93JcOnOInzuHWMwEKo6jdvx8P~A9yHOJx7bJM3gNZ6PrTqIdEJ1aijESrglG2tjgg9Izriul3By0KsudNqG9wNnpOQo5tu~o-8G~Mqqoa567ixSrqsHJEPHql4RvsOgiEwmNcLu3MiJAhImw9NnAz~DCOjAE9IGaiJL3xjntLOapDdbrdAT7DG0auSz5IktCTUxfuALtM3~vT4FD70u~BovG1QNRnlfErKv-mLpvk5nedsMw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/159177120/f8815ac3-ff05-4461-8b3a-cbb86605ebfb/1742145810/unaligned_transcription.json?Expires=1794105450&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=bZvjhMvgdIdIxUKwiXa-JQ1RpKdSrfjt0D0aMhyDpUxxybTyLxGvUukuVvSZofYd7hwsHHub6wXmQ2MNE4cLK27idC~db4O50gXhHby4LQArD4hS8dNZ-czjnLWImLiBvtX4FwcYYE5sSUwkOhgjRUQCjjPSKvM8buUTGSn6CWpy~0F2FredGUd5ClRqAmM6SE8fsBmBXbSphWQjXkczkUNfynjjeAvXSw7xENUgsu-8F4nuuUsIvyruRqMqJ3p49XD5kQuHSFeiGJMTZxtuQwcSdIXpC-b4H7FMmq-4mU~sdxQOSwZNQOvpDzsC7k4WwaTUSk1Ma1U9NXR-NvQ37g__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/159177120/f8815ac3-ff05-4461-8b3a-cbb86605ebfb/1742145810/en.vtt?Expires=1794105450&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=DxXZnjddknKuI9p2VLDQDQ3w7MAlQFkCvq-WrhfaDYdV7Dk5~egmXEYdZaKTmlXHkMORUsIwJ31UW7wTKiTwJweSczFmauWhNj6VG9g3~QDpiSoMFrPi4ybNSxjG5qAwBeOsqam6EDMJT18v3OHenjCHNXBBxSWjWFsX6OcSWDqGMb-78ahOiv1EqWXQpJeVREDYypcDLmnxGC9pr9m3wzJkxDM-G6llEbkuU3ckKE3J8GrQO1ee4O21QjfC~ek8TShuuK73BAGXdoS4Urb3C4rXJ1SrM9jY-xLSZGKLN71-X1a5v13rl1oZ2-CqXh9YzF0sJH3sy07skmWmmoHCeQ__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "34784df1-646b-4ccb-96d4-8fd54807c2a0",
+      "thumbnail_id": 1,
+      "duration": 464.4049
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Step-by-Step Stock Filtering Process + 5 Stocks Gaining Momentum 💪",
+  "body_html": "<p>With the stock market in a free fall since mid-February, this is a time where we go seek assets that “held up”. This is fairly simple to do by checking relative strength (RS). This is <em><strong>not</strong></em> relative strength index (RSI), a lagging indicator that measures how fast and how much a stock’s price change over time; this tells us nothing about a stock’s strength compared to other assets in the market. RS tells us how well a stock is performing in relation to the S&amp;P 500, relative to all other assets in the market. A stock price may actually be going down, but is it going down less compared to other assets, relative the S&amp;P 500? This is where we can find many likely winners!</p><p>An easy and free way to search for this is <strong><a href=\"https://www.chartmill.com/stock/stock-screener?f=sm200v_r,sm100v_a_sm200v,sl_crs_70_X,mc_la,sl_eps1y_5_X,sl_eps3y_0_X,sl_eps5y_0_X,sl_epsny_0_X,exch_us\">Chartmill.com</a>. </strong>You will need to register an email, but is well worth the 10 seconds it takes to do that. We can narrow down the thousands of stocks fairly quickly by inputting our general requirements. Note that I am American, so chose “US Only”, but you can use this also to conduct searches for stocks on: Canada, London Stock Exchange, specific European exchanges, Paris, Dublin, Brussels, Zurich and many others Additionally my personal preference are stocks between $10B to $100B and the closest option was $10B to $200B. Maybe you like larger market cap stocks, or smaller. Do whatever you prefer!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!AuUU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!AuUU!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 424w, https://substackcdn.com/image/fetch/$s_!AuUU!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 848w, https://substackcdn.com/image/fetch/$s_!AuUU!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 1272w, https://substackcdn.com/image/fetch/$s_!AuUU!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!AuUU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png\" width=\"1345\" height=\"369\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:369,&quot;width&quot;:1345,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:46763,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/159177120?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!AuUU!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 424w, https://substackcdn.com/image/fetch/$s_!AuUU!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 848w, https://substackcdn.com/image/fetch/$s_!AuUU!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 1272w, https://substackcdn.com/image/fetch/$s_!AuUU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F714258f8-5cb1-428f-b940-aefc9e92a432_1345x369.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Chose “US Only” and Market Cap “$10B-$200B”</figcaption></figure></div><p>Next, I only want to the strongest stocks. Chartmill<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-1\" href=\"#footnote-1\" target=\"_self\">1</a> offers a “Relative Strength” option. While most retail are “buying the dip” and dollar cost averaging their portfolios to oblivion, we are looking for stocks already trending up. Its incredible how many people will say “trend is your friend” and then NOT actually follow that advice. Buy high, sell higher. The relative strength on Chartmill evaluates a stock’s performance over the past year compared to all other stocks in their database. A stock with an RS rating of 90 has outperformed 90% of the other stocks in the database over that period. Personally I chose an RS rating of 70. Maybe you chooser higher or lower, but make sure at a very minimum you are above 50. Lets not go fishing at the bottom of the barrel for trash. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!wsx5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!wsx5!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 424w, https://substackcdn.com/image/fetch/$s_!wsx5!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 848w, https://substackcdn.com/image/fetch/$s_!wsx5!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 1272w, https://substackcdn.com/image/fetch/$s_!wsx5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!wsx5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png\" width=\"1345\" height=\"447\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:447,&quot;width&quot;:1345,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:59562,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/159177120?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!wsx5!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 424w, https://substackcdn.com/image/fetch/$s_!wsx5!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 848w, https://substackcdn.com/image/fetch/$s_!wsx5!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 1272w, https://substackcdn.com/image/fetch/$s_!wsx5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21d7c7d6-2105-4714-b891-7aeb20716473_1345x447.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Relative Strength At Least 70, SMA 100 above 200 SMA, SMA 200 Rising</figcaption></figure></div><p>To further refine our search results, as we want price action to be trending up, and “support” under price action, I chose 100 simple moving average to be above the 200 simple moving average; and 200 simple moving average also trending up. Additionally I chose positive earnings. Think about it, major investors are not going to be incredibly interested in companies with negative earnings. You may get pumps, from companies with negative earnings…however the longevity of those pumps are typically short lived. With these simple general rules we have narrowed down the list to 133 stocks. That is a manageable number of charts to flip through!</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">If you like this Stock Market step-by-step guide, consider subscribing to Timothy James for more updates!</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p>Now, you can go on to add additional filtering criteria if you want, to reduce the 133 stocks even further. However, I prefer conducting a chart analysis individually. I confess the next step is a little tedious…but I assure you, the 15 minutes of labor will pay off over time. I literally start typing every single ticker into Tradingview<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-2\" href=\"#footnote-2\" target=\"_self\">2</a>. You can have a free Tradingview account which allows you 2 indicators per chart. Personally, I have an upgraded account due to being a chart junkie and I enjoy writing in pinescipt my own indicators. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!-GPG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!-GPG!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 424w, https://substackcdn.com/image/fetch/$s_!-GPG!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 848w, https://substackcdn.com/image/fetch/$s_!-GPG!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 1272w, https://substackcdn.com/image/fetch/$s_!-GPG!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!-GPG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png\" width=\"1456\" height=\"657\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:657,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:361936,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/159177120?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!-GPG!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 424w, https://substackcdn.com/image/fetch/$s_!-GPG!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 848w, https://substackcdn.com/image/fetch/$s_!-GPG!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 1272w, https://substackcdn.com/image/fetch/$s_!-GPG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11d6339d-233a-425d-b81d-445db9bd0571_1867x842.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Add tickers from Chartmill to Tradingview</figcaption></figure></div><p>Once the tickers have been added to Tradingview, the next step is a simple “yes” or “no” to each ticker.  Literally spend about 5 seconds on each chart looking for simple criteria: </p><ul><li><p>“Is price action above 200 simple moving average”</p></li><li><p>“Is price action parabolic at a 12 PM position and too far gone to buy”</p></li><li><p>“Is the price action consolidating with higher lows for a breakout”</p></li></ul><p>We can quickly eliminate even more charts that are either too far gone, or have fallen below the 200 simple moving average. Personally we target stocks that are consolidating with higher lows and either higher highs or a flat price ceiling. If this is confusing to you, check out the <a href=\"https://tjstocks.substack.com/p/the-breakout-blueprint-by-timothy?r=4z8lgl\">The Breakout Blueprint: By Timothy James</a> or if you want a deep dive for consolidation patterns the <a href=\"https://tjstocks.substack.com/p/chart-structure-class?r=4z8lgl\">Chart Structure Class</a>. Long story short, we target breakouts of volatility contraction patterns, as they offer the highest probability of price action breaking to the upside in a parabolic rise. With this knowledge in hand, you can quickly flag charts to circle back to. </p><p>It took about 10 minutes to find 17 stocks with the right price action and chart setups to choose from. From there, we can decide which of those 17 stocks are the best….maybe you want 5 stocks. </p><p>👇 Here were the top 5 stocks: 👇</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "With the stock market in a free fall since mid-February, this is a time where we go seek assets that “held up”. This is fairly simple to do by checking relative strength (RS). This is not relative strength index (RSI), a lagging indicator that measures how fast and how much a stock’s price change over time; this tells us nothing about a stock’s strength compared to other assets in the market. RS tells us how well a stock is performing in relation to the S&P 500, relative to all other assets in the market. A stock price may actually be going down, but is it going down less compared to other assets, relative the S&P 500? This is where we can find many likely winners!",
+  "wordcount": 1571,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "0b6f72dd-d4a7-4478-9192-4c2547cfaeb7",
+      "publication_id": 3537822,
+      "name": "investors",
+      "slug": "investors",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        249,
+        249,
+        4
+      ],
+      "population": 1304
+    },
+    "DarkVibrant": {
+      "rgb": [
+        145,
+        145,
+        4
+      ],
+      "population": 173
+    },
+    "LightVibrant": {
+      "rgb": [
+        188,
+        248,
+        172
+      ],
+      "population": 2
+    },
+    "Muted": {
+      "rgb": [
+        156,
+        92,
+        84
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        60,
+        78,
+        40
+      ],
+      "population": 67
+    },
+    "LightMuted": {
+      "rgb": [
+        172,
+        213,
+        169
+      ],
+      "population": 72
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 63,
+  "comment_count": 4,
+  "child_comment_count": 3,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

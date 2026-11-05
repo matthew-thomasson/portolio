@@ -1,0 +1,283 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/market-is-droppingwhats-the-plan",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 154401009,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-01-08T15:13:46.881Z",
+  "updated_at": "2025-01-08T15:18:26.528Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "market-is-droppingwhats-the-plan",
+  "social_title": null,
+  "subtitle": "Quick thoughts on our recent positions 🤔",
+  "teaser_post_eligible": true,
+  "title": "Market is Dropping...Whats the plan?! 😰",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 8,
+  "reactions": {
+    "❤": 36
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "timothys-stocks",
+  "next_post_slug": "free-investment-tool",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/833850c0-2a7d-4a04-b39a-182fc00d6912_680x510.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 154401009,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Quick thoughts on our recent positions 🤔",
+  "body_html": "<p>Market is down today…headlines read Trump’s tariffs, rate cuts, bird flu as all likely candidates. Speculation in the headlines is that there will be no rate cut at the January 26-27 FOMC. Could the drop continue? ABSOLUTELY. However, my speculation is we all know about this, and it is short term volatility. I still think a blow off top is in the cards, and small caps and some mid caps still have runs in them. <em><strong>Regardless</strong></em>, let us prepare for the instance it does continue descending. Here is my game plan, but adjust FOR YOU, and know that the goal for me personally is to protect capital. Focusing on risk is more important than focusing on profits. </p><p>Note: I do not give my exact stop price…because frankly I dont want market makers to see 100s of people with the exact same stop price. Sounds like a target for them to hit. May be a little bit of a conspiracy theory there on my part, but thats my opinion. Here are the updates 👇:</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Market is down today…headlines read Trump’s tariffs, rate cuts, bird flu as all likely candidates. Speculation in the headlines is that there will be no rate cut at the January 26-27 FOMC. Could the drop continue? ABSOLUTELY. However, my speculation is we all know about this, and it is short term volatility. I still think a blow off top is in the cards, and small caps and some mid caps still have runs in them.",
+  "wordcount": 462,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "ae0c6381-ca5c-4333-84c7-ff70b6eed3a6",
+      "publication_id": 3537822,
+      "name": "stock market analysis",
+      "slug": "stock-market-analysis",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        241,
+        23,
+        62
+      ],
+      "population": 99
+    },
+    "DarkVibrant": {
+      "rgb": [
+        143,
+        5,
+        23
+      ],
+      "population": 441
+    },
+    "LightVibrant": {
+      "rgb": [
+        228,
+        98,
+        99
+      ],
+      "population": 73
+    },
+    "Muted": {
+      "rgb": [
+        88,
+        115,
+        154
+      ],
+      "population": 166
+    },
+    "DarkMuted": {
+      "rgb": [
+        49,
+        60,
+        75
+      ],
+      "population": 443
+    },
+    "LightMuted": {
+      "rgb": [
+        150,
+        156,
+        178
+      ],
+      "population": 227
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 36,
+  "comment_count": 2,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 154401009,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": null,
+      "type": "tts",
+      "status": "paywalled"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": []
+}

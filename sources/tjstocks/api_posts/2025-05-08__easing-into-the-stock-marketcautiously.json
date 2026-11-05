@@ -1,0 +1,411 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/easing-into-the-stock-marketcautiously",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 163166793,
+  "podcast_art_url": null,
+  "podcast_duration": 209.63266,
+  "podcast_preview_upload_id": "2531fd6c-55bb-414b-b3bc-db4e2f278b22",
+  "podcast_upload_id": "2531fd6c-55bb-414b-b3bc-db4e2f278b22",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/2531fd6c-55bb-414b-b3bc-db4e2f278b22/src",
+  "post_date": "2025-05-08T22:02:59.976Z",
+  "updated_at": "2025-05-08T22:03:00.062Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "easing-into-the-stock-marketcautiously",
+  "social_title": null,
+  "subtitle": "An overview of positions we already picked up and current concerns with market structure. It's ok to test some positions...but NOT time to get aggressive",
+  "teaser_post_eligible": true,
+  "title": "Easing into the Stock Market...Cautiously",
+  "type": "podcast",
+  "video_upload_id": "ffb2708b-46d3-4aac-8bb1-1bda50588b6a",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 25
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "investing-for-beginners-10-short",
+  "next_post_slug": "buying-4-stocks-major-update-to-portfolio",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/163166793/ffb2708b-46d3-4aac-8bb1-1bda50588b6a/transcoded-1746741594.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!geB_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184bf3cf-6989-4f66-8de6-74123bf63995_476x1616.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!geB_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184bf3cf-6989-4f66-8de6-74123bf63995_476x1616.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "ffb2708b-46d3-4aac-8bb1-1bda50588b6a",
+    "name": "0508.mp4",
+    "created_at": "2025-05-08T21:46:27.754Z",
+    "uploaded_at": "2025-05-08T21:56:22.576Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 163166793,
+    "user_id": 301052325,
+    "duration": 463.2479,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1746741594,
+    "preview_start": 0,
+    "preview_duration": 209.6,
+    "media_type": "video",
+    "primary_file_size": 836707196,
+    "is_mux": true,
+    "mux_asset_id": "KFcokkuA1dsJ3j002rW001bqlVLc02utPQIJDVWgu5FHrw",
+    "mux_playback_id": "nGMW6yVBBeuYuU7lpkI1dKw4DW5e5VMMv02KuH2Buq00M",
+    "mux_preview_asset_id": "tIWKk2pHsCQ7QLY02wkCK3oGt005TpeXGgmOWH6Pce4qc",
+    "mux_preview_playback_id": "rOLlA9N5m8egmF02mK7dr027R2VSdrOOjkbTJrHOGtCM8",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 163166793,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "2531fd6c-55bb-414b-b3bc-db4e2f278b22",
+    "name": null,
+    "created_at": "2025-05-08T22:00:10.764Z",
+    "uploaded_at": "2025-05-08T21:56:22.576Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 163166793,
+    "user_id": 301052325,
+    "duration": 209.63266,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 3354673,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "ffb2708b-46d3-4aac-8bb1-1bda50588b6a",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "2531fd6c-55bb-414b-b3bc-db4e2f278b22",
+      "created_at": "2025-05-08T22:00:21.566Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JTRYKX2ZEZK19KVA8E4QJ2MF",
+      "approved_at": "2025-05-08T22:00:39.487Z",
+      "transcript_url": "s3://substack-video/video_upload/post/163166793/2531fd6c-55bb-414b-b3bc-db4e2f278b22/1746741623/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/163166793/2531fd6c-55bb-414b-b3bc-db4e2f278b22/1746741623/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/163166793/2531fd6c-55bb-414b-b3bc-db4e2f278b22/1746741623/transcription.json?Expires=1794098193&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=dj25FynSHsqBhYO-RXNgtuHG59BV680rtcE4cFMXv-8Pq6vCpCQFYx-FFkMoVSgnnLdu64edfSyCct2W1QDJCAUDPScQ9c9KfJpz5Wmqf25xzhw52rbXrFoK9SS3ElUVScEdEIfEl6D38rl89nxAVzYkmTQC5KF76qOZ9wSCNtJ9vgqqT8Zm-TdGxn8W07v2VvEY4GqUezMYgb2D-UcaNQ03WdMcWzE0Y3DOWEis9Ja5GKXvbSkrvuT19R4n3joKgiK~BlHXWOpUpW5Ml9Y98ES5RLs35T5oGKo2eEXmHZXyRsAKtO7H4n37Xo8znAmvsnjrza31k-eLD5UAqvRc6g__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/163166793/2531fd6c-55bb-414b-b3bc-db4e2f278b22/1746741623/unaligned_transcription.json?Expires=1794098193&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=NSvgtX6DoJRS-mDVyBSFIbNaHEaGcsQrnKK03vp0o59c~JHcpK5ZzOp8UWcB8XZQgGKIaxWv6dAgPjtTkScQ5GUmAnJVv6IWU4FSdVLcefuEAmjjcKAfgpujfgr1rO4MY4AZycvi6WG6NftDQilI0p3kcOluWNrMTLi-N541VX3d2TMwK-JmBpGQe-WnJIiaKgr1rOV4MDSBAUNFI5Bpffzk7qkeCZF2G2KFxbtXXHRKzeVS504JpoWoCJLtfW4nSACUymBbFJRgm0DtEmN1wE2aRmXklC4mth7g0WFXRS3FuWOwn0K1BY7fkTZNzZTuaKTuwvkXpiaKhaER0Up~YA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/163166793/2531fd6c-55bb-414b-b3bc-db4e2f278b22/1746741623/en.vtt?Expires=1794098193&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=B2NFc5Ac8ufqJuT9Y8Ms-BWWcD4Vrr8Bus3Cn0IQZtPGRxsCoxxRNP5tjlnmzx03i~2q7ZLfQTvgzt0g2geEv0JYX7~nbSPAUNtFT6J1MvcyT-p6OQI-SQjLPKRnDFdur9sc0PaUnSrY61xS013OtUNsUqy6S7LNsgebLL6Z131e8Y8qs7ce1wcmB9I9qnruPevY3qi01LMcJH2vKwk9xsfkx4oeB9gkdw9jKelC9EOmK1FSmLroUnla7cSz1iYCj6mtNlbGGTDGmbkKdVCzIbccYzXnnubcsKXo~XGUlJ-CEQBTNlMWwOe88eh1bZFJ~ryRhzQ7tdW7tJYZqxMteA__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "6901fbb2-7153-4447-b15a-088df22f8ecf",
+      "thumbnail_id": 1,
+      "duration": 463.25552
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "An overview of positions we already picked up and current concerns with market structure. It's ok to test some positions...but NOT time to get aggressive",
+  "body_html": "<p>As always, questions are welcome in the chat. In this video we talk about positions that are performing well, and a reminder as to WHY we are holding WNS. That full video is linked below. The biggest warning right now is that the <a href=\"https://substack.com/@stocktok/note/c-113459534\">Stock Market has a Potential Bull Trap</a> formation. If we are in fact trending upwards, then more positions will start working, and we can add at that point. Right now its still a “test” stage. </p><p>It was a bit…refreshing…to see what we have been doing, treading lightly and approaching the markets cautiously, is the exact approach Mark Minervini has been doing. You can watch <a href=\"https://www.youtube.com/live/nV7LpnTieoQ\">Mark Minervini’s Market Overview 07 May 2025</a> here. He also noted that this has been a “hard penny” environment. </p><p>I think it is fine to test some positions…I already have a few I am working with, but if you are looking for a few stocks to “test” out, below is today’s market screener results. Your’e welcome to ping me if you want to talk more about an individual name. </p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "As always, questions are welcome in the chat. In this video we talk about positions that are performing well, and a reminder as to WHY we are holding WNS. That full video is linked below. The biggest warning right now is that the Stock Market has a Potential Bull Trap",
+  "wordcount": 200,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "3dd733df-b318-4ea3-bbaa-4b053a1e9932",
+      "publication_id": 3537822,
+      "name": "update",
+      "slug": "update",
+      "hidden": false
+    },
+    {
+      "id": "650b2a58-2c76-4e83-ab1b-133881e5edb7",
+      "publication_id": 3537822,
+      "name": "investor",
+      "slug": "investor",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8a266cf0-93fd-41f0-b5e9-0fb620653e2e",
+      "publication_id": 3537822,
+      "name": "stocks",
+      "slug": "stocks",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        180,
+        92,
+        108
+      ],
+      "population": 4
+    },
+    "DarkVibrant": {
+      "rgb": [
+        44,
+        12,
+        4
+      ],
+      "population": 2
+    },
+    "LightVibrant": {
+      "rgb": [
+        163,
+        212,
+        234
+      ],
+      "population": 38
+    },
+    "Muted": {
+      "rgb": [
+        156,
+        80,
+        91
+      ],
+      "population": 32
+    },
+    "DarkMuted": {
+      "rgb": [
+        80,
+        44,
+        44
+      ],
+      "population": 5
+    },
+    "LightMuted": {
+      "rgb": [
+        195,
+        191,
+        169
+      ],
+      "population": 15
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 25,
+  "comment_count": 9,
+  "child_comment_count": 2,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

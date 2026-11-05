@@ -1,0 +1,479 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/free-week-with-stocktok",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 172775629,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-09-04T13:41:26.873Z",
+  "updated_at": "2025-09-04T13:43:13.475Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "free-week-with-stocktok",
+  "social_title": null,
+  "subtitle": "Have some openings, so if you want to see what we do, DM me on Substack",
+  "teaser_post_eligible": true,
+  "title": "Free Week With StockTok",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 15
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-big-announcement-stock-market",
+  "next_post_slug": "flash-update-buying-a-stock",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!0rJ_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 172775629,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Have some openings, so if you want to see what we do, DM me on Substack",
+  "body_html": "<p>One step forward, one step back. Every time the stock market advances upwards, there has been some news to pull it right back down. When this happens, people get bored. Having invested for 18 years, and 5 of those as a creator, I see the same thing happen over and over again…people disappear. Don’t get me wrong, I dread stock market chop. I am more of a breakout trader…up or down. I’m with ya. </p><p>That said…I like to have about ~1000 people or so in our community, roughly. This is a manageable crowd for me. I can answer questions and be available. I don’t want a “huge” community, but a <em><strong>quality</strong></em> group of people. The chat room is pretty sharp, respectful people that can joke around well. We have had people leave the last month. The predominant reason is “Time” (I see people’s reasoning for unsubscribing). People have jobs, families or a busy schedule. Makes sense, its not for everyone. And that is ok! </p><p>I also am aware of the reputation of paid communities: crap! I like to think we have broken that reputation here.<strong> </strong></p><h4><strong>If you would like to try a free week, DM me here on Substack, and I will set you up.</strong></h4><p>You can come in, Check out the <a href=\"https://open.substack.com/chat/posts/126de3fb-60e4-4fe7-99e4-7a65af55069c\">chat</a>, ask me, or any of the other investors questions…like: “What has been your experience here?” You can look at all of the paid articles in the past and then think “how did that turn out?” You can ping me if you have any questions about a stock or a chart. I’ll give you a candid opinion, good or bad. You can come in, tell me I suck, and leave! LOL 😂</p><h4><strong>Why I run a “paid community” (I really hate the word community btw)</strong></h4><ol><li><p>To <strong>keep degenerates out</strong>. I have been apart of and even ran free communities. What happens is they get over run with degenerate knobs. This prevents that. I have banned 1 person in the span 9 months. In those groups, it was a regular occurrence. </p></li><li><p><strong>Too many people buying the same stock at the same time</strong>. If you have a $2B market cap company, and 100,000 people buy that stock as the market opens, even at $100 each, that is a $10,000,000 liquidity pool for market makers. I’ve seen it happen, and prefer not to contribute. This is why many of the large creators often fall. It’s why I don’t post individual stocks on TikTok anymore…575,000 people is too risky. With a smaller group, I don’t have to worry about that. </p></li></ol><h4>What We Do…well what do I provide…I am a 1 man show</h4><ol><li><p>Provide pre-screened stocks that meet a rigid set of requirements daily. This was a tool I built with Python, that connects with Polygon. You can check out the <a href=\"https://tjstocks.substack.com/p/77-days-in-how-the-stocktok-screener?r=4z8lgl\">last screener results here</a>, and of course ask other investors in the chat, what they think of it. Please note, the shorts screener is still in development. Its been very difficult to review results in the bull market. If you want to know how the screener works, check out the <a href=\"https://tjstocks.substack.com/p/stock-screener-frequently-asked-questions?r=4z8lgl\">Frequently Asked Questions</a>.</p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!2f52!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 424w, https://substackcdn.com/image/fetch/$s_!2f52!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 848w, https://substackcdn.com/image/fetch/$s_!2f52!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 1272w, https://substackcdn.com/image/fetch/$s_!2f52!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!2f52!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png\" width=\"1204\" height=\"175\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:175,&quot;width&quot;:1204,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:29300,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/172775629?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!2f52!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 424w, https://substackcdn.com/image/fetch/$s_!2f52!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 848w, https://substackcdn.com/image/fetch/$s_!2f52!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 1272w, https://substackcdn.com/image/fetch/$s_!2f52!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12b06198-7b2c-4d4e-a9ad-7199f3d6cd80_1204x175.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></div><figcaption class=\"image-caption\">Daily screened stocks, as long as VIX is below 22, and a handful of other requirements. I do not trade every stock that pops up…but this is a good pool of candidates when you are searching for a stock to invest. The results have been pretty solid. The shorts screener is still in development. </figcaption></figure></div></li><li><p>Share my positions. <em><strong>You do not need to be in the chat to know about a new positions I pick up</strong></em>! All new positions will come through via email, or a post notification. I also update a “Quick Notes” thread in the chat, so you can swing in and get the notification quickly. <strong>Below, you can see the stock picks through 2025</strong>. I did not include any positions between -.99% and .99%, as they didn’t really have any impact on portfolio equity. </p><ol><li><p>Best Trade: Roblox, 61% </p></li><li><p>Worst Trade: QuantScape, -25%…I broke all my rules with this one. What’s worse, is several people continued to hold….and then it went up. SMH! 😤</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!0rJ_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!0rJ_!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 424w, https://substackcdn.com/image/fetch/$s_!0rJ_!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 848w, https://substackcdn.com/image/fetch/$s_!0rJ_!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 1272w, https://substackcdn.com/image/fetch/$s_!0rJ_!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!0rJ_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png\" width=\"612\" height=\"663\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e9000896-32e2-4707-998e-a54106a7454c_612x663.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:663,&quot;width&quot;:612,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:84979,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/172775629?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!0rJ_!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 424w, https://substackcdn.com/image/fetch/$s_!0rJ_!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 848w, https://substackcdn.com/image/fetch/$s_!0rJ_!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 1272w, https://substackcdn.com/image/fetch/$s_!0rJ_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9000896-32e2-4707-998e-a54106a7454c_612x663.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div></li></ol></li><li><p><strong>Chat room</strong>. I am typically in there, and pretty active during market hours. If I am not in there, tag me, and I will respond when I get back. We have several other really good investors. We share charts, ideas, economic news typically. Everyone is really respectful of each other: we have had 0 political fights, which has been wonderful. We also joke around and talk about random stuff. I enjoy being in there. </p></li></ol><p>Some final notes: </p><p>Things I CANNOT Guarantee:</p><ul><li><p>You will become a billionaire in a month.</p></li><li><p>Every stock I pick will go up. </p></li><li><p>That you will agree with everything I say </p></li></ul><p>Things I can guarantee:</p><ul><li><p>Resources to help you invest or trade better.</p></li><li><p>Be available to you to provide honest opinions</p></li><li><p>I can’t guarantee my future stock picking outcomes…but…I am pretty damn good at it. Sounds egotistical and I feel slimy saying it. But, I’m really good at one thing in life lol. </p></li></ul><p>Anyways, I have ranted enough. If you have questions, or want to try it out, just shoot me a DM. Hope I can squash the reputation of what most paid groups have. Regardless what you choose, thanks for your support, and….thanks for stopping by! </p><p><em>For more visit: <strong><a href=\"https://www.stocktokdashboard.com/\">StockTokDashboard</a> (going away)</strong></em> <em><strong>|</strong> <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/\">All Publications</a> </strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to our StockTok Dashboard, updated daily. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a> </strong></em></p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "One step forward, one step back. Every time the stock market advances upwards, there has been some news to pull it right back down. When this happens, people get bored. Having invested for 18 years, and 5 of those as a creator, I see the same thing happen over and over again…people disappear. Don’t get me wrong, I dread stock market chop. I am more of a…",
+  "wordcount": 881,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "a87a5f26-d950-437b-b0c8-fa4b119a3463",
+      "publication_id": 3537822,
+      "name": "Timothy",
+      "slug": "timothy",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        8,
+        246,
+        7
+      ],
+      "population": 276
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4,
+        154,
+        4
+      ],
+      "population": 13
+    },
+    "LightVibrant": {
+      "rgb": [
+        116,
+        244,
+        116
+      ],
+      "population": 7
+    },
+    "Muted": {
+      "rgb": [
+        160,
+        104,
+        103
+      ],
+      "population": 13
+    },
+    "DarkMuted": {
+      "rgb": [
+        3.873417721519008,
+        149.12658227848098,
+        3.873417721519008
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        200,
+        219,
+        183
+      ],
+      "population": 34
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 15,
+  "comment_count": 6,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 172775629,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/172775629/tts/a96d1b29-664b-4760-a597-891e51b67abb/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": [
+    {
+      "id": 154480894,
+      "body": "I would love to try a week free if it’s still available.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I would love to try a week free if it’s still available."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 172775629,
+      "user_id": 391223325,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-10T17:57:34.556Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Marie",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7c456c9f-0770-4fb0-a045-1460c1c2bf2a_500x502.jpeg",
+      "handle": "marie2020",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "marie2020",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 152640425,
+      "body": "Good morning\nI would like to try out your group for a week\nMaybe I should starting Monday to get a full week\nThanks",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Good morning"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I would like to try out your group for a week"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Maybe I should starting Monday to get a full week"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Thanks"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 172775629,
+      "user_id": 327061646,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-05T10:46:05.136Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Jon",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/ec5755b9-0bd3-4379-84ff-8d8d741c775e_1176x882.jpeg",
+      "handle": "ferdy55",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "ferdy55",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 5,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 5,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "2 replies by StockTok 📈 and others"
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stocktok-etf-20",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 208839776,
+  "podcast_art_url": null,
+  "podcast_duration": 206.9943,
+  "podcast_preview_upload_id": "f86ee837-b9e0-4a8d-a4fc-08e76174555f",
+  "podcast_upload_id": "ac6427a2-75c0-46f1-9d94-50342fa17021",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/ac6427a2-75c0-46f1-9d94-50342fa17021/src?token=6318e35f-6342-4582-94be-76f787c9d037",
+  "post_date": "2026-07-28T17:39:32.475Z",
+  "updated_at": "2026-07-28T17:39:32.795Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "stocktok-etf-20",
+  "social_title": "StockTok ETF 2.0",
+  "subtitle": "We Tripled the S&P 500. Let’s do even better ",
+  "teaser_post_eligible": true,
+  "title": "StockTok ETF 2.0",
+  "type": "podcast",
+  "video_upload_id": "7c87060a-a733-446d-aafb-0f9dd9a2a63b",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 12,
+  "reactions": {
+    "❤": 73
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "new-to-stocktok",
+  "next_post_slug": "kospi-crashing-us-next",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/0c8c439e-3de6-40b2-b8dc-ab325d40985c_1206x789.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!aRwp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!aRwp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "7c87060a-a733-446d-aafb-0f9dd9a2a63b",
+    "name": "0bc8fd0dbc534846a85fbecd4a3fa0dd.mov",
+    "created_at": "2026-07-28T17:08:43.787Z",
+    "uploaded_at": "2026-07-28T17:11:33.306Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 208839776,
+    "user_id": 301052325,
+    "duration": 207.06831,
+    "height": 1280,
+    "width": 720,
+    "thumbnail_id": 1,
+    "preview_start": 0,
+    "preview_duration": 74,
+    "media_type": "video",
+    "primary_file_size": 260893134,
+    "is_mux": true,
+    "mux_asset_id": "MiVtT6APTetyBu00pwofsD5VjASA7wZTknVHjVq9jREs",
+    "mux_playback_id": "1TbTSZKnhkWn13200xvaii8rQfqP9EV9Kwi6yt0102DoQI",
+    "mux_preview_asset_id": "vu5Hraf9JylzA3AqpyEO7hLAfxMUVrWvBLk1v5WE7Bg",
+    "mux_preview_playback_id": "Bk01AW0100y9QIdgrvvB9YYjzpCDA02RhUwGWjq9NCcJy3s",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "extractedAudio": {
+      "id": "ac6427a2-75c0-46f1-9d94-50342fa17021",
+      "name": null,
+      "created_at": "2026-07-28T17:11:33.330Z",
+      "uploaded_at": "2026-07-28T17:11:33.306Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 208839776,
+      "user_id": 301052325,
+      "duration": 206.9943,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 3312891,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "7c87060a-a733-446d-aafb-0f9dd9a2a63b",
+      "live_stream_id": null,
+      "transcription": null
+    },
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 208839776,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "ac6427a2-75c0-46f1-9d94-50342fa17021",
+    "name": null,
+    "created_at": "2026-07-28T17:11:33.330Z",
+    "uploaded_at": "2026-07-28T17:11:33.306Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 208839776,
+    "user_id": 301052325,
+    "duration": 206.9943,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 3312891,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "7c87060a-a733-446d-aafb-0f9dd9a2a63b",
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastPreviewUpload": {
+    "id": "f86ee837-b9e0-4a8d-a4fc-08e76174555f",
+    "name": null,
+    "created_at": "2026-07-28T17:38:31.535Z",
+    "uploaded_at": "2026-07-28T17:11:33.306Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 208839776,
+    "user_id": 301052325,
+    "duration": 74.03102,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 1185479,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "7c87060a-a733-446d-aafb-0f9dd9a2a63b",
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Watch now | We Tripled the S&P 500. Let’s do even better",
+  "body_html": "<p>The original <a href=\"https://tjstocks.substack.com/p/only-10-stocks-made-the-cut?r=4z8lgl\">StockTok ETF</a>, a basket of stocks assembled in January, has been one of the most popular and highly demanded products I have put together. </p><p>After 7 months, this basket of stocks is <strong>up 18.3%</strong>, more than 3 times the S&amp;P 500 at 6.2%, and reviewing the charts, I expect that gap to widen even further over the next several months. I am very pleased with this, considering the incredibly choppy environment this year. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!aRwp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!aRwp!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 424w, https://substackcdn.com/image/fetch/$s_!aRwp!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 848w, https://substackcdn.com/image/fetch/$s_!aRwp!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 1272w, https://substackcdn.com/image/fetch/$s_!aRwp!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!aRwp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png\" width=\"888\" height=\"797\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:797,&quot;width&quot;:888,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:89455,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!aRwp!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 424w, https://substackcdn.com/image/fetch/$s_!aRwp!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 848w, https://substackcdn.com/image/fetch/$s_!aRwp!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 1272w, https://substackcdn.com/image/fetch/$s_!aRwp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aeee3ef-55bf-43de-a038-beb9d866144d_888x797.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">The StockTok ETF widening its runaway from the S&amp;P 500 </figcaption></figure></div><p>This “ETF” is designed to hold for more than 1 year, reducing capital gains taxes (assuming performance continues). Additionally, the “long term” approach is allowing individuals to ignore the news, in which we are living in tumultuous headlines everyday. All charts are reviewed on the monthly timeframe, with a focus towards strong fundamentals and macro volatility contraction patterns, that have a high percent hit rate. This is not a “get rich quick” approach, however the primary goal is to beat the S&amp;P 500. </p><p>Additionally, even if you are a short term trader, I think these are optimal stocks to consider trading, because I think they have the highest probability of the most consistent “up” days. </p><p>Also, one last note about percent portfolio allocation to positions. For consistency in measuring results, all positions are equally weighted. Feel free to adjust for your own portfolio. </p><p>Lastly, I have to say this. I can never guarantee future results. Black Swan events are rare, but do occur; both for the overall market and individual stocks. However, I think the past results are a good indication of how we will perform in the future. You should always consult a Financial Advisor. Keep in mind, 90% of fund managers underperform the S&amp;P 500<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-1\" href=\"#footnote-1\" target=\"_self\">1</a>. 😂</p><h4>Now, here are the stocks that are staying, removed and added…⬇️</h4><div class=\"paywall-jump\" data-component-name=\"PaywallToDOM\"></div><p>This may be a little less exciting than you imagined… but “if it isn’t broken, don’t fix it”</p><p>There are only a few changes to the original list of stocks, for the StockTok ETF 2.0. I followed the original methodology. Back then I had 333 tickers remaining after filtering. This time around, I had 449 to sort through. </p><h4>The original list of stocks from the StockTok ETF were:</h4><ul><li><p>Valero Energy Corporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$VLO&quot;}\" data-component-name=\"CashtagToDOM\"></span>  </p></li><li><p>Spectrum Brands Holdings - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SPB&quot;}\" data-component-name=\"CashtagToDOM\"></span>  <strong>(Remove)</strong></p></li><li><p> Simon Property Group - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SPG&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>United Bankshares - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$UBSI&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>M&amp;T Bank Corporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MTB&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>MSCI Inc. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MSCI&quot;}\" data-component-name=\"CashtagToDOM\"></span> <strong>(Remove)</strong></p></li><li><p>FedEx Corp. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$FDX&quot;}\" data-component-name=\"CashtagToDOM\"></span>  <strong>(Remove)</strong></p></li><li><p>Prudential Financial - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$PRU&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>Textron Inc. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$TXT&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>HNI Corporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$HNI&quot;}\" data-component-name=\"CashtagToDOM\"></span>       </p><p>  </p></li></ul><p>There are only a few changes to the original list of stocks, for the StockTok ETF 2.0. I followed the original methodology, which you can see in the original StockTok ETF. </p><h3><strong>Remove</strong></h3><p>As you can see, we are removing 3 stocks, and keeping 7 of them. To be clear, I am optimistic that even those 3 still have upside, but for various reasons, I am replacing this <strong>NEW</strong> <strong>list</strong> with 3 different names. </p><p>IF YOU <strong>BOUGHT IN JANUARY</strong>, AND ARE TRYING TO AVOID CAPITAL GAINS TAXES, YOU MAY WANT TO DISREGARD THIS. Do what is best for you. </p><ul><li><p><strong>Spectrum Brands Holdings - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SPB&quot;}\" data-component-name=\"CashtagToDOM\"></span>  </strong></p><ul><li><p>Locally, the trend remains up. This stock has been forming higher lows since the year 2000. However, it has not been able to break away, and the local consolidation. So its not necessarily a “bad” stock, and again, I would bet on “up”… just of all the stocks, my confidence is the least on this one, relatively. </p></li></ul><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Ra6o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Ra6o!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 424w, https://substackcdn.com/image/fetch/$s_!Ra6o!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 848w, https://substackcdn.com/image/fetch/$s_!Ra6o!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 1272w, https://substackcdn.com/image/fetch/$s_!Ra6o!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Ra6o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png\" width=\"1275\" height=\"863\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:863,&quot;width&quot;:1275,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:194532,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Ra6o!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 424w, https://substackcdn.com/image/fetch/$s_!Ra6o!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 848w, https://substackcdn.com/image/fetch/$s_!Ra6o!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 1272w, https://substackcdn.com/image/fetch/$s_!Ra6o!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79611b4-3341-4d09-9066-0b5dbc750c14_1275x863.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Not a bad stock. Just not the most convincing in the bunch. Performance has been good, not “wow”</figcaption></figure></div></li><li><p><strong>MSCI Inc. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MSCI&quot;}\" data-component-name=\"CashtagToDOM\"></span> </strong></p><ul><li><p>This stock has been a dud in the bunch. No breakouts. And I am seeing distribution volume bars instead of accumulation. I think exiting this stock now is predominantly reducing down side risks, as these are not features of a bullish stock.  </p></li></ul><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ItFv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ItFv!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 424w, https://substackcdn.com/image/fetch/$s_!ItFv!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 848w, https://substackcdn.com/image/fetch/$s_!ItFv!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 1272w, https://substackcdn.com/image/fetch/$s_!ItFv!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ItFv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png\" width=\"1277\" height=\"860\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:860,&quot;width&quot;:1277,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:169974,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ItFv!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 424w, https://substackcdn.com/image/fetch/$s_!ItFv!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 848w, https://substackcdn.com/image/fetch/$s_!ItFv!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 1272w, https://substackcdn.com/image/fetch/$s_!ItFv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e98dbc3-1fc6-466d-9016-e9b21dfb8e45_1277x860.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Just a dud in the basket. Seeing potential distribution.</figcaption></figure></div></li><li><p><strong>FedEx - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$FDX&quot;}\" data-component-name=\"CashtagToDOM\"></span>  </strong></p><ul><li><p>I wrote about FedEx a few weeks ago, and cut the stock because Amazon is now moving into the package delivery space<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-2\" href=\"#footnote-2\" target=\"_self\">2</a>. Normally I ignore the news, but Amazon has killed many companies over the years. I don’t think FedEx will disappear, but I do think they will be hurt in time. Additionally, locally, it is showing weakness.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!IP1D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!IP1D!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 424w, https://substackcdn.com/image/fetch/$s_!IP1D!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 848w, https://substackcdn.com/image/fetch/$s_!IP1D!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 1272w, https://substackcdn.com/image/fetch/$s_!IP1D!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!IP1D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png\" width=\"737\" height=\"448\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:448,&quot;width&quot;:737,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:353012,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!IP1D!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 424w, https://substackcdn.com/image/fetch/$s_!IP1D!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 848w, https://substackcdn.com/image/fetch/$s_!IP1D!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 1272w, https://substackcdn.com/image/fetch/$s_!IP1D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd3312e-e230-4ca6-80f9-4aac5002c4e9_737x448.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div></li></ul></li></ul><h3><strong>ADD</strong></h3><p>To find stocks I wanted to add, I followed the same methodology as the original StockTok ETF. You can see the filter requirements below. Read the original article if you want a walk through. This narrowed the list down to 449 stocks. Yes, I manually reviewed all 449 stocks. I know you may think I spend hours, but I click through pretty rapidly as I have an eye for VCP patterns. Muscle memory. I highlighted those, then sorted the winning charts afterwards. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!upjo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!upjo!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 424w, https://substackcdn.com/image/fetch/$s_!upjo!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 848w, https://substackcdn.com/image/fetch/$s_!upjo!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 1272w, https://substackcdn.com/image/fetch/$s_!upjo!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!upjo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png\" width=\"1091\" height=\"281\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:281,&quot;width&quot;:1091,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:36187,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!upjo!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 424w, https://substackcdn.com/image/fetch/$s_!upjo!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 848w, https://substackcdn.com/image/fetch/$s_!upjo!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 1272w, https://substackcdn.com/image/fetch/$s_!upjo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dde55b3-1ead-45c5-aa19-aecf393a0aa5_1091x281.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Methodology of reducing 8000+ tickers to a few hundred.</figcaption></figure></div><p>After this filtration, and scanning all of the stocks, I was left with 21 stocks that met the macro chart structure I was looking for. If you would like to consider any of these, all 21 of these tickers caught my attention. But alas, I am only choosing 3. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!DB2V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!DB2V!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 424w, https://substackcdn.com/image/fetch/$s_!DB2V!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 848w, https://substackcdn.com/image/fetch/$s_!DB2V!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 1272w, https://substackcdn.com/image/fetch/$s_!DB2V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!DB2V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png\" width=\"376\" height=\"702\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:702,&quot;width&quot;:376,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:48964,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!DB2V!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 424w, https://substackcdn.com/image/fetch/$s_!DB2V!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 848w, https://substackcdn.com/image/fetch/$s_!DB2V!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 1272w, https://substackcdn.com/image/fetch/$s_!DB2V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8407fb8f-d75c-41cd-b363-b2af336ce5d7_376x702.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>All of these companies are at macro break outs. All of these companies have improved cash flow and earnings. All of these charts are in upward trends. I don’t think you can go wrong with any of them. So now, its really just deciding “what has the most % potential?” We don’t want a dud like Nvidia with little to no performance. To narrow this down, I eliminated 6 more tickers with the largest market caps, over $10B. </p><p>2 more filtering criteria: Regional banks dominated the list. Followed closely by insurance. However, I do not want an ETF over exposed to any one sector in the case of a black swan event. Since the original ETF has several regional banks, there is no need to add more exposure. </p><p>I care that companies insiders are holding their own stock. Its not a make or break decision, but in tie breakers, its useful. 3 Stocks had closely held shares above 5%, and NOT in finance: CAKE, CNXN, FELE.</p><h4>Cheesecake Factory - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CAKE&quot;}\" data-component-name=\"CashtagToDOM\"></span> </h4><p>Cake broke out last month, but that trend over time is likely to continue. Especially with the higher lows, and the extreme resilience during the market chop the last several months. 8% of closely held shares with steadily improving EPS…indicating insiders are making more money, are great signs. With a $4.3B market cap, plenty of room for growth.  </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!LgmM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!LgmM!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 424w, https://substackcdn.com/image/fetch/$s_!LgmM!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 848w, https://substackcdn.com/image/fetch/$s_!LgmM!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 1272w, https://substackcdn.com/image/fetch/$s_!LgmM!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!LgmM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png\" width=\"1282\" height=\"862\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:862,&quot;width&quot;:1282,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:212081,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!LgmM!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 424w, https://substackcdn.com/image/fetch/$s_!LgmM!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 848w, https://substackcdn.com/image/fetch/$s_!LgmM!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 1272w, https://substackcdn.com/image/fetch/$s_!LgmM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d2f6ed8-2caa-4691-98e0-2101024403b5_1282x862.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h4>PC Connection - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CNXN&quot;}\" data-component-name=\"CashtagToDOM\"></span> </h4><p>This was a weird one, and had to look them up. Basically anything tech, they are doing it. They seem to be a very adaptable business based in New Hampshire. They have been around since 1982 and do not appear to be slowing down. Same story as above…breakout, strong fundamentals and strong trend. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Xtw6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Xtw6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 424w, https://substackcdn.com/image/fetch/$s_!Xtw6!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 848w, https://substackcdn.com/image/fetch/$s_!Xtw6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 1272w, https://substackcdn.com/image/fetch/$s_!Xtw6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Xtw6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png\" width=\"1277\" height=\"870\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:870,&quot;width&quot;:1277,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:228500,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Xtw6!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 424w, https://substackcdn.com/image/fetch/$s_!Xtw6!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 848w, https://substackcdn.com/image/fetch/$s_!Xtw6!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 1272w, https://substackcdn.com/image/fetch/$s_!Xtw6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a09a76d-60ef-4e26-a637-db1cf8934ad5_1277x870.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h4>Franklin Electric Co. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$FELE&quot;}\" data-component-name=\"CashtagToDOM\"></span>  </h4><p>If anything will happen in the future, its more recession fears. Franklin Electric does movement of management of energy, and water. The focus on pumps, motors, drives and controls for residential, commercial, agricultural and industrial applications…indicating regardless the state of the economy, they will have some work to do…thus making more money. This one is a little bit of a slower mover, but has a very consistent uptrend with higher lows. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!5s9R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!5s9R!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 424w, https://substackcdn.com/image/fetch/$s_!5s9R!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 848w, https://substackcdn.com/image/fetch/$s_!5s9R!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 1272w, https://substackcdn.com/image/fetch/$s_!5s9R!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!5s9R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png\" width=\"1280\" height=\"864\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:864,&quot;width&quot;:1280,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:246882,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/208839776?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!5s9R!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 424w, https://substackcdn.com/image/fetch/$s_!5s9R!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 848w, https://substackcdn.com/image/fetch/$s_!5s9R!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 1272w, https://substackcdn.com/image/fetch/$s_!5s9R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ae86b9b-bc80-4ce6-ae3c-19da8ad23947_1280x864.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Conclusion</p><p>All the rest of the tickers remain the same. So the final list for StockTok ETF 2.0 is as follows: </p><ul><li><p>Valero Energy Corporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;VLO&quot;}\" data-component-name=\"CashtagToDOM\"></span>  </p></li><li><p>Cheesecake Factory - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CAKE&quot;}\" data-component-name=\"CashtagToDOM\"></span>  <strong>(Added)</strong></p></li><li><p> Simon Property Group - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;SPG&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>United Bankshares - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;UBSI&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>M&amp;T Bank Corporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;MTB&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>PC Connection - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CNXN&quot;}\" data-component-name=\"CashtagToDOM\"></span> (Added)</p></li><li><p>Franklin Electric - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$FELE&quot;}\" data-component-name=\"CashtagToDOM\"></span> (Added)  </p></li><li><p>Prudential Financial - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;PRU&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>Textron Inc. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;TXT&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>HNI Corporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;HNI&quot;}\" data-component-name=\"CashtagToDOM\"></span>       </p></li></ul><p>As always, if you have questions, feel free to ping me in the main chat. One final note, I am planning to add to my regional bank stocks soon. Be on the look out for that. </p><h3><strong>Please Like ❤️ and Restack 🔄! </strong></h3><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div><div class=\"footnote\" data-component-name=\"FootnoteToDOM\"><a id=\"footnote-1\" href=\"#footnote-anchor-1\" class=\"footnote-number\" contenteditable=\"false\" target=\"_self\">1</a><div class=\"footnote-content\"><p>https://finance.yahoo.com/markets/stocks/articles/why-90-professional-fund-managers-091304633.html</p></div></div><div class=\"footnote\" data-component-name=\"FootnoteToDOM\"><a id=\"footnote-2\" href=\"#footnote-anchor-2\" class=\"footnote-number\" contenteditable=\"false\" target=\"_self\">2</a><div class=\"footnote-content\"><p>https://www.bloomberg.com/news/articles/2026-07-09/ups-fedex-shares-fall-on-growing-threat-from-amazon-shipping</p></div></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The original StockTok ETF, a basket of stocks assembled in January, has been one of the most popular and highly demanded products I have put together.",
+  "wordcount": 1257,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    },
+    {
+      "id": "ecd1d88b-c232-4bd5-8f96-fcd0668b2216",
+      "publication_id": 3537822,
+      "name": "stocktok etf",
+      "slug": "stocktok-etf",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        174,
+        227,
+        13
+      ],
+      "population": 523
+    },
+    "DarkVibrant": {
+      "rgb": [
+        102,
+        113,
+        26
+      ],
+      "population": 254
+    },
+    "LightVibrant": {
+      "rgb": [
+        236,
+        175,
+        142
+      ],
+      "population": 485
+    },
+    "Muted": {
+      "rgb": [
+        120,
+        144,
+        162
+      ],
+      "population": 444
+    },
+    "DarkMuted": {
+      "rgb": [
+        42,
+        56,
+        74
+      ],
+      "population": 32
+    },
+    "LightMuted": {
+      "rgb": [
+        216,
+        177,
+        168
+      ],
+      "population": 7
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 73,
+  "comment_count": 6,
+  "child_comment_count": 3,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "inboxItem": {
+    "content_key": "post:208839776",
+    "updated_at": "2026-07-28T17:43:03.026Z",
+    "content_date": "2026-07-28T17:39:32.475Z",
+    "inbox_date": "2026-07-28T17:39:32.475Z",
+    "seen_at": "2026-07-28T17:43:03.026Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": false,
+    "type": "post",
+    "post_id": 208839776,
+    "extra_views": [
+      "audio",
+      "media",
+      "paid"
+    ],
+    "read_progress": 1,
+    "max_read_progress": 1,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "podcast",
+    "title": "StockTok ETF 2.0",
+    "subtitle": "Watch now | We Tripled the S&P 500. Let’s do even better",
+    "detail_view_subtitle": "We Tripled the S&P 500. Let’s do even better ",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/0c8c439e-3de6-40b2-b8dc-ab325d40985c_1206x789.jpeg",
+    "audience": "only_paid",
+    "is_preview": true,
+    "video_id": "7c87060a-a733-446d-aafb-0f9dd9a2a63b",
+    "audio_url": "https://api.substack.com/api/v1/audio/upload/ac6427a2-75c0-46f1-9d94-50342fa17021/src?token=6318e35f-6342-4582-94be-76f787c9d037",
+    "audio_type": "podcast",
+    "web_url": "https://tjstocks.substack.com/p/stocktok-etf-20",
+    "duration_metadata": {
+      "word_count": 1257,
+      "audio_duration": 206.9943,
+      "video_duration": 207.06831
+    },
+    "authors": [
+      "StockTok 📈"
+    ],
+    "published_bylines": [
+      {
+        "id": 301052325,
+        "name": "StockTok 📈",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          174,
+          227,
+          13
+        ],
+        "population": 523
+      },
+      "DarkVibrant": {
+        "rgb": [
+          102,
+          113,
+          26
+        ],
+        "population": 254
+      },
+      "LightVibrant": {
+        "rgb": [
+          236,
+          175,
+          142
+        ],
+        "population": 485
+      },
+      "Muted": {
+        "rgb": [
+          120,
+          144,
+          162
+        ],
+        "population": 444
+      },
+      "DarkMuted": {
+        "rgb": [
+          42,
+          56,
+          74
+        ],
+        "population": 32
+      },
+      "LightMuted": {
+        "rgb": [
+          216,
+          177,
+          168
+        ],
+        "population": 7
+      }
+    },
+    "publication_id": 3537822,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!mLq1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+    "publisher_name": "Timothy’s StockTok",
+    "is_personal_mode": false,
+    "like_count": 73,
+    "comment_count": 6,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 208839776,
+      "post_type": "podcast",
+      "publication_id": 3537822,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 1,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2026-07-28T17:43:03.026Z",
+      "impression_id": "8db8c365-4ae1-42b4-97fb-c3cf347cf84e"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 1,
+  "max_read_progress": 1,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

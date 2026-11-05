@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Executables
+bin/*.exe
+
+# Cache and temporary logs
+*.log
+data/price_cache/
+scratch/
+
+# Large raw HTML/image mirrors
+outperformthemarket/
+beatingthetide/
+sources/*/archive/

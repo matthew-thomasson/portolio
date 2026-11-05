@@ -1,0 +1,448 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/flash-update-lock-profits",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 172251755,
+  "podcast_art_url": null,
+  "podcast_duration": 143.88245,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "9563ba0e-72dd-486a-bf8a-3278b0c36524",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/9563ba0e-72dd-486a-bf8a-3278b0c36524/src",
+  "post_date": "2025-08-29T12:09:03.933Z",
+  "updated_at": "2025-08-29T12:09:04.062Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "flash-update-lock-profits",
+  "social_title": null,
+  "subtitle": "A bird in hand is worth more than two in the bush 🦜",
+  "teaser_post_eligible": true,
+  "title": "Flash Update - Lock Profits ⛈",
+  "type": "podcast",
+  "video_upload_id": "245bbbc0-0b96-4cf2-b376-5e53307c0f04",
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 36
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "picking-up-2-new-stocks-today",
+  "next_post_slug": "bull-market-weekly-wrap-up-week-12",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/172251755/245bbbc0-0b96-4cf2-b376-5e53307c0f04/transcoded-00001.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "245bbbc0-0b96-4cf2-b376-5e53307c0f04",
+    "name": "0829.mp4",
+    "created_at": "2025-08-29T11:55:10.570Z",
+    "uploaded_at": "2025-08-29T11:57:43.629Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 172251755,
+    "user_id": 301052325,
+    "duration": 143.88123,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 215777942,
+    "is_mux": true,
+    "mux_asset_id": "MgibGOQzXW9ORA5tlzFRP2EcHfE8JiDoDZ00NXNVOnbA",
+    "mux_playback_id": "FGCif1SEQUotEJ01bj3aiBF7w1oqjzbB9v62YrY1qENs",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null,
+    "extractedAudio": {
+      "id": "9563ba0e-72dd-486a-bf8a-3278b0c36524",
+      "name": null,
+      "created_at": "2025-08-29T11:57:43.657Z",
+      "uploaded_at": "2025-08-29T11:57:43.630Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 172251755,
+      "user_id": 301052325,
+      "duration": 143.88245,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 2302670,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "245bbbc0-0b96-4cf2-b376-5e53307c0f04",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "9563ba0e-72dd-486a-bf8a-3278b0c36524",
+        "created_at": "2025-08-29T11:57:54.302Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01K3TV2087NQRT8Y1JHK8TN79J",
+        "approved_at": "2025-08-29T11:58:06.906Z",
+        "transcript_url": "s3://substack-video/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/transcription.json?Expires=1794474536&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=K2qWxieFOjvRkHpwSuSztkC5dKQHG~5TiqCEa-MqXNkVnObTCY7L6VP9RGd7oGNSnmOhAHVer0SM4QOkNVyYmrjcPWTr3xckhDBOL9dIuAUakZ0mZ6E2WehLd9p9GLBIRG86AtHZ7~ukXu9VWkW6DwQLngKP~bbXTFiSZXM22J6p9v9uZhesXFXB476zZZPkv-XD4d9LrpAfiXKeXlG33agNNq9Pq3s01FrPBICLw1oNH8Lu1CqcSzoCuDLEritdApgNkjkUAGrMrterLqPQ0NvS6otUQEzDBLxhW-v0wctx0QBdjUxAOO0~moBBLzDm9oj83CtPymVsJpeZgj-icQ__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/unaligned_transcription.json?Expires=1794474536&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=VQGulF~SgycH12x8mxb1iZrnBtDndPUYAzMh-UIV68zCGk~beFnD9jwBKiO~S2wS-x9iD-Vbcx-AF79~1bYEJPrpwWoa2vQEFbGfyYxQvLE4DhNEk2BkqxnJEDSOSz6nezkEGXnRjmaMTSFyufB-dYK4LUYfED2B3fSbO45LDTw2RaWozemvJunklsPMp1oa9nCSFmGOqkWHtsUPYBJnHA6Q35faGgdwaGcgTfKh2QY~6n2vD5EWBVYgd7~MMlh8zCEDe~yfmlGAurrHHTURs04p37ghR92dLkRn4us0kikCFkkMj70V1Ut9PgLx0AyFz9PeyeSghznEDfneL12S~A__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/en.vtt?Expires=1794474536&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Zn7yYKlNNj7hS0L8L~4rnLfyCBlObUZi0xxuOJDpkZaALWCN1vnp~vWH0XEbvHFcspASPrvWQwKl2oGoqW0YNnuoMXm1loEBPZyFDOlf5ZyAkjLW2ROx5JjtFpgtm~3NbxCHJ6t0Vn9V95bKUHxCFjUlHaPX0247NvQiyxZmuZjcDPHpeAV2WfETimjIdgCdtcP-JvPQloRlTePCJu0dZCP-39jK88bjuEmblRQf5SEC9b~00Z5TUCKC6cckjxg0hzRzqLE~CXxEem-MM-QbuV-0N6M~r2BuQEvjycX9v2m3XXBD~IfQ4cAqz~g-pUrAapVqci3m5JnHinANRuSrPA__",
+            "original": true
+          }
+        ]
+      }
+    }
+  },
+  "podcastFields": {
+    "post_id": 172251755,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "9563ba0e-72dd-486a-bf8a-3278b0c36524",
+    "name": null,
+    "created_at": "2025-08-29T11:57:43.657Z",
+    "uploaded_at": "2025-08-29T11:57:43.630Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 172251755,
+    "user_id": 301052325,
+    "duration": 143.88245,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 2302670,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "245bbbc0-0b96-4cf2-b376-5e53307c0f04",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "9563ba0e-72dd-486a-bf8a-3278b0c36524",
+      "created_at": "2025-08-29T11:57:54.302Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01K3TV2087NQRT8Y1JHK8TN79J",
+      "approved_at": "2025-08-29T11:58:06.906Z",
+      "transcript_url": "s3://substack-video/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/transcription.json?Expires=1794474536&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=K2qWxieFOjvRkHpwSuSztkC5dKQHG~5TiqCEa-MqXNkVnObTCY7L6VP9RGd7oGNSnmOhAHVer0SM4QOkNVyYmrjcPWTr3xckhDBOL9dIuAUakZ0mZ6E2WehLd9p9GLBIRG86AtHZ7~ukXu9VWkW6DwQLngKP~bbXTFiSZXM22J6p9v9uZhesXFXB476zZZPkv-XD4d9LrpAfiXKeXlG33agNNq9Pq3s01FrPBICLw1oNH8Lu1CqcSzoCuDLEritdApgNkjkUAGrMrterLqPQ0NvS6otUQEzDBLxhW-v0wctx0QBdjUxAOO0~moBBLzDm9oj83CtPymVsJpeZgj-icQ__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/unaligned_transcription.json?Expires=1794474536&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=VQGulF~SgycH12x8mxb1iZrnBtDndPUYAzMh-UIV68zCGk~beFnD9jwBKiO~S2wS-x9iD-Vbcx-AF79~1bYEJPrpwWoa2vQEFbGfyYxQvLE4DhNEk2BkqxnJEDSOSz6nezkEGXnRjmaMTSFyufB-dYK4LUYfED2B3fSbO45LDTw2RaWozemvJunklsPMp1oa9nCSFmGOqkWHtsUPYBJnHA6Q35faGgdwaGcgTfKh2QY~6n2vD5EWBVYgd7~MMlh8zCEDe~yfmlGAurrHHTURs04p37ghR92dLkRn4us0kikCFkkMj70V1Ut9PgLx0AyFz9PeyeSghznEDfneL12S~A__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/172251755/9563ba0e-72dd-486a-bf8a-3278b0c36524/1756468676/en.vtt?Expires=1794474536&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Zn7yYKlNNj7hS0L8L~4rnLfyCBlObUZi0xxuOJDpkZaALWCN1vnp~vWH0XEbvHFcspASPrvWQwKl2oGoqW0YNnuoMXm1loEBPZyFDOlf5ZyAkjLW2ROx5JjtFpgtm~3NbxCHJ6t0Vn9V95bKUHxCFjUlHaPX0247NvQiyxZmuZjcDPHpeAV2WfETimjIdgCdtcP-JvPQloRlTePCJu0dZCP-39jK88bjuEmblRQf5SEC9b~00Z5TUCKC6cckjxg0hzRzqLE~CXxEem-MM-QbuV-0N6M~r2BuQEvjycX9v2m3XXBD~IfQ4cAqz~g-pUrAapVqci3m5JnHinANRuSrPA__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A bird in hand is worth more than two in the bush 🦜",
+  "body_html": "<p>What is an hour of your time worth? Everyone of you will have different answers. Regardless though, we all want to make as much as we can in as short of a time period as possible. But the same can be asked in the stock market. What is your time worth? Now, hopefully <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$AFRM&quot;}\" data-component-name=\"CashtagToDOM\"></span> keeps running….that would be great… But in just a few hours, we beat most fund managers dream percentages. Granted, it is with an individual position and not the portfolio. But because it took so little time, I am not going to guess, speculate or ponder. I think Affirm will go much higher…we can always enter again. But set stops to lock the bird in hand. We made a lot in a short period of time…Don’t lose it!</p><p>I’ll have our end of week wrap up this afternoon. If there are any new positions or updates, I will put it in there. </p><p>Things are looking good in the market! Blow off tops are fun!</p><p><em>For more visit: <strong><a href=\"https://www.stocktokdashboard.com/\">StockTokDashboard</a> (going away)</strong></em> <em><strong>|</strong> <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/\">All Publications</a> </strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to our StockTok Dashboard, updated daily. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a> </strong></em></p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "What is an hour of your time worth? Everyone of you will have different answers. Regardless though, we all want to make as much as we can in as short of a time period as possible. But the same can be asked in the stock market. What is your time worth? Now, hopefully",
+  "wordcount": 208,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "a87a5f26-d950-437b-b0c8-fa4b119a3463",
+      "publication_id": 3537822,
+      "name": "Timothy",
+      "slug": "timothy",
+      "hidden": false
+    },
+    {
+      "id": "aceec94c-0847-4856-b271-9aec16cc20a4",
+      "publication_id": 3537822,
+      "name": "afrm",
+      "slug": "afrm",
+      "hidden": false
+    },
+    {
+      "id": "b85f2da3-abe6-4b44-8f2b-efa7eaf26dcc",
+      "publication_id": 3537822,
+      "name": "affirm",
+      "slug": "affirm",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        226,
+        188,
+        60
+      ],
+      "population": 4
+    },
+    "DarkVibrant": {
+      "rgb": [
+        99,
+        72,
+        40
+      ],
+      "population": 418
+    },
+    "LightVibrant": {
+      "rgb": [
+        245,
+        207,
+        131
+      ],
+      "population": 288
+    },
+    "Muted": {
+      "rgb": [
+        170,
+        126,
+        94
+      ],
+      "population": 289
+    },
+    "DarkMuted": {
+      "rgb": [
+        107,
+        79,
+        61
+      ],
+      "population": 390
+    },
+    "LightMuted": {
+      "rgb": [
+        190,
+        129,
+        127
+      ],
+      "population": 345
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 36,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

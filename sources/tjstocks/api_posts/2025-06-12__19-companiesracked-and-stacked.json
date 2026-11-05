@@ -1,0 +1,404 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/19-companiesracked-and-stacked",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 165790222,
+  "podcast_art_url": null,
+  "podcast_duration": 338.93878,
+  "podcast_preview_upload_id": "1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c",
+  "podcast_upload_id": "1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c/src",
+  "post_date": "2025-06-12T14:37:36.325Z",
+  "updated_at": "2025-06-12T14:37:36.417Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "19-companiesracked-and-stacked",
+  "social_title": null,
+  "subtitle": "Each of the Top 3 Companies Had Amazing Fundamentals...but we could only have 1 at the top 🥇",
+  "teaser_post_eligible": true,
+  "title": "19 Companies...Racked and Stacked",
+  "type": "podcast",
+  "video_upload_id": "c37d8966-1c99-429d-afdf-4ff905bfb8b0",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 38
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "bitcoin-or-affirmthe-choice-is-simple",
+  "next_post_slug": "stocktok-thoughts-and-reminders",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/165790222/c37d8966-1c99-429d-afdf-4ff905bfb8b0/transcoded-1749739000.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "c37d8966-1c99-429d-afdf-4ff905bfb8b0",
+    "name": "Substack.mp4",
+    "created_at": "2025-06-12T14:21:17.413Z",
+    "uploaded_at": "2025-06-12T14:34:50.660Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 165790222,
+    "user_id": 301052325,
+    "duration": 635.71454,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1749739000,
+    "preview_start": 0,
+    "preview_duration": 338.9,
+    "media_type": "video",
+    "primary_file_size": 1149369171,
+    "is_mux": true,
+    "mux_asset_id": "7hjBrqoR1NV2xwrgml61g574IhUcqDvmqvUCYP8C6w8",
+    "mux_playback_id": "6GZSfC5Mh2CtUoMiSRrma24udBkkfufPToScTVJMGLc",
+    "mux_preview_asset_id": "7DVaiX9y5Lt02WN3FS8R8FOoCid5xSXH5YewNBkM5udw",
+    "mux_preview_playback_id": "aNqCkT9e2dNYuxKcL2I4HrjOzBqlscZx12rgFCxk025I",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 165790222,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c",
+    "name": null,
+    "created_at": "2025-06-12T14:36:31.929Z",
+    "uploaded_at": "2025-06-12T14:34:50.661Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 165790222,
+    "user_id": 301052325,
+    "duration": 338.93878,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 5423571,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "c37d8966-1c99-429d-afdf-4ff905bfb8b0",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c",
+      "created_at": "2025-06-12T14:36:42.733Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JXJ94Q5D95T3C5JB9ZN7FVFX",
+      "approved_at": "2025-06-12T14:37:22.682Z",
+      "transcript_url": "s3://substack-video/video_upload/post/165790222/1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c/1749739015/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/165790222/1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c/1749739015/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/165790222/1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c/1749739015/transcription.json?Expires=1793961354&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=N5hAShWllaMl-f9Xu~mwVT8N3oWnwkemY9baL0fr7Nt~e4kT1rPuG1--g~ES0LWDuZIoWabAeraVYWWe~uJvQhLJ8vZ7cV~8S8jCgyGhhTdNrFobifw0x4rc6IBEmcij28gtLqfDfEmlEfVmOmWQVgTV26u~y6kQCexp671um3Km9NWF53D1qQtABg0PFW-koCKDTgRpi28KPfb1bHHwc1V9hOMZfcCZsTaj6YolxxqyBKCi5bB4lzh8a1Z05xxX5XeqyoX0b-1bj2JTwX0c2RhTMeQB2seIksN1kG5-s7WwX9WeVKadU3W7Z0AQNjfodZvBRXmHyE11xb03FzI8Wg__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/165790222/1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c/1749739015/unaligned_transcription.json?Expires=1793961354&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=KSGBhF6mp9o73AXalKzo6cPXla1rMDhcW5NwHffxKNH6PXsCYcWu0GsTTuRs0qZiFF9X94qWtrjhTc7JOdpLGHT12H0iDpuqbhur93bDNWLOK2gQqWCeOWA7JSoZ1kwR-1M29mz2vyTjhItciceH8klT809oCA~83neL46vjHMJza7-jAR-RR9aD6OnGaEU0qo5cFH7ZMMXdR2Ff-u2TtRBdlp364-3YTtiPGhMEhdgfBbQM1vdSoC5f5Ucd1MFPUxN2Bc-~T8yv0K4yXApKyxVy6UBo8CIDoFDQCXIqNJGYixc5ChLwCfTF-FLdlHCNNe7cnFiNH04WsKosnaB5ZA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/165790222/1c5a7e47-8ef4-4cfc-b33e-5d75144e6c5c/1749739015/en.vtt?Expires=1793961354&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=UJs3R3M~kHtfsW9bemoq5iWhE~TKDC953ZkUb6rxKkKviFBlMl-F5k1a64F43r0vIaMsMJc5Y8AjT14-D8YR1DwkeQkKxNHzJtTZfOfsz64yhS5KcfSiappA88-lUj2H9V5G725yCWYswxYMU0SI~yo6UZBE0FQd5mCCuO-7TgcL~3dj9IeoWeJmKppSXOjNE49Ea3q7RljKbMD5uZBHCD8lWdMLF-MT2QIatF0U7luJEnYgldbRx7gr1umrjyw~Vvh8DcCcJ7xCKcs-A2Z0jEth0YpBAX3FbgnACY4FJ5-DtIyCjqH~mOFCOTxwunXgFZYexYc8-jvIMPUZ7eO6Yg__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "21cdad8e-1dde-490d-a8c7-d84af931a75d",
+      "thumbnail_id": 1,
+      "duration": 635.71594
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Each of the Top 3 Companies Had Amazing Fundamentals...but we could only have 1 at the top 🥇",
+  "body_html": "<p><em>👋 Welcome to a<strong> 🔒 subscriber-only episode🔒 </strong></em>of Mid-Week Movers. Here we review 19 stocks from member requests, and rate them from worst to first.  Each of the top 3 companies had great fundamentals, it was nit picky variables that helped us get to 1st place. Amer Sports <a href=\"https://substack.com/discover/stocks/AS\">AS -0.66%↓</a> continues to be the top performer from this series at nearly 22% gain.</p><p><em>Fo…</em></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "👋 Welcome to a 🔒 subscriber-only episode🔒 of Mid-Week Movers. Here we review 19 stocks from member requests, and rate them from worst to first. Each of the top 3 companies had great fundamentals, it was nit picky variables that helped us get to 1st place. Amer Sports",
+  "wordcount": 117,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "0b6f72dd-d4a7-4478-9192-4c2547cfaeb7",
+      "publication_id": 3537822,
+      "name": "investors",
+      "slug": "investors",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "bdeb5b94-1ef8-446a-a504-a57b7761fa6d",
+      "publication_id": 3537822,
+      "name": "mid week movers",
+      "slug": "mid-week-movers",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        224,
+        157,
+        60
+      ],
+      "population": 18
+    },
+    "DarkVibrant": {
+      "rgb": [
+        114.41150442477876,
+        75.10088495575222,
+        18.188495575221246
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        196,
+        124
+      ],
+      "population": 2
+    },
+    "Muted": {
+      "rgb": [
+        173,
+        81,
+        136
+      ],
+      "population": 16
+    },
+    "DarkMuted": {
+      "rgb": [
+        80,
+        98,
+        130
+      ],
+      "population": 235
+    },
+    "LightMuted": {
+      "rgb": [
+        192,
+        161,
+        155
+      ],
+      "population": 417
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 38,
+  "comment_count": 5,
+  "child_comment_count": 3,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/tickers-of-interest-and-market-update",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 164495718,
+  "podcast_art_url": null,
+  "podcast_duration": 769.5673,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "6e8700b4-62ff-46a7-8ee9-8ce51c1a693f",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/src",
+  "post_date": "2025-05-26T17:22:13.886Z",
+  "updated_at": "2025-05-26T17:22:13.976Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "tickers-of-interest-and-market-update",
+  "social_title": null,
+  "subtitle": "Overall market review for S&P 500 + 3 Notable Companies...one I may purchase this week ",
+  "teaser_post_eligible": true,
+  "title": "Tickers of Interest 🚭 & Market Update",
+  "type": "podcast",
+  "video_upload_id": "41e7d406-3641-4223-8815-d2c4b9457ddc",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 43
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "bitcoins-diminishing-returns-even",
+  "next_post_slug": "swingers-be-swinging",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/164495718/41e7d406-3641-4223-8815-d2c4b9457ddc/transcoded-1748279964.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "41e7d406-3641-4223-8815-d2c4b9457ddc",
+    "name": "Substack Finance Rising Leader.mp4",
+    "created_at": "2025-05-26T16:55:27.971Z",
+    "uploaded_at": "2025-05-26T17:11:54.266Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 164495718,
+    "user_id": 301052325,
+    "duration": 769.58124,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1748279964,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 1392493057,
+    "is_mux": true,
+    "mux_asset_id": "9NhyQvs5RNAbfUZEZ4b3RYVjLts2MH6whMS901MGzw8Y",
+    "mux_playback_id": "8TbxfRnLDbz6DAcFpf5r02iSYTPzUaY01bOKd6l4be72A",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null,
+    "extractedAudio": {
+      "id": "6e8700b4-62ff-46a7-8ee9-8ce51c1a693f",
+      "name": null,
+      "created_at": "2025-05-26T17:11:54.285Z",
+      "uploaded_at": "2025-05-26T17:11:54.267Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 164495718,
+      "user_id": 301052325,
+      "duration": 769.5673,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 12313628,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "41e7d406-3641-4223-8815-d2c4b9457ddc",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "6e8700b4-62ff-46a7-8ee9-8ce51c1a693f",
+        "created_at": "2025-05-26T17:12:17.062Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01JW6S9BQQVGS4P1NG90EWVMRG",
+        "approved_at": "2025-05-26T17:13:00.603Z",
+        "transcript_url": "s3://substack-video/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/transcription.json?Expires=1794281343&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=E3C-9J8ISV6RkuDPTsL3iXECdQwyOQQCr8l1sKOpjn0-TpDrqItYHNIJ~rZXThlFUpIn0Dv46IeNsybh8mzpyNTK4mVuNijRVsc5pgc0M~yWmciwRcgKqokTlPMzA4ZWCUDAm4rnDim9GDd3jkZWKfBcJFqAXHtWYV3GdRbDXolNDnRQ8s-v2a4k3snE1E5pI0z1F2~UIlb~FcEuxfrjK1SjTU8HUT27~o6U1S2BGD01kpCVdO-6cl7bvDoac~Va3P2CbSgr--0HxiQRJvrdi-uynuWQ68I9PLG2PxDgGoxmKoR1GSWWA5MxIM7SD2zbV8ZXZktmlTovIqowx-ctiA__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/unaligned_transcription.json?Expires=1794281343&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Q9t~jbqHV0mbzEXNFR50rJnw6uHgvBt7NZJwBbfDDguGMXiFXx-uma~A0~to437ZiHrrk79DZLwAdTQA-afGjfRD-U~BvJeNg3fiDsJLqXmdZ6RtTNmuxvI11hyg04ImpcS4zpy6wZYjbfPYy3cDIWgQFHKW-~eSy9TyWZ9Qmx8X4eBNyWb4H2xy3F69XDQ857jCoVt~bhcdiByoSOUD2A9DzC76ba2dJoVqeJHAXJAEwK8tz1Ccnjufb03FMMeqlbyVOw8LiFzyHjYQTiHSQadFWasMnb9vHK4lN~y9NmwuNEhhBS3h5AysV1vdsoyvyfjzr-8GAhdFGi5QFn0JtQ__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/en.vtt?Expires=1794281343&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=OpjX6pdZUb5ja9T6my-ZELJgmJ96ilzaBIKxwh8KF4rTSJ6R97viu6vH9SI6dsqITGIaZse0gjranwmVfRoPkqIGucBbxgvn57HmONwssLl0OrRWlkdIGaTpEVHeZXynUpddhfrlJveMts-kmMwL8fs8In9Bvr-poFKwIGlMzv8cUvkrkB5sZUdcpEF5TxoyiM-umSxL3OgWJZSwjtzKOT03VjxyLlL4UVw-20emEryaFCm8Mgym~huqyQYHBMkP-GoIm93RCVn1o7UzsVYca5r7FDNR-rX11-AEQKkzVGivIqrtqp3U7CtDkFJ31NclwD1-uyZuvA9pUTNIX1rF4w__",
+            "original": true
+          }
+        ]
+      }
+    }
+  },
+  "podcastFields": {
+    "post_id": 164495718,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "6e8700b4-62ff-46a7-8ee9-8ce51c1a693f",
+    "name": null,
+    "created_at": "2025-05-26T17:11:54.285Z",
+    "uploaded_at": "2025-05-26T17:11:54.267Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 164495718,
+    "user_id": 301052325,
+    "duration": 769.5673,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 12313628,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "41e7d406-3641-4223-8815-d2c4b9457ddc",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "6e8700b4-62ff-46a7-8ee9-8ce51c1a693f",
+      "created_at": "2025-05-26T17:12:17.062Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JW6S9BQQVGS4P1NG90EWVMRG",
+      "approved_at": "2025-05-26T17:13:00.603Z",
+      "transcript_url": "s3://substack-video/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/transcription.json?Expires=1794281343&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=E3C-9J8ISV6RkuDPTsL3iXECdQwyOQQCr8l1sKOpjn0-TpDrqItYHNIJ~rZXThlFUpIn0Dv46IeNsybh8mzpyNTK4mVuNijRVsc5pgc0M~yWmciwRcgKqokTlPMzA4ZWCUDAm4rnDim9GDd3jkZWKfBcJFqAXHtWYV3GdRbDXolNDnRQ8s-v2a4k3snE1E5pI0z1F2~UIlb~FcEuxfrjK1SjTU8HUT27~o6U1S2BGD01kpCVdO-6cl7bvDoac~Va3P2CbSgr--0HxiQRJvrdi-uynuWQ68I9PLG2PxDgGoxmKoR1GSWWA5MxIM7SD2zbV8ZXZktmlTovIqowx-ctiA__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/unaligned_transcription.json?Expires=1794281343&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Q9t~jbqHV0mbzEXNFR50rJnw6uHgvBt7NZJwBbfDDguGMXiFXx-uma~A0~to437ZiHrrk79DZLwAdTQA-afGjfRD-U~BvJeNg3fiDsJLqXmdZ6RtTNmuxvI11hyg04ImpcS4zpy6wZYjbfPYy3cDIWgQFHKW-~eSy9TyWZ9Qmx8X4eBNyWb4H2xy3F69XDQ857jCoVt~bhcdiByoSOUD2A9DzC76ba2dJoVqeJHAXJAEwK8tz1Ccnjufb03FMMeqlbyVOw8LiFzyHjYQTiHSQadFWasMnb9vHK4lN~y9NmwuNEhhBS3h5AysV1vdsoyvyfjzr-8GAhdFGi5QFn0JtQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/164495718/6e8700b4-62ff-46a7-8ee9-8ce51c1a693f/1748279538/en.vtt?Expires=1794281343&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=OpjX6pdZUb5ja9T6my-ZELJgmJ96ilzaBIKxwh8KF4rTSJ6R97viu6vH9SI6dsqITGIaZse0gjranwmVfRoPkqIGucBbxgvn57HmONwssLl0OrRWlkdIGaTpEVHeZXynUpddhfrlJveMts-kmMwL8fs8In9Bvr-poFKwIGlMzv8cUvkrkB5sZUdcpEF5TxoyiM-umSxL3OgWJZSwjtzKOT03VjxyLlL4UVw-20emEryaFCm8Mgym~huqyQYHBMkP-GoIm93RCVn1o7UzsVYca5r7FDNR-rX11-AEQKkzVGivIqrtqp3U7CtDkFJ31NclwD1-uyZuvA9pUTNIX1rF4w__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Overall market review for S&P 500 + 3 Notable Companies...one I may purchase this week",
+  "body_html": "<p><em>👋 Welcome to<strong> <a href=\"https://substack.com/@stocktok?utm_source=user-menu\">StockTok</a>! </strong>This episode we review the overall stock market, a few ugly signals coming from the VIX and VOLDX. Regardless, a handful of select names continue to provide promising signs, one of which, Philip Morris International (PM) closely resembles our </em><a href=\"https://tjstocks.substack.com/p/mid-week-movers-ford-stockor-lucid\">21 May Mid-Week Movers</a><em> #2 pick, BTI now up 10.6% since the review. </em></p><p><em>For more: <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/p/investing-for-beginners-10-short?r=4z8lgl\">Investing for Beginners</a> | <a href=\"https://tjstocks.substack.com/p/timothys-stocktok-tracker?r=4z8lgl\">Current Stock Positions</a> | <a href=\"https://tjstocks.substack.com/p/stock-screener-daily-update?r=4z8lgl\">Daily Stock Screener</a> | <a href=\"https://tjstocks.substack.com/\">All Publications</a></strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to the Stock Screener. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a></strong></em></p><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/tickers-of-interest-and-market-update?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">If you enjoyed this episode, share it with someone else interested in unbiased stock market discussions!</p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/tickers-of-interest-and-market-update?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/tickers-of-interest-and-market-update?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "👋 Welcome to StockTok! This episode we review the overall stock market, a few ugly signals coming from the VIX and VOLDX. Regardless, a handful of select names continue to provide promising signs, one of which, Philip Morris International (PM) closely resembles our",
+  "wordcount": 113,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "279b74e8-97f8-4c3d-945d-641a5e9e4cca",
+      "publication_id": 3537822,
+      "name": "stock market update",
+      "slug": "stock-market-update",
+      "hidden": false
+    },
+    {
+      "id": "30bf96a0-164d-4043-ae69-11b1fe553112",
+      "publication_id": 3537822,
+      "name": "philip morris",
+      "slug": "philip-morris",
+      "hidden": false
+    },
+    {
+      "id": "3b61b0ec-baef-45c9-afc6-c081817fa912",
+      "publication_id": 3537822,
+      "name": "nuclear stocks",
+      "slug": "nuclear-stocks",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8a266cf0-93fd-41f0-b5e9-0fb620653e2e",
+      "publication_id": 3537822,
+      "name": "stocks",
+      "slug": "stocks",
+      "hidden": false
+    },
+    {
+      "id": "a7faf24a-589e-42c9-9f98-500811e801b8",
+      "publication_id": 3537822,
+      "name": "oklo",
+      "slug": "oklo",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        235.3846153846154,
+        35.30769230769229,
+        19.615384615384603
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        60,
+        9,
+        5
+      ],
+      "population": 40
+    },
+    "LightVibrant": {
+      "rgb": [
+        196,
+        228,
+        180
+      ],
+      "population": 67
+    },
+    "Muted": {
+      "rgb": [
+        118,
+        117,
+        114
+      ],
+      "population": 231
+    },
+    "DarkMuted": {
+      "rgb": [
+        52,
+        35,
+        33
+      ],
+      "population": 450
+    },
+    "LightMuted": {
+      "rgb": [
+        183,
+        184,
+        181
+      ],
+      "population": 474
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 43,
+  "comment_count": 7,
+  "child_comment_count": 5,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

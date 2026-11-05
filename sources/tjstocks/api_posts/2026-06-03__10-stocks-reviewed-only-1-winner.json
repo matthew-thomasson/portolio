@@ -1,0 +1,404 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/10-stocks-reviewed-only-1-winner",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 200521920,
+  "podcast_art_url": null,
+  "podcast_duration": 519.0269,
+  "podcast_preview_upload_id": "8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c",
+  "podcast_upload_id": "8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c/src",
+  "post_date": "2026-06-03T22:05:03.753Z",
+  "updated_at": "2026-06-03T22:05:04.594Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "10-stocks-reviewed-only-1-winner",
+  "social_title": null,
+  "subtitle": "Commodity associated stocks are coiling for inevitable, future chaos...",
+  "teaser_post_eligible": false,
+  "title": "10 Stocks Reviewed... Only 1 Winner",
+  "type": "podcast",
+  "video_upload_id": "7b428260-f500-4405-813b-0142041f5d92",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 14,
+  "reactions": {
+    "❤": 49
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "another-stock-ripping-upwards-buy",
+  "next_post_slug": "welpbull-market-is-over",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/200521920/7b428260-f500-4405-813b-0142041f5d92/transcoded-1780524135.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!j_ZU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!j_ZU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "7b428260-f500-4405-813b-0142041f5d92",
+    "name": "copy_FC7486E2-AC8B-48AD-A5CC-FAA6155BE8B8.mov",
+    "created_at": "2026-06-03T21:45:18.102Z",
+    "uploaded_at": "2026-06-03T22:01:04.327Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 200521920,
+    "user_id": 301052325,
+    "duration": 636.1,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1780524135,
+    "preview_start": 0,
+    "preview_duration": 519,
+    "media_type": "video",
+    "primary_file_size": 1205014562,
+    "is_mux": true,
+    "mux_asset_id": "3KuLe4DmcRWhYuu5PDjFhAeHWRxvwXqh1T8NaXNnFgg",
+    "mux_playback_id": "Aa75zmcuo5SYOQkIBkZa9td56uUL4V45902nUQLNZ3X00",
+    "mux_preview_asset_id": "EbLr9QH9WGYj5XD7dPcTbcfQM7iM8sj02h5VHZTSxEUE",
+    "mux_preview_playback_id": "s00Eh7EsYEqwvFAVhYyzbvF3VUZhlAR79KVt02gkt3t9w",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 200521920,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c",
+    "name": null,
+    "created_at": "2026-06-03T22:02:52.608Z",
+    "uploaded_at": "2026-06-03T22:01:04.327Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 200521920,
+    "user_id": 301052325,
+    "duration": 519.0269,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 8305170,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "7b428260-f500-4405-813b-0142041f5d92",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c",
+      "created_at": "2026-06-03T22:03:13.412Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01KT7R65Y7VJWW9QYEHN2C3W8Z",
+      "approved_at": "2026-06-03T22:03:51.442Z",
+      "transcript_url": "s3://substack-video/video_upload/post/200521920/8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c/1780524206/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/200521920/8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c/1780524206/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/200521920/8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c/1780524206/transcription.json?Expires=1793989003&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=dhDiVKxeMGAf-YA1jzdMMhGxvPm8dxhMQAkKqwZwuvyWVjm6QsBZa1BoAJi1YtZFiR0v9ckMcvOmoVhjWcoEWJHQgN1F9jpBLDEdpJ8GlLMRMWMHbK2ngnJuwh1tN~Q4HwqfTuL8EoY239jwGAVRhb-BzKTD2sozsYFXqWFicIg7273su6EVGfu9wDP3Gud9m9rMND5XUFIDUotrto5y70GlVMTrsA9NMkTFnudjLWKQfxl7kX83b1sS7yg-PFPVYQs7OYC7AkT2K6o8OoVfEDuMh6bmR3W2xi-qL64g8In3MtjssMToWnNDFu9F~~NKznYbDlQmTY4SPUCsjRLYaw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/200521920/8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c/1780524206/unaligned_transcription.json?Expires=1793989003&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=E2Uq9HOpiIEJWTxU~po6OBaOdbrnnAxgziLB02IDzlhjXsA5UufcTHpAptUu87QEyuZBmGOYN6J2YbNiysD6F4QMnyMUTRc78e7XTjX0LNxZwEL4m1lyp~szd2Oo0ZZzPbIe3pIbiNiOPcPJDZJ1-W~JVtki3KJy0zOEzd8ARNIYYtxQVHmlG0vB4VXMqc5wVDEUC29rKW1XXWrhLllFDf17PJ756y8hK-Br3waqa3L0MVO8jL6iUvzhRPbr3fe0~QVnpp8Oqc8FZUv-FziEHlCfudHbTzESmc0nHDg~LPTmXT~bW6kVc7yGHeX98TfXlWAjCyy0o89c~VXJpSNsRA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/200521920/8ffdb8a3-3c2f-4ba3-8653-fc36c0cd267c/1780524206/en.vtt?Expires=1793989003&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=hRzN9dyYa8B-5MyS40ZwghoWkrnyFRTNdCMyxcaLXI3SGoqaQYvs5DpATefjh0T3FZmPXjywFgA7Q0oayuAGzWi0YzazqqnxqT~~~hnNGwF-rN6qr6nReUAo0ywFEEiyDBh6k3tY3~jo32zGU275C7xqbBExOl~wp2ha~qtARD50kx7PAN8hdV9AzSkjS281SsEtJZixtfj6ffrTeqwtC0YDAwu97qys17ntI0j8yWLo~e41IMLTJh37PKa6oXntZxKkSu81VUrijVaTaS1OoPlstQegUQDlgVhjQXl7mB9qZppwC5L3w~0nDtN-CJzXQbA-smtwvnuxk6I-yuk80w__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "68a093e7-976c-41eb-91f8-f08353694086",
+      "thumbnail_id": 1,
+      "duration": 636.0816
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Commodity associated stocks are coiling for inevitable, future chaos...",
+  "body_html": "<p>You can watch the video for a quick summary of this article. My favorite stock in this review is at the bottom and at the end of the video. Enjoy! </p><h4>Zeta Global Holdings <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;ZETA&quot;}\" data-component-name=\"CashtagToDOM\"></span>  - <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Metabice&quot;,&quot;id&quot;:309722636,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/fa9e2bbc-9fc2-43fb-a653-aa3afe33b9ff_3024x3024.jpeg&quot;,&quot;uuid&quot;:&quot;8dd6f4aa-dcda-40ce-aac2-4db11d8f09f5&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>Long term, I think this is a great stock, but the probability for a painful, emotional ride is high in the short to mid-term. I would have loved to see price action more compressed, and a breakout. Annual cashflow and earnings are both improving, 71% and 11% respectively. February 12<sup>th</sup>, <a href=\"https://tjstocks.substack.com/p/the-one-pullback-that-actually-matters\">I reviewed Zeta</a>, and it was ranked in 3<sup>rd</sup> place, and is up ~55% since that post.</p><p><strong>Short Term</strong> - Buy above $25.95 to ensure the local high is an actual breakout, and not a fake out.</p><p><strong>Long Term</strong> - Buy above ~$27 to corroborate macro trend is moving upward…not consolidating for another wave. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!j_ZU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!j_ZU!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 424w, https://substackcdn.com/image/fetch/$s_!j_ZU!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 848w, https://substackcdn.com/image/fetch/$s_!j_ZU!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 1272w, https://substackcdn.com/image/fetch/$s_!j_ZU!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!j_ZU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png\" width=\"1358\" height=\"822\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:822,&quot;width&quot;:1358,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:212781,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!j_ZU!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 424w, https://substackcdn.com/image/fetch/$s_!j_ZU!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 848w, https://substackcdn.com/image/fetch/$s_!j_ZU!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 1272w, https://substackcdn.com/image/fetch/$s_!j_ZU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccedfa65-7a84-447b-a041-5a9b879bb00f_1358x822.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">I know its weird to think sometimes, but I would rather buy Zeta at higher prices, to confirm larger, longer term moves. </figcaption></figure></div><p><strong>Please LIKE ❤️ and RE-STACK. It is the only way we beat out the AI slop here on Substack! </strong></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/10-stocks-reviewed-only-1-winner?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary button-wrapper\" href=\"https://tjstocks.substack.com/p/10-stocks-reviewed-only-1-winner?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><h4>TerraWulf Inc. <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;WULF&quot;}\" data-component-name=\"CashtagToDOM\"></span> -  <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;aaron voyles&quot;,&quot;id&quot;:277316306,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c18e4a16-23f8-4e2b-ab51-c3b5bbd04509_1287x965.jpeg&quot;,&quot;uuid&quot;:&quot;1b858321-cd67-4cc5-a7f8-8d8d41e4de78&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p><a href=\"https://tjstocks.substack.com/p/5-stocks-you-asked-about-2-are-ready\">WULF was my May 5<sup>th</sup>, 2<sup>nd</sup> place pick</a> for Mid-week movers, and is currently up ~14% since then. I had to ignore the atrocious cashflow and earnings, at -304% and -12% respectively…simply because the chart set up was strong. Everyone is different…but price action is the best indicator, and fundamentals are thrown out the window at times. Zooming into the quarterly, I see no improvement….-1,353% for cash flow growth for Q1 2026. Despite those terrible results…the chart continues to push upwards with heavy volume…even gapping up May 26th. </p><p>My main concern with WULF right now, is that it may have ran too much. I think a large rogue red candle is a high probability situation. I cannot predict when (or if) that red candle will come…but it would put us in a bad situation today. If I had to choose a direction, I would go long…but would be aggressive with my stop management. Respect any large “oh shit” red candle…to avoid getting into a bearish trend. But until that point…trend is friend. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!BU0Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!BU0Y!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 424w, https://substackcdn.com/image/fetch/$s_!BU0Y!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 848w, https://substackcdn.com/image/fetch/$s_!BU0Y!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 1272w, https://substackcdn.com/image/fetch/$s_!BU0Y!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!BU0Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png\" width=\"1362\" height=\"817\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:817,&quot;width&quot;:1362,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:199251,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!BU0Y!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 424w, https://substackcdn.com/image/fetch/$s_!BU0Y!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 848w, https://substackcdn.com/image/fetch/$s_!BU0Y!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 1272w, https://substackcdn.com/image/fetch/$s_!BU0Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a4bc47-e8e8-4afb-8278-6a53fee9c24d_1362x817.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h4>MongoDB <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;MDB&quot;}\" data-component-name=\"CashtagToDOM\"></span> -  <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Dan&quot;,&quot;id&quot;:306501427,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/fe71e6a0-54ca-4c91-982a-35f02bce6998_1043x1043.jpeg&quot;,&quot;uuid&quot;:&quot;0a10cbf0-0270-4c23-acc3-d2cf5e2bd78b&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>Dan has gotten quite good at finding bullish charts. MDB is forming a macro volatility contraction pattern on the weekly and monthly timeframes. What is even better, is when we start getting bullish chart patterns locally, inside of the macro bullish patterns. The Inverse head and shoulders is clearly indicated (in blue), notably having a higher right shoulder. Of course there are never any guarantees…but this is a “pocket Aces” hand, with high probability odds of winning both short term and longer term. From a chart perspective, there is literally nothing I can knock about this chart. Fundamentally, its the same story: Annual cashflow and earnings are improving…significantly for the cashflow at +314%. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ngOk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ngOk!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 424w, https://substackcdn.com/image/fetch/$s_!ngOk!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 848w, https://substackcdn.com/image/fetch/$s_!ngOk!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 1272w, https://substackcdn.com/image/fetch/$s_!ngOk!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ngOk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png\" width=\"1366\" height=\"823\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:823,&quot;width&quot;:1366,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:295219,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ngOk!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 424w, https://substackcdn.com/image/fetch/$s_!ngOk!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 848w, https://substackcdn.com/image/fetch/$s_!ngOk!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 1272w, https://substackcdn.com/image/fetch/$s_!ngOk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c34f809-42a9-4742-9fd0-28100a0fc6cb_1366x823.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary button-wrapper\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><h4>Sivers Semiconductors $SIVE - <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Oliver&quot;,&quot;id&quot;:302638658,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f2b4f5a3-b5f9-474e-a768-8f0909b6b0f3_1120x1122.jpeg&quot;,&quot;uuid&quot;:&quot;0189f81f-7430-4c65-b3bf-689dd73b5ffe&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>When you get an e-mail from me about a stock, its because I have high confidence that we have high probability odds that price action will go up and get us in a winning position. I do not send you something I am iffy or hopeful about. If I look at a chart and say to myself: “I have no clue”… you will not hear a peep out of me or I will tell you <strong>I do not know</strong>. With SIVE… <strong>I do not know</strong>. I cannot time tops (or bottoms). If I had to choose a direction, it would be up…but SIVE has ran so much, I have no clue how much more runway it has. Maybe lots. Maybe nots. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!q2v9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!q2v9!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 424w, https://substackcdn.com/image/fetch/$s_!q2v9!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 848w, https://substackcdn.com/image/fetch/$s_!q2v9!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 1272w, https://substackcdn.com/image/fetch/$s_!q2v9!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!q2v9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png\" width=\"1370\" height=\"822\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/346eae24-0d1c-4352-b968-211940565c44_1370x822.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:822,&quot;width&quot;:1370,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:201126,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!q2v9!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 424w, https://substackcdn.com/image/fetch/$s_!q2v9!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 848w, https://substackcdn.com/image/fetch/$s_!q2v9!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 1272w, https://substackcdn.com/image/fetch/$s_!q2v9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346eae24-0d1c-4352-b968-211940565c44_1370x822.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Where is the top? Nobody knows! Ran so much, its hard to get a SEPA entry.</figcaption></figure></div><p>You can see why I do not want to provide commentary on SIVE, from this visual representation of what I like to trade: </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!UDN9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!UDN9!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 424w, https://substackcdn.com/image/fetch/$s_!UDN9!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 848w, https://substackcdn.com/image/fetch/$s_!UDN9!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 1272w, https://substackcdn.com/image/fetch/$s_!UDN9!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!UDN9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png\" width=\"1456\" height=\"909\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:909,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!UDN9!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 424w, https://substackcdn.com/image/fetch/$s_!UDN9!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 848w, https://substackcdn.com/image/fetch/$s_!UDN9!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 1272w, https://substackcdn.com/image/fetch/$s_!UDN9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34eaa17c-2664-4d55-b8a7-ed380266457e_2509x1566.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Visual representation of chart structures I target.</figcaption></figure></div><h4>Amkor Tech &amp; Powell Industries <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;AMKR&quot;}\" data-component-name=\"CashtagToDOM\"></span>  or <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;POWL&quot;}\" data-component-name=\"CashtagToDOM\"></span> -  <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Bindia Mathew&quot;,&quot;id&quot;:177871,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5b5f95c7-279e-4e73-bf78-0001bb1343df_144x144.png&quot;,&quot;uuid&quot;:&quot;6af7dd46-c54f-47f7-8fb8-cdc68616bbb8&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>Amkor was a stock we previously traded for a quick easy 16%. Then it went into a consolidation phase. However, literally today it just tapped the local and all time high. I think POWL is another great chart, but you know the saying “don’t short all time highs”…so Amkor is the more confident stock, between the 2, for continuation of bullish trend. AMKR and POWL both have great closely held share percentages, at 24.4% and 21.6% respectively. Though not a hard rule, its a good variable to see insiders have not just dumped off their stock. Both have largely decent cashflow and earnings. </p><p>Both AMKR and POWL are strong charts, but I have a tiny bit more confidence in AMKR.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!oNqk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!oNqk!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 424w, https://substackcdn.com/image/fetch/$s_!oNqk!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 848w, https://substackcdn.com/image/fetch/$s_!oNqk!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 1272w, https://substackcdn.com/image/fetch/$s_!oNqk!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!oNqk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png\" width=\"1362\" height=\"823\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:823,&quot;width&quot;:1362,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:246211,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!oNqk!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 424w, https://substackcdn.com/image/fetch/$s_!oNqk!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 848w, https://substackcdn.com/image/fetch/$s_!oNqk!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 1272w, https://substackcdn.com/image/fetch/$s_!oNqk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F554bb380-974a-4a9d-a381-a7df4bbad416_1362x823.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">“Don’t short all time highs”… a continuation is likely with AMKR.</figcaption></figure></div><h4>Alibaba <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;BABA&quot;}\" data-component-name=\"CashtagToDOM\"></span> -  <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Ajo&quot;,&quot;id&quot;:315534814,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/96dd0573-8984-4042-8279-9971d7a49355_1152x2048.jpeg&quot;,&quot;uuid&quot;:&quot;ec51bfc5-21c7-4840-ad61-526f3ca73cd8&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>Alibaba was one of our biggest winners in 2025, making more than +22% in just a few days. We traded it again, later, for another +18%. However, fast forward to today…and it does not meet the stringent entry requirements I place on stocks. I see lower highs, and lower lows. Its not about getting the bottom or getting the best price… its about having a high probability set up, and getting into a winning position quickly. Unfortunately, I do not see any key requirements being met today. Maybe it reverses and goes up…we can review and see if a new likely trend is forming. But I simply do not see it today. </p><p>I will also add a bit of opinion. I have seen BABA on several larger Substack platforms. Guys that have no idea how the U.S. Economy works, but want to give expert opinions on China’s economy… (barfed a little in my mouth 🤢). These guys are likely holding bags and have entered into the “hope” stage…finding justification of why BABA price should be higher. Trend is down. Don’t fight trend. Avoid. Apologies if this review comes across harsh, but BS and hope doesn’t help portfolios. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!QOul!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!QOul!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 424w, https://substackcdn.com/image/fetch/$s_!QOul!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 848w, https://substackcdn.com/image/fetch/$s_!QOul!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 1272w, https://substackcdn.com/image/fetch/$s_!QOul!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!QOul!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png\" width=\"1362\" height=\"821\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:821,&quot;width&quot;:1362,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:322626,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!QOul!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 424w, https://substackcdn.com/image/fetch/$s_!QOul!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 848w, https://substackcdn.com/image/fetch/$s_!QOul!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 1272w, https://substackcdn.com/image/fetch/$s_!QOul!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba8dc971-c1c3-4e4e-b951-b5d52333e075_1362x821.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Lower highs and lower lows…maybe this is the bottom. We simply do not know. Don’t fight trends.</figcaption></figure></div><h4>ON Semiconductor <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;ON&quot;}\" data-component-name=\"CashtagToDOM\"></span> -  <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Callum Moriarty&quot;,&quot;id&quot;:336253882,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/becc4c90-0bf4-4ce8-bff2-1d2d5274ef14_96x96.png&quot;,&quot;uuid&quot;:&quot;2cc75ad0-f0c3-4334-8416-77f6ae47edc0&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>Pretty interesting chart here…this one. The weekly just had an official breakout the 11th of May, about 2 weeks ago. Its pretty common that breakouts at this stage can go on for several more weeks or months. So similar to Zeta, I think this one will pan out well going forward. It would not shock me to see some consolidation on the daily timeframe, indicating a bit of a choppy ride. But the volume is relatively steady. Earnings and cash flow are modestly improving…but recall stocks like WULF have trash earnings, but are rocketing. So its not a huge bug signal to me fundamentally. Overall, I am bullish on this stock…its not the chart structure I target, I like to see a consolidation, compression and breakout. This chart just went strait up to the local and all time high. I certainly would not bet against ON right now. Bullish with some local consolidation potential.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!253I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!253I!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 424w, https://substackcdn.com/image/fetch/$s_!253I!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 848w, https://substackcdn.com/image/fetch/$s_!253I!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 1272w, https://substackcdn.com/image/fetch/$s_!253I!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!253I!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png\" width=\"1370\" height=\"821\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:821,&quot;width&quot;:1370,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:189608,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!253I!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 424w, https://substackcdn.com/image/fetch/$s_!253I!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 848w, https://substackcdn.com/image/fetch/$s_!253I!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 1272w, https://substackcdn.com/image/fetch/$s_!253I!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e728f-7d80-4ca7-9172-f01914b36d8e_1370x821.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h4>Hut 8 <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;HUT&quot;}\" data-component-name=\"CashtagToDOM\"></span> -  <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Vladimir&quot;,&quot;id&quot;:320649715,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/61d3facb-6d68-4d26-8ae8-7e32549035df_1536x2048.jpeg&quot;,&quot;uuid&quot;:&quot;4ad21af2-1219-4a81-b539-a7255557720f&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>HUT is very similar to ON…a relatively fresh break out, back on the 4th of May. I’d choose ON simply because the price action break out is more recent, indicating more likelihood of a better SEPA entry. And ON has better fundamentals. But HUT’s chart is still solid. It even gapped up on bad earnings…just like WULF. This chart is early in going “strait up” and I think likelihood of getting into a winning position is likely. </p><h4>BrightSpring Health Services <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;BTSG&quot;}\" data-component-name=\"CashtagToDOM\"></span> <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Tim The Enchanter&quot;,&quot;id&quot;:201567365,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a544bbea-47d1-4fa0-9d85-07306b4f41a6_144x144.png&quot;,&quot;uuid&quot;:&quot;4edd55dd-f080-4096-89e9-46302f70dd5c&quot;}\" data-component-name=\"MentionToDOM\"></span> </h4><p>This stock pains me some days…I made about 11% on it, but a combination of holiday travel, and vacationing, I sold and moved on. However I still get messages of people asking because they are up a quadrillion percent 😂. Happy for you….mad at myself lol. </p><p>This has been the most steady climber the <a href=\"https://tjstocks.substack.com/p/stocktok-summary-fc6?r=4z8lgl\">StockTok Screener</a> has produced, the first signal on October 1st, 2025, and is up over 108% since then. EPS flipped positive in 2024 and has continued to improve. Cashflow is usually good…not always. </p><p>My thoughts on this stock, <strong>if you are holding it: keep holding</strong>. Ride that trend as long as possible. If you are not in this stock, you could enter, but again, not the set up I look for. When and if a big red candle…an “oh shit” candle…comes along, I would begin trimming. If you do not know what an “oh shit” candle is, check out my article: <a href=\"https://tjstocks.substack.com/p/brief-stock-market-update-when-to?r=4z8lgl\">When to sell</a>. The fact that it has not had any genuine pullbacks or even real consolidations…makes me uneasy. That’s just me though. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!qKQB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!qKQB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 424w, https://substackcdn.com/image/fetch/$s_!qKQB!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 848w, https://substackcdn.com/image/fetch/$s_!qKQB!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 1272w, https://substackcdn.com/image/fetch/$s_!qKQB!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!qKQB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png\" width=\"1366\" height=\"825\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:825,&quot;width&quot;:1366,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:195545,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/200447078?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!qKQB!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 424w, https://substackcdn.com/image/fetch/$s_!qKQB!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 848w, https://substackcdn.com/image/fetch/$s_!qKQB!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 1272w, https://substackcdn.com/image/fetch/$s_!qKQB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ca47d2-74ef-448e-952c-24617bc4b6ab_1366x825.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Nothing bad to say. Not the setup I target…but hold on as long as possible. Respect any MAJOR red candle that comes along. Don’t fret about little moves though, like -5% and such.</figcaption></figure></div><h4>Now my FAVORITE Stock in this review: </h4>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "You can watch the video for a quick summary of this article. My favorite stock in this review is at the bottom and at the end of the video. Enjoy!",
+  "wordcount": 1612,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "b89f8fa7-7a59-43f6-bc53-31d52bf57920",
+      "publication_id": 3537822,
+      "name": "copper",
+      "slug": "copper",
+      "hidden": false
+    },
+    {
+      "id": "c68c1b39-3af9-400f-93b7-9221808f65c8",
+      "publication_id": 3537822,
+      "name": "commodities",
+      "slug": "commodities",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        251,
+        103,
+        6
+      ],
+      "population": 431
+    },
+    "DarkVibrant": {
+      "rgb": [
+        8,
+        45,
+        8
+      ],
+      "population": 82
+    },
+    "LightVibrant": {
+      "rgb": [
+        250,
+        158,
+        94
+      ],
+      "population": 131
+    },
+    "Muted": {
+      "rgb": [
+        140,
+        96,
+        168
+      ],
+      "population": 12
+    },
+    "DarkMuted": {
+      "rgb": [
+        36,
+        76,
+        36
+      ],
+      "population": 1
+    },
+    "LightMuted": {
+      "rgb": [
+        180,
+        153,
+        200
+      ],
+      "population": 6
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 49,
+  "comment_count": 5,
+  "child_comment_count": 4,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

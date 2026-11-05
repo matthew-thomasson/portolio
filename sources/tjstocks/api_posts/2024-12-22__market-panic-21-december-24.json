@@ -1,0 +1,474 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/market-panic-21-december-24",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 153473135,
+  "podcast_art_url": null,
+  "podcast_duration": 191.03346,
+  "podcast_preview_upload_id": "e3333038-1756-4761-b94a-3a905e14870a",
+  "podcast_upload_id": "e3333038-1756-4761-b94a-3a905e14870a",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/e3333038-1756-4761-b94a-3a905e14870a/src",
+  "post_date": "2024-12-22T02:06:10.118Z",
+  "updated_at": "2024-12-22T03:40:56.355Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "market-panic-21-december-24",
+  "social_title": null,
+  "subtitle": "Why I sold 🧾 S&P 500 Review 📉 Bitcoin 🤔 What is next 👀",
+  "teaser_post_eligible": true,
+  "title": "Market Gameplan 😏 - 21 December 24'",
+  "type": "podcast",
+  "video_upload_id": "962bb355-b9c8-40be-842e-834c53ba43aa",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 7,
+  "reactions": {
+    "❤": 13
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "stock-market-update-19-december-24",
+  "next_post_slug": "stock-pick-of-the-week-short-1222",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/153473135/962bb355-b9c8-40be-842e-834c53ba43aa/transcoded-1734833138.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "962bb355-b9c8-40be-842e-834c53ba43aa",
+    "name": "Market Thoughts.mp4",
+    "created_at": "2024-12-22T01:40:57.680Z",
+    "uploaded_at": "2024-12-22T01:49:51.648Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 153473135,
+    "user_id": 301052325,
+    "duration": 418.1479,
+    "height": 1080,
+    "width": 1920,
+    "thumbnail_id": 1734833138,
+    "preview_start": 0,
+    "preview_duration": 191,
+    "media_type": "video",
+    "primary_file_size": 752964735,
+    "is_mux": true,
+    "mux_asset_id": "b8xlC02U00CEq501DB00HsuV00wgTHxTcaFGrqQe46RXO1es",
+    "mux_playback_id": "Ma2LkZoEiIFd1A9QMxXg5B53vchOUHgVWr7Nc5tLic00",
+    "mux_preview_asset_id": "zfmdREyWew4PxWYpICBoDibjL3Rz02h5pF8sszhXiIgA",
+    "mux_preview_playback_id": "nyoQtk01LiZ2vzLb01BIPn8U9lqx901BPML8QBMj7JMU00o",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 153473135,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "e3333038-1756-4761-b94a-3a905e14870a",
+    "name": null,
+    "created_at": "2024-12-22T01:59:17.414Z",
+    "uploaded_at": "2024-12-22T01:49:51.649Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 153473135,
+    "user_id": 301052325,
+    "duration": 191.03346,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 3057086,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "962bb355-b9c8-40be-842e-834c53ba43aa",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "e3333038-1756-4761-b94a-3a905e14870a",
+      "created_at": "2024-12-22T01:59:28.253Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JFP1EH69RVVVJYJAG2BTJEW2",
+      "approved_at": "2024-12-22T01:59:45.742Z",
+      "transcript_url": "s3://substack-video/video_upload/post/153473135/e3333038-1756-4761-b94a-3a905e14870a/1734832768/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/153473135/e3333038-1756-4761-b94a-3a905e14870a/1734832768/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/153473135/e3333038-1756-4761-b94a-3a905e14870a/1734832768/transcription.json?Expires=1794047766&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=NJDflHZE7S6OddGPMWcQFMDXTQlvYZpi2iafuunWXtRSjR4wUEGNALDtsrEP8AUIE4aLdMe65s9KbtbVzmNuTlb7RAkK6tlluWJHoMzbqJRsKb96fUY1YD6HcVEy4E8bmKYlDKjyY0mvqeOymXSt6LGBu1uLNr-GN3pp6bzbq7PEZlvYyOaN4BqoRx3nbSqqnydSVUssF7I15MRn8LjlK6EPcrmu7lsUnks9qhqTpxSQiA0KqG7jr4e3DQWMAAv1jsBwcNcuVLXZgSZLGy4tBA9DQmh7o5hGZ-EK94gD2CCc2dYM5WQSzorxm~3og2bBvG9UEez~yHv7XBAbO9~8iw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/153473135/e3333038-1756-4761-b94a-3a905e14870a/1734832768/unaligned_transcription.json?Expires=1794047766&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=PgIkfTkWwAqLLmgW4ClCSZQmMiPVcLIx~iXR4yS6PTEDT8j1y4UmYKN4EpvWHc9c0YIUGkWxDT5EpRBqHgMSZyqKaP5UPMJFmGJqIC3qzlvSMAwudQ~teH6q7Quie~H0ZK0OSFQHhM-aEUupIN1SgKvUESOEZqiFhHNbTSkhlEkSd0SzexoI0QqR3p7olrWM6jXA2SYEXwR29qIqJpRC54jZKTIG-tRosCNl0EKylkQRqHO1rg8JTyRf6a1AhGdmnTay5912USffrzgoyP81u~M4C6zXAlwHyHD5SXqkhbRunl44P3PqcspgJ0ah8md-ugUbifYP7GF1TUePyQewYg__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/153473135/e3333038-1756-4761-b94a-3a905e14870a/1734832768/en.vtt?Expires=1794047766&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=hBD5mksGHjcF~vdepR4u75XGOY1F7KdzOLgnf21Uvk2cfBDClug0REmjUSH0A8X~cS~6HSL-GuUkaPnfcjfoYiXJM8e6exc0lzezUGSFQKgLAO-IKzTPp6SUUi3tsk8tFTptrbcqZ~UtYl2-Tf16hknbB5FKKeUa8L8ZTS9I7mOJvT~WsBatUZ-EyjdSkaeABWHzsQX4gefSxOrvkIN-aqCNDHnH89JeO52LI0ZgljigpJ3pN0Ffbp7xCLfe4MOfsMdwQcuO4KODnJ7SULA0xVrGzPiIzbnImgbPLtCgN5F-vaDNX4Kyq~cbfrF4ChDjzrqFZB~fyCM73jQU7rV5~A__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "3312661e-dc7c-41ac-a0ec-dad9e14f589e",
+      "thumbnail_id": 1,
+      "duration": 418.16815
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Why I sold 🧾 S&P 500 Review 📉 Bitcoin 🤔 What is next 👀",
+  "body_html": "<p> Quick explanation as to why I decided to go risk off on Friday. We glance at the S&amp;P 500 and do an analysis for Bitcoin…there is something we need to monitor for on 31 December…Finally we share the plan going into next week. </p><p>You are always welcome to ping me in the chat with any questions. I am available Monday to Friday, and am most active early morni…</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Quick explanation as to why I decided to go risk off on Friday. We glance at the S&P 500 and do an analysis for Bitcoin…there is something we need to monitor for on 31 December…Finally we share the plan going into next week.",
+  "wordcount": 100,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "03006c76-6afd-4c01-be0e-f2dc471a2fb4",
+      "publication_id": 3537822,
+      "name": "btc",
+      "slug": "btc",
+      "hidden": false
+    },
+    {
+      "id": "0992ec00-e709-4134-bb4e-9e4781dda55e",
+      "publication_id": 3537822,
+      "name": "crypto",
+      "slug": "crypto",
+      "hidden": false
+    },
+    {
+      "id": "2bd0986a-b15f-4620-ad95-e7a9706d5942",
+      "publication_id": 3537822,
+      "name": "bitcoin price",
+      "slug": "bitcoin-price",
+      "hidden": false
+    },
+    {
+      "id": "41ebb604-6f20-42b6-9b74-1bc183d2df27",
+      "publication_id": 3537822,
+      "name": "best stocks 2025",
+      "slug": "best-stocks-2025",
+      "hidden": false
+    },
+    {
+      "id": "44588e74-dd28-46db-8a34-41f911189e22",
+      "publication_id": 3537822,
+      "name": "bitcoin update",
+      "slug": "bitcoin-update",
+      "hidden": false
+    },
+    {
+      "id": "4c95e834-150f-40fa-b602-0292e5665cab",
+      "publication_id": 3537822,
+      "name": "btc price",
+      "slug": "btc-price",
+      "hidden": false
+    },
+    {
+      "id": "517eaabd-dca9-4e29-b709-fb91e54f7bb5",
+      "publication_id": 3537822,
+      "name": "stock tips",
+      "slug": "stock-tips",
+      "hidden": false
+    },
+    {
+      "id": "79725128-3f54-41ed-aff7-2f2534e6f780",
+      "publication_id": 3537822,
+      "name": "cryptocurrency",
+      "slug": "cryptocurrency",
+      "hidden": false
+    },
+    {
+      "id": "7b07c160-e90f-46b6-a0a7-2705c56a289e",
+      "publication_id": 3537822,
+      "name": "how to invest",
+      "slug": "how-to-invest",
+      "hidden": false
+    },
+    {
+      "id": "7dcb0882-ca7d-44fa-ade3-1e977ebf00b5",
+      "publication_id": 3537822,
+      "name": "best stocks",
+      "slug": "best-stocks",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "a5d1f155-f993-464f-bce4-621c50b8c6f6",
+      "publication_id": 3537822,
+      "name": "bitcoin analysis",
+      "slug": "bitcoin-analysis",
+      "hidden": false
+    },
+    {
+      "id": "ae0c6381-ca5c-4333-84c7-ff70b6eed3a6",
+      "publication_id": 3537822,
+      "name": "stock market analysis",
+      "slug": "stock-market-analysis",
+      "hidden": false
+    },
+    {
+      "id": "ca76281f-0612-4966-830c-66b3a1737ebd",
+      "publication_id": 3537822,
+      "name": "stock market crash",
+      "slug": "stock-market-crash",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "ea69f339-d9f1-42af-9694-81e170dc8257",
+      "publication_id": 3537822,
+      "name": "education",
+      "slug": "education",
+      "hidden": false
+    },
+    {
+      "id": "f488ed48-d9bc-4a35-acfb-1e3c3aed61f3",
+      "publication_id": 3537822,
+      "name": "bitcoin",
+      "slug": "bitcoin",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        241,
+        147,
+        30
+      ],
+      "population": 54
+    },
+    "DarkVibrant": {
+      "rgb": [
+        100,
+        64,
+        21
+      ],
+      "population": 13
+    },
+    "LightVibrant": {
+      "rgb": [
+        237,
+        220,
+        96
+      ],
+      "population": 5
+    },
+    "Muted": {
+      "rgb": [
+        156,
+        113,
+        87
+      ],
+      "population": 453
+    },
+    "DarkMuted": {
+      "rgb": [
+        88,
+        66,
+        49
+      ],
+      "population": 415
+    },
+    "LightMuted": {
+      "rgb": [
+        210,
+        183,
+        176
+      ],
+      "population": 5
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 13,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

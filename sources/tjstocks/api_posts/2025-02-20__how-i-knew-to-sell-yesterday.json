@@ -1,0 +1,390 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/how-i-knew-to-sell-yesterday",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 157555651,
+  "podcast_art_url": null,
+  "podcast_duration": 107.0498,
+  "podcast_preview_upload_id": "c90730af-7bf1-4c07-9834-b6dd58423961",
+  "podcast_upload_id": "c90730af-7bf1-4c07-9834-b6dd58423961",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/c90730af-7bf1-4c07-9834-b6dd58423961/src",
+  "post_date": "2025-02-20T16:29:34.150Z",
+  "updated_at": "2025-02-20T16:29:34.266Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "how-i-knew-to-sell-yesterday",
+  "social_title": null,
+  "subtitle": "The Mysteries of Tim's Crystal Ball, Unveiled 🧙🏼",
+  "teaser_post_eligible": true,
+  "title": "How I Knew To SELL Yesterday 🔮",
+  "type": "podcast",
+  "video_upload_id": "d862cff7-fbdb-460f-bd7f-856be44d3ca1",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 25
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "be-cautious-dont-take-losses",
+  "next_post_slug": "chart-structure-class",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/157555651/d862cff7-fbdb-460f-bd7f-856be44d3ca1/transcoded-1740068864.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "d862cff7-fbdb-460f-bd7f-856be44d3ca1",
+    "name": "0220.mp4",
+    "created_at": "2025-02-20T16:20:21.292Z",
+    "uploaded_at": "2025-02-20T16:26:59.361Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 157555651,
+    "user_id": 301052325,
+    "duration": 307.11456,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1740068864,
+    "preview_start": 0,
+    "preview_duration": 107,
+    "media_type": "video",
+    "primary_file_size": 553786208,
+    "is_mux": true,
+    "mux_asset_id": "T02cCHBqcvmNdSKljln002o6nosPzcccXTcCzltmepQjA",
+    "mux_playback_id": "arqQXZHEXMR34VIViLL51016gKbNQMbK6mM8mXGTKs7Q",
+    "mux_preview_asset_id": "paH8uYc004EbaijZjpyg3ipJs8SOgsdDESmO4IAuyE1U",
+    "mux_preview_playback_id": "ZfxnKIL4OD9PvGfRt5p1XeLeNTXOJ7qy900j6q7edIHQ",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 157555651,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "c90730af-7bf1-4c07-9834-b6dd58423961",
+    "name": null,
+    "created_at": "2025-02-20T16:28:20.650Z",
+    "uploaded_at": "2025-02-20T16:26:59.362Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 157555651,
+    "user_id": 301052325,
+    "duration": 107.0498,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 1713347,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "d862cff7-fbdb-460f-bd7f-856be44d3ca1",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "c90730af-7bf1-4c07-9834-b6dd58423961",
+      "created_at": "2025-02-20T16:28:32.049Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JMJ30YWBCDX05TZEMXGDPVT9",
+      "approved_at": "2025-02-20T16:28:53.221Z",
+      "transcript_url": "s3://substack-video/video_upload/post/157555651/c90730af-7bf1-4c07-9834-b6dd58423961/1740068921/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/157555651/c90730af-7bf1-4c07-9834-b6dd58423961/1740068921/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/157555651/c90730af-7bf1-4c07-9834-b6dd58423961/1740068921/transcription.json?Expires=1794253659&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Z4HizPGj7AfnY7T~GvTM2diVzB3HsWBQVrsPxAl0M19Dj7D8Js63Uxl0zzeGtgl5iZVff98IaKuG3jMWXnJ28Ceuuc1B8TxJh6wJnr08-vym-MLXU~YYnkl3-Jf~7nYrEgiBATdoJU-005gkXY3qBYKZilM2Davf-H6vYHuTRpOoBoAlu9v6aAXn4aZxl2hWQ6DxNePaKDEo16C1coYv1746KoSwi~kYwfEXxkcTdnOThaPhyDqn1gsJvHstKWAjAnOYoxmjI6dYbNqEBFd1BMiZlapWD05ZXv9VAEGfG9sa0axmtaP75vYc9csw6eVrJSL9ujNoesvPDVqQerG8lw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/157555651/c90730af-7bf1-4c07-9834-b6dd58423961/1740068921/unaligned_transcription.json?Expires=1794253659&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=SqbVdT0xySYw-SEINhaSplEo2B~l9N7nKZEbKitfGWCW8mwrqFzhqofVrxvEhshwWl~0x6lbG9n6g9LNomkpkwEbtVveU1AMfcXiE9ViullOcbSyTu9sPb5b0Xz1zI0PMBtcMHBh6lu6ZasdtloWratxozMi4T~qcPm-JDDh90WSCiMF6ife5TLKEwYUaz88CN3Zgc3xAHaBf0kCMJEVsLLJAQPgdlFPSQ6mtcgaQ5UvNHNYum4Hc47xdLQyRvXJ4g-ppCcUJL06bUT5mN6lZvLSVRGkMnAcbx1T7HHPdM2Z2OmWO-HjikZIUDvg884Ta7xHy7B3w7eL-nrfAOS3gA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/157555651/c90730af-7bf1-4c07-9834-b6dd58423961/1740068921/en.vtt?Expires=1794253659&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=SaOHlMuA0ijcAkeOMNFEJIXaiMI274lxF5sSORhQxdQJ8bwYDJpGnrj151T7D3YxHNvqbHu9qMcOd8FiAFZbD7cte8HBVdi2~7Du4QFML~4q01XVK8niZSXx61SwysOxamXxX~w4vsIpEUTjgiRT6scS6v0BIBvqqnPzgjr8P-QSQ~ZrjIsvdIOfebfRkO6aj3kDZopM50vmgAzitSwKqJjNCJ1GHfBy~ziXxXjCNR9cVx5RHqIduhyYwy6rQGUateUhrRAz8CdeRxHFawlEKS85dtMI3hVhIBMD1jOKlgH3-0FcmhUH7UUwxvTQjeaLXKX9I8tYnk9LPhJ8HPcvoA__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "fbfb8f36-bb24-4c1d-b71b-8e5681db339f",
+      "thumbnail_id": 1,
+      "duration": 307.12164
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "The Mysteries of Tim's Crystal Ball, Unveiled 🧙🏼",
+  "body_html": "<p>The title is a bit humorous. And full disclosure, we could have a buy signal pop up sometime next week…or maybe a month from now. We simply do not know when the signal will come, but I assure you, it will. </p><p>These were the top 3 factors that made me decide to exit most of our positions yesterday. Please note at the time of posting this video, IWM has also…</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The title is a bit humorous. And full disclosure, we could have a buy signal pop up sometime next week…or maybe a month from now. We simply do not know when the signal will come, but I assure you, it will.",
+  "wordcount": 114,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "650b2a58-2c76-4e83-ab1b-133881e5edb7",
+      "publication_id": 3537822,
+      "name": "investor",
+      "slug": "investor",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "b88d9697-e1e3-41d8-8e43-29f45e838f66",
+      "publication_id": 3537822,
+      "name": "NVIDIA",
+      "slug": "nvidia",
+      "hidden": false
+    },
+    {
+      "id": "f2e07ec8-2a71-4824-b142-5f9fcda92235",
+      "publication_id": 3537822,
+      "name": "nvda",
+      "slug": "nvda",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        252,
+        161,
+        9
+      ],
+      "population": 76
+    },
+    "DarkVibrant": {
+      "rgb": [
+        18,
+        90,
+        111
+      ],
+      "population": 15
+    },
+    "LightVibrant": {
+      "rgb": [
+        253.4024096385542,
+        204.9421686746988,
+        123.9975903614458
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        136,
+        83,
+        82
+      ],
+      "population": 23
+    },
+    "DarkMuted": {
+      "rgb": [
+        73,
+        58,
+        43
+      ],
+      "population": 19
+    },
+    "LightMuted": {
+      "rgb": [
+        212,
+        196,
+        198
+      ],
+      "population": 4
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 25,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

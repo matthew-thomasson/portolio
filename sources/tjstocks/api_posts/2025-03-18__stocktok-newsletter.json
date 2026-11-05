@@ -1,0 +1,479 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stocktok-newsletter",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 159354930,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-03-18T18:08:48.438Z",
+  "updated_at": "2025-03-18T18:22:01.844Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "stocktok-newsletter",
+  "social_title": null,
+  "subtitle": "18 March 2025 - Market Overview and Key Highlights",
+  "teaser_post_eligible": true,
+  "title": "StockTok Newsletter",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 18
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "beat-the-s-and-p-500-by-142heres",
+  "next_post_slug": "2-stocks-to-buy-and-market-screener",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/dec2bd2f-b8f2-4287-aa56-e5f779e80058_486x164.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 159354930,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "18 March 2025 - Market Overview and Key Highlights",
+  "body_html": "<p>Please note, I am giving this a test run to figure out what works best. This content is for everyone and I welcome <em><strong>constructive feedback</strong></em>!</p><p>You should be able to click the PDF below and all the links within the document.</p><div class=\"file-embed-wrapper\" data-component-name=\"FileToDOM\"><div class=\"file-embed-container-reader\"><div class=\"file-embed-container-top\"><image class=\"file-embed-thumbnail-default\" src=\"https://substackcdn.com/image/fetch/$s_!0Cy0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fattachment_icon.svg\"></image><div class=\"file-embed-details\"><div class=\"file-embed-details-h1\">Stocktok Newsletter 18 March 2025</div><div class=\"file-embed-details-h2\">503KB ∙ PDF file</div></div><a class=\"file-embed-button wide\" href=\"https://tjstocks.substack.com/api/v1/file/a57d4d79-92ce-4744-8cb8-8d46655c2511.pdf\"><span class=\"file-embed-button-text\">Download</span></a></div><a class=\"file-embed-button narrow\" href=\"https://tjstocks.substack.com/api/v1/file/a57d4d79-92ce-4744-8cb8-8d46655c2511.pdf\"><span class=\"file-embed-button-text\">Download</span></a></div></div><p> </p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">If you like this weekly newsletter, consider subscribing for more updates. Feedback is welcome!</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/stocktok-newsletter/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/stocktok-newsletter/comments\"><span>Leave a comment</span></a></p><p>Nothing in this content should be interpreted as financial, investment, legal, or tax advice. The information provided is based on my personal opinions and should not be relied upon for making financial decisions. I do not hold any responsibility for any financial losses or decisions made based on this content. Please consult with a licensed financial professional before making any investment or trading decisions. Even though the 90% of licensed professionals underperform the S&amp;P 500 😂</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Please note, I am giving this a test run to figure out what works best. This content is for everyone and I welcome constructive feedback!",
+  "wordcount": 131,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "0b6f72dd-d4a7-4478-9192-4c2547cfaeb7",
+      "publication_id": 3537822,
+      "name": "investors",
+      "slug": "investors",
+      "hidden": false
+    },
+    {
+      "id": "0bd059be-ec60-40bd-b662-4cb46dfd7ecf",
+      "publication_id": 3537822,
+      "name": "free",
+      "slug": "free",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "a6570ef7-1c5f-4428-b0bb-3b85e82f18db",
+      "publication_id": 3537822,
+      "name": "newsletter",
+      "slug": "newsletter",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        244,
+        116,
+        21
+      ],
+      "population": 1970
+    },
+    "DarkVibrant": {
+      "rgb": [
+        126.64653061224492,
+        57.369795918367345,
+        5.953469387755086
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        164,
+        107
+      ],
+      "population": 78
+    },
+    "Muted": {
+      "rgb": [
+        125,
+        125,
+        125
+      ],
+      "population": 18
+    },
+    "DarkMuted": {
+      "rgb": [
+        82,
+        82,
+        82
+      ],
+      "population": 47
+    },
+    "LightMuted": {
+      "rgb": [
+        186,
+        167,
+        156
+      ],
+      "population": 74
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 18,
+  "comment_count": 5,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 159354930,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/159354930/tts/67f3757b-f5be-4971-a445-e190476947b8/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": [
+    {
+      "id": 101512128,
+      "body": "I like the news letter.  Important dates and recent videos are a nice touch.  ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I like the news letter. Important dates and recent videos are a nice touch."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 159354930,
+      "user_id": 260072153,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-03-18T19:07:13.895Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Robert Bernasconi",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1f9c86e4-41d7-46bb-8eff-3122465430b3_1176x1172.jpeg",
+      "handle": "bertoberna",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 3
+      },
+      "reaction_count": 3,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "bertoberna",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Robert Bernasconi",
+          "id": 4209749,
+          "base_url": "https://bertoberna.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 8,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 101751162,
+      "body": "What's up with silver today? Just a healthy pullback?",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What's up with silver today? Just a healthy pullback?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 159354930,
+      "user_id": 161424491,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-03-19T17:06:45.685Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Phineas Fruitfly",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/89651c76-0116-49e5-ac2a-ff1c007543a3_96x96.png",
+      "handle": "phineasfruitfly",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "❤": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "phineasfruitfly",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Phineas Fruitfly",
+          "id": 5411608,
+          "base_url": "https://phineasfruitfly.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by StockTok 📈"
+    }
+  ]
+}

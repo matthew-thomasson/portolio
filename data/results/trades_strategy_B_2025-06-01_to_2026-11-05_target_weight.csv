@@ -1,0 +1,31 @@
+date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
+2025-06-10,QFIN,BUY,27.40281343384293,36.49260330200195,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-06-10,QFIN,SELL,-27.40281343384293,36.49260330200195,1000.0,0.0,Trade alert: Close VIST & TZOO Buy QFIN I’m closing out VIST and TZOO to make room for QFIN.
+2025-06-24,NGD,BUY,110.13215951568469,9.079999923706055,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-06-24,NGD,SELL,-110.13215951568469,9.079999923706055,1000.0,0.0,"IAG’s ~$1,700/oz ( 2025 guidance midpoints ), giving NGD a much wider margin on each ounce sold."
+2025-07-11,KB,BUY,8.834407152858065,84.04638671875,742.5,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-08-06,HRTG,BUY,52.5762342761572,19.020000457763672,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-08-06,HRTG,SELL,-52.5762342761572,19.020000457763672,1000.0,0.0,Trade Alert: Close GM & ITRN Buy HRTG I’m exiting GM with a gain of +18.7% and ITRN with a slight loss of -0.7% .
+2025-09-04,TPC,BUY,12.747429345984411,60.788726806640625,774.9,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-09-17,ODC,ADD,7.463236420356861,66.99506378173828,500.0,0.0,"First, the core narrative was spot on: ODC’s pivot to higher-margin, value-added products has driven remarkable improvements in revenue and profitability."
+2025-10-06,VEON,BUY,18.694724094777023,51.560001373291016,963.9,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-11-13,BSVN,BUY,18.963289191845554,40.57840347290039,769.5000000000001,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-12-16,PARR,BUY,24.40051300086999,38.95000076293945,950.4000000000001,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2025-12-16,PARR,ADD,12.836970223521668,38.95000076293945,500.0,0.0,This “Par Montana” acquisition added significant scale and extended PARR’s Rockies presence into Montana and surrounding states.
+2025-12-16,PARR,SELL,-37.23748322439165,38.95000076293945,1450.3999999999999,-2.2737367544323206e-13,"Exxon, for example, sold Billings as it retreated to Gulf Coast megarefineries, and PARR happily scooped it up to expand its fully integrated network in the Western U.S."
+2025-12-30,MU,BUY,5.85398669218842,292.4161071777344,1711.8,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-02-23,DELL,BUY,15.77873571242597,118.41252899169922,1868.4,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-03-16,NESR,BUY,41.92139613843816,20.610000610351562,864.0000000000001,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-03-16,POWL,BUY,2.407425504090998,170.47256469726562,410.40000000000003,0.0,Trade alert: Close OPFI Reduce POWL position (from 4.7% to 3.1%) to finance the new position Buy NESR (3.5% of the portfolio)
+2026-04-13,ATI,BUY,5.489681320681837,163.77999877929688,899.1000000000001,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-04-13,POWL,TRIM,-0.8024743655551647,228.8100128173828,183.61416986829838,46.81430666829837,Trimming POWL.
+2026-05-18,DAR,BUY,16.29647485262332,62.130001068115234,1012.5,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-06-10,SNEX,BUY,9.321171038058994,83.13333129882812,774.9,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-07-15,CSTM,BUY,27.953376683830193,29.170000076293945,815.4000000000001,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-08-05,STRL,BUY,1.138369058913389,536.030029296875,610.1999999999999,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
+2026-08-17,OSCR,BUY,39.96513567324814,31.549999237060547,1260.9,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-09-08,CRDO,ADD,2.9806259314456036,167.75,500.0,0.0,"CRDO stays a BUY, and I added to the position today, taking it from 4% to 6%."
+2026-09-08,DELL,TRIM,-5.259573311230086,533.1414794921875,2804.0966966468313,2181.2973194468314,"Today I trimmed DELL from 11% to 8.5% and put the proceeds into CRDO, taking it from 4% to 6%."
+2026-10-27,FTK,BUY,36.43272456940072,25.790000915527344,939.6,0.0,"FTK joins the portfolio at 3.5%, the low end of the 3.5-5% range I use for every new position; I cap even my strongest ideas at 5% ."

@@ -1,0 +1,411 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/this-stock-looks-bullish-oil",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 183921090,
+  "podcast_art_url": null,
+  "podcast_duration": 313.62613,
+  "podcast_preview_upload_id": "d95e8064-4e82-4c6c-9334-479824db0539",
+  "podcast_upload_id": "d95e8064-4e82-4c6c-9334-479824db0539",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/d95e8064-4e82-4c6c-9334-479824db0539/src",
+  "post_date": "2026-01-08T16:37:24.670Z",
+  "updated_at": "2026-01-08T19:51:56.484Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "this-stock-looks-bullish-oil",
+  "social_title": null,
+  "subtitle": "A stock that meets buying requirements and we dive into Oil and Natural Gas Prices",
+  "teaser_post_eligible": false,
+  "title": "This Stock Looks Bullish + Oil 🛢",
+  "type": "podcast",
+  "video_upload_id": "18bc0918-0d11-4a56-a295-fa96ce4b9fd8",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 53
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "why-stocktok-is-getting-more-expensive",
+  "next_post_slug": "stocktok-market-wrap-up",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/183921090/18bc0918-0d11-4a56-a295-fa96ce4b9fd8/transcoded-1767890194.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "18bc0918-0d11-4a56-a295-fa96ce4b9fd8",
+    "name": "substack oil update.mp4",
+    "created_at": "2026-01-08T16:20:47.061Z",
+    "uploaded_at": "2026-01-08T16:30:17.628Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 183921090,
+    "user_id": 301052325,
+    "duration": 527.1812,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1767890194,
+    "preview_start": 0,
+    "preview_duration": 313.6,
+    "media_type": "video",
+    "primary_file_size": 799686435,
+    "is_mux": true,
+    "mux_asset_id": "1ziw0200luXVUKiC9QQSHsVaBUyj01Bu9erx4E01cjOqC7s",
+    "mux_playback_id": "Ynb9kcoRdwqZfyjepY00Sts4Ac9MBftNrEgE8QvhlhI8",
+    "mux_preview_asset_id": "u1MyiVxMhtT6b4SDN5EfcgzsdhDq01k00SR37pXJChI0200",
+    "mux_preview_playback_id": "BJplckhtb00V12TK6xPpHYTq83ZEW999VKXLfhw5euMQ",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 183921090,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "d95e8064-4e82-4c6c-9334-479824db0539",
+    "name": null,
+    "created_at": "2026-01-08T16:35:40.641Z",
+    "uploaded_at": "2026-01-08T16:30:17.629Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 183921090,
+    "user_id": 301052325,
+    "duration": 313.62613,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 5018568,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "18bc0918-0d11-4a56-a295-fa96ce4b9fd8",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "d95e8064-4e82-4c6c-9334-479824db0539",
+      "created_at": "2026-01-08T16:35:51.362Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01KEF7DTKB79FYG3370T8G7B5J",
+      "approved_at": "2026-01-08T16:36:15.767Z",
+      "transcript_url": "s3://substack-video/video_upload/post/183921090/d95e8064-4e82-4c6c-9334-479824db0539/1767890153/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/183921090/d95e8064-4e82-4c6c-9334-479824db0539/1767890153/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/183921090/d95e8064-4e82-4c6c-9334-479824db0539/1767890153/transcription.json?Expires=1794382850&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=lBOj2AvbEbAfIyjxRxOkMcxGH9FyW7VKEk6T9FOfaJArbvXrRs7kHFkNJMmZEG0KejsDatHNmE-8oLGRXlWZrx9v8dw1tdXkzG3K3~u8A37mKSrevvQHAQ1Z-LpYG02C7JhORQf3ew3wy0COK3dpNtie7ypMD-3~4g5yRWaY2neCucnTOaNp-Bwnp83tPZDP5WcuZMBC9gkJ7Kouy2TkMES83rUizoTG0uq6ztm4miq9iP9b~JzLK8OF9pKiIUTdewlXSxpfz-gUZ7cxTj8HTE96hi1Vo3~1kw7MEwcuvkUB1ETIzJ22Lqd-7LVje4LapadagASZfx8ajV3GIyaq7A__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/183921090/d95e8064-4e82-4c6c-9334-479824db0539/1767890153/unaligned_transcription.json?Expires=1794382850&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=kgdNowl36cwd81Oyp1k3ZbQhFAFIBsGcC26bXUPVIU1vHE01O25ZWnk-ibwM2sWcuiZB7d4AJwW91Je33yWsAF10CY21ZLIQe5hccKIA5WLSJjMxTl4mEB64T4lcV5N8xpKjN0bs4F8mEQBx3L~PnGHcIVVQ8ueEQ6jPxh1PyyjblMxcZlrfYl57-Uedr7PPevS7okGCLvktDgZyhuYDbzcXTaS-~ISjdu-sp~sJp~m17TkO0NHW4296XuilXhC2Ek41LnvQcmJbKvyhfF9rkqDRDorD1mzFf5F~mCb5lHgOWEldtIMy2gX5OEO9XtTHCkEOFzxxH0vKn0oKMIS2CA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/183921090/d95e8064-4e82-4c6c-9334-479824db0539/1767890153/en.vtt?Expires=1794382850&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=P7NAahuFiJn3nfcvYQSF5QkEWGa1ajXjJSjO9HtO8Enn-qZfUnYg2ATIO1Jizg9ZQ78AN4ZQ0oTvYPT~zPjLCMBDNjHpqBAPj5vAFrhgJGWHgDQPoWdFeGzrGIi8rwiB3wg~QsfIqZH~VmMxQunzGl7Dy6BW43nuOstK5X9y4nQuWcz4lPKDyWEcawQZppnuMz2FT82bNAs-x-hni9t7dGxzfjCe16ADZlqo8ezff1KX8-4Yn41~ug5VR1DO-dRdK2KZNonT57N2c5xe7XdXPzzIgulHMy94gKMD8ACS6yu23NdgGNbIk2DPTD4qieaxZm9qaulmJYB4ZEva--B-cw__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "d3f0553f-1f2b-4156-9669-7e2246a1a200",
+      "thumbnail_id": 1,
+      "duration": 527.1771
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A stock that meets buying requirements and we dive into Oil and Natural Gas Prices",
+  "body_html": "<p>The market was pumping up as soon as 2026 started, yet has been taking a breather the last 2 days. Nothing too scary, no major asset crashes and the VIX remains below 21 at 15.3. In this episode I share a stock that is looking pretty decent, Compass Inc. We also dive into oil and natural gas prices. No! I am not a Venezuela expert or oil guru. But I do …</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The market was pumping up as soon as 2026 started, yet has been taking a breather the last 2 days. Nothing too scary, no major asset crashes and the VIX remains below 21 at 15.3. In this episode I share a stock that is looking pretty decent, Compass Inc. We also dive into oil and natural gas prices. No! I am not a Venezuela expert or oil guru. But I do …",
+  "wordcount": 270,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "5f7c262f-e571-4adf-8d21-8b8ec969d964",
+      "publication_id": 3537822,
+      "name": "oil",
+      "slug": "oil",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "a87a5f26-d950-437b-b0c8-fa4b119a3463",
+      "publication_id": 3537822,
+      "name": "Timothy",
+      "slug": "timothy",
+      "hidden": false
+    },
+    {
+      "id": "d0fb4335-216a-4cb5-9da5-ffb677fe6425",
+      "publication_id": 3537822,
+      "name": "natural gas",
+      "slug": "natural-gas",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    },
+    {
+      "id": "ed08b4d8-7175-433a-8a29-004e78b94aad",
+      "publication_id": 3537822,
+      "name": "venezuela",
+      "slug": "venezuela",
+      "hidden": false
+    },
+    {
+      "id": "ef93c202-8e3a-4acf-89f7-c468a157276b",
+      "publication_id": 3537822,
+      "name": "maduro",
+      "slug": "maduro",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        246,
+        188,
+        4
+      ],
+      "population": 3
+    },
+    "DarkVibrant": {
+      "rgb": [
+        122,
+        92,
+        32
+      ],
+      "population": 44
+    },
+    "LightVibrant": {
+      "rgb": [
+        231,
+        178,
+        166
+      ],
+      "population": 131
+    },
+    "Muted": {
+      "rgb": [
+        168,
+        102,
+        89
+      ],
+      "population": 32
+    },
+    "DarkMuted": {
+      "rgb": [
+        75,
+        64,
+        46
+      ],
+      "population": 125
+    },
+    "LightMuted": {
+      "rgb": [
+        189,
+        163,
+        157
+      ],
+      "population": 621
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 53,
+  "comment_count": 11,
+  "child_comment_count": 4,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

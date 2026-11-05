@@ -1,0 +1,460 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/chinas-economy-making-moves",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 155156984,
+  "podcast_art_url": null,
+  "podcast_duration": 431.04654,
+  "podcast_preview_upload_id": "8f1bdc31-dc1a-4cc3-99e0-bd3561c39885",
+  "podcast_upload_id": "8f1bdc31-dc1a-4cc3-99e0-bd3561c39885",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/8f1bdc31-dc1a-4cc3-99e0-bd3561c39885/src",
+  "post_date": "2025-01-20T13:11:47.030Z",
+  "updated_at": "2025-01-20T14:20:22.827Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "chinas-economy-making-moves",
+  "social_title": null,
+  "subtitle": "A deep dive into China's economy and their stocks",
+  "teaser_post_eligible": true,
+  "title": "Time to invest in China? Baba, JD & MCHI ♟",
+  "type": "podcast",
+  "video_upload_id": "735e6425-d992-4e73-ac2c-4df580e8277d",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 48
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "meta-stock-a-storm-is-brewing-heres",
+  "next_post_slug": "stock-position-update",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/155156984/735e6425-d992-4e73-ac2c-4df580e8277d/transcoded-1737345086.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!zZ9N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!zZ9N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "735e6425-d992-4e73-ac2c-4df580e8277d",
+    "name": "China Baba JD Stock Market.mp4",
+    "created_at": "2025-01-20T02:57:22.140Z",
+    "uploaded_at": "2025-01-20T03:05:32.712Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 155156984,
+    "user_id": 301052325,
+    "duration": 569.91455,
+    "height": 1080,
+    "width": 1920,
+    "thumbnail_id": 1737345086,
+    "preview_start": 0,
+    "preview_duration": 431,
+    "media_type": "video",
+    "primary_file_size": 689326702,
+    "is_mux": true,
+    "mux_asset_id": "6ZNKLaZjPpXbjSZ2bc2GU01uDGDukc2YWiwzCZMG7Pog",
+    "mux_playback_id": "eNGmmiDNUDTq01yXMElz021rC9NOx8wImxT5Mg9jDs2bM",
+    "mux_preview_asset_id": "qvnpEWiiEPE9fGYWBy4Q3YE2MK6NW6SYUu4tNXon3a4",
+    "mux_preview_playback_id": "XKXf74aV7Tkj9dwNPizek1W5EAp6bsBXnzSiIaK1U02A",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 155156984,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "8f1bdc31-dc1a-4cc3-99e0-bd3561c39885",
+    "name": null,
+    "created_at": "2025-01-20T03:33:00.918Z",
+    "uploaded_at": "2025-01-20T03:05:32.712Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 155156984,
+    "user_id": 301052325,
+    "duration": 431.04654,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 6897295,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "735e6425-d992-4e73-ac2c-4df580e8277d",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "8f1bdc31-dc1a-4cc3-99e0-bd3561c39885",
+      "created_at": "2025-01-20T03:33:12.293Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JJ0WB0DPVTF28G42KA8N8MTC",
+      "approved_at": "2025-01-20T03:33:45.985Z",
+      "transcript_url": "s3://substack-video/video_upload/post/155156984/8f1bdc31-dc1a-4cc3-99e0-bd3561c39885/1737343995/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/155156984/8f1bdc31-dc1a-4cc3-99e0-bd3561c39885/1737343995/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/155156984/8f1bdc31-dc1a-4cc3-99e0-bd3561c39885/1737343995/transcription.json?Expires=1794405223&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=hB0sIGGMbZU8DoR4WoqdJ-S-n0lok6BHMIN4Yk5lGkwuTFA44bf8qh2wpn-tsgLG9HVv3I~EtsYunmcbe-8mSXgNu~c4lbgYkP6vnL08OW9o9MUYgJCpw6FC4hVZsvs7hOxWOoiwmKuQ4fVG7~efGZrWkF1R8uBBJjP4nMCfVCj-VWuEi3iR9NVIqwm7LROCYsEoQK8eiFQQjseSnqrzAxiPi3tfuh5dbWaKQi1km92iQ7cS~RV8DFs~ycIsfbuz0ob5SwqbaEhOrPV0obPQxuhd3UU9crPxQyGJR69N7hKjVWYYoFdXLJtAcGl79CNXdgYiFbjvGzteC0FHqpKGKQ__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/155156984/8f1bdc31-dc1a-4cc3-99e0-bd3561c39885/1737343995/unaligned_transcription.json?Expires=1794405223&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=HUJhhYc82fPP-6CGoaV63~JFEjXPn4Skm-qluZwfnOb1tNpu4YNvVoICidzIdLIiH0OTvZQ~Ul-wypdPyjUNeHo~rWUvi6jHx~fcIMu6CjBOd2ELZTL9sxK15AOeuU6hKV8gnE3-KG3olcvSWl6wNExf7ndQWtsnDqhjxa5TTr0zW4gfgcIlOkdcljhvxf0Xt~ljEst6AVSRmC2XVT-3S96oi4oX20~nkc~Co3CldGrk9Gk2IXJKYqQOn3kooIsuC9VE3289KMiyiDh4X4~yK7lmqnmxz2WrHak3WcvZ1PUkDNuBFnWb~d5FIIVteiUKVRlvZT0xvVAFReQcardfyA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/155156984/8f1bdc31-dc1a-4cc3-99e0-bd3561c39885/1737343995/en.vtt?Expires=1794405223&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=ETNyPTYWm-GQ5csQ4mVR90jFSNLcR9a0qXRT-lea1PCrCVGzbycwVrc1bhhpPbqq6MsxzdBoJR0qPmC2eN5h9MpCmuWDsPt3yUaxaKf9E7ON8fZauuGxlVxGguClMoLbeqa2xnkS8oj5Ta4wNGHl5B5EOfSV36Rmbpp-OuTXec7kANpZTVvm-e1G7~TyGsSBaGabFRH7dVnZIDmAtEtWRL5BdJMBhuWLjtBs2w4bqj0mB64vgnky~N0ktftDbKTdk6noIU3ZxWg58lzKU37jjk8TK-EK5kzgoIxDdET-dLjYwxY7LxBmx0pISUmcpJcTtkBLOdXkr6Jhugx~WXHkXg__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "5406303c-e0d1-4e69-b3af-4555cd6b8261",
+      "thumbnail_id": 1,
+      "duration": 569.91345
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A deep dive into China's economy and their stocks",
+  "body_html": "<p></p><div><hr></div><h1><strong>Wasn’t China suppose to collapse?</strong></h1><p>Turn on the news, what do you hear? “Chinese Communist Party <em><strong>insert trending topic</strong></em><strong> </strong>is harming American Democracy.” Some form or version of that lingo has consistently been spewed about China. Remember when Evergrande was going to crash the global economy? Never happened. In fact, the S&amp;P 500 is <em><strong>up over 70%</strong></em> since 2022, and the Shanhai Composite Index remains steady<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-1\" href=\"#footnote-1\" target=\"_self\">1</a> In fact, Chinese markets broke out September 2024 <em><strong>over 17% in just 2 weeks</strong></em>. So is the mainstream media spreading false information, preventing you from lucrative opportunities? Lets look closer…beyond the headlines 👀</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!zZ9N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!zZ9N!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 424w, https://substackcdn.com/image/fetch/$s_!zZ9N!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 848w, https://substackcdn.com/image/fetch/$s_!zZ9N!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 1272w, https://substackcdn.com/image/fetch/$s_!zZ9N!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!zZ9N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png\" width=\"559\" height=\"871\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:871,&quot;width&quot;:559,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:204927,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!zZ9N!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 424w, https://substackcdn.com/image/fetch/$s_!zZ9N!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 848w, https://substackcdn.com/image/fetch/$s_!zZ9N!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 1272w, https://substackcdn.com/image/fetch/$s_!zZ9N!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd38d7ac0-a9ce-4037-bee6-96d2f9a03bc9_559x871.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h1><strong>Overview of China’s Economy</strong></h1><p>One of the coolest features of being a creator, is being able to connect with people world wide, actually living in the various economies we cover. A gentleman from China explained to me: <strong>“Old people’s retirement money is good. They can pay for their living. Young people are giving up”.</strong> This sounds nearly identical to the generational conflicts between younger age demographics such as Gen-Z, Millenials and Baby Boomers here in the United States. The gap between wages and cost of living for Baby Boomers was far narrower in their youth…so even though their wages were smaller, they were more capable of setting aside savings for first time home buying, or other needs. The chart below is one of many economic examples of various necessities that the gap has widened exponentially. Older generations fight with younger generations about the economy, basing their points on personal experience, rather than economic understanding…in fact, two thirds of people don’t even understand that the dollar loses value in times of inflation<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-2\" href=\"#footnote-2\" target=\"_self\">2</a> Two very different economic experiences for two different generations, yet both age demographics suffer from economic illiteracy. From the gentleman’s comment, it appears China is suffering in the same way as Americans. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!6zgE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!6zgE!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 424w, https://substackcdn.com/image/fetch/$s_!6zgE!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 848w, https://substackcdn.com/image/fetch/$s_!6zgE!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 1272w, https://substackcdn.com/image/fetch/$s_!6zgE!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!6zgE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp\" width=\"1181\" height=\"824\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:824,&quot;width&quot;:1181,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:31346,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/webp&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!6zgE!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 424w, https://substackcdn.com/image/fetch/$s_!6zgE!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 848w, https://substackcdn.com/image/fetch/$s_!6zgE!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 1272w, https://substackcdn.com/image/fetch/$s_!6zgE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044921de-dc75-4e55-96c5-11dcc6619507_1181x824.webp 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>We wanted confirm that China’s economy is similar to the American economy. As in, they say it is great…but is that “greatness” at the sacrifice of its own citizens? The answer is a resounding yes. We needed an easy way to visually demonstrate a growing wealth gap. The National Bureau of Statistic of China<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-3\" href=\"#footnote-3\" target=\"_self\">3</a> provides data on a multitude of economic variables. For measure, we decided on utilize total wage bills<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-4\" href=\"#footnote-4\" target=\"_self\">4</a>, which is the total amount of money paid by an organization, industry or economy to its employees; and per capita disposable income of households<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-5\" href=\"#footnote-5\" target=\"_self\">5</a>, which essentially tells us how much money Chinese citizens have left over after expenses. After compiling the data, the disparity was as expected. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!KoD2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!KoD2!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 424w, https://substackcdn.com/image/fetch/$s_!KoD2!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 848w, https://substackcdn.com/image/fetch/$s_!KoD2!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 1272w, https://substackcdn.com/image/fetch/$s_!KoD2!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!KoD2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png\" width=\"734\" height=\"482\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:482,&quot;width&quot;:734,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:31194,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!KoD2!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 424w, https://substackcdn.com/image/fetch/$s_!KoD2!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 848w, https://substackcdn.com/image/fetch/$s_!KoD2!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 1272w, https://substackcdn.com/image/fetch/$s_!KoD2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72c1ac10-a19d-4f2e-83e4-f410d0a1a8a0_734x482.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Similar to the American economy, the Chinese Economy appears to be doing well, from a technical definition viewpoint. The Chinese GDP<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-6\" href=\"#footnote-6\" target=\"_self\">6</a> generally trending up year by year, a mathematical courtesy of their respective corporations making more money year over year. Alibaba, the 7th largest company in China by market capitalization<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-7\" href=\"#footnote-7\" target=\"_self\">7</a> generated $131B in revenue in 2023, compared to $105B in 2020 and $37B in 2017. This dramatic increase in revenue can be seen with most large corporations across China, such as Tencent, largest company in China by market capitalization. As a final demonstration that the Chinese economy is strong on paper, yet the economic crisis for middle class and poor Chinese citizens remains, the graph below demonstrates major city salaries vs. housing.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!cwQo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!cwQo!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 424w, https://substackcdn.com/image/fetch/$s_!cwQo!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 848w, https://substackcdn.com/image/fetch/$s_!cwQo!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 1272w, https://substackcdn.com/image/fetch/$s_!cwQo!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!cwQo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png\" width=\"509\" height=\"540\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:540,&quot;width&quot;:509,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!cwQo!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 424w, https://substackcdn.com/image/fetch/$s_!cwQo!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 848w, https://substackcdn.com/image/fetch/$s_!cwQo!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 1272w, https://substackcdn.com/image/fetch/$s_!cwQo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58194ff2-1ffb-4a75-a8b6-9396beb99b0e_509x540.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/chinas-economy-making-moves/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/chinas-economy-making-moves/comments\"><span>Leave a comment</span></a></p><p>Another noticeable trend shift started around 2014, where employment generally trended upwards, peaking at 76,349 persons employed per 10,000 people<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-8\" href=\"#footnote-8\" target=\"_self\">8</a>. Though there has not been a dramatic drop, the general trend has at least started a descent the last 10+ years. Whether this trend continues or not, time will tell, regardless, the saying “trend is your friend” remains true. My speculation is that unemployment will increase over time, as Chinese companies are embracing new technology, such as Artificial Intelligence, just as must as America is. This is generally not a good long term signal.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!YLgn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!YLgn!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 424w, https://substackcdn.com/image/fetch/$s_!YLgn!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 848w, https://substackcdn.com/image/fetch/$s_!YLgn!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 1272w, https://substackcdn.com/image/fetch/$s_!YLgn!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!YLgn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png\" width=\"525\" height=\"509\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:509,&quot;width&quot;:525,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:629846,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!YLgn!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 424w, https://substackcdn.com/image/fetch/$s_!YLgn!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 848w, https://substackcdn.com/image/fetch/$s_!YLgn!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 1272w, https://substackcdn.com/image/fetch/$s_!YLgn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9ef69b5-3be4-4042-9af7-0127b8ff3fe4_525x509.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Finally, interest rates in China have been dropping for more than a decade, with China loan prime rates currently at 3.1%<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-9\" href=\"#footnote-9\" target=\"_self\">9</a>. Recall that dropping interest rates are generally bullish for assets, however they <strong>indicate that a problem exists.</strong> The respective government is trying to fix a problem. For example, here in the United States, when the COVID pandemic crushed businesses both large and small, the Federal Reserve slashed interest rates to boost the economy…in which many would argue they over-achieved that goal. The massive cuts in interest rates, coupled with massive money printing, resulted in massive inflation. China additionally, continues to print money<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-10\" href=\"#footnote-10\" target=\"_self\">10</a> at a steady, consistent rate.  Both of these individual factors, are generally considered bullish.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!W2u6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!W2u6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 424w, https://substackcdn.com/image/fetch/$s_!W2u6!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 848w, https://substackcdn.com/image/fetch/$s_!W2u6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 1272w, https://substackcdn.com/image/fetch/$s_!W2u6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!W2u6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png\" width=\"878\" height=\"580\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:580,&quot;width&quot;:878,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:49646,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!W2u6!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 424w, https://substackcdn.com/image/fetch/$s_!W2u6!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 848w, https://substackcdn.com/image/fetch/$s_!W2u6!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 1272w, https://substackcdn.com/image/fetch/$s_!W2u6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02f2f44a-8dbf-4348-955c-e6bc7e99a881_878x580.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div class=\"install-substack-app-embed install-substack-app-embed-web\" data-component-name=\"InstallSubstackAppToDOM\"><img class=\"install-substack-app-embed-img\" src=\"https://substackcdn.com/image/fetch/$s_!mLq1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png\"><div class=\"install-substack-app-embed-text\"><div class=\"install-substack-app-header\">Get more from Timothy James in the Substack app</div><div class=\"install-substack-app-text\">Available for iOS and Android</div></div><a href=\"https://substack.com/app/app-store-redirect?utm_campaign=app-marketing&amp;utm_content=author-post-insert&amp;utm_source=tjstocks\" target=\"_blank\" class=\"install-substack-app-embed-link\"><button class=\"install-substack-app-embed-btn button primary\">Get the app</button></a></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Sgey!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Sgey!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 424w, https://substackcdn.com/image/fetch/$s_!Sgey!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 848w, https://substackcdn.com/image/fetch/$s_!Sgey!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 1272w, https://substackcdn.com/image/fetch/$s_!Sgey!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Sgey!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png\" width=\"878\" height=\"539\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/bb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:539,&quot;width&quot;:878,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:48095,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Sgey!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 424w, https://substackcdn.com/image/fetch/$s_!Sgey!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 848w, https://substackcdn.com/image/fetch/$s_!Sgey!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 1272w, https://substackcdn.com/image/fetch/$s_!Sgey!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb5a4175-c3eb-4ff4-b050-af9df2e8aae6_878x539.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p><strong>The conclusion of this general China economic review: </strong>similar to the United Sates, China’s economy looks great on paper, from a high level, however they are facing just as much of an economic crisis for ordinary citizens as American middle class and poor are. Corporate success presents a healthy Chinese economy, however a massive disparity is growing between its normal citizens and the Chinese wealthy, demonstrated by employment decreasing since 2014 and disposable income becoming a smaller fraction of total wage bills. However the consistent downward trend of interest rates and increasing money supply should prop Chinese assets, right? All of this information considered…<em><strong>where are Chinese stocks heading? Specifically Alibaba, JD.com and etf’s such as MCHI and FXI?</strong></em></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Wasn’t China suppose to collapse?",
+  "wordcount": 1811,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "0b3e356c-3ea4-43ce-bd67-bb467d0a6839",
+      "publication_id": 3537822,
+      "name": "economics",
+      "slug": "economics",
+      "hidden": false
+    },
+    {
+      "id": "1e8ddd2d-b431-4f00-8fb7-5f4d1be4e832",
+      "publication_id": 3537822,
+      "name": "economy",
+      "slug": "economy",
+      "hidden": false
+    },
+    {
+      "id": "4c1f3476-4066-49b4-b108-6f9b79399496",
+      "publication_id": 3537822,
+      "name": "China",
+      "slug": "china",
+      "hidden": false
+    },
+    {
+      "id": "56b16c01-b582-4973-a9b7-7443ec4a9be9",
+      "publication_id": 3537822,
+      "name": "alibaba",
+      "slug": "alibaba",
+      "hidden": false
+    },
+    {
+      "id": "6c781fb4-61fd-42ec-8a00-c37ae3ea047f",
+      "publication_id": 3537822,
+      "name": "Chinas economy",
+      "slug": "chinas-economy",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "a6c32f34-beda-4de3-83d3-467eeb4e4656",
+      "publication_id": 3537822,
+      "name": "best investments",
+      "slug": "best-investments",
+      "hidden": false
+    },
+    {
+      "id": "a6f6acf3-d980-471d-a794-28be0cb512fc",
+      "publication_id": 3537822,
+      "name": "best stock market creator",
+      "slug": "best-stock-market-creator",
+      "hidden": false
+    },
+    {
+      "id": "a777b124-7f36-4eff-a4ab-8d8c8a781835",
+      "publication_id": 3537822,
+      "name": "baba",
+      "slug": "baba",
+      "hidden": false
+    },
+    {
+      "id": "af046cac-cd38-44dc-ad86-9da2d83a1cc8",
+      "publication_id": 3537822,
+      "name": "invest",
+      "slug": "invest",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "cfe1bc81-9522-4b42-a239-12262cd1ce60",
+      "publication_id": 3537822,
+      "name": "jd",
+      "slug": "jd",
+      "hidden": false
+    },
+    {
+      "id": "e4a61023-cd93-4afe-bdf0-a46d70fe216e",
+      "publication_id": 3537822,
+      "name": "interesting",
+      "slug": "interesting",
+      "hidden": false
+    },
+    {
+      "id": "ea69f339-d9f1-42af-9694-81e170dc8257",
+      "publication_id": 3537822,
+      "name": "education",
+      "slug": "education",
+      "hidden": false
+    },
+    {
+      "id": "fe6f761a-3399-4781-b0e9-a0884dcb20bc",
+      "publication_id": 3537822,
+      "name": "mchi",
+      "slug": "mchi",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        241,
+        92,
+        7
+      ],
+      "population": 168
+    },
+    "DarkVibrant": {
+      "rgb": [
+        88,
+        9,
+        7
+      ],
+      "population": 51
+    },
+    "LightVibrant": {
+      "rgb": [
+        220,
+        159,
+        133
+      ],
+      "population": 12
+    },
+    "Muted": {
+      "rgb": [
+        148,
+        109,
+        82
+      ],
+      "population": 563
+    },
+    "DarkMuted": {
+      "rgb": [
+        90,
+        65,
+        49
+      ],
+      "population": 283
+    },
+    "LightMuted": {
+      "rgb": [
+        216,
+        182,
+        182
+      ],
+      "population": 50
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 48,
+  "comment_count": 11,
+  "child_comment_count": 7,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

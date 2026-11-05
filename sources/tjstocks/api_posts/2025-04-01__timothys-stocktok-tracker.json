@@ -1,0 +1,670 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/timothys-stocktok-tracker",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 160340718,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-04-01T16:47:55.559Z",
+  "updated_at": "2025-07-07T22:50:44.113Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "timothys-stocktok-tracker",
+  "social_title": null,
+  "subtitle": "Current positions and stocks of note. Last Update: 07 July 2025",
+  "teaser_post_eligible": false,
+  "title": "📈 Timothy's StockTok Tracker 📉",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 8,
+  "reactions": {
+    "❤": 52
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "3-stocks-breaking-out-now-with-volume",
+  "next_post_slug": "tariff-stock-market-dump",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/3942969c-1050-488b-8d5a-dfc4e0619513_1600x900.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 160340718,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Current positions and stocks of note. Last Update: 07 July 2025",
+  "body_html": "<p>This document will be updated at least weekly, you can see the “Last Update” in the subtitle. <em><strong>Changes will be</strong></em> <em><strong>Bold and Italicized</strong></em>. Note that many of my charts and stocks are based off the weekly, as this timeframe allows people time to make decisions on their own. There will be NO DAY TRADES ❌</p><p>Be cognizant that NO ONE can get every stock right…some of these WILL be losers. Risk management is a MUST. Do not come crying to me if something goes against us, it is just the nature of the markets and it is why stops and bracket orders are available. Questions are welcome in the chat, officially Monday to Friday mornings (though I am in the chat far more often). I will copy and paste “Timothy’s Stocks” once a month into a new document, to reduce how much people have to scroll down to view the document. </p><p>Right now for 2025, we are batting <strong>68%</strong> accuracy.</p><p>⬇️ Positions and Watchlist below this line ⬇️</p><div class=\"paywall-jump\" data-component-name=\"PaywallToDOM\"></div><div><hr></div><h2><strong>Timothy’s Position Summary</strong></h2><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!BbWe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!BbWe!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 424w, https://substackcdn.com/image/fetch/$s_!BbWe!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 848w, https://substackcdn.com/image/fetch/$s_!BbWe!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 1272w, https://substackcdn.com/image/fetch/$s_!BbWe!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!BbWe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png\" width=\"1456\" height=\"470\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:470,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:405225,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/160340718?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!BbWe!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 424w, https://substackcdn.com/image/fetch/$s_!BbWe!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 848w, https://substackcdn.com/image/fetch/$s_!BbWe!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 1272w, https://substackcdn.com/image/fetch/$s_!BbWe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa75d81ce-a46c-4888-9007-d524b4eaf7b9_1636x528.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h2><strong> General Market Thoughts:</strong></h2><p>27 June 2025: Bull market continues. No reason to not be in. Yes, I have my suspicions. But we are going to squeeze this run for as much as we can. I added to <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$DASH&quot;}\" data-component-name=\"CashtagToDOM\"></span> today. I like investing in the 7 deadly sins, this one being, gluttony. LMAO </p><p>10 June 2025: We officially entered a bull market. That does not mean “everything go up every single day” (I WISH!). When I say “Dont take large losses”, I mean, don’t take 30%, 50% or 90% losses on positions on your portfolio. A -3% pull back in a day on a up trending mid-cap stock does not warrant a panic crisis. Recent market thoughts are uploaded here: </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;a8b9db11-587d-4802-87f1-f5adb97a9ef6&quot;,&quot;caption&quot;:&quot;👋 Welcome to StockTok! This video we briefly discuss the overall market conditions and which stage of the stock market, I personally speculate that we are in. We have clearly had the meltup stages through 2023 and 2024, a blow off top is a final euphoric leg. The unexpected details of the tariffs likely are the cause for delay…a lot of money can be mad…&quot;,&quot;cta&quot;:&quot;Read full story&quot;,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;lg&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Welcome to the OFFICIAL Bull Market&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:301052325,&quot;name&quot;:&quot;StockTok 📈&quot;,&quot;bio&quot;:&quot;Investing • Market Analyst • No Politics • 575,000 on TikTok&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:100}],&quot;post_date&quot;:&quot;2025-06-10T13:15:29.160Z&quot;,&quot;cover_image&quot;:&quot;https://substack-video.s3.amazonaws.com/video_upload/post/165623938/3c4bb32d-5ca4-4401-adff-fe29a7adc20c/transcoded-00251.png&quot;,&quot;cover_image_alt&quot;:null,&quot;cover_image_crop&quot;:null,&quot;canonical_url&quot;:&quot;https://tjstocks.substack.com/p/welcome-to-the-official-bull-market&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:165623938,&quot;type&quot;:&quot;podcast&quot;,&quot;reaction_count&quot;:23,&quot;comment_count&quot;:3,&quot;publication_id&quot;:null,&quot;publication_name&quot;:&quot;Timothy’s StockTok&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><h2>Disclaimer and Disclosure</h2><p>I am not a financial advisor. None of this is financial advice. Everything I post is just my thoughts and opinions based off 18 years of experience investing and trading in the markets. Always consult a certified professional money manager…of which 92% underperform the S&amp;P 500  over the long term<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-1\" href=\"#footnote-1\" target=\"_self\">1</a> and make a living off of management fees. lol. </p><div class=\"footnote\" data-component-name=\"FootnoteToDOM\"><a id=\"footnote-1\" href=\"#footnote-anchor-1\" class=\"footnote-number\" contenteditable=\"false\" target=\"_self\">1</a><div class=\"footnote-content\"><p>https://www.fool.com/investing/2025/03/05/want-to-outperform-nearly-92-of-professional-fund/</p><p></p></div></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "This document will be updated at least weekly, you can see the “Last Update” in the subtitle. Changes will be Bold and Italicized. Note that many of my charts and stocks are based off the weekly, as this timeframe allows people time to make decisions on their own. There will be NO DAY TRADES ❌",
+  "wordcount": 353,
+  "post_preview_limit": null,
+  "language": null,
+  "postTags": [
+    {
+      "id": "12c0deda-1a91-4676-b7d3-5382cc928de3",
+      "publication_id": 3537822,
+      "name": "trade journal",
+      "slug": "trade-journal",
+      "hidden": false
+    },
+    {
+      "id": "24a06abc-7079-4a92-a765-7f83bc6f6534",
+      "publication_id": 3537822,
+      "name": "swing trade",
+      "slug": "swing-trade",
+      "hidden": false
+    },
+    {
+      "id": "2976bad6-54d5-4cca-bb14-69b01ce6d255",
+      "publication_id": 3537822,
+      "name": "market analysis",
+      "slug": "market-analysis",
+      "hidden": false
+    },
+    {
+      "id": "2edb7727-e1d1-419d-8a0d-fc41ffea6cf1",
+      "publication_id": 3537822,
+      "name": "trade setup",
+      "slug": "trade-setup",
+      "hidden": false
+    },
+    {
+      "id": "63aafc56-1279-4f60-8712-b41154e278fa",
+      "publication_id": 3537822,
+      "name": "live trade",
+      "slug": "live-trade",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "91f30f16-ad04-40de-b1e5-c50f4943fe6c",
+      "publication_id": 3537822,
+      "name": "real time trade",
+      "slug": "real-time-trade",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "d9178cbc-9590-4738-82dd-6498a8957a1c",
+      "publication_id": 3537822,
+      "name": "short selling",
+      "slug": "short-selling",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        249,
+        250,
+        5
+      ],
+      "population": 618
+    },
+    "DarkVibrant": {
+      "rgb": [
+        176,
+        76,
+        20
+      ],
+      "population": 480
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        163,
+        122
+      ],
+      "population": 880
+    },
+    "Muted": {
+      "rgb": [
+        149,
+        153,
+        72
+      ],
+      "population": 389
+    },
+    "DarkMuted": {
+      "rgb": [
+        125,
+        119,
+        68
+      ],
+      "population": 35
+    },
+    "LightMuted": {
+      "rgb": [
+        192,
+        161,
+        144
+      ],
+      "population": 43
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": false,
+  "reaction_count": 52,
+  "comment_count": 13,
+  "child_comment_count": 7,
+  "audio_items": [
+    {
+      "post_id": 160340718,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/160340718/tts/bcc3dc2f-f232-4d02-882e-d3af20265e12/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "inboxItem": {
+    "content_key": "post:160340718",
+    "updated_at": "2025-11-14T11:58:33.225Z",
+    "content_date": "2025-04-01T16:47:55.559Z",
+    "seen_at": "2025-11-13T18:15:02.203Z",
+    "saved_at": null,
+    "archived_at": null,
+    "skip_inbox": true,
+    "type": "post",
+    "post_id": 160340718,
+    "extra_views": [
+      "paid"
+    ],
+    "read_progress": 1,
+    "max_read_progress": 1,
+    "audio_progress": 0,
+    "max_audio_progress": 0,
+    "video_progress": 0,
+    "max_video_progress": 0,
+    "postType": "newsletter",
+    "title": "📈 Timothy's StockTok Tracker 📉",
+    "subtitle": "Current positions and stocks of note. Last Update: 07 July 2025",
+    "detail_view_subtitle": "Current positions and stocks of note. Last Update: 07 July 2025",
+    "cover_photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/3942969c-1050-488b-8d5a-dfc4e0619513_1600x900.png",
+    "audience": "only_paid",
+    "is_preview": true,
+    "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/160340718/tts/bcc3dc2f-f232-4d02-882e-d3af20265e12/en-GB-OllieMultilingualNeural.mp3",
+    "audio_type": "tts",
+    "web_url": "https://tjstocks.substack.com/p/timothys-stocktok-tracker",
+    "duration_metadata": {
+      "word_count": 353
+    },
+    "authors": [
+      "StockTok 📈"
+    ],
+    "published_bylines": [
+      {
+        "id": 301052325,
+        "name": "StockTok 📈",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png"
+      }
+    ],
+    "coverImagePalette": {
+      "Vibrant": {
+        "rgb": [
+          249,
+          250,
+          5
+        ],
+        "population": 618
+      },
+      "DarkVibrant": {
+        "rgb": [
+          176,
+          76,
+          20
+        ],
+        "population": 480
+      },
+      "LightVibrant": {
+        "rgb": [
+          244,
+          163,
+          122
+        ],
+        "population": 880
+      },
+      "Muted": {
+        "rgb": [
+          149,
+          153,
+          72
+        ],
+        "population": 389
+      },
+      "DarkMuted": {
+        "rgb": [
+          125,
+          119,
+          68
+        ],
+        "population": 35
+      },
+      "LightMuted": {
+        "rgb": [
+          192,
+          161,
+          144
+        ],
+        "population": 43
+      }
+    },
+    "publication_id": 3537822,
+    "publisher_image_url": "https://substackcdn.com/image/fetch/$s_!mLq1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+    "publisher_name": "Timothy’s StockTok",
+    "is_personal_mode": false,
+    "like_count": 52,
+    "comment_count": 13,
+    "reaction": false,
+    "tracking_parameters": {
+      "is_saved": false,
+      "is_seen": true,
+      "post_id": 160340718,
+      "post_type": "newsletter",
+      "publication_id": 3537822,
+      "tabId": "home",
+      "tabType": "base",
+      "max_read_progress": 1,
+      "max_audio_progress": 0,
+      "max_video_progress": 0,
+      "last_seen_at": "2025-11-13T18:15:02.203Z",
+      "impression_id": "9cf69357-b57e-4304-8c3c-00fd8963c58a"
+    }
+  },
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": true,
+  "read_progress": 1,
+  "max_read_progress": 1,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": [
+    {
+      "id": 138149922,
+      "body": "Is it possible to keep this pinned page updated like the website? Website is not very mobile friendly and also have to relog in every time just to see updated positions. Just curious no biggie if not ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Is it possible to keep this pinned page updated like the website? Website is not very mobile friendly and also have to relog in every time just to see updated positions. Just curious no biggie if not"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 160340718,
+      "user_id": 312377967,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-07-23T16:17:56.966Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Timothy Smith",
+      "photo_url": null,
+      "handle": "gymwithtim",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 3
+      },
+      "reaction_count": 3,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "gymwithtim",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 8,
+      "children_count": 2,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "2 replies by StockTok 📈 and others"
+    },
+    {
+      "id": 133060354,
+      "body": "Time to revisit QS? \n",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Time to revisit QS?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 160340718,
+      "user_id": 306390657,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-07-07T23:36:25.126Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Jared Last",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/55bb32e4-9130-40f9-8963-b25371d3fb48_96x96.png",
+      "handle": "jaredlast",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "❤": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jaredlast",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Jared Last",
+          "id": 4088893,
+          "base_url": "https://jaredlast.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 3,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

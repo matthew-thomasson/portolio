@@ -1,0 +1,383 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/no-time-to-trade-no-problem",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 155941179,
+  "podcast_art_url": null,
+  "podcast_duration": 202.94531,
+  "podcast_preview_upload_id": "4e443704-641f-45bf-bc9d-cf016bf7726e",
+  "podcast_upload_id": "4e443704-641f-45bf-bc9d-cf016bf7726e",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/4e443704-641f-45bf-bc9d-cf016bf7726e/src",
+  "post_date": "2025-01-28T18:50:04.322Z",
+  "updated_at": "2025-01-28T19:03:48.080Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "no-time-to-trade-no-problem",
+  "social_title": null,
+  "subtitle": "A Simple Strategy That Fits Your Busy Life 👷🏼‍♂️",
+  "teaser_post_eligible": false,
+  "title": "No Time to Trade? No Problem! 👍",
+  "type": "podcast",
+  "video_upload_id": "9c4479fa-2df3-4279-ae4b-b1e83a267b2b",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 5,
+  "reactions": {
+    "❤": 47
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "2-winning-stocks-to-dca-up",
+  "next_post_slug": "midweek-movers-top-stocks-ranked",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/155941179/9c4479fa-2df3-4279-ae4b-b1e83a267b2b/transcoded-1738089744.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!Z16w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d279229-8c67-4b3f-9ecb-f90288051b1a_1872x976.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!Z16w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d279229-8c67-4b3f-9ecb-f90288051b1a_1872x976.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "9c4479fa-2df3-4279-ae4b-b1e83a267b2b",
+    "name": "crypto.mp4",
+    "created_at": "2025-01-28T18:27:38.491Z",
+    "uploaded_at": "2025-01-28T18:30:45.233Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 155941179,
+    "user_id": 301052325,
+    "duration": 208.08122,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1738089744,
+    "preview_start": 0,
+    "preview_duration": 202.9,
+    "media_type": "video",
+    "primary_file_size": 255886836,
+    "is_mux": true,
+    "mux_asset_id": "LGg3xl6wb9GnlhvfR5vV1cgtYoxPxWs6fnz3XDiZrMU",
+    "mux_playback_id": "azyaYV3I6PIgqmO92tLXVXofEvuTFEjAvH02xBbRfXzs",
+    "mux_preview_asset_id": "1gYzENAcUWgSb011AS02xfTipnASfYJzzvaoBefmlzYiw",
+    "mux_preview_playback_id": "WpwoGTCu64h01fdapz025lfge5JQ1fr2lt6keIWZYS5R8",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 155941179,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "4e443704-641f-45bf-bc9d-cf016bf7726e",
+    "name": null,
+    "created_at": "2025-01-28T18:48:56.295Z",
+    "uploaded_at": "2025-01-28T18:30:45.234Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 155941179,
+    "user_id": 301052325,
+    "duration": 202.94531,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 3247675,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "9c4479fa-2df3-4279-ae4b-b1e83a267b2b",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "4e443704-641f-45bf-bc9d-cf016bf7726e",
+      "created_at": "2025-01-28T18:49:07.065Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JJQ3XV635G1TAPXE38JMMDGN",
+      "approved_at": "2025-01-28T18:49:28.755Z",
+      "transcript_url": "s3://substack-video/video_upload/post/155941179/4e443704-641f-45bf-bc9d-cf016bf7726e/1738090149/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/155941179/4e443704-641f-45bf-bc9d-cf016bf7726e/1738090149/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/155941179/4e443704-641f-45bf-bc9d-cf016bf7726e/1738090149/transcription.json?Expires=1794296172&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=HMK-xOUOO7kNJ2ptAa0vqUfV~43hBYLkTn~yKQ5Ir2GqpkpEyXB93sgmPM5ENmvZvZj5HZIsdqzRL3Rn6XrzNLj6debltOjD-nVPI3rMUThS3jRlncAsq6cI7JUP~7dEHckLpNxVi5-CUET~NHuOSON12E81SabAp0MHIY~OTSs28ImEMeUiznROz1I6OFQ3WzFVm5V01E~qaoGEyolrbPeNUJLP7b-Y-hP7guMKU1UFVU0OeWKH4vV6S-4Agcl2~aJ3Z3bJMt2g5zwf367Bzleh5jepT~tqcHeJj5dwAN9-lMiduAD5uaThHRvLuokaKbb2z8CLMeBBlmH7V2kycA__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/155941179/4e443704-641f-45bf-bc9d-cf016bf7726e/1738090149/unaligned_transcription.json?Expires=1794296172&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=BokuYg77J9FxRPGK906ZCDzbgIFr6aZ8eAchnNdseGrXurQDYdnGxC0msEL1gn4XmfGEpU7mWsNsc5c0ZQH~SbYGSMDuFJfkDB~WhlL1iulTIyKTSncBOqkJmjtsWROIteUVJpMJ1-jB7hwiCml3fe~GZ61CKItG~4WIJpGWkVnfu3sPROO4Qfc81IyorqKOpYimMf9j5G8m06gnOmOYM5rnOSrhAtD~CDpGLoRLpX9oc733oAMJnkW0BP7W4pAr1sl1l9xEKGtsUuF6B-6LIoZmINj2QuNlh1QTOm-ta0JxilRwzRMItv3imoeuA5emDY~PhfEAp2mxieJksVWwCg__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/155941179/4e443704-641f-45bf-bc9d-cf016bf7726e/1738090149/en.vtt?Expires=1794296172&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=igN5AIMl25ubfvbJRhImucEua9BcsrDDc-6eYRgK7iLfTidZhGgL~fd0slJkTBPiStA1mg5Lfr9RxATuQZ7G48RwnWt0cZfc-MsUP4BKAz17DyMYBRPmI6JDDJnX5rxHxpxg-v~cjRo0tMREP~KZC6ucutaIwjdpCYYLv2XjMDSPoH3E9jyhxkte7U747NjK42fisgXQJpt1xfn0V638V4CxlIXVct5kobKMSCaoFcf4vrG9RfWjB4Dv2wfdxuojDPcgBp880lKDGbnw1NTJ4FqkGyIRfvbNUCzFAgscjirXwaTmA6smm9JNed-w3rxAdlV2ye2BXcP6SwTH~ozjPg__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "f30d8737-2e61-4556-856a-9db8ffb6a819",
+      "thumbnail_id": 1,
+      "duration": 208.1698
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A Simple Strategy That Fits Your Busy Life 👷🏼‍♂️",
+  "body_html": "<p>The single biggest factor why every single indicator or strategy out there fails, is that they dont have a risk management plan. They do not protect you from black swan events or recessionary environments. This strategy took some tinkering, but returned 104% since 2014. I will be working on a list of companies where we can optimize the returns and providing that in a second document later. </p><p>This tool is one that I personally built that combines both a smoothed heikin-ashi price action approach and Mark Minervini’s trading rules, the two time U.S. Investing champion. Multiple people have tested this tool out for several months and have had positive results, in my discord community. All of this is free and you are welcome to use it. </p><ul><li><p>https://www.tradingview.com/v/IR22tMwi/</p></li></ul><p>THIS TOOL IS FOR THE DAILY CHART. DO NOT USE IT ON SMALL TIME FRAMES LIKE THE 5 MINUTE CHART. Details on how to add to your chart are below 👇 Yes, this is how I am convincing you to subscribe 😂</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The single biggest factor why every single indicator or strategy out there fails, is that they dont have a risk management plan. They do not protect you from black swan events or recessionary environments. This strategy took some tinkering, but returned 104% since 2014. I will be working on a list of companies where we can optimize the returns and providing that in a second document later.",
+  "wordcount": 398,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "0992ec00-e709-4134-bb4e-9e4781dda55e",
+      "publication_id": 3537822,
+      "name": "crypto",
+      "slug": "crypto",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "ea69f339-d9f1-42af-9694-81e170dc8257",
+      "publication_id": 3537822,
+      "name": "education",
+      "slug": "education",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        248,
+        128,
+        22
+      ],
+      "population": 494
+    },
+    "DarkVibrant": {
+      "rgb": [
+        46,
+        127,
+        152
+      ],
+      "population": 54
+    },
+    "LightVibrant": {
+      "rgb": [
+        70,
+        188,
+        232
+      ],
+      "population": 4
+    },
+    "Muted": {
+      "rgb": [
+        173,
+        128,
+        88
+      ],
+      "population": 391
+    },
+    "DarkMuted": {
+      "rgb": [
+        84,
+        60,
+        44
+      ],
+      "population": 1
+    },
+    "LightMuted": {
+      "rgb": [
+        196,
+        204,
+        176
+      ],
+      "population": 2
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 47,
+  "comment_count": 15,
+  "child_comment_count": 10,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

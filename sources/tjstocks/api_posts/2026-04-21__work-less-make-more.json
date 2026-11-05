@@ -1,0 +1,499 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/work-less-make-more",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 194918541,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-04-21T15:14:48.814Z",
+  "updated_at": "2026-04-21T15:15:42.611Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "work-less-make-more",
+  "social_title": null,
+  "subtitle": "Some changes to Investing and Content going forward",
+  "teaser_post_eligible": true,
+  "title": "Work Less, Make More",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 8,
+  "reactions": {
+    "❤": 52
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "ionq-and-rigetti-going-up-fast",
+  "next_post_slug": "i-said-gold-and-silver-are-not-done",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!-dRY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 194918541,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Some changes to Investing and Content going forward",
+  "body_html": "<p>The <a href=\"https://tjstocks.substack.com/p/only-10-stocks-made-the-cut?r=4z8lgl\">StockTok ETF</a> just hit an all time high, leading the S&amp;P 500 in just 3 months by about 7%… 2 of those months during an aggressive market drawdown! I’ve been really pleased with this performance, in just a short amount of time. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!-dRY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!-dRY!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 424w, https://substackcdn.com/image/fetch/$s_!-dRY!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 848w, https://substackcdn.com/image/fetch/$s_!-dRY!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 1272w, https://substackcdn.com/image/fetch/$s_!-dRY!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!-dRY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png\" width=\"879\" height=\"810\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:810,&quot;width&quot;:879,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:70543,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/194918541?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!-dRY!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 424w, https://substackcdn.com/image/fetch/$s_!-dRY!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 848w, https://substackcdn.com/image/fetch/$s_!-dRY!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 1272w, https://substackcdn.com/image/fetch/$s_!-dRY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef9068c4-13a8-43fe-a2fe-e1b50202a69c_879x810.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">StockTok ETF making a new all time high today. </figcaption></figure></div><p><strong>This article is more of an “update” and a discussion, of what is going on in my brain, and a little bit of a life update. These updates will influence how you take my content and what to do with them. </strong></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p>Last year, you saw me pumping out shorter term trades (few weeks to a few months, I am NOT  day trader!). We did incredibly well, most of the trades occurring after  June 2025. Roblox, Rigetti, and Kratos were our biggest winners at 61%, 54% and 31% respectively…each of which we “DCA’ed up” and compounded the winning $ significantly. Everyone was cheering, myself included! We built <a href=\"https://tjstocks.substack.com/p/screener-continues-to-find-monster?r=4z8lgl\">a stock screener that to this day, continues to find monster performance</a> stocks. Those are updated daily (pending correct market conditions) in the <a href=\"https://tjstocks.substack.com/p/stocktok-summary-fc6?r=4z8lgl\">StockTok Summary page</a>.</p><p>But what you didn’t see on the other side of the screen: <em><strong>pure exhaustion</strong></em> on my end. </p><p>I was a bit hesitant to write this article, but you all need to know what is happening in my mind, because it impacts how you all invest and trade (even though <em><strong>none of this is ever financial advice</strong></em> 😂)</p><p>I mentioned in early January about wanting a “lazy portfolio” and that still holds true to this day. The predominant reason, the news cycles are just too big and too often. </p><ul><li><p>U.S. - Iran war: Every other day ceasefire, no ceasefire, ceasefire, no ceasefire…</p></li><li><p>Strait of Hormuz: open, closed, open, closed, open, closed…</p></li><li><p>UFO’s, Asteroids, Administration resignations or firings, tariffs and tariff refunds, unemployment, layoffs, Fed Chair gettting fired or not, etc.</p></li></ul><p>The endless barrage of news goes on and on. Enough to drive most investors (myself included) into madness, and I consider myself a tough cookie in the markets. As I sat on the sidelines the last 2+, quietly observing many of the shorter term traders, I was actively watching them dice themselves up, trying to time local bottoms…only to be blasted away by some mainstream headline. There might be a few winners…but the majority lost. I mentally decided to isolate myself in a safe bubble, to protect my mind, and my investments. </p><div class=\"captioned-image-container\"><figure><div class=\"image-link image2\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!_1uO!,w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 424w, https://substackcdn.com/image/fetch/$s_!_1uO!,w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 848w, https://substackcdn.com/image/fetch/$s_!_1uO!,w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 1272w, https://substackcdn.com/image/fetch/$s_!_1uO!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!_1uO!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif\" width=\"320\" height=\"324.3636363636364\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/eb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:223,&quot;width&quot;:220,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;In A Bubble GIFs | Tenor&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"In A Bubble GIFs | Tenor\" title=\"In A Bubble GIFs | Tenor\" srcset=\"https://substackcdn.com/image/fetch/$s_!_1uO!,w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 424w, https://substackcdn.com/image/fetch/$s_!_1uO!,w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 848w, https://substackcdn.com/image/fetch/$s_!_1uO!,w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 1272w, https://substackcdn.com/image/fetch/$s_!_1uO!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb17669d-4cd2-4af7-a1cc-75d1f4c61020_220x223.gif 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div></div></div></div><figcaption class=\"image-caption\">Me living in a safe bubble from the news and walking to the market everyday</figcaption></figure></div><p>That all said, the market finally returned to bullish trajectory. I provided a heads up that the <a href=\"https://tjstocks.substack.com/p/stock-market-is-back?r=4z8lgl\">“Market is back!”</a> back on April 8th…since then we have hit several all time highs with the S&amp;P 500. (The Russell 2000 looks significantly stronger and is doing the same). We <a href=\"https://tjstocks.substack.com/p/62-days-of-waiting-is-over-the-1st?r=4z8lgl\">continued accumulating our winning stocks just last week</a>. </p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/work-less-make-more/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/work-less-make-more/comments\"><span>Leave a comment</span></a></p><p>You may be wondering what this long rant is about…I am getting there, stay with me.</p><p>When I wake up in the morning, I think about all of you. Seriously, every single day. Many of you subscribe to my content (thank you for the support!), so besides genuinely caring, I have a job to do. In my mind I think of two things that I need to do for you all, every day:</p><ol><li><p>Make money. </p></li><li><p>Protect money. </p></li><li><p>Be available (I am active in the chat during market hours for you to ping me with questions or commentary). </p></li></ol><p>I have done that…and will <em><strong>continue to do so. </strong></em></p><h4><strong>The point of this post is that my investing style and content type is changing a bit</strong></h4><p>Don’t get me wrong, I love investing and trading. Finding hot stocks. Making content. But just like the markets, I have energy levels and life events that go up and down. Contrary to popular belief, <strong>I am a real person on the other side of your screen</strong>, not a robot. Sometimes I have to adjust my market approach due to life. </p><h4>Investing Style</h4><p>We are finding success with the longer term approach, as demonstrated by the StockTok ETF and several of our positions in current holdings. Its slower, steadier and more relaxing. Safe bubble is <em><strong>working</strong></em>. </p><p>What this means for you:</p><ol><li><p>A longer term approach to a stock requires <strong>more flexibility with stops/cut prices</strong>. Last year, a drop of more than ~-8% (dependent on stock), would have led to a position being cut (cut losers fast, compound your winners). </p><ol><li><p>As an example… I saw lots of panic/worry about Applied Digital, APLD. I explicitly stated this stock was bought for the weekly/monthly time frame. As you can see, this stock can range +/- 50%…and still be in a bullish trajectory. It took a little patience, but this stock is rapidly approaching profitable territory again (and yes, I still think it has much further up to go). Its still good to have a stop or “cut price” in mind…black swan events or major catalysts can still ruin macro charts (though less often)…but <strong>we cannot shit ourselves with mid-cap stocks anytime they swing a few % in a day. </strong></p></li></ol></li></ol><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!iAyE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!iAyE!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 424w, https://substackcdn.com/image/fetch/$s_!iAyE!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 848w, https://substackcdn.com/image/fetch/$s_!iAyE!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 1272w, https://substackcdn.com/image/fetch/$s_!iAyE!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!iAyE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png\" width=\"1446\" height=\"793\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:793,&quot;width&quot;:1446,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:130054,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/194918541?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!iAyE!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 424w, https://substackcdn.com/image/fetch/$s_!iAyE!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 848w, https://substackcdn.com/image/fetch/$s_!iAyE!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 1272w, https://substackcdn.com/image/fetch/$s_!iAyE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7400e8d-8b90-48e8-9b21-0d4cca4e37ae_1446x793.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Even over the last 2 months, APLD, still today, has a strong bull trend behind it and a strong VCP. </figcaption></figure></div><p>Maybe its my fault not emphasizing this more before…many developed the cut habits from shorter term trades last year (which you should still do if you are shorter term trading), and did not adjust for the longer timeframes. That’s a key point here: you need more flexibility. </p><p>If you don’t want to ride a +/- 50% wave (totally understandable!)…then start with a smaller position. When and if the position goes green, you can add to it as it trends upwards. Simple fix. </p><p>What this also means for you, is <strong>my stock picks will predominantly come from the “Long Term” (months) StockTok Screener.</strong> Last year, most of my picks originated from the “Short Term” (days/weeks) StockTok Screener. Feel free to continue using the short term screener, just know, that personally I will not be trading it as actively. And as always, if you want a 2nd opinion on a shorter term stock, just ask me in the <a href=\"https://open.substack.com/chat/posts/b811a02c-9fb0-428d-bc7f-4250e6eaa6d8\">Main chat</a> during market hours. Just because I’m not doing it, doesn’t mean I forgot how to do it! </p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p>I’ll also add, if you are interested in <em><strong>shorter term stocks</strong></em>, give <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Matt's OnlyStocks&quot;,&quot;id&quot;:229828079,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5d6baae1-2e0f-4162-b704-d6d47facc936_1024x1024.jpeg&quot;,&quot;uuid&quot;:&quot;fbff4afb-6272-4049-aabd-83ed5bbc4433&quot;}\" data-component-name=\"MentionToDOM\"></span> a follow. He has been with me for a very long time, has learned practically everything I know, built a screener and website himself, and I see him with short term, <em><strong>winning picks</strong></em> regularly. He also has been making content and getting better everyday (I’ve been coaching him on content a bit). Matt is a smaller stock creator with a few hundred followers. I remember when I only had a few hundred followers… its a great thing as you have more personal relationships at that point. I don’t give out recommendations lightly…you all see me flame spray creators all the time lmao! </p><p><strong>👉 Point of this section:</strong> Longer term picks from me only. Don’t poop yourself when a mid-cap swings a few percent. Be more flexible. Ping me if you have questions. </p><h4>Content Type</h4><p>Many of you are used to seeing me pump out 2-4 videos a day on TikTok, and several videos here on Substack. I’ve been doing content for over 6 years now. </p><p>This has been a long time coming…but there was a straw that broke the camels back yesterday. </p><p>I received an e-mail from my Daughter’s teacher that she had a meltdown about not being able to get onto YouTube at school. Granted, I am incredibly strict about screen time in my house, and I found out she has been using it at school. The dopamine addiction is real, particularly for young kids. I also see the wide range of people and dangers on the internet that I am doing my best to shield them from. </p><p>What kind of example do I set for my Daughters, if I am making videos constantly? </p><p>Me: “You can’t be on YouTube/TikTok”</p><p>Then also me, recording content and uploading all day. </p><p>I would look like a hypocrite to my kids. </p><p>I am not stopping making content… but I do plan on writing far more often. The video content is also going to slow down. I don’t like to set schedules or rules on myself…but I am thinking maybe 1 video a week or, and several articles. </p><p>The point being: You will see more written content and less video content. </p><p>I still want have my face out there…I think its incredibly important in this world of AI slop everywhere. And especially in the finance niche, which has been swarmed with anon gurus. (Please don’t follow anon pages, 99% of them are some 18 year old dweeb, that’s never had a real market cycle, trying to scam you).</p><h4>Key Take Aways:</h4><ul><li><p>We are still making money, protecting money and I am still available. </p></li><li><p>My approach is shifting more permanently to longer term trading, especially with the barrage of shocking headlines. </p></li><li><p>Be flexible with your stops/cut prices on weekly/monthly timeframes. Start smaller if you want, and add as the position wins. </p></li><li><p>Same amount of content, just more written articles…sorry, I know I am not the best writer in the world lol. Going to have to deal with it! </p></li></ul><p>I know this was a long article…but I had to get it out there as I know it will influence how you trade, invest and even how (or if) you follow me. Always do what is best for you. Again, if you have questions, just ask! </p><p>Thanks again for your support and for stopping by! </p><p><em>For more visit: <strong><a href=\"https://tjstocks.substack.com/p/stocktok-summary-fc6?r=4z8lgl\">StockTok Summary</a> |</strong> <strong><a href=\"https://tjstocks.substack.com/p/the-stocktok-playbook-everything?r=4z8lgl\">The StockTok Playbook</a></strong></em> <em><strong>|</strong></em> <em><strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a>  </strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/work-less-make-more?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/work-less-make-more?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to our StockTok Dashboard, updated daily. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a></strong></em></p><p>Other Resources: <a href=\"https://tjstocks.substack.com/\">All Publications</a><em><strong> | </strong></em><a href=\"https://tjstocks.substack.com/p/investing-for-beginners-10-short?r=4z8lgl\">Investing For Beginners Series</a> <em><strong>|</strong> </em><a href=\"https://tjstocks.substack.com/p/90-of-traders-fail-and-100-of-them?r=4z8lgl\">Tools Tim Built for TradingView</a> <em><strong>| </strong></em><a href=\"https://tjstocks.substack.com/p/stock-screener-frequently-asked-questions?r=4z8lgl\">Stock Screener FAQ</a> <em><strong>| </strong></em><a href=\"https://tjstocks.substack.com/p/losers-dollar-cost-average-down?r=4z8lgl\">How to DCA UP!</a> </p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The StockTok ETF just hit an all time high, leading the S&P 500 in just 3 months by about 7%… 2 of those months during an aggressive market drawdown! I’ve been really pleased with this performance, in just a short amount of time.",
+  "wordcount": 1640,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "3dd733df-b318-4ea3-bbaa-4b053a1e9932",
+      "publication_id": 3537822,
+      "name": "update",
+      "slug": "update",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        84,
+        148,
+        252
+      ],
+      "population": 1
+    },
+    "DarkVibrant": {
+      "rgb": [
+        20,
+        93,
+        80
+      ],
+      "population": 5
+    },
+    "LightVibrant": {
+      "rgb": [
+        121,
+        162,
+        228
+      ],
+      "population": 9
+    },
+    "Muted": {
+      "rgb": [
+        124,
+        124,
+        124
+      ],
+      "population": 3
+    },
+    "DarkMuted": {
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "population": 25
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        188,
+        188
+      ],
+      "population": 4
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 52,
+  "comment_count": 16,
+  "child_comment_count": 9,
+  "audio_items": [
+    {
+      "post_id": 194918541,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/194918541/tts/36f31a7c-612d-4743-aa14-9edd1a53e0d4/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": [
+    {
+      "id": 246904944,
+      "body": "Thank you Tim! Honestly, the long term approach works better for those of us that still have to hold weekday jobs while investing on the sidelines. The short term trades are tough to maintain and FOMO got the best of me several times last year.\n\nBeing on the tail end of raising children, the sacrifices we make to lead by example is HUGE! We get it and appreciate your ongoing insight whether it be looking at your awesome hair in a video or reading your content. Thanks again!",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Thank you Tim! Honestly, the long term approach works better for those of us that still have to hold weekday jobs while investing on the sidelines. The short term trades are tough to maintain and FOMO got the best of me several times last year."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Being on the tail end of raising children, the sacrifices we make to lead by example is HUGE! We get it and appreciate your ongoing insight whether it be looking at your awesome hair in a video or reading your content. Thanks again!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 194918541,
+      "user_id": 57399453,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-04-21T15:36:40.055Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Schatzy",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d3f9d0c6-3dab-42fd-ac63-1c84a20b6dd6_1080x2340.jpeg",
+      "handle": "schatzy34",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "schatzy34",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Schatzy",
+          "id": 4255209,
+          "base_url": "https://schatzy34.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by StockTok 📈"
+    },
+    {
+      "id": 246901013,
+      "body": "I understand and agree 100% with your video approach going forward, but that said I do miss them. It felt a bit more personal seeing you in person and listening to your voice.",
+      "body_json": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I understand and agree 100% with your video approach going forward, but that said I do miss them. It felt a bit more personal seeing you in person and listening to your voice."
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "schemaVersion": "v1"
+        }
+      },
+      "publication_id": 3537822,
+      "post_id": 194918541,
+      "user_id": 320649715,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-04-21T15:29:37.104Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Vladimir",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/61d3facb-6d68-4d26-8ae8-7e32549035df_1536x2048.jpeg",
+      "handle": "vladimir942916",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "vladimir942916",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Vladimir",
+          "id": 4806171,
+          "base_url": "https://vladimir942916.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by StockTok 📈"
+    }
+  ]
+}

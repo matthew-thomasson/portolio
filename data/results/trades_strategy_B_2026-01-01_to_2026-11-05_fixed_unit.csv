@@ -1,0 +1,17 @@
+date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
+2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-02-23,DELL,BUY,8.44505229738063,118.41252899169922,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-03-16,NESR,BUY,48.520134419488606,20.610000610351562,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-05-25,DELL,UPGRADE_ADD,1.643896697387053,304.1553649902344,500.0,0.0,"DELL is still a buy Thesis scorecard after Q4 2026 In February, I argued three compounding engines were working at once, on top of an operator edge and a cash machine that few peop"
+2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-08-05,STRL,BUY,1.8655671237518667,536.030029296875,1000.0,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
+2026-08-17,OSCR,BUY,31.695721844117802,31.549999237060547,1000.0,0.0,Initial pick from 2025-08-14__stock-picks-performance-paid__adNaZ.csv
+2026-09-08,CRDO,ADD,2.9806259314456036,167.75,500.0,0.0,"CRDO stays a BUY, and I added to the position today, taking it from 4% to 6%."
+2026-09-08,CRDO,TRIM,-0.9935409836065574,167.75,166.6665,2.842170943040401e-14,Three weeks ago I would have had CRDO on the trim list; the market did the trimming for me.
+2026-09-08,CRDO,UPGRADE_ADD,2.9806259314456036,167.75,500.0,0.0,Verdict CRDO stays a BUY with the target unchanged at $315.
+2026-09-08,DELL,TRIM,-3.3629796352728962,533.1414794921875,1792.943938251489,1292.944438251489,"Today I trimmed DELL from 11% to 8.5% and put the proceeds into CRDO, taking it from 4% to 6%."
+2026-10-27,FTK,BUY,38.77471750681217,25.790000915527344,1000.0,0.0,"Thirteen analysts cover FTK: seven rate it Buy and six Hold, with no Sells."

@@ -1,0 +1,360 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/when-should-we-take-profit",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 154079847,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-01-03T15:45:10.416Z",
+  "updated_at": "2025-01-03T15:45:31.632Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "when-should-we-take-profit",
+  "social_title": null,
+  "subtitle": "We are up over 18% in 3 days...now what?",
+  "teaser_post_eligible": true,
+  "title": "When should we take profit?! 🚀",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 7,
+  "reactions": {
+    "❤": 34
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "long-term-investment",
+  "next_post_slug": "grand-theft-auto-6-boost-ttwo",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!uh6Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4a369df-4fdd-4a32-a657-dd73a7aeee25_1280x707.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 154079847,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "We are up over 18% in 3 days...now what?",
+  "body_html": "<p>Let me be CRYSTAL 💎 clear, before giving you this price target. NEVER LET A PROFIT TURN TO A BAG 🎒. We take risk at the beginning of a trade…not days, weeks or months later. We are in a position now, where we will win, no matter what, and we are just going to let it “cook” for as long as possible. Now personally, I think this stock has much much further to go upwards. However a black swan event could happen at any moment while you are sleeping. </p><p>This requires you to do 2 things: </p><ul><li><p>Set your stop in profit (where is up to you….I dont recommend making it too tight). This should be a habit always. Initially your stop would have been in a loss position. We can now avoid that. </p></li><li><p>Set a notification at your stop price. Because stops are not active during post market activity, you should stay alert of post market activity in case you need to cut a position post market. You can do this with a limit order. This is particularly important around earnings, and key economic releases. Here is a list of major upcoming economic releases for the next 2 weeks:</p><ul><li><p>07 January - European Union Inflation Rate YoY, Unemployment Rate</p><ul><li><p>(European Union, Japan and Great Britain are important to track due to their currency fluctuations significantly impact the value of DXY)</p></li></ul></li><li><p>08 January - FOMC Minutes</p></li><li><p>10 January - Non Farm Payrolls, Unemployment Rate</p></li><li><p>11 January - China inflation rate YoY, Balance of Trade</p></li></ul></li><li><p>You can find more here: https://tradingeconomics.com/calendar</p><p></p></li></ul><p>Now, here is my long term price target, and do take this with a grain of salt, again, as the macro environment can change at any time. </p><p>At the time of this writing, the price is up 18% for the day (I am personally up 14.5%). </p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Let me be CRYSTAL 💎 clear, before giving you this price target. NEVER LET A PROFIT TURN TO A BAG 🎒. We take risk at the beginning of a trade…not days, weeks or months later. We are in a position now, where we will win, no matter what, and we are just going to let it “cook” for as long as possible. Now personally, I think this stock has much much further to go upwards. However a black swan event could happen at any moment while you are sleeping.",
+  "wordcount": 686,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "0b6f72dd-d4a7-4478-9192-4c2547cfaeb7",
+      "publication_id": 3537822,
+      "name": "investors",
+      "slug": "investors",
+      "hidden": false
+    },
+    {
+      "id": "3bd534df-9aef-423a-a12a-8bf30ee2f00e",
+      "publication_id": 3537822,
+      "name": "stock market news",
+      "slug": "stock-market-news",
+      "hidden": false
+    },
+    {
+      "id": "650b2a58-2c76-4e83-ab1b-133881e5edb7",
+      "publication_id": 3537822,
+      "name": "investor",
+      "slug": "investor",
+      "hidden": false
+    },
+    {
+      "id": "7b07c160-e90f-46b6-a0a7-2705c56a289e",
+      "publication_id": 3537822,
+      "name": "how to invest",
+      "slug": "how-to-invest",
+      "hidden": false
+    },
+    {
+      "id": "7dcb0882-ca7d-44fa-ade3-1e977ebf00b5",
+      "publication_id": 3537822,
+      "name": "best stocks",
+      "slug": "best-stocks",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8a266cf0-93fd-41f0-b5e9-0fb620653e2e",
+      "publication_id": 3537822,
+      "name": "stocks",
+      "slug": "stocks",
+      "hidden": false
+    },
+    {
+      "id": "a6c32f34-beda-4de3-83d3-467eeb4e4656",
+      "publication_id": 3537822,
+      "name": "best investments",
+      "slug": "best-investments",
+      "hidden": false
+    },
+    {
+      "id": "af046cac-cd38-44dc-ad86-9da2d83a1cc8",
+      "publication_id": 3537822,
+      "name": "invest",
+      "slug": "invest",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "d2aa6c53-9942-47d8-9135-f7fd5e4f01cd",
+      "publication_id": 3537822,
+      "name": "business",
+      "slug": "business",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        11,
+        128,
+        175
+      ],
+      "population": 50
+    },
+    "DarkVibrant": {
+      "rgb": [
+        20,
+        124,
+        164
+      ],
+      "population": 1
+    },
+    "LightVibrant": {
+      "rgb": [
+        236,
+        156,
+        172
+      ],
+      "population": 13
+    },
+    "Muted": {
+      "rgb": [
+        100,
+        113,
+        121
+      ],
+      "population": 3
+    },
+    "DarkMuted": {
+      "rgb": [
+        16.630434782608713,
+        103.10869565217388,
+        136.36956521739128
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        160,
+        192,
+        204
+      ],
+      "population": 2
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 34,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 154079847,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": null,
+      "type": "tts",
+      "status": "paywalled"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": []
+}

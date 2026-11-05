@@ -1,0 +1,418 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/blowoff-top-becoming-more-clear-2",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 173750846,
+  "podcast_art_url": null,
+  "podcast_duration": 185.05142,
+  "podcast_preview_upload_id": "2bd69b18-bac9-46a5-9d9f-52a201ebbf30",
+  "podcast_upload_id": "2bd69b18-bac9-46a5-9d9f-52a201ebbf30",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/2bd69b18-bac9-46a5-9d9f-52a201ebbf30/src",
+  "post_date": "2025-09-16T13:30:30.119Z",
+  "updated_at": "2025-09-17T15:19:44.176Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "blowoff-top-becoming-more-clear-2",
+  "social_title": null,
+  "subtitle": "Please Watch - A word of caution as the market goes into Bull Market Week 15",
+  "teaser_post_eligible": true,
+  "title": "Blowoff Top Becoming More Clear + 2 Stocks To Buy",
+  "type": "podcast",
+  "video_upload_id": "87dc005d-d6f3-4b3c-9091-8fb02076273a",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 46
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "bull-market-week-14-stocktok-weekly",
+  "next_post_slug": "buying-more-of-this-stock-market",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/173750846/87dc005d-d6f3-4b3c-9091-8fb02076273a/transcoded-00197.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "87dc005d-d6f3-4b3c-9091-8fb02076273a",
+    "name": "copy_F6433659-CD9D-4E6C-ADE7-94EBE50DC9F8.mov",
+    "created_at": "2025-09-16T12:22:45.056Z",
+    "uploaded_at": "2025-09-16T12:28:59.796Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 173750846,
+    "user_id": 301052325,
+    "duration": 280.976,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 197,
+    "preview_start": 0,
+    "preview_duration": 185,
+    "media_type": "video",
+    "primary_file_size": 486174012,
+    "is_mux": true,
+    "mux_asset_id": "iEgfpIoloZUyMa9JIz49Xjeb7KD02wxJ29CvVZnhVIKY",
+    "mux_playback_id": "IDr29odAUL02DdlTqq00dKOByVb02rR5f2p2zDXfQsrIKc",
+    "mux_preview_asset_id": "K6Gvv5wNCY00K003LCv7sCQHeVUggqNkn5oporHuEwim8",
+    "mux_preview_playback_id": "M00XsNPBqU00IQQOL02600MVgjfvxQxUmZ9aFoLNLoflSzo",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 173750846,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "2bd69b18-bac9-46a5-9d9f-52a201ebbf30",
+    "name": null,
+    "created_at": "2025-09-16T13:29:41.492Z",
+    "uploaded_at": "2025-09-16T12:28:59.797Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 173750846,
+    "user_id": 301052325,
+    "duration": 185.05142,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 2961561,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "87dc005d-d6f3-4b3c-9091-8fb02076273a",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "2bd69b18-bac9-46a5-9d9f-52a201ebbf30",
+      "created_at": "2025-09-16T13:29:52.202Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01K59BFAS4K9VJ5825ETQ5R84S",
+      "approved_at": "2025-09-16T13:30:04.148Z",
+      "transcript_url": "s3://substack-video/video_upload/post/173750846/2bd69b18-bac9-46a5-9d9f-52a201ebbf30/1758029393/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/173750846/2bd69b18-bac9-46a5-9d9f-52a201ebbf30/1758029393/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/173750846/2bd69b18-bac9-46a5-9d9f-52a201ebbf30/1758029393/transcription.json?Expires=1794152240&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=FLJflXvB62PoQ67f3~voko3DhCHjgMkR5mI7fKq2gcuCnXcCG-i0OdErVjImSDb2zPPzQYkhJisNQL8~XNy2MaemwXO8ZFOowrmlV5goFJ1af9DJsof6TjKCUmakTAfdm7LCUxTe84R4BLaeDina6M4U4zT30~~iCJIup7ngrE2CktuGP6dzoN4ghEUDVRj~pOZB6vs8Lghtyzhz4N82wNiI1rCfDI5cq7B1pJSQoJ8Hq3tcLhJnDWzz0gNHuu0Q9d-9x87zjhEp8XznbwKPrVnr-69RXnMZuaoFxsU2ZpA41~jVPhttbJuuUz-6Q6j75R6sEN-tRzsTrfJ1F~w~4w__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/173750846/2bd69b18-bac9-46a5-9d9f-52a201ebbf30/1758029393/unaligned_transcription.json?Expires=1794152240&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=PVLws0etWQ-G2SoVmezoePRSopG5j6ul1ahK8F4UPJiv9cEzIecAacgX8uaFfuy9fdVB7eF2umhbV31gK2h8iZoXCpTDnPqxnYZ9Xwm2FPvgGuenzH4VtW8yZIDQfSddE3ll0PFuyEFwxeOg7RweCXa9QenNSPuKZg7fTLzHZMUr1vjGZki1V8u-~p3WARj-WbQ0NHgn2kVyc3gvv4GPfnOHavMFQzkZ7yXhI7Qi-3kK6BzPccpoDSgz9Mx0W5RlIKIrJgLm1PtTYrFEjH3tPHHh~9oL8Dt9jv~zyw6XYScwdlq1-zlfTg7aEjYoGaRkD6Ne9NtYZtMsa3GbPz4HoQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/173750846/2bd69b18-bac9-46a5-9d9f-52a201ebbf30/1758029393/en.vtt?Expires=1794152240&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=OE1eQM0sAPX0m~AY1hRbydlsI~Zv1mnbkV7PxKHQFmviwks956ZIvNyunOdsaTudJ68W8yrkg1Ytc-UIvk2TZFtbVDhA4ahIV-bBDNOZSN7-Yj~jY08mr1FLo9rERKKoG0zZYJdDXJe3KihOynk3siv3O1wD8gmSZWW-USlEETEhiCYlmWszErbY7aurZy9wzj4rwl5gMGksC2Rcvyi2M~4ecTDDpIXbgCxvq7xSPdQDLF0bq2Et3Zfd09oBZa-Lc18-spXxR5oxxJVAymF3BL2oq3waGFgjVTPIUrzgY~jYa~DdLFm918HCFOY8mVFGsI6YEsNQspT3l~vG-8WYNg__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "a3971fff-2f66-4799-9009-9584be5bf9af",
+      "thumbnail_id": 1,
+      "duration": 281.0253
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Please Watch - A word of caution as the market goes into Bull Market Week 15",
+  "body_html": "<p>As we progress into week 15 of the official bull market…please be cautious. I am not saying to sell. I am not saying to not enjoy the price rallies. But there are some warning signals. Yesterday was the first day in a long time we saw the VIX spike…and price action went up. That is strange, and different from the past trends. Recall, VIX is just volatil…</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "As we progress into week 15 of the official bull market…please be cautious. I am not saying to sell. I am not saying to not enjoy the price rallies. But there are some warning signals. Yesterday was the first day in a long time we saw the VIX spike…and price action went up. That is strange, and different from the past trends. Recall, VIX is just volatil…",
+  "wordcount": 254,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "788f944c-de92-4e4d-9e76-5ce0ce680360",
+      "publication_id": 3537822,
+      "name": "spy",
+      "slug": "spy",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8a266cf0-93fd-41f0-b5e9-0fb620653e2e",
+      "publication_id": 3537822,
+      "name": "stocks",
+      "slug": "stocks",
+      "hidden": false
+    },
+    {
+      "id": "a87a5f26-d950-437b-b0c8-fa4b119a3463",
+      "publication_id": 3537822,
+      "name": "Timothy",
+      "slug": "timothy",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        201,
+        36,
+        62
+      ],
+      "population": 177
+    },
+    "DarkVibrant": {
+      "rgb": [
+        63,
+        7,
+        18
+      ],
+      "population": 13
+    },
+    "LightVibrant": {
+      "rgb": [
+        236,
+        149,
+        148
+      ],
+      "population": 165
+    },
+    "Muted": {
+      "rgb": [
+        159,
+        120,
+        116
+      ],
+      "population": 514
+    },
+    "DarkMuted": {
+      "rgb": [
+        86,
+        56,
+        50
+      ],
+      "population": 272
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        132,
+        132
+      ],
+      "population": 115
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 46,
+  "comment_count": 13,
+  "child_comment_count": 2,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

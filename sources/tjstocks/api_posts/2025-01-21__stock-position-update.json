@@ -1,0 +1,383 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-position-update",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 155346026,
+  "podcast_art_url": null,
+  "podcast_duration": 7.131429,
+  "podcast_preview_upload_id": "b1e19190-6a6c-4c51-b56d-3ef73d19f113",
+  "podcast_upload_id": "b1e19190-6a6c-4c51-b56d-3ef73d19f113",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/b1e19190-6a6c-4c51-b56d-3ef73d19f113/src",
+  "post_date": "2025-01-21T16:36:48.347Z",
+  "updated_at": "2025-01-21T16:46:57.770Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "stock-position-update",
+  "social_title": null,
+  "subtitle": "Most picks are doing well, but whats up with Quantum Scape 🤔",
+  "teaser_post_eligible": false,
+  "title": "Stock Position Update ✍️",
+  "type": "podcast",
+  "video_upload_id": "f37583d6-92fc-4eb6-bae2-297902c9ff1a",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 4,
+  "reactions": {
+    "❤": 40
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "chinas-economy-making-moves",
+  "next_post_slug": "midweek-money-movers",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/155346026/f37583d6-92fc-4eb6-bae2-297902c9ff1a/transcoded-00001.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!5V0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce01eb2-827b-4f62-8378-d80b58cc851b_1080x1920.jpeg",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!5V0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ce01eb2-827b-4f62-8378-d80b58cc851b_1080x1920.jpeg",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "f37583d6-92fc-4eb6-bae2-297902c9ff1a",
+    "name": "quantum scape update.mp4",
+    "created_at": "2025-01-21T16:26:27.221Z",
+    "uploaded_at": "2025-01-21T16:28:41.784Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 155346026,
+    "user_id": 301052325,
+    "duration": 151.61456,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1,
+    "preview_start": 0,
+    "preview_duration": 7.0833335,
+    "media_type": "video",
+    "primary_file_size": 186032970,
+    "is_mux": true,
+    "mux_asset_id": "01HSqXE9wpv9CioSmvhCKW00Y3UIMW00TXNmreBiyACu4E",
+    "mux_playback_id": "Vk5BasYW00bdVJv01ojZ9TEa5i37imZnQuCjGg95wUWY00",
+    "mux_preview_asset_id": "s6ZfReztE9rxL1cNjFcyl3Q1FIh00lQDWAhyfkVuaVsU",
+    "mux_preview_playback_id": "ldToDnc1AlgA96K9eb8l4iyFBIYbNaVz02SvnsxZuVd8",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 155346026,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "b1e19190-6a6c-4c51-b56d-3ef73d19f113",
+    "name": null,
+    "created_at": "2025-01-21T16:34:14.562Z",
+    "uploaded_at": "2025-01-21T16:28:41.784Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 155346026,
+    "user_id": 301052325,
+    "duration": 7.131429,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 114653,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "f37583d6-92fc-4eb6-bae2-297902c9ff1a",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "b1e19190-6a6c-4c51-b56d-3ef73d19f113",
+      "created_at": "2025-01-21T16:34:25.400Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JJ4VE5YKNFVFKYEXW3ASA8VH",
+      "approved_at": "2025-01-21T16:34:32.845Z",
+      "transcript_url": "s3://substack-video/video_upload/post/155346026/b1e19190-6a6c-4c51-b56d-3ef73d19f113/1737477266/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/155346026/b1e19190-6a6c-4c51-b56d-3ef73d19f113/1737477266/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/155346026/b1e19190-6a6c-4c51-b56d-3ef73d19f113/1737477266/transcription.json?Expires=1793924611&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=h4ttCEUlFEDAHCSKLM4572X3t2bYT0~iE97Asa7oWZvm78iYxGHZ1-FSF5iZN03jLwtprzrb89qw5IIw2JZfuPtf2~1bsMQe9Tod4-DxCsgMLGAvZZuc4d03rWeJ2w6OxQM~9Wwm8rm4oeKRqexJuIGMZ2tg-BYlKhruz3yAA4jehASmGWU~hcdpGzzNVRJ5RcY42A4gvSue9bgQ4nwF1YnLVMCMciJo3Yq-6GlYoTA0FK0Knp9XthAhDNvwLTYxnQ5rJ1pRcI6Qhyv~rqf-Y4mBDfrcez7x38PKyXvjERo1VFBGO16waFgnqTb3MH552cGKbp0iehRj6G6w6XU8Yw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/155346026/b1e19190-6a6c-4c51-b56d-3ef73d19f113/1737477266/unaligned_transcription.json?Expires=1793924611&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=KhedNGSbsUKT6nmB8mbWnmq8SrikW9x9XSxE4M27rjOrHI7GB99bsMUinlSvCYSS2hAIo5VYvJRMbx9aVBH1jlGVyPs4R8yxR0rta5FSu7ynMcY1aQ9oQuqtOhjdRs2x-Le~EtWOurctrJj0X~gnCF8e1-okkB6e1KpQWoTKqnPVISjLE2eB5iIDZam8nlJo6N0xCzZd63eYSiIdlAlEWyI1hyWvo1i6I5Q0aAvtfTIkFDN1lhH83n3pH--Yxbzz5svK-bUB14vQe7EUCl4QblVNCtg8BIDhMVLQkdNDgCpLabcIyguj6-YdcUfbjwBszVGLY40ja5-eZtQ2mW3~NQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/155346026/b1e19190-6a6c-4c51-b56d-3ef73d19f113/1737477266/en.vtt?Expires=1793924611&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=V9tfhK1bIyP1dLSbu420xynmlhQw3brgibOg3gHw6Bii~FgSF0OfDReR3ZLmOnGQ9tORnq~XcQj-uovgfe46-SDoXnYVh07dNbkp0LbUPKvR92wQRGJY3FH4X1E6bw27qJCsz9V4hExJ-2D1CR9U9n-5RPPVH8vMSMPYpXIJ4zmGeWUBh7FiQiw1ymQcsDM4F38OxgajdxL9FUxkK99Fa4HPYpP2LuRFRKp4tVebPJ2R1he-7z5bsqaAqpQFEtQRQNFIszRfcfjosfVmavKUo2ItTiBSM~BAzuGOlMndNd0iZr8TngLcbTqGbe~Dpq-iOoV7WW94E-LTgjsumnn5nQ__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "b3c1157d-37d4-4607-a7b0-089bd40d79d4",
+      "thumbnail_id": 1,
+      "duration": 151.69305
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Most picks are doing well, but whats up with Quantum Scape 🤔",
+  "body_html": "<p>Lets start off with, there is not a single analyst in the world that gets everything correct. Myself included. Isaac Newton, arguably one of the smartest people in history lost millions, relative to today’s rates, betting on the South Sea Company. The vast majority of our positions have done well, or are doing well. But Quantum Scape has been the little red dot being annoying in the sea of green. However, I still stand by my Quantum Scape position.</p><p>The update:</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Lets start off with, there is not a single analyst in the world that gets everything correct. Myself included. Isaac Newton, arguably one of the smartest people in history lost millions, relative to today’s rates, betting on the South Sea Company. The vast majority of our positions have done well, or are doing well. But Quantum Scape has been the little red dot being annoying in the sea of green. However, I still stand by my Quantum Scape position.",
+  "wordcount": 226,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "3dd733df-b318-4ea3-bbaa-4b053a1e9932",
+      "publication_id": 3537822,
+      "name": "update",
+      "slug": "update",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "af046cac-cd38-44dc-ad86-9da2d83a1cc8",
+      "publication_id": 3537822,
+      "name": "invest",
+      "slug": "invest",
+      "hidden": false
+    },
+    {
+      "id": "ea69f339-d9f1-42af-9694-81e170dc8257",
+      "publication_id": 3537822,
+      "name": "education",
+      "slug": "education",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        67,
+        154,
+        202
+      ],
+      "population": 31
+    },
+    "DarkVibrant": {
+      "rgb": [
+        147,
+        108,
+        38
+      ],
+      "population": 328
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        181,
+        165
+      ],
+      "population": 94
+    },
+    "Muted": {
+      "rgb": [
+        181,
+        109,
+        99
+      ],
+      "population": 304
+    },
+    "DarkMuted": {
+      "rgb": [
+        77,
+        55,
+        42
+      ],
+      "population": 54
+    },
+    "LightMuted": {
+      "rgb": [
+        207,
+        189,
+        156
+      ],
+      "population": 513
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 40,
+  "comment_count": 6,
+  "child_comment_count": 3,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

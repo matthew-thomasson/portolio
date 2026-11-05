@@ -1,0 +1,483 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-pick-of-the-week-short-1222",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 153510378,
+  "podcast_art_url": null,
+  "podcast_duration": 377.99185,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "d519b01e-2e8b-46e9-a586-c1c04f5f5dc5",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/src",
+  "post_date": "2024-12-23T03:15:08.601Z",
+  "updated_at": "2025-03-04T21:21:04.114Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "stock-pick-of-the-week-short-1222",
+  "social_title": null,
+  "subtitle": "A stock to short 🧸 how to find shorts 🩳 how to short 🛠 ",
+  "teaser_post_eligible": true,
+  "title": "Stock pick of the week (short) 🐻 - 12/22",
+  "type": "podcast",
+  "video_upload_id": "b0daa37e-3263-4e51-aa95-8a52d3042401",
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 11,
+  "reactions": {
+    "❤": 24
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "market-panic-21-december-24",
+  "next_post_slug": "i-just-bought-1223",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/153510378/b0daa37e-3263-4e51-aa95-8a52d3042401/transcoded-1734923494.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "b0daa37e-3263-4e51-aa95-8a52d3042401",
+    "name": "1222.mp4",
+    "created_at": "2024-12-23T03:03:40.011Z",
+    "uploaded_at": "2024-12-23T03:10:51.107Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 153510378,
+    "user_id": 301052325,
+    "duration": 377.98123,
+    "height": 1080,
+    "width": 1920,
+    "thumbnail_id": 1734923494,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 557637140,
+    "is_mux": true,
+    "mux_asset_id": "00FaSIe6COUFHIYRDCLbsVNSC9014XVdvHMlAqkbzyC9o",
+    "mux_playback_id": "NTykhvVfwt02mL00FlVIlV02Vb00pajVuHNN694zvRLw3Sg",
+    "mux_preview_asset_id": "Dq7X01MVzCFhaUE7wZDL1332lbseVuYIe6Xx1dKnUeNw",
+    "mux_preview_playback_id": "kUDCavaRUWbMmUHQDayvl3YEjkgM028hlzvTDfLiX02es",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null,
+    "extractedAudio": {
+      "id": "d519b01e-2e8b-46e9-a586-c1c04f5f5dc5",
+      "name": null,
+      "created_at": "2024-12-23T03:10:51.135Z",
+      "uploaded_at": "2024-12-23T03:10:51.107Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 153510378,
+      "user_id": 301052325,
+      "duration": 377.99185,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 6048420,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "b0daa37e-3263-4e51-aa95-8a52d3042401",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "d519b01e-2e8b-46e9-a586-c1c04f5f5dc5",
+        "created_at": "2024-12-23T03:11:01.993Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01JFRQY99VPYSYERPYFW5BRG76",
+        "approved_at": "2024-12-23T03:11:35.321Z",
+        "transcript_url": "s3://substack-video/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/transcription.json?Expires=1794081508&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=ck9m~tOoaWiMNvzkXB1HT-camv1knO5yuWbzdAHQ50VKqlPfaptVgOWE16BxSqxOH77TcqrzHerSVFpBrXhCmh-QKNHsgGRj5IyxK3hmBh35JcvUrBa88RURUlJmqI0FbMxYpPffMGTLKamT5ttXeVSoj-LVMWovwCTOS~yIFDqkxhPLXzGn3XmJW-5FhYi5nTOCtvFJ1g5fb804Fvo~qReWyOd6g3lOhBVgrntnFzbzC6aaCUHSlqctYbpwFf9Srlv6kneLKwiYyH1g59n9yNwEbmxOr9HKwPKijt2uwfjeXP9gKWTdxS9rEnGva7L-A38bdtoeavnB1RGkEcRBmA__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/unaligned_transcription.json?Expires=1794081508&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=SrTEUJqeyNrXXhBd6VYZHcX2M5B4yYqRElHXGmcEOgkXw5Fs3y1ZfTHKYDqHIAIx8QWqz3HrgYFueQPs32Y13fQ8NeYaZCGiJKEIbM-UH9VJJy8wyyJvkPOgiMOZlNU~qGo85JjMDI7I5G30YUQiBmeQJWl00CN5XhVcqsgMg9i3Zwj90F2W6GBX8eVBmd4qcySHnq2jYsYv4WGaFvklOqBJifOaHu4W3PFFnm6j4dyjELwKSccmLVo-NM-aLFYpj5FjbdckngwJEX3muQ5LlEh3OMpnNEzb~85CmIScVy7h5wmdf-MpUMNjYxOQPntZHLbDX8qYaBcLSEsOmuQO5Q__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/en.vtt?Expires=1794081508&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=UT9GhxvYINkVjj5MJUfiyK45iucUju5MPuYNIqaFF81xrAgpgcU-rFzFZlcifucY5jrYhDTfybpiLMU4MqIFZ-cgk6Zd138EemyuH6oMD2gZ0Qpgw5~e0np5u2C0cp6TolEtDSYlaYYXhFOuDfj~9fUxkSLjeNjtQNSBR7Rd3GzbudHQRaN2wyty78lN~oDD6SodMAeumAaSF70cqR9b~Nvbxjdz3j77EouUZ41Qyqwc-ElWHNPXOjkoI5EQo7NqWxJgdnn-Q8aaWMBDQ54xyqJDlVBIFtQ~w44SEdM6d6FSOKLhYe~VubisMSK-m4O4~tQYrj0MxTWd83SkWCgVNQ__",
+            "original": true
+          }
+        ]
+      }
+    }
+  },
+  "podcastFields": {
+    "post_id": 153510378,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "d519b01e-2e8b-46e9-a586-c1c04f5f5dc5",
+    "name": null,
+    "created_at": "2024-12-23T03:10:51.135Z",
+    "uploaded_at": "2024-12-23T03:10:51.107Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 153510378,
+    "user_id": 301052325,
+    "duration": 377.99185,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 6048420,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "b0daa37e-3263-4e51-aa95-8a52d3042401",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "d519b01e-2e8b-46e9-a586-c1c04f5f5dc5",
+      "created_at": "2024-12-23T03:11:01.993Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JFRQY99VPYSYERPYFW5BRG76",
+      "approved_at": "2024-12-23T03:11:35.321Z",
+      "transcript_url": "s3://substack-video/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/transcription.json?Expires=1794081508&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=ck9m~tOoaWiMNvzkXB1HT-camv1knO5yuWbzdAHQ50VKqlPfaptVgOWE16BxSqxOH77TcqrzHerSVFpBrXhCmh-QKNHsgGRj5IyxK3hmBh35JcvUrBa88RURUlJmqI0FbMxYpPffMGTLKamT5ttXeVSoj-LVMWovwCTOS~yIFDqkxhPLXzGn3XmJW-5FhYi5nTOCtvFJ1g5fb804Fvo~qReWyOd6g3lOhBVgrntnFzbzC6aaCUHSlqctYbpwFf9Srlv6kneLKwiYyH1g59n9yNwEbmxOr9HKwPKijt2uwfjeXP9gKWTdxS9rEnGva7L-A38bdtoeavnB1RGkEcRBmA__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/unaligned_transcription.json?Expires=1794081508&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=SrTEUJqeyNrXXhBd6VYZHcX2M5B4yYqRElHXGmcEOgkXw5Fs3y1ZfTHKYDqHIAIx8QWqz3HrgYFueQPs32Y13fQ8NeYaZCGiJKEIbM-UH9VJJy8wyyJvkPOgiMOZlNU~qGo85JjMDI7I5G30YUQiBmeQJWl00CN5XhVcqsgMg9i3Zwj90F2W6GBX8eVBmd4qcySHnq2jYsYv4WGaFvklOqBJifOaHu4W3PFFnm6j4dyjELwKSccmLVo-NM-aLFYpj5FjbdckngwJEX3muQ5LlEh3OMpnNEzb~85CmIScVy7h5wmdf-MpUMNjYxOQPntZHLbDX8qYaBcLSEsOmuQO5Q__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/153510378/d519b01e-2e8b-46e9-a586-c1c04f5f5dc5/1734923470/en.vtt?Expires=1794081508&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=UT9GhxvYINkVjj5MJUfiyK45iucUju5MPuYNIqaFF81xrAgpgcU-rFzFZlcifucY5jrYhDTfybpiLMU4MqIFZ-cgk6Zd138EemyuH6oMD2gZ0Qpgw5~e0np5u2C0cp6TolEtDSYlaYYXhFOuDfj~9fUxkSLjeNjtQNSBR7Rd3GzbudHQRaN2wyty78lN~oDD6SodMAeumAaSF70cqR9b~Nvbxjdz3j77EouUZ41Qyqwc-ElWHNPXOjkoI5EQo7NqWxJgdnn-Q8aaWMBDQ54xyqJDlVBIFtQ~w44SEdM6d6FSOKLhYe~VubisMSK-m4O4~tQYrj0MxTWd83SkWCgVNQ__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A stock to short 🧸 how to find shorts 🩳 how to short 🛠",
+  "body_html": "<p>A quick summary on how to find shorts that have high probability odds of trending downwards and how to place the orders. And a stock that I intend to enter Monday morning 12/23 for a short position. Note that I utilize Webull, and this may be different for you on different brokerages. It’s incredibly important to note that when using a margin account, your position can realize a 100% loss. So monitoring post market activity, have a risk management plan and using stops IS A MUST 👈  </p><p>As always, this is not financial advice, YOU ARE RESPONSIBLE FOR YOU. Having your own trading plan or investing strategy is your personal responsibility. I am just sharing my experience and opinions in these videos. I am available in the chat Monday through Friday, do not be shy with questions! Thanks for stopping by 👍</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "A quick summary on how to find shorts that have high probability odds of trending downwards and how to place the orders. And a stock that I intend to enter Monday morning 12/23 for a short position. Note that I utilize Webull, and this may be different for you on different brokerages. It’s incredibly important to note that when using a margin account, y…",
+  "wordcount": 141,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "116f64b4-a59c-4932-87c0-357b22e43db3",
+      "publication_id": 3537822,
+      "name": "how to short a stock",
+      "slug": "how-to-short-a-stock",
+      "hidden": false
+    },
+    {
+      "id": "17960cff-6e5c-48ba-a54c-932dfd9e5612",
+      "publication_id": 3537822,
+      "name": "margin account",
+      "slug": "margin-account",
+      "hidden": false
+    },
+    {
+      "id": "41ebb604-6f20-42b6-9b74-1bc183d2df27",
+      "publication_id": 3537822,
+      "name": "best stocks 2025",
+      "slug": "best-stocks-2025",
+      "hidden": false
+    },
+    {
+      "id": "4ad1568b-1e24-4e82-8b2c-d3e5f9cb4ba0",
+      "publication_id": 3537822,
+      "name": "how to short",
+      "slug": "how-to-short",
+      "hidden": false
+    },
+    {
+      "id": "7dbf7be5-6c42-4563-8536-5ede23cda3f8",
+      "publication_id": 3537822,
+      "name": "recession",
+      "slug": "recession",
+      "hidden": false
+    },
+    {
+      "id": "7dcb0882-ca7d-44fa-ade3-1e977ebf00b5",
+      "publication_id": 3537822,
+      "name": "best stocks",
+      "slug": "best-stocks",
+      "hidden": false
+    },
+    {
+      "id": "835dbb5f-798d-4184-8451-dac56208281e",
+      "publication_id": 3537822,
+      "name": "stocks to short",
+      "slug": "stocks-to-short",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8d6bbc29-dfd8-450c-bc2e-1a3584e9635d",
+      "publication_id": 3537822,
+      "name": "stock crash",
+      "slug": "stock-crash",
+      "hidden": false
+    },
+    {
+      "id": "ca76281f-0612-4966-830c-66b3a1737ebd",
+      "publication_id": 3537822,
+      "name": "stock market crash",
+      "slug": "stock-market-crash",
+      "hidden": false
+    },
+    {
+      "id": "e9fea635-b5e4-46db-84d5-3e6d86431bc7",
+      "publication_id": 3537822,
+      "name": "what is a margin account",
+      "slug": "what-is-a-margin-account",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        212,
+        45,
+        46
+      ],
+      "population": 586
+    },
+    "DarkVibrant": {
+      "rgb": [
+        119,
+        23,
+        24
+      ],
+      "population": 177
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        100,
+        108
+      ],
+      "population": 1
+    },
+    "Muted": {
+      "rgb": [
+        158,
+        115,
+        88
+      ],
+      "population": 526
+    },
+    "DarkMuted": {
+      "rgb": [
+        82,
+        62,
+        52
+      ],
+      "population": 522
+    },
+    "LightMuted": {
+      "rgb": [
+        177,
+        140,
+        108
+      ],
+      "population": 73
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 24,
+  "comment_count": 3,
+  "child_comment_count": 2,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

@@ -1,0 +1,11 @@
+symbol,market,company_name,cost_basis,entry_date,current_rating,weight,source_file
+PRU,:us:,Prudential Financial,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+MTB,:us:,M&T Bank,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+SPG,:us:,Simon Property Group,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+UBSI,:us:,United Bankshares,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+TXT,:us:,Textron Inc,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+HNI,:us:,HNI Corporation,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+SPB,:us:,Spectrum Brands Holdings,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+FDX,:us:,FedEx Corporation,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+MSCI,:us:,MSCI Inc,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
+VLO,:us:,Valero Energy Corporation,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut

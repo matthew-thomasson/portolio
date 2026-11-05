@@ -1,0 +1,462 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/77-days-in-how-the-stocktok-screener",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 169707355,
+  "podcast_art_url": null,
+  "podcast_duration": 144.43102,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "bbf3adda-58d0-4ea3-9062-e89086f9318f",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/bbf3adda-58d0-4ea3-9062-e89086f9318f/src",
+  "post_date": "2025-07-30T23:48:33.135Z",
+  "updated_at": "2025-07-30T23:48:33.292Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "77-days-in-how-the-stocktok-screener",
+  "social_title": null,
+  "subtitle": "An independent audit by real users, with real numbers",
+  "teaser_post_eligible": true,
+  "title": "77 Days In: How the Stocktok Screener Actually Performed",
+  "type": "podcast",
+  "video_upload_id": "c5175ba2-dc1e-4bf3-9a53-c6a8c37b2905",
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 37
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "mid-week-stock-market-update-730",
+  "next_post_slug": "buying-2-stocks-731",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/169707355/c5175ba2-dc1e-4bf3-9a53-c6a8c37b2905/transcoded-1753919253.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!GL_e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!GL_e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "c5175ba2-dc1e-4bf3-9a53-c6a8c37b2905",
+    "name": "9b1f4985c97f48ce9c9e0683cd53ded2.MOV",
+    "created_at": "2025-07-30T23:42:18.827Z",
+    "uploaded_at": "2025-07-30T23:44:39.010Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 169707355,
+    "user_id": 301052325,
+    "duration": 144.41455,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1753919253,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 192574436,
+    "is_mux": true,
+    "mux_asset_id": "y5VvR01YkmuSNbBudLfP3iwYy7VJT02ljKRrZskck01tgw",
+    "mux_playback_id": "BKiFBznyYCYFOiHswofss02x100y01qoiQe5Mi5yiigbVs",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null,
+    "extractedAudio": {
+      "id": "bbf3adda-58d0-4ea3-9062-e89086f9318f",
+      "name": null,
+      "created_at": "2025-07-30T23:44:39.038Z",
+      "uploaded_at": "2025-07-30T23:44:39.010Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 169707355,
+      "user_id": 301052325,
+      "duration": 144.43102,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 2311856,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "c5175ba2-dc1e-4bf3-9a53-c6a8c37b2905",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "bbf3adda-58d0-4ea3-9062-e89086f9318f",
+        "created_at": "2025-07-30T23:44:49.784Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01K1EVJVREYCG1VMTSAY7RCX9N",
+        "approved_at": "2025-07-30T23:45:01.190Z",
+        "transcript_url": "s3://substack-video/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/transcription.json?Expires=1793973085&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=I4epfMGOIyJpeaSgJh0tvjwKohWAdIkawcd6X-G9DnovuvX7unIVR0P~CyzDl5KkMpDtqJV3lJjFKfNVv5yaR6C-YgEaLXqnXCKK5mx-BEllJ0vvqmvH--R3JwiPHQAHw~PmZlnaFbf7m2ce6pkNre7mAEnbPpCeC2-1J0etPOCYIZwPaOgZe-u3Nf0VrpEtJXO7W9P-M-y2eQPA3sW5kKhNt7bZ-NzJwB99hbihXQ7ACbFddFTVDmVRfNc23~6cem9XRKHwmQ-NfOTqWnBQWlX70Aa69K3RI3fq7Ktuc3xguRzo6A42w9dHSTU3iH3DnddaSnlVlHBtePqwQkBp6A__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/unaligned_transcription.json?Expires=1793973085&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=MRaXGaJCDEXtpIH8yfatRX4giB2m3u0U9p~uMJuszGlyEA-TxqnEBrR0hjCcsnmNC-ufnst-sPcxTgnq4s2lQMppdIgoB~Gdt8IgPFXqao5y-SIMLJcmqDlI5LcIrEO5EGgUIplTIfHTXv3McE4Z4V-D9m3CdrLIdTRKJWIhiVKRGM5SXL5o1bYlcHnMwG6T-mIMI7IcGuB18O7QFnmwzTNnTFX934nFVjRr-Nd-VwdI~482yHC2tjS~-m6bNlP2bhqEUfbU~gz0FPmYn5gA1OtdJXVCGURjzBmpxx43MTTfdvq~e1YzTSgUFG9lwMmIF3cJLetmVSAXEM7SU5NZNQ__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/en.vtt?Expires=1793973085&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=De-UCEQflx5L1a4c1c8HUt3dKV8M6e-vSgxMgwyxqBqCQr5GcYFsP7Gcv02tEvF8pjeFX9leXaubgo-go5HMRVOLdN1f6ur6Xgnji73b~I7b-f6HWa7msnZsrw0LNEzgelVXBQYdN3ACZSZV~3b2F-23LeQLh-MCSUjEBcux2NIRzKLUF3VvkQQFCfs6dtstGwcp6o~DjOD1CWRkxMRZugbU8PjCTUpaQmcIDVCEeiFFU2gGe4abjG2O1hFqmPM7okIDlgDFQon3IaGp32omFaong1Sv3G5oLHZnEME-ETtMExXTTCZ1mh6Fu-mqXCttyR7BgWrg9fAyjB~d-TwJ9Q__",
+            "original": true
+          }
+        ]
+      }
+    }
+  },
+  "podcastFields": {
+    "post_id": 169707355,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "bbf3adda-58d0-4ea3-9062-e89086f9318f",
+    "name": null,
+    "created_at": "2025-07-30T23:44:39.038Z",
+    "uploaded_at": "2025-07-30T23:44:39.010Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 169707355,
+    "user_id": 301052325,
+    "duration": 144.43102,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 2311856,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "c5175ba2-dc1e-4bf3-9a53-c6a8c37b2905",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "bbf3adda-58d0-4ea3-9062-e89086f9318f",
+      "created_at": "2025-07-30T23:44:49.784Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01K1EVJVREYCG1VMTSAY7RCX9N",
+      "approved_at": "2025-07-30T23:45:01.190Z",
+      "transcript_url": "s3://substack-video/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/transcription.json?Expires=1793973085&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=I4epfMGOIyJpeaSgJh0tvjwKohWAdIkawcd6X-G9DnovuvX7unIVR0P~CyzDl5KkMpDtqJV3lJjFKfNVv5yaR6C-YgEaLXqnXCKK5mx-BEllJ0vvqmvH--R3JwiPHQAHw~PmZlnaFbf7m2ce6pkNre7mAEnbPpCeC2-1J0etPOCYIZwPaOgZe-u3Nf0VrpEtJXO7W9P-M-y2eQPA3sW5kKhNt7bZ-NzJwB99hbihXQ7ACbFddFTVDmVRfNc23~6cem9XRKHwmQ-NfOTqWnBQWlX70Aa69K3RI3fq7Ktuc3xguRzo6A42w9dHSTU3iH3DnddaSnlVlHBtePqwQkBp6A__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/unaligned_transcription.json?Expires=1793973085&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=MRaXGaJCDEXtpIH8yfatRX4giB2m3u0U9p~uMJuszGlyEA-TxqnEBrR0hjCcsnmNC-ufnst-sPcxTgnq4s2lQMppdIgoB~Gdt8IgPFXqao5y-SIMLJcmqDlI5LcIrEO5EGgUIplTIfHTXv3McE4Z4V-D9m3CdrLIdTRKJWIhiVKRGM5SXL5o1bYlcHnMwG6T-mIMI7IcGuB18O7QFnmwzTNnTFX934nFVjRr-Nd-VwdI~482yHC2tjS~-m6bNlP2bhqEUfbU~gz0FPmYn5gA1OtdJXVCGURjzBmpxx43MTTfdvq~e1YzTSgUFG9lwMmIF3cJLetmVSAXEM7SU5NZNQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/169707355/bbf3adda-58d0-4ea3-9062-e89086f9318f/1753919091/en.vtt?Expires=1793973085&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=De-UCEQflx5L1a4c1c8HUt3dKV8M6e-vSgxMgwyxqBqCQr5GcYFsP7Gcv02tEvF8pjeFX9leXaubgo-go5HMRVOLdN1f6ur6Xgnji73b~I7b-f6HWa7msnZsrw0LNEzgelVXBQYdN3ACZSZV~3b2F-23LeQLh-MCSUjEBcux2NIRzKLUF3VvkQQFCfs6dtstGwcp6o~DjOD1CWRkxMRZugbU8PjCTUpaQmcIDVCEeiFFU2gGe4abjG2O1hFqmPM7okIDlgDFQon3IaGp32omFaong1Sv3G5oLHZnEME-ETtMExXTTCZ1mh6Fu-mqXCttyR7BgWrg9fAyjB~d-TwJ9Q__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "An independent audit by real users, with real numbers",
+  "body_html": "<p><strong>“What is the StockTok Screener historical performance?”</strong> is a question I get regularly. Its been 77 days and 51 trading days, and now thanks to two community members, who have been tracking the results for all of us, we have some clarity. Here is the answer, and it was not reviewed or cherry picked by me…so no worries about bias here.</p><h3>Historically, the top 3 stocks flagged by the short-term screener have generated cumulative gains of more than 50,000%.</h3><p>Now before you spit up on yourself that it is bullshit…that was my first reaction too 😵‍💫…this does not mean we all made 50,000%. You would have had to invest every single day in the top 3 stock picks, and held perfectly. This obviously, is not feasible. Let me explain what these results really mean…</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!GL_e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!GL_e!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 424w, https://substackcdn.com/image/fetch/$s_!GL_e!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 848w, https://substackcdn.com/image/fetch/$s_!GL_e!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 1272w, https://substackcdn.com/image/fetch/$s_!GL_e!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!GL_e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png\" width=\"1456\" height=\"928\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/media_upload/comment/3eb4a42a-3131-45e0-aa55-9d53a3ea923e/509b5065-482c-4231-a2b5-351bae09f9ab.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:928,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!GL_e!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 424w, https://substackcdn.com/image/fetch/$s_!GL_e!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 848w, https://substackcdn.com/image/fetch/$s_!GL_e!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 1272w, https://substackcdn.com/image/fetch/$s_!GL_e!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F3eb4a42a-3131-45e0-aa55-9d53a3ea923e%2F509b5065-482c-4231-a2b5-351bae09f9ab.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Cumulative P/L performance. ST is short term (green). The long term screener (LT) and penny picks (PP) screener were developed after, hence the shorter duration of results. They are still under review.</figcaption></figure></div><p>What this really means, is the screener works. <em><strong>It presents high probability opportunity.</strong></em> Now, you nor I are going to be able to capture 50,000% in gains. But we will be able to <em><strong>catch chunks</strong></em> of that. I have personally traded 11 stocks….out of the 217 picks it has made in 77 days. Many of signals providing outstanding results: </p><ul><li><p>Roblox: 61%</p></li><li><p>Kratos: 31.4%</p></li><li><p>TTM Technologies: 18.7%</p></li></ul><p>Biggest loss: DE at -4.5%. No biggie. </p><p>Now, everything is time dependent. To be clear…the first screener developed was the short term screener (ST in green) back in early May. None of these stocks were meant to be held long term…meaning, that there are several stocks red now, that were green. <em><strong>There was an opportunity for traders to make a profit, before it went down.</strong></em> Hence why I beat my fists on the table and scream about stops and locking profits. Regardless, in the heart of fairness and measuring broadly, we can confidently say this:</p><div><hr></div><p><strong>Out of 217 stock picks, 66.8% were profitable and 32.7% were not. The winners, won big, and losers lost small; 15 stocks over 5% and only 4 under -5%.</strong> Our main goal was to be above 50%, and we achieved that. Now I have not reviewed every single losing stock…but my guess is that if an individual used stops and locked profits, I think the win percentage would be more around 80%…because again, these stocks were not meant to be held onto long term.</p><div><hr></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!lfnH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!lfnH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 424w, https://substackcdn.com/image/fetch/$s_!lfnH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 848w, https://substackcdn.com/image/fetch/$s_!lfnH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 1272w, https://substackcdn.com/image/fetch/$s_!lfnH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!lfnH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png\" width=\"728\" height=\"292\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:292,&quot;width&quot;:728,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:42400,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/169681018?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!lfnH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 424w, https://substackcdn.com/image/fetch/$s_!lfnH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 848w, https://substackcdn.com/image/fetch/$s_!lfnH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 1272w, https://substackcdn.com/image/fetch/$s_!lfnH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03d69726-f670-49e6-ab3a-78e8e44919ec_728x292.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Stock win rate of 66.8%, well above 50%. The winning stocks also won big, and the losing stocks lost little. This is based on a total time view, and recall, many of these stocks had a period of time where the gains were much larger before it pulled back. List of reviewed stocks below.</figcaption></figure></div><p> As for the long term screener and the penny picks…I do not want to comment on them just yet. The long term screener we cannot really review the performance for, at a minimum, 3 months. Even then, it will be dependent upon market conditions (IE, I may turn it off). A <em><strong>key element to the screeners being successful is only having them active during the right market conditions</strong></em> (for example, they turn off when the VIX goes above 22). This helps prevent losses to the gains made over time. A review of those will come, when we have substantial data. </p><h4>Summary of this post: </h4><p>The StockTok Short Term Screener works well 👍. It does a good job finding stocks with a high probability of going up substantially. </p><p>Does it guarantee you will get rich? <strong>Absolutely not</strong>, you still have to have a strategy; you still have to decide when to take a profit, or when to cut a position. A big winner can turn into a big loser with out a strategy. I see the majority of people, myself included, fairing well with the screener…not every single person…but the majority. When we have results for the long term screener, I will update you. </p><p>I hope this sheds some clarity on the screener. <strong>DO NOT COME IN THINKING YOU WILL GET INSTANTLY RICH…THAT IS NOT THE POINT. </strong>Also, <strong>special thanks to Duapailing and SoberbySaturday for tracking these results</strong>. If you have questions, feel free to ping me in the chat. If I can’t answer, these gentleman are in the chat regularly and actually ran the review. Be sure to check out the <a href=\"https://tjstocks.substack.com/p/stock-screener-frequently-asked-questions?r=4z8lgl\">StockTok Screener Frequently Asked Questions</a> too, it may have an answer you seek.</p><p>We get stronger everyday, and will only continue to improve. Thanks for stopping by!</p><p><em>For more visit: <strong><a href=\"https://www.stocktokdashboard.com/\">StockTokDashboard</a></strong></em> <em><strong>|</strong> <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/\">All Publications</a></strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary button-wrapper\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to our StockTok Dashboard, updated daily. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a></strong></em> </p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div><div><hr></div><p>Other references below</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!7rSa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!7rSa!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 424w, https://substackcdn.com/image/fetch/$s_!7rSa!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 848w, https://substackcdn.com/image/fetch/$s_!7rSa!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 1272w, https://substackcdn.com/image/fetch/$s_!7rSa!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!7rSa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png\" width=\"1456\" height=\"680\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:680,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:149150,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/169681018?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!7rSa!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 424w, https://substackcdn.com/image/fetch/$s_!7rSa!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 848w, https://substackcdn.com/image/fetch/$s_!7rSa!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 1272w, https://substackcdn.com/image/fetch/$s_!7rSa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99dd2581-93d5-4f75-a755-67116ad08763_1805x843.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">The StockTok Dashboard with Screener results</figcaption></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!X2oZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!X2oZ!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 424w, https://substackcdn.com/image/fetch/$s_!X2oZ!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 848w, https://substackcdn.com/image/fetch/$s_!X2oZ!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 1272w, https://substackcdn.com/image/fetch/$s_!X2oZ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!X2oZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png\" width=\"1456\" height=\"984\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/media_upload/comment/307ff759-2ba5-4e32-ab93-440a07d1d91e/cea83826-d8f8-441f-be2f-628121fd5ac2.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:984,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!X2oZ!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 424w, https://substackcdn.com/image/fetch/$s_!X2oZ!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 848w, https://substackcdn.com/image/fetch/$s_!X2oZ!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 1272w, https://substackcdn.com/image/fetch/$s_!X2oZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fmedia_upload%2Fcomment%2F307ff759-2ba5-4e32-ab93-440a07d1d91e%2Fcea83826-d8f8-441f-be2f-628121fd5ac2.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">List of stocks reviewed from the Short Term Screener</figcaption></figure></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "“What is the StockTok Screener historical performance?” is a question I get regularly. Its been 77 days and 51 trading days, and now thanks to two community members, who have been tracking the results for all of us, we have some clarity. Here is the answer, and it was not reviewed or cherry picked by me…so no worries about bias here.",
+  "wordcount": 727,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "155bf496-596a-4cec-9a5b-349299090942",
+      "publication_id": 3537822,
+      "name": "stock trading",
+      "slug": "stock-trading",
+      "hidden": false
+    },
+    {
+      "id": "3dd733df-b318-4ea3-bbaa-4b053a1e9932",
+      "publication_id": 3537822,
+      "name": "update",
+      "slug": "update",
+      "hidden": false
+    },
+    {
+      "id": "5d4a7454-bfb2-4499-b120-76475cf1fcf4",
+      "publication_id": 3537822,
+      "name": "stock market screener",
+      "slug": "stock-market-screener",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        241,
+        185,
+        4
+      ],
+      "population": 890
+    },
+    "DarkVibrant": {
+      "rgb": [
+        132,
+        100,
+        4
+      ],
+      "population": 2
+    },
+    "LightVibrant": {
+      "rgb": [
+        252.83510204081637,
+        222.5265306122449,
+        124.56489795918363
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        62,
+        120,
+        136
+      ],
+      "population": 157
+    },
+    "DarkMuted": {
+      "rgb": [
+        97,
+        91,
+        69
+      ],
+      "population": 313
+    },
+    "LightMuted": {
+      "rgb": [
+        152,
+        151,
+        151
+      ],
+      "population": 119
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 37,
+  "comment_count": 11,
+  "child_comment_count": 7,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

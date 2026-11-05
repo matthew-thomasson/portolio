@@ -1,0 +1,383 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-market-whiplash-continues",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 158297840,
+  "podcast_art_url": null,
+  "podcast_duration": 125.048164,
+  "podcast_preview_upload_id": "0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b",
+  "podcast_upload_id": "0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b/src",
+  "post_date": "2025-03-03T15:30:13.617Z",
+  "updated_at": "2025-03-03T15:30:13.724Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "stock-market-whiplash-continues",
+  "social_title": null,
+  "subtitle": "Picked up a TEST Position This Morning ",
+  "teaser_post_eligible": true,
+  "title": "Stock Market Whiplash Continues 🎢",
+  "type": "podcast",
+  "video_upload_id": "9a1f491d-60e4-403f-bbe2-6cb7aeab5f8e",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "❤": 24
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "sorry-to-saystock-market-update",
+  "next_post_slug": "timothys-stocks-ea4",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/158297840/9a1f491d-60e4-403f-bbe2-6cb7aeab5f8e/transcoded-1741015674.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "9a1f491d-60e4-403f-bbe2-6cb7aeab5f8e",
+    "name": "0303.mp4",
+    "created_at": "2025-03-03T15:18:47.986Z",
+    "uploaded_at": "2025-03-03T15:21:49.202Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 158297840,
+    "user_id": 301052325,
+    "duration": 210.48122,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1741015674,
+    "preview_start": 0,
+    "preview_duration": 125,
+    "media_type": "video",
+    "primary_file_size": 253780915,
+    "is_mux": true,
+    "mux_asset_id": "aCJvHIWKzGOOQSHlhumzivR3eGdW6tYQC93JEEBcS02E",
+    "mux_playback_id": "GfVX9nLLgP3WId2Ckam02FX59vYOqqkhyBcHBOC61QX00",
+    "mux_preview_asset_id": "Yfgx01VxcEXXVc02qcsL6pmGgbEsD01JCHUPo731vL2im8",
+    "mux_preview_playback_id": "00AgHqbepc9hJZg95JAnXvJs6bGUTGR4D6gEuhgXlBMw",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 158297840,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b",
+    "name": null,
+    "created_at": "2025-03-03T15:28:07.381Z",
+    "uploaded_at": "2025-03-03T15:21:49.202Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 158297840,
+    "user_id": 301052325,
+    "duration": 125.048164,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 2001321,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "9a1f491d-60e4-403f-bbe2-6cb7aeab5f8e",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b",
+      "created_at": "2025-03-03T15:28:18.396Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JNE9YJVDPXB6VRGFGZDQH4VJ",
+      "approved_at": "2025-03-03T15:28:30.546Z",
+      "transcript_url": "s3://substack-video/video_upload/post/158297840/0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b/1741015699/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/158297840/0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b/1741015699/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/158297840/0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b/1741015699/transcription.json?Expires=1794412677&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=bZFKNEaJsFl448Cn-QtUKKeQyxlMSVHtatYy6aAtaFVFd1BDj~eb7250ZIyD82LJzD7GFLcfVQZUpbTMD9ggrGgANTEXdi4bepaLIRk23NPPEp8JtFMb1utquHrJx7vH~p0T-B677nh~ys4iT-IzG91qlkdt3SE94R-tqVuP5jZgrGM7ZXXpf1aZwnUOmeuwP3ag77Ag7p~eOUVpl2~WO7qzED9p7Lqp6sBFgu48zRsfw69CXGDum~Hy7OCt2YgNx--~Y8rucmYHaWer0E7ossDXdgSYeGKp5IVGjgTeW5reWnvMUoEpOz5S3S15rPRnfLS-kgDOW5eMImMlbOqBBw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/158297840/0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b/1741015699/unaligned_transcription.json?Expires=1794412677&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=FiGCrF9x1PAtt5dvdqwEG7~U6B2CcOfWZ9~4aH8NLnpTTzuknQ2s4eL3g5o5KWXj9HESW78CKNYt0YpwBZVZ6RxySG3f~nzByknZBiyrR3wnTd87TbtMzdxiu45P8j3dxcqeNmjrjpfbyUmI9s8oAe4kOVoWIzAIgkkRvD7bThcTQkBNdHNwi7wtiWPf0-bODw2n~FM9v3qFzMjN37ESUIwOjR8WuUo~AWXZSejNek3s7KZGDc4cWfua6ZAbMyrbaR5onqfFfggRiH7CgBn0iWiDbUORx3vybg8zmvhwQrR2kUj30Yi~gx8vw2m4duJflXMJ7iwFY1NidGwRXB~HmA__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/158297840/0bcb2f1e-9cd1-4333-acef-7c57f6aacb6b/1741015699/en.vtt?Expires=1794412677&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=SY1rkrkRTqjfPdCJfaO~9YjJtRQhv23fu2DQ4516WRUZbAjADOK01oFb0LDRv9HTJXAyBNo3DWNWVydpjaMvEAadZpi-jkOk18arMRjspglHrpHHV9CnKb5u9XWFH342POSrlto6eIx7z1PVFPyF5eAnNdRfQlf7rajtZ-3045I5777u2oL7Ud~-Oz8MKabKVzf6muvyv1MNlcCL7lnbJLSAu-iA4RKyvH7T55bCKutz~x4BYrzNjH~sZ8RlTChBXOlOGtFKEofx0dFcPhTjvMY4QtWpEnUywvPygIHLfBjzBX2scvbq0oMQhb-nyQRo0kMQQCYrmjQ2wWDVTjEY1Q__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "55bf1996-4430-440e-88e5-c8ed98b2ab32",
+      "thumbnail_id": 1,
+      "duration": 210.46857
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Picked up a TEST Position This Morning",
+  "body_html": "<p>Last week the stock market had 1 clear trend: FOMO in the morning, wrecked in the afternoon. With the exception to options expiring in the afternoon. Today, we are running a test position to see if that trend is continuing or if the market has legitimately reversed. </p><p>Some warning signals remain, the VIX continues to make higher lows and higher highs. Thus the whiplash in the stock market continues. NVDA short continues to perform well. The test position is small, we want to see if our strategy is working. While figuring that out, we use a small amount of capital. If the strategy does end up working through the week, we can take on larger positions, and always add to winners. If it does not work, then we risked very little capital with tight stop management. This prevents massive damage to your account equity, which is what we care about long term. </p><p>The test stock position we picked up was ⬇️</p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Questions about the market and this position are welcome in the main chat</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Last week the stock market had 1 clear trend: FOMO in the morning, wrecked in the afternoon. With the exception to options expiring in the afternoon. Today, we are running a test position to see if that trend is continuing or if the market has legitimately reversed.",
+  "wordcount": 317,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "7dcb0882-ca7d-44fa-ade3-1e977ebf00b5",
+      "publication_id": 3537822,
+      "name": "best stocks",
+      "slug": "best-stocks",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "ca76281f-0612-4966-830c-66b3a1737ebd",
+      "publication_id": 3537822,
+      "name": "stock market crash",
+      "slug": "stock-market-crash",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        6,
+        180,
+        243
+      ],
+      "population": 220
+    },
+    "DarkVibrant": {
+      "rgb": [
+        7,
+        85,
+        124
+      ],
+      "population": 52
+    },
+    "LightVibrant": {
+      "rgb": [
+        146,
+        220,
+        252
+      ],
+      "population": 97
+    },
+    "Muted": {
+      "rgb": [
+        83,
+        121,
+        136
+      ],
+      "population": 217
+    },
+    "DarkMuted": {
+      "rgb": [
+        92,
+        54,
+        62
+      ],
+      "population": 134
+    },
+    "LightMuted": {
+      "rgb": [
+        145,
+        145,
+        144
+      ],
+      "population": 82
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 24,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

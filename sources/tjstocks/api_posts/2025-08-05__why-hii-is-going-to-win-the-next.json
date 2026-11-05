@@ -1,0 +1,469 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/why-hii-is-going-to-win-the-next",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 170118381,
+  "podcast_art_url": null,
+  "podcast_duration": 418.40326,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "de12839c-1e90-401a-bfad-67838f77619c",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/de12839c-1e90-401a-bfad-67838f77619c/src",
+  "post_date": "2025-08-05T13:17:35.753Z",
+  "updated_at": "2025-08-05T13:17:35.873Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "why-hii-is-going-to-win-the-next",
+  "social_title": null,
+  "subtitle": "Having worked at these major shipyards and as Navy Officer, here are some keen insights",
+  "teaser_post_eligible": true,
+  "title": "Why HII is going to win the next big government contract... and the stock will BOOM",
+  "type": "podcast",
+  "video_upload_id": "d970bd21-6960-41a1-86c4-c70e13f64307",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 28
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "forecasts-predict-a-dismal-decade",
+  "next_post_slug": "buying-a-stock-quick-update",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/170118381/d970bd21-6960-41a1-86c4-c70e13f64307/transcoded-1754399735.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substackcdn.com/image/fetch/$s_!WYC5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png",
+  "podcast_episode_image_info": {
+    "url": "https://substackcdn.com/image/fetch/$s_!WYC5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png",
+    "isDefaultArt": false,
+    "isDefault": false
+  },
+  "videoUpload": {
+    "id": "d970bd21-6960-41a1-86c4-c70e13f64307",
+    "name": "278b26c339ed48b09a4d682137213708.mov",
+    "created_at": "2025-08-05T12:25:42.191Z",
+    "uploaded_at": "2025-08-05T12:33:20.170Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 170118381,
+    "user_id": 301052325,
+    "duration": 418.42334,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1754399735,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 791180851,
+    "is_mux": true,
+    "mux_asset_id": "UwSQVyrUMwdoFhkXvkNJcq4UsAm02lBF018AxYGi3Jgi00",
+    "mux_playback_id": "QJ8013iUHp900h02se3FptF01qPrXyYn0072KuPQE02Cn1iT4",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "extractedAudio": {
+      "id": "de12839c-1e90-401a-bfad-67838f77619c",
+      "name": null,
+      "created_at": "2025-08-05T12:33:20.195Z",
+      "uploaded_at": "2025-08-05T12:33:20.171Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 170118381,
+      "user_id": 301052325,
+      "duration": 418.40326,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 6695412,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "d970bd21-6960-41a1-86c4-c70e13f64307",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "de12839c-1e90-401a-bfad-67838f77619c",
+        "created_at": "2025-08-05T13:15:14.411Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01K1X5YBDV9A99AMRAYZ1V39M5",
+        "approved_at": "2025-08-05T13:15:43.407Z",
+        "transcript_url": "s3://substack-video/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/transcription.json?Expires=1794116341&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eSuzGRR~XkS7uFhrw~ubH2e3kjG3w-7f~84fMu7A7nhvhufHvOmc0GYL1NsGcV7-FzBvGUPtQJw-EHdEdXWEO8bkdNvXrPhllGpIkWlz77K54EcmAqrwt1jt7t3fKlwOR6kZAXDy2z3elPOGZBAu8KjryP3b5q83s7wJm80m0kYkyiia2EWyD7MU19SlbUL719s8rfs08r8qedFQPNT6n~kiP6QrGKbT~M66HnYSUdDO5c21NvuI~o66WuyG9MifFt7IPFqeKXQbmS0YVrq54AA6OiJHjN3SqhbVZ3Egn4JmNwJUR~ho2OIzX4XsTKMf6FiQLW1x7vzbokw0rPhtgw__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/unaligned_transcription.json?Expires=1794116341&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=JR~yg-ppBShSmCOVhPst5C-ZFyq8yCO78s2aLakjPj0jmCXGR9lQ5spStCdjGA1Bd6DwD9AxibgwnY4So3sgKo4IaKfpuoZyG-on8LMAtvg7MGd2twcqxbXmu8LliqRscz4sP44CNuQD6sK-zAzy9rmZ4Gh0BbgPppy65FnRPJ9LUrOXSpybZY0HrVTXNC4h9lXUYgFIWc63Otg-qATVgJAn1XUOd~-p3pU8YCGwP6M0ktW8T1c4nOOsYUzLDK8Ui0vmwJH2WJHJFMJXpJY2FoXu7cphFGFZgCR8ilJVygy4CG6Wj0AZREfpAanVTwIFkysNQbHdqGwsVmE3aLyRSQ__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/en.vtt?Expires=1794116341&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=gE3nziCdL-Xrgxj6QLA3I7Drt2eIAcOxBpvM0HnBzo8ZD0YC5Sx6jgA9wMhnSr6bvwJ-NPbqfsR7FQLp02GKHXp0is4VxbRvPtbe8FxSTZLnR~hCPNEFGVBFSRo2TcqVZGgELEUaEViNHSt5cbSdhDsXru15UahBJsipwcAqz9jMmb6ud6ihXN4YF~fL6PI8RqeVJFPK1wTB4rYpVAXvW~dANXxpJc2BqH-m4vpTw2QLDzs8Gs7tr7jtxC94~flshtlMRufEuQpZp1gpvAui2PhbOCI8cuLIyssTzI-2bJMZnvFHmpOT4~6rFtvDUG8YOVjokz9SwMtnA4wbhSZo0g__",
+            "original": true
+          }
+        ]
+      }
+    },
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 170118381,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "de12839c-1e90-401a-bfad-67838f77619c",
+    "name": null,
+    "created_at": "2025-08-05T12:33:20.195Z",
+    "uploaded_at": "2025-08-05T12:33:20.171Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 170118381,
+    "user_id": 301052325,
+    "duration": 418.40326,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 6695412,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "d970bd21-6960-41a1-86c4-c70e13f64307",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "de12839c-1e90-401a-bfad-67838f77619c",
+      "created_at": "2025-08-05T13:15:14.411Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01K1X5YBDV9A99AMRAYZ1V39M5",
+      "approved_at": "2025-08-05T13:15:43.407Z",
+      "transcript_url": "s3://substack-video/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/transcription.json?Expires=1794116341&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eSuzGRR~XkS7uFhrw~ubH2e3kjG3w-7f~84fMu7A7nhvhufHvOmc0GYL1NsGcV7-FzBvGUPtQJw-EHdEdXWEO8bkdNvXrPhllGpIkWlz77K54EcmAqrwt1jt7t3fKlwOR6kZAXDy2z3elPOGZBAu8KjryP3b5q83s7wJm80m0kYkyiia2EWyD7MU19SlbUL719s8rfs08r8qedFQPNT6n~kiP6QrGKbT~M66HnYSUdDO5c21NvuI~o66WuyG9MifFt7IPFqeKXQbmS0YVrq54AA6OiJHjN3SqhbVZ3Egn4JmNwJUR~ho2OIzX4XsTKMf6FiQLW1x7vzbokw0rPhtgw__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/unaligned_transcription.json?Expires=1794116341&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=JR~yg-ppBShSmCOVhPst5C-ZFyq8yCO78s2aLakjPj0jmCXGR9lQ5spStCdjGA1Bd6DwD9AxibgwnY4So3sgKo4IaKfpuoZyG-on8LMAtvg7MGd2twcqxbXmu8LliqRscz4sP44CNuQD6sK-zAzy9rmZ4Gh0BbgPppy65FnRPJ9LUrOXSpybZY0HrVTXNC4h9lXUYgFIWc63Otg-qATVgJAn1XUOd~-p3pU8YCGwP6M0ktW8T1c4nOOsYUzLDK8Ui0vmwJH2WJHJFMJXpJY2FoXu7cphFGFZgCR8ilJVygy4CG6Wj0AZREfpAanVTwIFkysNQbHdqGwsVmE3aLyRSQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/170118381/de12839c-1e90-401a-bfad-67838f77619c/1754399716/en.vtt?Expires=1794116341&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=gE3nziCdL-Xrgxj6QLA3I7Drt2eIAcOxBpvM0HnBzo8ZD0YC5Sx6jgA9wMhnSr6bvwJ-NPbqfsR7FQLp02GKHXp0is4VxbRvPtbe8FxSTZLnR~hCPNEFGVBFSRo2TcqVZGgELEUaEViNHSt5cbSdhDsXru15UahBJsipwcAqz9jMmb6ud6ihXN4YF~fL6PI8RqeVJFPK1wTB4rYpVAXvW~dANXxpJc2BqH-m4vpTw2QLDzs8Gs7tr7jtxC94~flshtlMRufEuQpZp1gpvAui2PhbOCI8cuLIyssTzI-2bJMZnvFHmpOT4~6rFtvDUG8YOVjokz9SwMtnA4wbhSZo0g__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Having worked at these major shipyards and as Navy Officer, here are some keen insights",
+  "body_html": "<p>If you don’t know me, I was a Naval Officer for several years…then worked at the Pentagon in the Navy Program Office…and then went to Bath Iron Works and Huntington Ingalls Industries, which are some of the largest Naval Shipbuilding facilities in the United States. The point being: I have a firm grasp on the naval defense sector. </p><p>Last week (31 July), HII popped up on the StockTok screener. I wasn’t exactly sure why….but the signals are usually pretty decent. Fast forward to today and I think the reason is because HII is the most likely candidate that will be <a href=\"https://www.navylookout.com/us-navy-demands-uncrewed-warships-delivered-in-18-months/\">able to meet the demand for rapid construction of uncrewed warships.</a> </p><p>A little context before we continue. Your top 8 largest U.S. Navy Shipbuilders are:</p><ol><li><p>Huntington Ingalls (HII); Specialties: carriers, submarines, amphibious assault ships and destroyers</p></li><li><p>General Dynamics Electric Boat; Specialties: Nuclear submarines</p></li><li><p>General Dynamics Bath Iron Works (BIW); Specialties: Destroyers and Zumwalt class destroyers</p></li><li><p>Austal USA; Specialties: Littoral Combat Ship and Expeditionary Fast Transport</p></li><li><p>Fincantieri Marinette Marine; Specialties: Littoral Combat Ship and Constellation Frigates</p></li><li><p>BAE System Ship Repair; Specialties: Ship repair and modernization</p></li><li><p>Bollinger Shipyards; Specialties: Fast response cutters, small support vessels in Navy</p></li><li><p>Halter Marine; Specialties: Auxiliary ships</p></li></ol><p>Though there are no guarantees, we can pretty much automatically eliminate BAE System Ship repair, Bollinger Shipyards, and Halter Marine. These shipyards do not have the personnel or the physical capacity to meet “urgent demand” or “rapid construction”. We can also likely removed General Dynamics Electric Boat since they focus on submarines. That leaves us with HII, BIW, Austal and Fincantieri. </p><p>Now <em><strong>Bath Iron Works, in comparison to say HII, is very small</strong></em>. You can compare the two shipyards, and the physical docking space, compared to HII is tiny. Both shipyards do have alternative docking…but again, nothing compared to HII. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!WYC5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!WYC5!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 424w, https://substackcdn.com/image/fetch/$s_!WYC5!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 848w, https://substackcdn.com/image/fetch/$s_!WYC5!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 1272w, https://substackcdn.com/image/fetch/$s_!WYC5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!WYC5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png\" width=\"1456\" height=\"819\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d3215210-c6df-4920-9d52-ceb132537061_1600x900.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3833477,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/170118381?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!WYC5!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 424w, https://substackcdn.com/image/fetch/$s_!WYC5!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 848w, https://substackcdn.com/image/fetch/$s_!WYC5!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 1272w, https://substackcdn.com/image/fetch/$s_!WYC5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3215210-c6df-4920-9d52-ceb132537061_1600x900.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">BIW has limited docking space relative to HII. Notice you have only 1 ship, taking over half of the quay wall (docking area for ships).</figcaption></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!3v1w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!3v1w!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 424w, https://substackcdn.com/image/fetch/$s_!3v1w!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 848w, https://substackcdn.com/image/fetch/$s_!3v1w!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 1272w, https://substackcdn.com/image/fetch/$s_!3v1w!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!3v1w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png\" width=\"1456\" height=\"819\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2819628,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/170118381?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!3v1w!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 424w, https://substackcdn.com/image/fetch/$s_!3v1w!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 848w, https://substackcdn.com/image/fetch/$s_!3v1w!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 1272w, https://substackcdn.com/image/fetch/$s_!3v1w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff028cdfd-af1e-45ce-852e-8af886315d03_1600x900.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Notice tons of ships….big amphib ships, on a single quay wall. I hated walking this in the Mississippi heat lol.</figcaption></figure></div><p>This may seem strange observation to talk about…but having space to place ships is kind of a big deal. The reason this is a big deal, is <a href=\"https://www.navaltoday.com/2025/08/04/us-navy-orders-additional-ddg-51-destroyer/\">Bath Iron Works received an option year contract extension to build another DDG 51 destroyer.</a> They already have 6 other destroyers they are working on, on their relatively small plot of land (and ocean). So though I think they will contest the contract, their physical spacing will push them out. Plus…BIW is kind of a 1 trick pony…they build destroyers. Their Zumwalt program when they branched into something new, <a href=\"https://nationalinterest.org/blog/buzz/navys-zumwalt-class-destroyer-245-billion-failure-213132\">has been written as a $24.5B failure.</a> Trust me…it was. I find it unlikely military leadership and Congress will think 2nd time is a charm. </p><p>A relatively similar story applies to Austal and Fincantieri. To give you some context here are a few News headlines <em><strong>below</strong></em>, about their specialty products, the Littoral Combat Ship: </p><ul><li><p><strong><a href=\"https://taskandpurpose.com/tech-tactics/navy-littoral-combat-ship-foreign-military-sales/\">The Navy wants to sell off its troubled littoral combat ships to allies after just a few years in service</a></strong></p></li><li><p><strong><a href=\"https://www.nytimes.com/2023/02/13/podcasts/the-daily/navy-littoral-combat-ships.html\">The Navy’s Very Expensive Mistake</a></strong></p></li><li><p><strong><a href=\"https://www.navytimes.com/news/your-navy/2022/05/10/the-littoral-combat-ships-latest-problem-class-wide-structural-defects-leading-to-hull-cracks/\">The littoral combat ship’s latest problem: Class-wide structural defects leading to hull cracks</a></strong></p></li></ul><p>These ships were an absolute nightmare….both for Pentagon officials and Navy sailors. You may have seen me post about government waste before, or about the Navy being weakened…these are prime examples. They look amazing on Wikipedia…but in real life, they struggled to even keep them afloat. Billions of tax payer dollars were wasted building poorly designed rust buckets. <em><strong>The point being, I find it unlikely for them to be selected after the massive black eye these shipyards have given Admirals, Senior Executive Service and even Congressional members.</strong></em>  </p><p>One final note before talking about HII’s chart again…it is very common for big investors to come out and visit the shipyard. They ask questions like capacity, capability, ship backlog, etc. They walk the ships and the shipyard. Its a huge dog and pony show. I recommend checking out <a href=\"https://ir.hii.com/news-events/events-and-presentations/default.aspx\">HII earnings presentation</a> (annually they were weak with cash flow and earnings, however quarterly they have seen huge improvements.) The reason I bring this up….I really think some investment group out there…knows something we do not. This is reflected in the chart below. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!0arv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!0arv!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 424w, https://substackcdn.com/image/fetch/$s_!0arv!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 848w, https://substackcdn.com/image/fetch/$s_!0arv!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 1272w, https://substackcdn.com/image/fetch/$s_!0arv!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!0arv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png\" width=\"1347\" height=\"824\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:824,&quot;width&quot;:1347,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:134255,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/170118381?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!0arv!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 424w, https://substackcdn.com/image/fetch/$s_!0arv!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 848w, https://substackcdn.com/image/fetch/$s_!0arv!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 1272w, https://substackcdn.com/image/fetch/$s_!0arv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1cf6d19c-285a-4ef3-9653-b940936a42d1_1347x824.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p> On sell off days (29 May &amp; 20 June) the price hardly moves. Yet during the high volume buying days, we see the price actually responding, and pushing upwards. This is a strong indication of accumulation. </p><p>To be completely clear: I do not know which shipyard will win the contract for rapid construction of uncrewed ships in 18 months. Your crystal ball is as good as mine. However there is pretty strong evidence that would put HII at the top of the list for contenders. They have a pretty decent name, the capacity for more work. Looking at the chart price action…I am pretty convinced there are some big investors out there, that know something we do not. Finally…a side note…HII is in Mississippi, a very politically red state. We are seeing this current administration reward loyalty. <strong>HII has all the right elements for a big win.</strong></p><p>Again, these are just my thoughts and speculations. Always consult with a certified financial professional, of which ~90% underperform the S&amp;P 500.<a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-1\" href=\"#footnote-1\" target=\"_self\">1</a><a class=\"footnote-anchor\" data-component-name=\"FootnoteAnchorToDOM\" id=\"footnote-anchor-2\" href=\"#footnote-2\" target=\"_self\">2</a> My comments are independent and do not reflect HII or BIW, just my opinions from personal experience. As always, if you have questions, feel free to ping me in the chat….and… thanks for stopping by!</p><div><hr></div><p>This article was a free preview. For latest Stocks of interest and other posts, check out the links below for subscribers.</p><p><em>For more visit: <strong><a href=\"https://www.stocktokdashboard.com/\">StockTokDashboard</a></strong></em> <em><strong>|</strong> <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/\">All Publications</a> </strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/why-hii-is-going-to-win-the-next/comments&quot;,&quot;text&quot;:&quot;Leave a comment&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/why-hii-is-going-to-win-the-next/comments\"><span>Leave a comment</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to our StockTok Dashboard, updated daily. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a> </strong></em></p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!r3SF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F545d5c5a-3f40-44b0-b1a1-980901ed236d_565x565.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div><p></p><div class=\"footnote\" data-component-name=\"FootnoteToDOM\"><a id=\"footnote-1\" href=\"#footnote-anchor-1\" class=\"footnote-number\" contenteditable=\"false\" target=\"_self\">1</a><div class=\"footnote-content\"><p>https://www.apolloacademy.com/roughly-90-of-active-equity-fund-managers-underperform-their-index/</p></div></div><div class=\"footnote\" data-component-name=\"FootnoteToDOM\"><a id=\"footnote-2\" href=\"#footnote-anchor-2\" class=\"footnote-number\" contenteditable=\"false\" target=\"_self\">2</a><div class=\"footnote-content\"><p>https://www.ginsglobal.com/articles/91-of-us-fund-managers-underperform-sp-500-over-15-years/</p></div></div>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "If you don’t know me, I was a Naval Officer for several years…then worked at the Pentagon in the Navy Program Office…and then went to Bath Iron Works and Huntington Ingalls Industries, which are some of the largest Naval Shipbuilding facilities in the United States. The point being: I have a firm grasp on the naval defense sector.",
+  "wordcount": 947,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "36699f9e-eb57-49c3-9269-d11494a956f8",
+      "publication_id": 3537822,
+      "name": "Huntington Ingalls",
+      "slug": "huntington-ingalls",
+      "hidden": false
+    },
+    {
+      "id": "67e965dd-1788-4c00-83a6-aa2c6c36f85f",
+      "publication_id": 3537822,
+      "name": "shipbuilding",
+      "slug": "shipbuilding",
+      "hidden": false
+    },
+    {
+      "id": "7fe11040-2b21-463a-a52d-8e462a30e064",
+      "publication_id": 3537822,
+      "name": "hii",
+      "slug": "hii",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "b9e69bb0-0025-45ba-9337-65831c671084",
+      "publication_id": 3537822,
+      "name": "navy",
+      "slug": "navy",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "d0ed1f73-531e-45b4-875a-097bbae11ad9",
+      "publication_id": 3537822,
+      "name": "us navy",
+      "slug": "us-navy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        73,
+        128,
+        162
+      ],
+      "population": 124
+    },
+    "DarkVibrant": {
+      "rgb": [
+        42,
+        68,
+        105
+      ],
+      "population": 57
+    },
+    "LightVibrant": {
+      "rgb": [
+        224,
+        237,
+        241
+      ],
+      "population": 320
+    },
+    "Muted": {
+      "rgb": [
+        95,
+        127,
+        150
+      ],
+      "population": 364
+    },
+    "DarkMuted": {
+      "rgb": [
+        45,
+        64,
+        87
+      ],
+      "population": 181
+    },
+    "LightMuted": {
+      "rgb": [
+        171,
+        188,
+        195
+      ],
+      "population": 130
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 28,
+  "comment_count": 7,
+  "child_comment_count": 5,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-market-update-tesla-to-trash",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 161843366,
+  "podcast_art_url": null,
+  "podcast_duration": 534.59595,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": "9b976d8b-648f-46b6-b6ec-8d104303ad49",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/9b976d8b-648f-46b6-b6ec-8d104303ad49/src",
+  "post_date": "2025-04-21T23:30:30.671Z",
+  "updated_at": "2025-04-21T23:30:30.794Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "stock-market-update-tesla-to-trash",
+  "social_title": null,
+  "subtitle": "Overview of current market conditions, update on S&P 500, Tesla Forecast and how exactly does the stock screener work?",
+  "teaser_post_eligible": true,
+  "title": "Stock Market Update + Tesla to Trash 🗑🚗",
+  "type": "podcast",
+  "video_upload_id": "56bc29b1-2211-4447-85b5-415bf79e1d6a",
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "❤": 38
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "stock-market-recovery",
+  "next_post_slug": "after-32-days-of-waitingwe-have-some",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/161843366/56bc29b1-2211-4447-85b5-415bf79e1d6a/transcoded-00275.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "56bc29b1-2211-4447-85b5-415bf79e1d6a",
+    "name": "substack.mp4",
+    "created_at": "2025-04-21T23:13:18.391Z",
+    "uploaded_at": "2025-04-21T23:24:43.453Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 161843366,
+    "user_id": 301052325,
+    "duration": 534.61456,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 275,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "video",
+    "primary_file_size": 967714788,
+    "is_mux": true,
+    "mux_asset_id": "qH00EfGHlWnqU66nzC5R3MdNi02LSrfvt3Ztn5GPInhvU",
+    "mux_playback_id": "AloeFO9NmDnaBfc4F1US4Se02cbc02DrEuWSN5liDEOjQ",
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null,
+    "extractedAudio": {
+      "id": "9b976d8b-648f-46b6-b6ec-8d104303ad49",
+      "name": null,
+      "created_at": "2025-04-21T23:24:43.482Z",
+      "uploaded_at": "2025-04-21T23:24:43.454Z",
+      "publication_id": 3537822,
+      "state": "transcoded",
+      "post_id": 161843366,
+      "user_id": 301052325,
+      "duration": 534.59595,
+      "height": null,
+      "width": null,
+      "thumbnail_id": 1,
+      "preview_start": null,
+      "preview_duration": null,
+      "media_type": "audio",
+      "primary_file_size": 8554085,
+      "is_mux": null,
+      "mux_asset_id": null,
+      "mux_playback_id": null,
+      "mux_preview_asset_id": null,
+      "mux_preview_playback_id": null,
+      "mux_rendition_quality": null,
+      "mux_preview_rendition_quality": null,
+      "explicit": false,
+      "copyright_infringement": null,
+      "src_media_upload_id": "56bc29b1-2211-4447-85b5-415bf79e1d6a",
+      "live_stream_id": null,
+      "transcription": {
+        "media_upload_id": "9b976d8b-648f-46b6-b6ec-8d104303ad49",
+        "created_at": "2025-04-21T23:25:06.263Z",
+        "requested_by": 301052325,
+        "status": "transcribed",
+        "modal_call_id": "fc-01JSDAPVM8V0MJZB5PD2K85YRS",
+        "approved_at": "2025-04-21T23:25:45.801Z",
+        "transcript_url": "s3://substack-video/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/transcription.json",
+        "attention_vocab": null,
+        "speaker_map": null,
+        "captions_map": {
+          "en": {
+            "url": "s3://substack-video/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/en.vtt",
+            "language": "en",
+            "original": true
+          }
+        },
+        "language": null,
+        "cdn_url": "https://substackcdn.com/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/transcription.json?Expires=1793965831&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=H0kgz78Ya33dGAGoCRSqNBYyY-QrsXwduGqAAt0DgHdiM~sF-6kBx8ksZ9ajOycF-0gzK-yRfIxwSV-s122Us4HkiKamAjV8DkO1UaO5d8J90Eqjq4aWrtWxRQPHU9T2S3W4xXK3kH3jDpukSZjzDJbCD3dP9NoUijoC5KuZ3v3mOJI9gdSdEmXQ-D8iADsd8j6n2eE3AOyfXIrRnyqh9E878qcX02yL42Y~1P3DP4yZCZXR-7JdsRV9Yyd4fBa-t5~RQZScQISt9u9~zeZ47tA7-3TDhWUiv0r9V-R~pFG8uKh8k~4vvAabLvzIYdiXgicZWEH8PFymlq7nrUiJSQ__",
+        "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/unaligned_transcription.json?Expires=1793965831&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=PSsI3exIrinsW-faaXrYkf895FjJBcphztY64rK8c6BcnOVBJGV2v4kFWCSGdAkeOHDvco79UoQC-nNctjqHgq7HeHNHKWgoiNGy0vJoV94qhY6MyveviEf9Xu2QC~qZvEClF7OthWsIEWusTFzf9-9Yuvmh4xtiMW-PWnMJHqTM-wpGlmlYe-1B5q~64ngkiMIo-L5u-f3D8pnaUlZzUXq8NWROfz8Lefb3u5srfgHIKopmPMSx20q7Aes58MD3Za4k~921KMl5LdFMQLIlVNZSE5Aht~m2IppvD7L066c7Vr14GiIyXlHwdYrqkumrhcJowEZQO6jGJKGPmHFMqQ__",
+        "signed_captions": [
+          {
+            "language": "en",
+            "url": "https://substackcdn.com/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/en.vtt?Expires=1793965831&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=GwRuNiC1uQCyBkZhREw-wHQvaYPtciqvyoh~swjR4WyGJuLbJACy0KhTwFn7oD1v7IKlnNuZPIAMLboWpR0HaLooAsxYtXgjeBZ-RUJ3-mil4cKO5k1nPWzX4GXYQ1ooC1OovHjLHjuO2YrzXCrzMC8tDVvTG5aNR2ALGQxWAxdYUDMhSMlZ9eLwIbP6a2wDURJTfPO0c6wLWCwPtH4-uC05IjOz9iU6fBxReEW7TjcDAM36v3gMpdfRcdR563CEKzE63qSS1Dg~yxek37quPCI7blZJCOC0XNworUzjt6uIZ162WON-raP7GDvSmFWkQ7wTP9uf1GpQybIPGv9n~Q__",
+            "original": true
+          }
+        ]
+      }
+    }
+  },
+  "podcastFields": {
+    "post_id": 161843366,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "9b976d8b-648f-46b6-b6ec-8d104303ad49",
+    "name": null,
+    "created_at": "2025-04-21T23:24:43.482Z",
+    "uploaded_at": "2025-04-21T23:24:43.454Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 161843366,
+    "user_id": 301052325,
+    "duration": 534.59595,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 8554085,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "56bc29b1-2211-4447-85b5-415bf79e1d6a",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "9b976d8b-648f-46b6-b6ec-8d104303ad49",
+      "created_at": "2025-04-21T23:25:06.263Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JSDAPVM8V0MJZB5PD2K85YRS",
+      "approved_at": "2025-04-21T23:25:45.801Z",
+      "transcript_url": "s3://substack-video/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/transcription.json?Expires=1793965831&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=H0kgz78Ya33dGAGoCRSqNBYyY-QrsXwduGqAAt0DgHdiM~sF-6kBx8ksZ9ajOycF-0gzK-yRfIxwSV-s122Us4HkiKamAjV8DkO1UaO5d8J90Eqjq4aWrtWxRQPHU9T2S3W4xXK3kH3jDpukSZjzDJbCD3dP9NoUijoC5KuZ3v3mOJI9gdSdEmXQ-D8iADsd8j6n2eE3AOyfXIrRnyqh9E878qcX02yL42Y~1P3DP4yZCZXR-7JdsRV9Yyd4fBa-t5~RQZScQISt9u9~zeZ47tA7-3TDhWUiv0r9V-R~pFG8uKh8k~4vvAabLvzIYdiXgicZWEH8PFymlq7nrUiJSQ__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/unaligned_transcription.json?Expires=1793965831&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=PSsI3exIrinsW-faaXrYkf895FjJBcphztY64rK8c6BcnOVBJGV2v4kFWCSGdAkeOHDvco79UoQC-nNctjqHgq7HeHNHKWgoiNGy0vJoV94qhY6MyveviEf9Xu2QC~qZvEClF7OthWsIEWusTFzf9-9Yuvmh4xtiMW-PWnMJHqTM-wpGlmlYe-1B5q~64ngkiMIo-L5u-f3D8pnaUlZzUXq8NWROfz8Lefb3u5srfgHIKopmPMSx20q7Aes58MD3Za4k~921KMl5LdFMQLIlVNZSE5Aht~m2IppvD7L066c7Vr14GiIyXlHwdYrqkumrhcJowEZQO6jGJKGPmHFMqQ__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/161843366/9b976d8b-648f-46b6-b6ec-8d104303ad49/1745277910/en.vtt?Expires=1793965831&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=GwRuNiC1uQCyBkZhREw-wHQvaYPtciqvyoh~swjR4WyGJuLbJACy0KhTwFn7oD1v7IKlnNuZPIAMLboWpR0HaLooAsxYtXgjeBZ-RUJ3-mil4cKO5k1nPWzX4GXYQ1ooC1OovHjLHjuO2YrzXCrzMC8tDVvTG5aNR2ALGQxWAxdYUDMhSMlZ9eLwIbP6a2wDURJTfPO0c6wLWCwPtH4-uC05IjOz9iU6fBxReEW7TjcDAM36v3gMpdfRcdR563CEKzE63qSS1Dg~yxek37quPCI7blZJCOC0XNworUzjt6uIZ162WON-raP7GDvSmFWkQ7wTP9uf1GpQybIPGv9n~Q__",
+          "original": true
+        }
+      ]
+    }
+  },
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Overview of current market conditions, update on S&P 500, Tesla Forecast and how exactly does the stock screener work?",
+  "body_html": "<p>As always, questions are welcome in the chat. Don’t feel like typing a lot today lol. Watch the video 😆 </p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c61c40-9364-4166-877a-b0163fb9610d_854x854.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/stock-market-update-tesla-to-trash?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">Like this content? Share it with someone. Anyone. Send it to everyone in your phone for all I care. </p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/p/stock-market-update-tesla-to-trash?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/p/stock-market-update-tesla-to-trash?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p></div><p></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "As always, questions are welcome in the chat. Don’t feel like typing a lot today lol. Watch the video 😆 Like this content? Share it with someone. Anyone. Send it to everyone in your phone for all I care.",
+  "wordcount": 38,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "3cb77925-10ab-4c91-9259-64bb816642c4",
+      "publication_id": 3537822,
+      "name": "analysis",
+      "slug": "analysis",
+      "hidden": false
+    },
+    {
+      "id": "650b2a58-2c76-4e83-ab1b-133881e5edb7",
+      "publication_id": 3537822,
+      "name": "investor",
+      "slug": "investor",
+      "hidden": false
+    },
+    {
+      "id": "73514bd7-fe4c-4786-b985-e8f9de21f6d7",
+      "publication_id": 3537822,
+      "name": "tesla",
+      "slug": "tesla",
+      "hidden": false
+    },
+    {
+      "id": "788f944c-de92-4e4d-9e76-5ce0ce680360",
+      "publication_id": 3537822,
+      "name": "spy",
+      "slug": "spy",
+      "hidden": false
+    },
+    {
+      "id": "7b4fa2c5-2ae8-4f47-87fb-2246fe59c7af",
+      "publication_id": 3537822,
+      "name": "qqq",
+      "slug": "qqq",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "d335641a-fda0-4bc3-aee7-c14e958e94e9",
+      "publication_id": 3537822,
+      "name": "tsla",
+      "slug": "tsla",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        115,
+        149,
+        16
+      ],
+      "population": 18
+    },
+    "DarkVibrant": {
+      "rgb": [
+        59,
+        105,
+        32
+      ],
+      "population": 68
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        204,
+        152
+      ],
+      "population": 5
+    },
+    "Muted": {
+      "rgb": [
+        148,
+        125,
+        100
+      ],
+      "population": 588
+    },
+    "DarkMuted": {
+      "rgb": [
+        78,
+        66,
+        44
+      ],
+      "population": 281
+    },
+    "LightMuted": {
+      "rgb": [
+        212,
+        181,
+        165
+      ],
+      "population": 239
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 38,
+  "comment_count": 7,
+  "child_comment_count": 6,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/some-stocks-to-review-over-the-weekend",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 166426127,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-06-20T20:50:57.427Z",
+  "updated_at": "2025-06-20T21:10:08.781Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "some-stocks-to-review-over-the-weekend",
+  "social_title": null,
+  "subtitle": "Screener continues to produce winners...but be mindful of the VIX⚠️",
+  "teaser_post_eligible": true,
+  "title": "Some Stocks To Review Over The Weekend ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 22
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "amd-is-not-exciting",
+  "next_post_slug": "news-panic-oil-to-rocket-stocks-to",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/37482e58-2b9b-43b9-8ad4-99ddd708d3f9_2114x1400.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 166426127,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Screener continues to produce winners...but be mindful of the VIX⚠️",
+  "body_html": "<p>Last week, the stock market was shaky on Thursday and Friday. Then we started this week strong, with many stocks rallying to new highs. Today’s pullback with things like <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SPY&quot;}\" data-component-name=\"CashtagToDOM\"></span> was not fun…but also did not warrant panic.  The only “worrisome” signal I am seeing is the VIX, which is in fact consolidating on smaller time frames like the 1 hour…indicating a breakout soon. Considering that the VIX trend is up…my suspicion is the breakout will also be up. But we <strong>do not know</strong> that right now…anything above ~22 is where I largely stop trading. <em><strong>Just something to monitor for now</strong></em>. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!1M2M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!1M2M!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 424w, https://substackcdn.com/image/fetch/$s_!1M2M!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 848w, https://substackcdn.com/image/fetch/$s_!1M2M!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 1272w, https://substackcdn.com/image/fetch/$s_!1M2M!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!1M2M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png\" width=\"1377\" height=\"804\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:804,&quot;width&quot;:1377,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:149308,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/166426127?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!1M2M!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 424w, https://substackcdn.com/image/fetch/$s_!1M2M!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 848w, https://substackcdn.com/image/fetch/$s_!1M2M!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 1272w, https://substackcdn.com/image/fetch/$s_!1M2M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45ef12e0-e2ba-4fed-baaf-6c7c2353702d_1377x804.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">VIX is consolidating into a Bullish Pennant. Recent spikes in the VIX have resulted in drops in the market. </figcaption></figure></div><p>Most of our positions have held up fairly well. Raytheon, <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$RTX&quot;}\" data-component-name=\"CashtagToDOM\"></span> seems to be doing the best from the long term <a href=\"https://tjstocks.substack.com/p/stock-screener-daily-update?r=4z8lgl\">StockTok Screener</a>. <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$ASTS&quot;}\" data-component-name=\"CashtagToDOM\"></span> was the #1 pick on 18 June for the short term traders, and <em><strong>peaked at +10.3% today</strong></em>.  2 Friendly Reminders:</p><ol><li><p>If the VIX goes over 22, the StockTok screener will not perform a screen. It is a basic requirement. If you have questions about the screener, they are likely answered in the <a href=\"https://tjstocks.substack.com/p/stock-screener-frequently-asked-questions?r=4z8lgl\">Stock Screener FAQ</a> document.</p></li><li><p>The Substack is continuing to grow rapidly. As discussed in this <a href=\"https://tjstocks.substack.com/p/membership-is-growing-fast-and-thats?r=4z8lgl\">post</a>, we cannot have too many people utilizing the Screener, otherwise, it would eventually lose its edge. <strong>We have 36 spots remaining before I increase membership pricing for NEW members, to $49 a month or $490 for the year</strong>. You may have spit up in your mouth to that…but I really DO NOT want too many people having access to what I consider one of the best products I’ve ever built, and diminish its value. Additionally, since we are consistently in the fastest rising Finance Substack…I reviewed what some of the top Finance Substack pages were charging (they were still more expensive!). Sorry…I know its awkward to talk about, but we have to. </p></li></ol><p>Down below, you will find the top 5 picks today for both the long term and short term screener for your convenience. I’ll see you all bright and early Monday morning in the <a href=\"https://open.substack.com/chat/posts/b19a8ce1-afda-49f8-80f3-c2888706e6c2\">chat</a>. Have a great weekend…and last but not least…<strong>Thanks for stopping by!</strong> 👍</p><p><strong>Stocks Below</strong> 👇</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Last week, the stock market was shaky on Thursday and Friday. Then we started this week strong, with many stocks rallying to new highs. Today’s pullback with things like was not fun…but also did not warrant panic. The only “worrisome” signal I am seeing is the VIX, which is in fact consolidating on smaller time frames like the 1 hour…indicating a breakout soon. Considering that the VIX trend is up…my suspicion is the breakout will also be up. But we",
+  "wordcount": 455,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8e2e0195-2bea-43cd-8b69-3975ac53ab0a",
+      "publication_id": 3537822,
+      "name": "ai",
+      "slug": "ai",
+      "hidden": false
+    },
+    {
+      "id": "b4e61ea2-847f-482c-b9ea-e92181d73d4b",
+      "publication_id": 3537822,
+      "name": "technology",
+      "slug": "technology",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        118,
+        60,
+        46
+      ],
+      "population": 4
+    },
+    "DarkVibrant": {
+      "rgb": [
+        68,
+        36,
+        4
+      ],
+      "population": 928
+    },
+    "LightVibrant": {
+      "rgb": [
+        217.80731707317074,
+        170.91219512195124,
+        159.59268292682927
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        164,
+        116,
+        108
+      ],
+      "population": 4
+    },
+    "DarkMuted": {
+      "rgb": [
+        76,
+        68,
+        48
+      ],
+      "population": 404
+    },
+    "LightMuted": {
+      "rgb": [
+        194,
+        177,
+        174
+      ],
+      "population": 26
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 22,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 166426127,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": null,
+      "type": "tts",
+      "status": "paywalled"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": true,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": []
+}

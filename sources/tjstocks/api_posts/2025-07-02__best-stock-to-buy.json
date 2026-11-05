@@ -1,0 +1,418 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/best-stock-to-buy",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 167346000,
+  "podcast_art_url": null,
+  "podcast_duration": 288.02612,
+  "podcast_preview_upload_id": "6c871f58-8780-40d0-aaed-bbf33ec7b37d",
+  "podcast_upload_id": "6c871f58-8780-40d0-aaed-bbf33ec7b37d",
+  "podcast_url": "https://api.substack.com/api/v1/audio/upload/6c871f58-8780-40d0-aaed-bbf33ec7b37d/src",
+  "post_date": "2025-07-02T12:14:27.298Z",
+  "updated_at": "2025-07-02T12:14:27.395Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": true,
+  "show_guest_bios": true,
+  "slug": "best-stock-to-buy",
+  "social_title": null,
+  "subtitle": "Your favorite stocks ranked from WORST to FIRST 🥇",
+  "teaser_post_eligible": true,
+  "title": "Best Stock To Buy 🛒",
+  "type": "podcast",
+  "video_upload_id": "2df0b03d-3dd7-460c-a3fc-9b8a813603a4",
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "❤": 31
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": true,
+  "previous_post_slug": "prepare-yourself",
+  "next_post_slug": "end-of-week-highlights",
+  "cover_image": "https://substack-video.s3.amazonaws.com/video_upload/post/167346000/2df0b03d-3dd7-460c-a3fc-9b8a813603a4/transcoded-1751458332.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "podcast_episode_image_url": "https://substack.com/img/podcast/generic.png",
+  "podcast_episode_image_info": {
+    "url": "https://substack.com/img/podcast/generic.png",
+    "isDefaultArt": true,
+    "isDefault": true
+  },
+  "videoUpload": {
+    "id": "2df0b03d-3dd7-460c-a3fc-9b8a813603a4",
+    "name": "0702.mp4",
+    "created_at": "2025-07-02T12:04:18.319Z",
+    "uploaded_at": "2025-07-02T12:11:26.179Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 167346000,
+    "user_id": 301052325,
+    "duration": 333.7479,
+    "height": 1920,
+    "width": 1080,
+    "thumbnail_id": 1751458332,
+    "preview_start": 0,
+    "preview_duration": 288,
+    "media_type": "video",
+    "primary_file_size": 601591905,
+    "is_mux": true,
+    "mux_asset_id": "B8jFcRA2nBPXQXaBUnk6Bx9fjE8TYG2Kn01bthjVMaxY",
+    "mux_playback_id": "sHv1E00pn6xdCaZmQTvRI401URIhc8KdFp401VrxEr02nNs",
+    "mux_preview_asset_id": "nD9pHJCND9W6qWNL2PN01VTp01gYGdmgtiAroPZpjOtyI",
+    "mux_preview_playback_id": "x00Slh4ZbM5WiuLni5VIsN028KO01YPQOQVOvPbN2Pi4iE",
+    "mux_rendition_quality": "high",
+    "mux_preview_rendition_quality": "high",
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": null,
+    "live_stream_id": null,
+    "transcription": null
+  },
+  "podcastFields": {
+    "post_id": 167346000,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": {
+    "id": "6c871f58-8780-40d0-aaed-bbf33ec7b37d",
+    "name": null,
+    "created_at": "2025-07-02T12:13:08.385Z",
+    "uploaded_at": "2025-07-02T12:11:26.180Z",
+    "publication_id": 3537822,
+    "state": "transcoded",
+    "post_id": 167346000,
+    "user_id": 301052325,
+    "duration": 288.02612,
+    "height": null,
+    "width": null,
+    "thumbnail_id": 1,
+    "preview_start": null,
+    "preview_duration": null,
+    "media_type": "audio",
+    "primary_file_size": 4608968,
+    "is_mux": null,
+    "mux_asset_id": null,
+    "mux_playback_id": null,
+    "mux_preview_asset_id": null,
+    "mux_preview_playback_id": null,
+    "mux_rendition_quality": null,
+    "mux_preview_rendition_quality": null,
+    "explicit": false,
+    "copyright_infringement": null,
+    "src_media_upload_id": "2df0b03d-3dd7-460c-a3fc-9b8a813603a4",
+    "live_stream_id": null,
+    "transcription": {
+      "media_upload_id": "6c871f58-8780-40d0-aaed-bbf33ec7b37d",
+      "created_at": "2025-07-02T12:13:18.980Z",
+      "requested_by": 301052325,
+      "status": "transcribed",
+      "modal_call_id": "fc-01JZ5GWH9E528FA6GPXY944J65",
+      "approved_at": "2025-07-02T12:13:43.565Z",
+      "transcript_url": "s3://substack-video/video_upload/post/167346000/6c871f58-8780-40d0-aaed-bbf33ec7b37d/1751458402/transcription.json",
+      "attention_vocab": null,
+      "speaker_map": null,
+      "captions_map": {
+        "en": {
+          "url": "s3://substack-video/video_upload/post/167346000/6c871f58-8780-40d0-aaed-bbf33ec7b37d/1751458402/en.vtt",
+          "language": "en",
+          "original": true
+        }
+      },
+      "language": null,
+      "cdn_url": "https://substackcdn.com/video_upload/post/167346000/6c871f58-8780-40d0-aaed-bbf33ec7b37d/1751458402/transcription.json?Expires=1794236101&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Dt1i9eTvd1T70QVCJAlyh8W7RvraRGFXLNK4TTaoDnd-ZKXtBGxrMLLHlVRrr4WQ~vEhZcukOLTKc5x629qFudRX~YTz8ZIvpD3T9v6URrhP3UxbjQ-2s2XOYDu0boSO2agrbw4-nbn26KSjPY3H715q-IKs667lGpyhjTkRCBqSJSNj93gtCbCLV7YwsfrQ0tRYP1VIto0Tw2J22QRkMW~HbS1ja2r9H31EtC2lSNRCh4bm0plDt5nM41zRaJq0nyBSNc8EcV43ZmOsaOPR2fA~x-ZV2oM17egF2dNRSjlgmcRanhZYzfHStZKZGBNZw7FGEGNBiUWy84EDKvWQoA__",
+      "cdn_unaligned_url": "https://substackcdn.com/video_upload/post/167346000/6c871f58-8780-40d0-aaed-bbf33ec7b37d/1751458402/unaligned_transcription.json?Expires=1794236101&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eKY5-~aAzPvw19gKzQjlGPRJceKv4REomwVpPQJV1uTzWymBnKVQiwmtXEyS~bZyYmoI9KcEjnTpFRAppA-7WCLLbhVe0hVwnKpxM2RySvilwGBSWHEuAY~IlHlrKXn5B3nzKRGMqBD3buU9i-aRWok2zolSPzjZadUhEu0xd1fLfg9ZMiVnXvK-fK0VP4KorV6YFU5aa01qP~mCnZ97E6J5PkDl4b1GCZVIjGgMU2BPk3l2zb2-W4vN-e43-kKbydtUrCRx5eCdRi5I3nVlYctBMrWJtFQIj5mgx7xCn5aHpxm7cSOMbd~CnsB73j4KoedDUvk9VgCshg4Bo6KdMw__",
+      "signed_captions": [
+        {
+          "language": "en",
+          "url": "https://substackcdn.com/video_upload/post/167346000/6c871f58-8780-40d0-aaed-bbf33ec7b37d/1751458402/en.vtt?Expires=1794236101&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=j0g5gr8CasGKAwUscqFJenqpx2P05aeC2J~B0qjAK1ld3ruS-J1Zkaqc4R81Qdo-Ux-A42z~wnxWvRD503kHFfLgkfe4-bzbpfyu5UB5QUNPz~hkY35gK1yrCVshtTzb8golkB~XKLuJn9vi8RgHrZE4wgw83nhp8gjFsqPs1cJdOG7nStM-eKcxGNTr5qRdthjQA1Y8tSVFyyeFM0jGu1EJFXcbnWyQQu7DvGEAx0J2pIEPeTYzwMWzGEVZHWRy7XRHkR5ulip3hWJVdcPS5mmjAgNcWZmu--j~1Qs88PKFJ~cJiJF06GLB9M0aPeLJF81hkoL4hctbRjk-LSzJXw__",
+          "original": true
+        }
+      ]
+    },
+    "is_free_preview": true,
+    "full_podcast_info": {
+      "media_upload_id": "1564a01a-5ef4-4370-9483-45567aa84a51",
+      "thumbnail_id": 1,
+      "duration": 333.76654
+    }
+  },
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Your favorite stocks ranked from WORST to FIRST 🥇",
+  "body_html": "<p><em>👋 Welcome to a<strong> 🔒 subscriber-only episode🔒 </strong></em>of Mid-Week Movers. Here we review 10 stocks from member requests, and rate them from worst to first. We had a couple of international companies in this list…you all know I am a fan of Brazilian 🇧🇷 companies lately. Each of the top 3 companies had great fundamentals, it was nit picky variables that helped u…</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "👋 Welcome to a 🔒 subscriber-only episode🔒 of Mid-Week Movers. Here we review 10 stocks from member requests, and rate them from worst to first. We had a couple of international companies in this list…you all know I am a fan of Brazilian 🇧🇷 companies lately. Each of the top 3 companies had great fundamentals, it was nit picky variables that helped u…",
+  "wordcount": 165,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "64e7a764-350a-449b-8638-7d1ebaa2d016",
+      "publication_id": 3537822,
+      "name": "tech",
+      "slug": "tech",
+      "hidden": false
+    },
+    {
+      "id": "7dcb0882-ca7d-44fa-ade3-1e977ebf00b5",
+      "publication_id": 3537822,
+      "name": "best stocks",
+      "slug": "best-stocks",
+      "hidden": false
+    },
+    {
+      "id": "84826350-88fe-4a74-b489-55d50b389337",
+      "publication_id": 3537822,
+      "name": "investing",
+      "slug": "investing",
+      "hidden": false
+    },
+    {
+      "id": "8505f19d-a3b5-455a-bc76-c29bc675854b",
+      "publication_id": 3537822,
+      "name": "tech stocks",
+      "slug": "tech-stocks",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "af3c2c8b-98a6-4189-88a0-e122aad799c5",
+      "publication_id": 3537822,
+      "name": "midweek movers",
+      "slug": "midweek-movers",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "e39aa391-d0d4-440b-afeb-7e55b750df8e",
+      "publication_id": 3537822,
+      "name": "stocks to buy",
+      "slug": "stocks-to-buy",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        183,
+        72,
+        95.99999999999997
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        61,
+        24,
+        32
+      ],
+      "population": 201
+    },
+    "LightVibrant": {
+      "rgb": [
+        217.56,
+        159.84,
+        172.31999999999996
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        112,
+        121,
+        135
+      ],
+      "population": 37
+    },
+    "DarkMuted": {
+      "rgb": [
+        69,
+        60,
+        50
+      ],
+      "population": 36
+    },
+    "LightMuted": {
+      "rgb": [
+        209,
+        215,
+        226
+      ],
+      "population": 312
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 31,
+  "comment_count": 11,
+  "child_comment_count": 4,
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "hidden": true,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  }
+}

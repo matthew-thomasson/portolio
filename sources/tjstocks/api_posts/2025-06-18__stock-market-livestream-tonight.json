@@ -1,0 +1,324 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-market-livestream-tonight",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 166273553,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-06-18T20:34:20.950Z",
+  "updated_at": "2025-06-18T20:56:27.609Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "stock-market-livestream-tonight",
+  "social_title": null,
+  "subtitle": "Timothy James (StockTok) Livestream Tonight at 9 PM EST",
+  "teaser_post_eligible": true,
+  "title": "Stock Market Livestream Tonight",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "❤": 7
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "how-to-scan-for-a-stockthen-buystart",
+  "next_post_slug": "stocktok-livestream-18-june",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/1ff6ef99-8ad0-4152-bdd7-39287d050ba5_647x431.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 166273553,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Timothy James (StockTok) Livestream Tonight at 9 PM EST",
+  "body_html": "<p>Hello all! In case you missed Jerome Powell’s speech, I put together the “Sparknotes” version of what was said down below. Long story short: hold rates steady…tariff uncertainty is causing them to delay any more rate cuts, like they did in late 2024. Let me know if you have any more questions in the chat tomorrow. </p><p>We will be Livestreaming tonight at 9 PM EST on the Substack app; I think you must have the app, which you can find here: https://substack.com/app</p><p><strong>Topics to discuss:</strong></p><ul><li><p>Federal Interest Rates - When I’ll flip bearish again</p></li><li><p>The S&amp;P 500 - Thoughts towards the next few months</p></li><li><p>Tickers of interest</p></li><li><p>A quick summary of how the <em><strong><a href=\"https://tjstocks.substack.com/p/stock-screener-daily-update?r=4z8lgl\">Daily Stock Screener</a> </strong></em>works</p></li><li><p>Q&amp;A</p></li></ul><p>Probably stream for about an hour or so. If you can’t make it, no worries, the session will be recorded. Sending out notification a few hours early, as requested, per the StockTok performance survey. The stock market is closed tomorrow, so if I don’t see you at the stream, I’ll see you all Friday. </p><p><strong><a href=\"https://substack.com/@stocktok/note/c-127141876\">To see the Notes from Jerome Powell’s speech, click here</a>.</strong></p><p>Thanks for stopping by! 👍</p><div><hr></div><p><em>For more: <strong><a href=\"https://substack.com/chat/3537822\">Chat with Timothy</a></strong></em> <em><strong>| <a href=\"https://tjstocks.substack.com/p/investing-for-beginners-10-short?r=4z8lgl\">Investing for Beginners</a> | <a href=\"https://tjstocks.substack.com/p/timothys-stocktok-tracker?r=4z8lgl\">Current Stock Positions</a> | <a href=\"https://tjstocks.substack.com/p/stock-screener-daily-update?r=4z8lgl\">Daily Stock Screener</a> | <a href=\"https://tjstocks.substack.com/\">All Publications</a></strong></em></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p><em>Subscribers get direct access with me Monday to Friday during market hours in the chat, stock reviews and access to the Stock Screener. <strong><a href=\"https://tjstocks.substack.com/subscribe\">Subscribe Now.</a></strong></em></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Hello all! In case you missed Jerome Powell’s speech, I put together the “Sparknotes” version of what was said down below. Long story short: hold rates steady…tariff uncertainty is causing them to delay any more rate cuts, like they did in late 2024. Let me know if you have any more questions in the chat tomorrow.",
+  "wordcount": 230,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "151cdea3-9aa3-4b00-bd31-0defb9fa5622",
+      "publication_id": 3537822,
+      "name": "jerome powell",
+      "slug": "jerome-powell",
+      "hidden": false
+    },
+    {
+      "id": "39adff36-8ef3-47dc-b40f-7193ee847d36",
+      "publication_id": 3537822,
+      "name": "interest rates",
+      "slug": "interest-rates",
+      "hidden": false
+    },
+    {
+      "id": "67880a53-1b61-48d8-b11b-7d6234efaea4",
+      "publication_id": 3537822,
+      "name": "fomc",
+      "slug": "fomc",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "afbfe49e-71da-4503-8b1e-3211c9b34d5d",
+      "publication_id": 3537822,
+      "name": "substack app",
+      "slug": "substack-app",
+      "hidden": false
+    },
+    {
+      "id": "da361542-5999-441f-9cf3-25cd28ad8cc8",
+      "publication_id": 3537822,
+      "name": "livestream",
+      "slug": "livestream",
+      "hidden": false
+    },
+    {
+      "id": "de32afc5-05d5-4715-b7e1-1931383d1782",
+      "publication_id": 3537822,
+      "name": "Timothy James",
+      "slug": "timothy-james",
+      "hidden": false
+    },
+    {
+      "id": "e4b20332-c005-4d2c-847c-984fb370923f",
+      "publication_id": 3537822,
+      "name": "stocktok",
+      "slug": "stocktok",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        244,
+        180,
+        4
+      ],
+      "population": 1
+    },
+    "DarkVibrant": {
+      "rgb": [
+        72,
+        162,
+        6
+      ],
+      "population": 4
+    },
+    "LightVibrant": {
+      "rgb": [
+        246,
+        200,
+        176
+      ],
+      "population": 7
+    },
+    "Muted": {
+      "rgb": [
+        156,
+        89,
+        166
+      ],
+      "population": 3
+    },
+    "DarkMuted": {
+      "rgb": [
+        47,
+        55,
+        98
+      ],
+      "population": 49
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        163,
+        201
+      ],
+      "population": 135
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 7,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 166273553,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/166273553/tts/b3173510-b9b4-4cb2-9b14-a48ead7423c0/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": []
+}

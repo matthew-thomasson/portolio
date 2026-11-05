@@ -1,0 +1,483 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://tjstocks.substack.com/p/stock-screener-frequently-asked-questions",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 163624763,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-05-15T12:14:41.464Z",
+  "updated_at": "2026-08-30T20:04:16.878Z",
+  "publication_id": 3537822,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "stock-screener-frequently-asked-questions",
+  "social_title": null,
+  "subtitle": "This will be updated as new questions arise for the Stock Screener",
+  "teaser_post_eligible": true,
+  "title": "Stock Screener Frequently Asked Questions ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 4,
+  "reactions": {
+    "❤": 25
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "stock-screener-daily-update",
+  "next_post_slug": "how-i-built-an-audience-of-575000",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/d70226a1-3592-4d7c-9f12-b43179d180d6_1600x900.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 163624763,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "This will be updated as new questions arise for the Stock Screener",
+  "body_html": "<p>If you have any questions not answered here about the <a href=\"https://tjstocks.substack.com/p/stock-screener-daily-update?r=4z8lgl\">Daily Stock Screener</a>, ask me in the Chat so I can answer you directly.</p><div class=\"community-chat\" data-attrs=\"{&quot;url&quot;:&quot;https://open.substack.com/pub/tjstocks/chat?utm_source=chat_embed&quot;,&quot;subdomain&quot;:&quot;tjstocks&quot;,&quot;pub&quot;:{&quot;id&quot;:3537822,&quot;name&quot;:&quot;Timothy’s StockTok&quot;,&quot;author_name&quot;:&quot;StockTok 📈&quot;,&quot;author_photo_url&quot;:&quot;https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c61c40-9364-4166-877a-b0163fb9610d_854x854.png&quot;}}\" data-component-name=\"CommunityChatRenderPlaceholder\"></div><ol><li><p><strong>Where is the screener?</strong></p><ol><li><p>Posted daily <a href=\"https://tjstocks.substack.com/p/stocktok-summary-fc6?r=4z8lgl\">HERE</a></p></li><li><p><strong>Is the Daily Stock Screener available for subscribers or is there an additional cost?</strong></p></li></ol><ol><li><p>No additional cost. This is solely for subscribers. If we do get too many subscribers, I will close access to the screener and determine an alternative distribution method of the signals. This is to prevent too many people moving in on a single stock at a time, causing liquidity spikes in low volume stocks (which look tasty to market makers). Currently, I am not concerned about too many people. </p></li></ol></li><li><p><strong>Will you share the code?</strong></p><ol><li><p>No. Vultures out there will try to repackage it and sell it. They already steal my content and stock picks. Not giving them the keys for an easy ride. </p></li></ol></li><li><p><strong>Will you buy every signal the screener puts out?</strong></p><ol><li><p>No; but all of my stock picks will originate from this list. I cannot buy, say 72 stocks, in a single day. I still like to review them myself (I am old and am old school to a degree). If you see a stock you want a 2nd opinion, just ask me in the chat. All of my current positions can be found in <a href=\"https://tjstocks.substack.com/p/timothys-stocktok-tracker?r=4z8lgl\">the StockTok tracker, here</a>.</p></li></ol></li><li><p><strong>How does the screener work?</strong></p><ol><li><p>This is a trend following screener that seeks stocks of strength. This is doubling down on “trend is your friend”. The 2 primary core elements of this screener, is that it scans 4950 stocks and pulls a year’s worth of price action at each pull. Then it ranks the stock’s performance against all of the other stocks. This is the relative strength, not to be confused with relative strength index. Relative strength is how well the stock performs in overall market conditions. For example, if the S&amp;P 500 goes up 1%, but company ABC goes up 3%, and company XYZ goes up only .5%, company ABC will receive a higher relative strength score. It does this comparison against all 4950 stocks.</p><ol><li><p>A short video on how the relative strength is calculated: </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;43ad5562-d082-4781-9534-1f1f79c9e032&quot;,&quot;duration&quot;:null}\"></div></li></ol></li><li><p>The 2nd key element is a breakout of a consolidation zone. The algorithm examines consolidations, and seeks breakouts with high volume. For example, SHOP (image below) was a recent signal, you can see the image below price breaking out of the higher lows, actually gapping up. The higher volume indicates institutional interest.</p></li><li><p>This screener is built for bullish mid-term trades (days, weeks), and operates on the daily timeframe (so if you are a day trader, this would be less useful to you). It also only operates when the VIX is below 22. There will be days of “No Signals).</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!God8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!God8!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 424w, https://substackcdn.com/image/fetch/$s_!God8!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 848w, https://substackcdn.com/image/fetch/$s_!God8!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 1272w, https://substackcdn.com/image/fetch/$s_!God8!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!God8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png\" width=\"1233\" height=\"785\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:785,&quot;width&quot;:1233,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:109968,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://tjstocks.substack.com/i/163624763?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!God8!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 424w, https://substackcdn.com/image/fetch/$s_!God8!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 848w, https://substackcdn.com/image/fetch/$s_!God8!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 1272w, https://substackcdn.com/image/fetch/$s_!God8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ccace04-e884-4096-9e8a-8ab766eaf2df_1233x785.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div></li></ol><p></p></li><li><p><strong>Why are there 2 RS (relative strength) scores? What do they mean?</strong></p><ol><li><p>The smaller RS score is the current day RS score. The larger RS score is the accumulated score over the year. A stock that has been trending well the last year, is more likely to continue trending, and has steady attention from both institutions and retail. </p></li><li><p>A simple example: </p><ol><li><p>RKLB – RS: 225.76 (RS Value: 99.8) &amp; ROST – RS: 5.05 (RS Value: 70.3)</p></li><li><p>RKLB has experienced the most growth over the year, and at various points in time, the added RS score is 225.76. ROST on the other hand, even though it has done well, has consolidated more over the year. So its yearly score is lower at 5.05. The RS Value of 99.8 is the present day RS score, indicating that on that day, it was one of the top performing companies. ROST is doing well for the at 70.3. </p></li><li><p>As I type this, I may just directly label these numbers in the output for ease of understanding (we will improve everyday :) </p></li></ol></li></ol></li><li><p><strong>I bought stock XYZ and it is not on the list today? Is it no good?</strong></p><ol><li><p>Maybe…but that does not mean anything. To prevent redundancy, signals do not print again within a rolling timeframe unless it has another breakout with high volume behind it. So don’t panic about that. </p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p></li></ol></li><li><p><strong>If I see the signal, how do I know where to enter? Or where to exit?</strong></p><ol><li><p>These signals will be posted AFTER market close, that way you have all evening and pre-market to determine your trading plan (something you should do before ANY stock trade). Recall, we are not trying to get “perfect prices” or the “bottom”. We are trying to capture pieces of trend. When I did the performance analysis, I actually took the very top of the signal (assuming you bought at the high), and measured that to May 13th. </p></li><li><p><strong>Where to enter:</strong> Personally I prefer to buy at the breakout of a consolidation, preferably a volatility contraction pattern. This image explains it best (a strategy developed by Mark Minervini, 2 time U.S. Investing Champion). You can see my buys for recent stocks are very similar to this image. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!kpjr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!kpjr!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 424w, https://substackcdn.com/image/fetch/$s_!kpjr!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 848w, https://substackcdn.com/image/fetch/$s_!kpjr!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!kpjr!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!kpjr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg\" width=\"1280\" height=\"720\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:720,&quot;width&quot;:1280,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Volatility Contraction Pattern (VCP Pattern) | Mark Minervini Trading  Strategy&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Volatility Contraction Pattern (VCP Pattern) | Mark Minervini Trading  Strategy\" title=\"Volatility Contraction Pattern (VCP Pattern) | Mark Minervini Trading  Strategy\" srcset=\"https://substackcdn.com/image/fetch/$s_!kpjr!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 424w, https://substackcdn.com/image/fetch/$s_!kpjr!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 848w, https://substackcdn.com/image/fetch/$s_!kpjr!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!kpjr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9343f30c-75ad-4b7b-ab7f-fc0a15f20043_1280x720.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>c. <strong>Where to exit?</strong> You should have a pre-defined stop before you enter any trade. This is to prevent any major losses. You take the risk at the beginning of a trade…not days or weeks later. Once you are in profit, you start reducing your risk by moving your stop up…eventually you will continue moving it up into profit. There is no perfect strategy for this. But those without any form of this strategy are sure to lose, in time. Personally, I <strong>try to ride the trend as long as possible,</strong> not limiting upside potential. Sometimes you will get stopped out early. Its annoying. But there will be times you will be grateful you got out due to massive pullbacks or market conditions. </p></li></ol></li><li><p><strong>What additional trading tools do you recommend to improve my trade and investing performance?</strong></p><ol><li><p><a href=\"https://tjstocks.substack.com/p/90-of-traders-fail-and-100-of-them?r=4z8lgl\">Here you can find all of the trading tools and indicators</a> that I have personally built to aid you (and me) in your trading and investing journey.</p></li></ol></li><li><p><strong>Where can I see the test results?</strong></p><ol><li><p>You can review and verify yourself, <a href=\"https://substack.com/@stocktok/note/c-117257058\">here.</a> These were publicly shared and most of us have been trading the stock picks selected for a few months now, largely, successfully.</p></li></ol></li><li><p><strong>Where does the screener pull data from?</strong></p><ol><li><p>Polygon.io. I have a paid subscription for data. </p></li></ol></li><li><p><strong>I bought a stock and it went down. </strong></p><ol><li><p>Welcome to the Stock Market. That happens sometimes. There are no guarantees, and overall market conditions can change in an instant. A tweet can change everything in the blink of an eye. This is why we focus more on risk management, than on profits. Profits come in time…losses come in a flash. Have a trading plan always. You are responsible for your portfolio. If you come crying in the chat, I will probably ignore you or laugh. I take losses sometimes too. It sucks, but its the hard pill that you are required to swallow. You may have a GREAT company…with a GREAT breakout…but the market will say: “Nope, not today”. Recognize when your strategy is not working…and wait for a time you notice your strategy is working, to double down. </p></li></ol></li><li><p><strong>How long should I hold?</strong></p><ol><li><p>As long as you can. If a stock is trending in your favor, why cut it? That would be limiting gains. </p></li></ol></li><li><p><strong>Will you let us know of updates you do to the screener?</strong></p><ol><li><p>Absolutely. I posted the results publicly. I make no claims of anyone getting rich over night. Markets change, and we change with it or get left behind. Any changes will be documented for your awareness. In fact, if you have ideas or suggestions, share them! </p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://tjstocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://tjstocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">If you like this content and the work that Timothy provides for the Trading Tribe, consider subscribing for more </p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p></li></ol></li></ol>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "If you have any questions not answered here about the Daily Stock Screener, ask me in the Chat so I can answer you directly.",
+  "wordcount": 1290,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "650b2a58-2c76-4e83-ab1b-133881e5edb7",
+      "publication_id": 3537822,
+      "name": "investor",
+      "slug": "investor",
+      "hidden": false
+    },
+    {
+      "id": "8626f278-8f80-44a7-9371-0d8848dd730f",
+      "publication_id": 3537822,
+      "name": "stock market",
+      "slug": "stock-market",
+      "hidden": false
+    },
+    {
+      "id": "8f455a5f-4a07-4e31-9dda-aa0f7ec3f505",
+      "publication_id": 3537822,
+      "name": "frequently asked questions",
+      "slug": "frequently-asked-questions",
+      "hidden": false
+    },
+    {
+      "id": "cbc91850-84d4-4b3b-85eb-29fb771e462f",
+      "publication_id": 3537822,
+      "name": "finance",
+      "slug": "finance",
+      "hidden": false
+    },
+    {
+      "id": "dfec61b2-37c1-4fdb-8887-87d559c11402",
+      "publication_id": 3537822,
+      "name": "faq",
+      "slug": "faq",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "disable_drop_cap": false,
+  "cover_image_crop": null,
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        225.15957446808517,
+        94.94680851063826,
+        29.84042553191484
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        117.0829787234043,
+        49.3723404255319,
+        15.517021276595713
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        196,
+        172
+      ],
+      "population": 848
+    },
+    "Muted": {
+      "rgb": [
+        121,
+        127,
+        131
+      ],
+      "population": 176
+    },
+    "DarkMuted": {
+      "rgb": [
+        56,
+        44,
+        38
+      ],
+      "population": 364
+    },
+    "LightMuted": {
+      "rgb": [
+        212,
+        180,
+        164
+      ],
+      "population": 1
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "publicationUsers": [
+        {
+          "id": 3606770,
+          "user_id": 301052325,
+          "publication_id": 3537822,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 3537822,
+            "name": "Timothy’s StockTok",
+            "subdomain": "tjstocks",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Find the stocks worth watching BEFORE everyone is talking about them.\n\nStock rankings, market setups, my StockTok screener results, and the opportunities I’m personally watching.\n\nFeatured on WSJ, Yahoo Finance & Business Insider",
+            "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96c222d2-04e7-4e47-9e11-4b10f4cee9c4_854x854.png",
+            "author_id": 301052325,
+            "primary_user_id": 301052325,
+            "theme_var_background_pop": "#FF6719",
+            "created_at": "2024-12-17T02:34:13.679Z",
+            "email_from_name": "Timothy | StockTok Update",
+            "copyright": "Timothy James",
+            "founding_plan_name": null,
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "newspaper",
+            "is_personal_mode": false,
+            "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/84bae456-e8e6-4b4a-96a8-1ab70d2bbf6c_391x220.png"
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": 1000,
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 25,
+  "comment_count": 9,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 163624763,
+      "voice_id": "en-GB-OllieMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/163624763/tts/89c6c394-e230-4448-abb5-944e2d3777df/en-GB-OllieMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "sponsorshipEditionBanner": null,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#ea580c",
+    "background_pop": "#ea580c",
+    "color_theme_bg_web": "#111827",
+    "cover_bg_color": "#111827",
+    "cover_bg_color_secondary": "#1f2634",
+    "background_pop_darken": "#d24f0b",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#d24f0b",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(234, 88, 12, 0.2)",
+    "color_theme_bg_pop_30": "rgba(234, 88, 12, 0.3)",
+    "print_pop": "#ea580c",
+    "color_theme_accent": "#ea580c",
+    "cover_print_primary": "#ffffff",
+    "cover_print_secondary": "#d9d9d9",
+    "cover_print_tertiary": "#d9d9d9",
+    "cover_border_color": "#ffffff",
+    "home_hero": "feature-media",
+    "home_posts": "list",
+    "web_bg_color": "#111827",
+    "background_contrast_1": "#1f2634",
+    "background_contrast_2": "#313744",
+    "background_contrast_3": "#545964",
+    "background_contrast_4": "#767a83",
+    "background_contrast_5": "#b4b6bb",
+    "color_theme_bg_contrast_1": "#1f2634",
+    "color_theme_bg_contrast_2": "#313744",
+    "color_theme_bg_contrast_3": "#545964",
+    "color_theme_bg_contrast_4": "#767a83",
+    "color_theme_bg_contrast_5": "#b4b6bb",
+    "color_theme_bg_elevated": "#1f2634",
+    "color_theme_bg_elevated_secondary": "#313744",
+    "color_theme_bg_elevated_tertiary": "#545964",
+    "color_theme_detail": "#292f3d",
+    "background_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(234, 88, 12, 0.4)",
+    "theme_bg_is_dark": "1",
+    "print_on_web_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_web_bg_color": "#a0a3a9",
+    "header_bg_color": "#111827",
+    "header_bg_color_h": "220.9090909090909",
+    "header_bg_color_s": "39.28571428571429%",
+    "header_bg_color_l": "10.980392156862745%",
+    "print_on_header_bg_color": "hsl(220.90909090909088, 9.821428571428621%, 91.09803921568627%)",
+    "print_secondary_on_header_bg_color": "#a0a3a9",
+    "header_bg_contrast_1": "#1f2634",
+    "header_bg_contrast_2": "#313744",
+    "header_bg_contrast_3": "#545964",
+    "header_bg_contrast_4": "#767a83",
+    "header_bg_elevated": "#1f2634",
+    "header_bg_elevated_secondary": "#313744",
+    "header_bg_elevated_tertiary": "#545964",
+    "header_detail_color": "#292f3d",
+    "background_pop_rgb": "234, 88, 12",
+    "color_theme_bg_pop_rgb": "234, 88, 12",
+    "color_theme_accent_rgb": "234, 88, 12"
+  },
+  "comments": [
+    {
+      "id": 117334228,
+      "body": "Very cool. Thanks for the FAQ 👍 ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Very cool. Thanks for the FAQ 👍 "
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 163624763,
+      "user_id": 254397679,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-05-15T12:25:22.441Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "hitting_big",
+      "photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4584c6b9-8266-4498-9759-1845519b5b1d_96x96.png",
+      "handle": "stillking",
+      "reactor_names": [
+        "StockTok 📈"
+      ],
+      "reaction": null,
+      "reactions": {
+        "❤": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "stillking",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "hitting_big",
+          "id": 4249435,
+          "base_url": "https://stillking.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "6 replies by StockTok 📈 and others"
+    },
+    {
+      "id": 161681583,
+      "body": "Do you include ETF/ETN, leveraged/inverse, in your screener? Thank you.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Do you include ETF/ETN, leveraged/inverse, in your screener? Thank you."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 163624763,
+      "user_id": 147533484,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-10-01T01:18:45.601Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Howard Hansen",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/585b368f-468b-4caa-94bd-71255082ff44_593x633.jpeg",
+      "handle": "howardhansen1",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "❤": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "howardhansen1",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Howard Hansen",
+          "id": 6355243,
+          "base_url": "https://howardhansen1.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by StockTok 📈"
+    }
+  ]
+}
