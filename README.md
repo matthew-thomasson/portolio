@@ -5,24 +5,17 @@
 
 An end-to-end investment research system that archives, parses, and backtests recommendations from multiple paid Substack stock pickers against the **S&P 500 (`SPY`)** under dollar-matched cash-flow conditions.
 
-Currently supported publications:
-1. **Beating The Tide** (`https://www.beatingthetide.com`) — Deep Fundamental Value, Special Situations & Cyclicals.
-2. **TJ Stocks** (`https://tjstocks.substack.com`) — Macro Volatility Contraction Patterns (VCP) & Model Portfolio (**StockTok ETF**).
-3. **Cluseau** (`https://www.cluseau.com`) — Event-Driven, Distressed Equities, Options Collars & Real-Time Subscriber Chat Alerts.
-
-Data for each publication is kept completely segregated under `sources/<name>/` (`archive/`, `api_posts/`, `datawrapper/`, `chat/`, and `data/`).
-
 ---
 
-## 📑 In-Depth Research & Analysis Reports
+## 🧭 Navigation & Analysis Reports
 
-All findings, quantitative risk metrics, and track-record reconciliations are permanently documented in the [`docs/`](docs/) directory:
+All quantitative studies, risk evaluations, and track-record reconciliations are documented in [`docs/`](docs/):
 
-| Report | Direct Link | Key Focus |
+| Document | Link | Description |
 |---|---|---|
-| 📜 **Complete Trade Histories** | [**`docs/TRADE_HISTORY.md`**](docs/TRADE_HISTORY.md) | Chronological trade logs for all 3 portfolios with action breakdowns, entry/exit prices, and source posts. |
+| 📜 **Complete Trade Histories** | [**`docs/TRADE_HISTORY.md`**](docs/TRADE_HISTORY.md) | Chronological trade logs with entry/exit prices, sizing, ratings, and source post references. |
 | 📊 **Performance Comparison** | [**`docs/PERFORMANCE_COMPARISON.md`**](docs/PERFORMANCE_COMPARISON.md) | Head-to-head backtest results (Jan 1, 2026 to present), Strategy A vs. Strategy B sensitivity, and top/bottom performers. |
-| 🛡️ **Risk & Volatility Analysis** | [**`docs/RISK_ANALYSIS.md`**](docs/RISK_ANALYSIS.md) | Win rates, downside loss distributions, profit factors, single-stock concentration, and execution complexity. |
+| 🛡️ **Risk & Volatility Analysis** | [**`docs/RISK_ANALYSIS.md`**](docs/RISK_ANALYSIS.md) | Win rates, loss distributions, profit factors, single-stock concentration, and operational complexity. |
 | 🔍 **Author Claims Reconciliation** | [**`docs/AUTHOR_RECONCILIATION.md`**](docs/AUTHOR_RECONCILIATION.md) | Line-by-line audit reconciling author-claimed returns (+23.59% YTD, 2.55x SPY, 11 closed trades) against market quotes. |
 | 📁 **Documentation Index** | [**`docs/README.md`**](docs/README.md) | Central hub linking all research reports, trade histories, and source profiles. |
 
@@ -45,78 +38,96 @@ All findings, quantitative risk metrics, and track-record reconciliations are pe
 
 ---
 
-## ⚖️ Portfolio Risk Matrix Summary
+## 🧠 LLM & Developer Architecture Guide
 
-| Risk Dimension | Beating The Tide | TJ Stocks (StockTok ETF) | Cluseau |
-|---|---|---|---|
-| **Win Rate** | 56.0% (Strat A) / 44.4% (Strat B) | **84.6%** (11 wins / 2 losses) | **84.6% – 91.7%** (Curated exits) |
-| **Average Loss** | -16.1% to -23.3% | **-8.2%** (Very mild) | **-1.3%** (Closed) / -45.6% (Speculative tail) |
-| **Worst Single Trade** | `STRL` (**-47.1%**), `SNEX` (**-31.6%**) | `FELE` (**-8.6%**), `TXT` (**-7.9%**) | `WYFI` (**-45.6%** open), `VISN` (**-20.0%**) |
-| **Profit Factor** | 2.15 – 3.87 | **19.07** | 9.11 – 334.68 |
-| **Top 3 Concentration** | 28.8% (Strat A) / **60.6%** (Strat B) | **28.8%** (Evenly distributed) | **High** (Focused themes) |
-| **Execution Complexity** | Low (Weekly tables) | **Lowest** (Semi-annual rebalances) | **Highest** (Real-time chat alerts & options) |
+This section explains the system mental model, directory layout, and data pipeline to help future LLM agents and human developers quickly understand and modify the codebase.
+
+### 1. Where Does Publication Data Live?
+**All active publications live strictly inside [`sources/<name>/`](sources/)**:
+- [`sources/beatingthetide/`](sources/beatingthetide/): 247 post JSONs, 48 Datawrapper CSV tables, baseline holdings, and trade events.
+- [`sources/tjstocks/`](sources/tjstocks/): 417 post JSONs, StockTok ETF baseline holdings, and trade events.
+- [`sources/cluseau/`](sources/cluseau/): 52 post JSONs, 404 subscriber chat threads, and trade events.
+- *(Note: Any raw legacy scraping dumps from earlier single-source iterations are archived in `legacy_mirrors/` and ignored by git).*
+
+### 2. The 4-Stage Data Pipeline
+
+```mermaid
+flowchart LR
+    A["1. Downloader<br/>(downloader.py)"] --> B["2. Parser<br/>(parser.py)"]
+    B --> C["3. Prices<br/>(prices.py)"]
+    C --> D["4. Simulator<br/>(simulator.py)"]
+    D --> E["5. CLI & Reports<br/>(cli.py / docs/)"]
+```
+
+1. **`btt_sim/downloader.py` (Ingestion)**:
+   - Fetches all post metadata and HTML via Substack REST API (`/api/v1/archive` and `/api/v1/posts/<slug>`).
+   - Automatically detects and resolves Datawrapper meta-refresh redirects (`/1/`, `/2/`, ...) to download true underlying CSV datasets.
+   - Scrapes authenticated Substack Chat REST endpoints (`/api/v1/chat/channels/<id>/posts`) with cursor pagination.
+2. **`btt_sim/parser.py` (Signal Extraction)**:
+   - Scans Datawrapper CSVs, HTML tables, and Substack `StockTickerToDOM` widgets for portfolio holdings and target weights.
+   - Extracts trade actions (`BUY`, `ADD`, `TRIM`, `SELL`) from review exit headings (e.g. `1. CBL Properties (CBL) +114% - Exited September 15, 2026`) and author chat alerts.
+   - Outputs standardized `sources/<key>/data/trade_events.csv` and `portfolio_holdings.csv`.
+3. **`btt_sim/prices.py` (Market Data Resolution)**:
+   - Resolves multi-exchange tickers (`.TO` Canada, `.KS` Korea, `.T` Japan, `.PA` France, etc.) via `yfinance`.
+   - Caches daily adjusted close prices locally in `data/price_cache/` to ensure fast, deterministic backtests.
+4. **`btt_sim/simulator.py` (Portfolio Backtesting)**:
+   - Simulates Strategy A vs. Strategy B under fixed unit ($1,000 per BUY) or target weight allocation.
+   - Computes irregular cash-flow annualized XIRR via Newton-Raphson with bisection fallback.
+   - Runs dollar-matched cash-flow benchmark against `SPY`.
 
 ---
 
-## 📂 Project Organization & Directory Layout
+## 📂 Repository Directory Layout
 
 ```text
 ├── btt_sim/                   # Core Python Simulation Engine
-│   ├── cli.py                 # Command-line interface (btt)
-│   ├── config.py              # Multi-source environment settings
-│   ├── downloader.py          # API scraper, Datawrapper redirect resolver & Chat archiver
-│   ├── parser.py              # Source-specific trade event & holdings parser
-│   ├── prices.py              # Multi-exchange yfinance price provider & local caching
-│   └── simulator.py           # Cash-flow matching engine, irregular XIRR & mark-to-market
-├── docs/                      # In-Depth Research & Reconciliations
+│   ├── cli.py                 # CLI entry point (`btt` commands: check-auth, download, parse, simulate, compare, trades, sweep)
+│   ├── config.py              # Settings dataclass & SourceConfig definitions
+│   ├── downloader.py          # Substack API scraper, Datawrapper redirect resolver & Chat archiver
+│   ├── parser.py              # Recommendation parser & trade event extractor
+│   ├── prices.py              # Multi-exchange yfinance price provider & local price cache
+│   └── simulator.py           # Cash-flow matching engine, irregular XIRR & mark-to-market valuations
+├── docs/                      # Research, Analysis & Track-Record Reconciliations
 │   ├── README.md              # Documentation navigation index
-│   ├── PERFORMANCE_COMPARISON.md  # Detailed performance backtest results
-│   ├── RISK_ANALYSIS.md       # Quantitative risk matrix & volatility study
-│   └── AUTHOR_RECONCILIATION.md   # Line-by-line audit of author-claimed returns
-├── sources/                   # Segregated Data Per Publication
-│   ├── beatingthetide/        # 247 post JSONs, 48 Datawrapper CSVs, holdings, trade events
-│   ├── tjstocks/              # 417 post JSONs, StockTok ETF holdings, trade events
-│   └── cluseau/               # 52 post JSONs, 404 subscriber chat threads, trade events
+│   ├── TRADE_HISTORY.md       # Central trade history directory
+│   ├── PERFORMANCE_COMPARISON.md  # Detailed 2026 backtest comparison
+│   ├── RISK_ANALYSIS.md       # Quantitative risk matrix & volatility assessment
+│   └── AUTHOR_RECONCILIATION.md   # Line-by-line audit of author claims vs. market data
+├── sources/                   # Fully Segregated Publication Data
+│   ├── beatingthetide/        # Beating The Tide data, README, and TRADE_HISTORY.md
+│   │   ├── api_posts/         # Downloaded JSON records for all posts
+│   │   ├── datawrapper/       # 48 versioned Datawrapper CSV tables
+│   │   ├── data/              # portfolio_holdings.csv & trade_events.csv
+│   │   └── TRADE_HISTORY.md   # Chronological trade history log
+│   ├── tjstocks/              # TJ Stocks data, README, and TRADE_HISTORY.md
+│   │   ├── api_posts/         # Downloaded JSON records (StockTok ETF posts)
+│   │   ├── data/              # portfolio_holdings.csv & trade_events.csv
+│   │   └── TRADE_HISTORY.md   # Chronological trade history log
+│   └── cluseau/               # Cluseau data, README, and TRADE_HISTORY.md
+│       ├── api_posts/         # Downloaded JSON records (Quarterly Reviews)
+│       ├── chat/              # 404 archived subscriber chat threads (chat_threads.json)
+│       ├── data/              # trade_events.csv
+│       └── TRADE_HISTORY.md   # Chronological trade history log
 ├── tests/                     # Automated Test Suite (pytest)
 │   └── test_simulator.py      # XIRR, parser, and strategy verification tests
-├── .env.example               # Sanitized template for session cookies
+├── .env.example               # Sanitized template for session cookies (secrets protected)
 ├── pyproject.toml             # Python package dependencies & configuration (uv)
-└── README.md                  # Main project guide
+└── README.md                  # This guide
 ```
 
 ---
 
-## 🚀 Quick Start Guide
+## 🚀 CLI Quick Start & Commands
 
-### 1. Prerequisites & Environment Setup
-Clone the repository and install dependencies using `uv` (or `pip`):
-```powershell
-git clone https://github.com/matthew-thomasson/portolio.git
-cd portolio
-
-# Copy environment template and fill in cookies
-cp .env.example .env
-```
-
-### 2. Verify Session Cookies
+### 1. Check Authentication Status
+Verify that session cookies in `.env` are valid and paid access is unlocked:
 ```powershell
 uv run btt --source all check-auth
 ```
 
-### 3. Download Publication Data
+### 2. View Trade History in Terminal
+Inspect color-coded chronological trade events for any source:
 ```powershell
-# Download all publications (or specify --source beatingthetide / tjstocks / cluseau)
-uv run btt --source all download
-```
-
-### 4. Parse Recommendations into Trade Events
-```powershell
-uv run btt --source all parse
-```
-
-### 5. View Trade History in Terminal
-```powershell
-# View trades for any source (or all)
 uv run btt --source tjstocks trades
 uv run btt --source cluseau trades
 uv run btt --source beatingthetide trades
@@ -125,18 +136,63 @@ uv run btt --source beatingthetide trades
 uv run btt --source all trades --limit 20
 ```
 
-### 6. Run Simulations & Head-to-Head Comparison
+### 3. Run Head-to-Head Comparison
+Compare all three publications from Jan 1, 2026:
 ```powershell
-# Compare all 3 publications from Jan 1, 2026 side-by-side
 uv run btt compare --start 2026-01-01
+```
 
-# Run detailed single-source simulation
+### 4. Run Single-Source Simulation
+```powershell
+# Fixed unit allocation ($1,000 per BUY)
 uv run btt --source tjstocks simulate --start 2026-01-01
 uv run btt --source cluseau simulate --start 2026-01-01
 uv run btt --source beatingthetide simulate --start 2026-01-01
+
+# Target weight allocation (scales positions by author's target weight %)
+uv run btt --source beatingthetide simulate --start 2026-01-01 --mode target_weight
+```
+
+### 5. Download New Posts or Update Chat
+```powershell
+uv run btt --source cluseau download --skip-sbstck-dl
+uv run btt --source tjstocks download --skip-sbstck-dl
+uv run btt --source beatingthetide download --skip-sbstck-dl
 ```
 
 ### 6. Run Test Suite
 ```powershell
 uv run pytest
 ```
+
+---
+
+## ➕ How an LLM or Developer Can Add a 4th Source
+
+To add a new Substack publication (e.g. `examplepub`):
+1. **Define Source in `btt_sim/config.py`**:
+   Add a new entry in `Settings.sources`:
+   ```python
+   "examplepub": SourceConfig(
+       key="examplepub",
+       display_name="Example Publication",
+       url=os.getenv("EXAMPLEPUB_URL", "https://examplepub.substack.com/"),
+       cookie_name=os.getenv("EXAMPLEPUB_COOKIE_NAME", "substack.sid"),
+       cookie_val=os.getenv("EXAMPLEPUB_COOKIE_VAL"),
+       base_dir=root_dir / "sources" / "examplepub",
+   )
+   ```
+2. **Add Environment Variables in `.env` and `.env.example`**:
+   ```ini
+   EXAMPLEPUB_URL=https://examplepub.substack.com/
+   EXAMPLEPUB_COOKIE_NAME=substack.sid
+   EXAMPLEPUB_COOKIE_VAL=s%3A...
+   ```
+3. **Add Parsing Rules in `btt_sim/parser.py`**:
+   In `parse_source_data(source)`: add extraction logic for `examplepub`'s specific post format or portfolio tables.
+4. **Run Ingestion & Simulation**:
+   ```powershell
+   uv run btt --source examplepub download
+   uv run btt --source examplepub parse
+   uv run btt --source examplepub simulate --start 2026-01-01
+   ```

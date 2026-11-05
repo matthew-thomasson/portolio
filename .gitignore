@@ -19,7 +19,6 @@ bin/*.exe
 data/price_cache/
 scratch/
 
-# Large raw HTML/image mirrors at root
-/outperformthemarket/
-/beatingthetide/
+# Large raw HTML/image mirrors
+/legacy_mirrors/
 sources/*/archive/
