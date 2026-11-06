@@ -2,6 +2,7 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-01-01,BSVN,SEED_BUY,24.61609885578298,40.62382125854492,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-04-18)
 2026-01-01,DXPE,SEED_BUY,9.283327039248178,107.72000122070312,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-02-07)
 2026-01-01,EPC,SEED_BUY,60.499541713848274,16.529050827026367,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-27)
+2026-01-01,ERO,SEED_BUY,34.42340882144498,29.049999237060547,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-27)
 2026-01-01,GPN,SEED_BUY,13.371930800013262,74.78351593017578,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-02-19)
 2026-01-01,HRTG,SEED_BUY,36.65689057293661,27.280000686645508,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-06)
 2026-01-01,IBEX,SEED_BUY,27.533039878921173,36.31999969482422,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-05-07)
@@ -31,13 +32,11 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-03-20,NGD,SELL,-110.13215951568469,9.079999923706055,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-04-13,KINS,SELL,-62.084277161071945,15.640178680419922,971.0091880438789,-28.990811956121092,Closing KINS.
-2026-04-23,MTRN,BUY,5.463822559827881,183.0220489501953,1000.0,0.0,"Second, the independent directors are willing to block a parent-initiated buyout on valuation grounds."
 2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-18,HRTG,SELL,-36.65689057293661,23.270000457763672,853.0058604124278,-146.99413958757225,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-07-06,SPCX,BUY,6.23363677480445,160.4199981689453,1000.0,0.0,"Four days after listing, SpaceX agreed to buy Cursor (Anysphere) for $60B in stock, a coding-assistant startup at roughly 15x its reported ARR."
-2026-07-12,MTRN,TRIM,-2.7319112799139407,246.60409545898438,673.7005100573737,173.70051005737366,Trimming on valuation during calm is what letting go early looks like in practice.
 2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-08-05,STRL,BUY,1.8655671237518667,536.030029296875,1000.0,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
 2026-08-17,AR,BUY,27.472526320886033,36.400001525878906,1000.0,0.0,August Stock Pick: Everybody Is Watching The Wrong Number

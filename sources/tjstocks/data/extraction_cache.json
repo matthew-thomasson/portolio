@@ -1,13 +1,13 @@
 {
-  "_version": "3.5.0",
+  "_version": "3.6.0",
   "items": {
-    "e1a68caef90ae7d1d62161d118a2f53b1a9352ea1272112bbc2a33fccf3dea02": [],
-    "3d5aeb8ee1b82ba1e1d1a0c619d897332fee82470e36e31c98976afeb40aec13": [],
-    "a667b8a15d835869e6f016bbea60637db575a6d932185713fca1728e64ed5f82": [],
-    "ecab6a95c0fc2581f651826cdc08fa16835d4984bbbdd6bfd8cddaf991392d62": [],
-    "817a29faca516355a5fb8caf43b6edf9a2c3e727c849a842d97f3d67274bad3b": [],
-    "75468b9ca9f3224d4678dc8987b5d0bb7d59855992069f30e0be16e3eb4c009d": [],
-    "4072a69f401aa5e49f8ed55b93afd7cefcd4bde372b56cee72aa73e33a4adb0f": [
+    "d0430bdb2c9a45f49c024c4552388d1a661192061a7052b6e2834de5809bdcc2": [],
+    "9fc4cc9bf2f2ba493f7ce1def6a9587ab2593e7080d0f526b65f19c09e7029d8": [],
+    "31c6cca4783bba69b52edfce8a67c65d494c954a7d028a5da4d4a501ae0c61ed": [],
+    "53ac90d3f057d4308d297705c23885af4d5e46d2d04a0cf3636ea3c08b2c0416": [],
+    "3ee69f80c2206cb6c1f3f5fa0edfdfd4271b6f39b89244cf92643f0949e140c0": [],
+    "ef4b8d5170ac1131a2144c62e05563e6da4c5cb006cee04bece4f5ccef92c953": [],
+    "5db327f7d59e5cd726560d874e4ee01a1633208f6cfcd3c647e370596691fff7": [
       {
         "event_id": "",
         "source_id": "i-just-bought-1223",
@@ -37,18 +37,18 @@
         "unresolved_fields": []
       }
     ],
-    "4e9b8c958fd9b96cf56ed5f43b3599dfc8e0764eecf5dba395942fff470e7a69": [],
-    "92ee91ee20cb2c06ebe23382d4abdab2eb6cb3a570451e500c6eaf4f82ac823a": [],
-    "8ffe3f3e3332bdfa13d8c2c5b5615469be0a1e992dbc490949cca0b5b3cf1a8e": [],
-    "0f9f6ed7b164fa0cf96f01ed7e7596147e0f031399cc5505175c930eccd85e94": [],
-    "858655df91f6f07717443e8136beb7b3ecdc81c2ec97deb9ba6eb29a8cc7735d": [],
-    "b2cd287f113a84c975ed4f49e2a5d327d1a52aab0a97aa62bd9019d083c1fded": [],
-    "fa844a4eba9828c3fd4a7ec722f86f3e617455b7fbc6ac76cec25370016714fe": [],
-    "1f228606ec46428a0cf0f9473e80d33ea2459f4e61d3bf91971f4bd64b3132d8": [],
-    "b09dd3b29f865c44475b671f3de26754d355d9d752f3c6fa27f46d377538b34a": [],
-    "88d55700805bc545fa8cb1a4dd43eba042d4fc951389e1824b34e6cb7cfe6204": [],
-    "ca9a8ccd99bfc810f8c2e3263224518d2a6a039d3726a0d9ea21080715ad8f70": [],
-    "8326cfeb8785b0f482ad87c6caf6d9b791f63d67af8bc6e84a3855db14a04bef": [
+    "239ed0cbc1e2d1f87eee0879ee9cc6412d2ffccc16cd15d462c244ea6ba0ca05": [],
+    "d652c48cd20e494e2942e7d6f47f2bb3ea85a8951ae4e5f4aa18c358159f8310": [],
+    "1d0a659bb0aaf58cae060888a6aedec5124a942e9e0dc8a3f43a231c0ee6832f": [],
+    "de58df13bac88e53a922281035a739763b5791e5461d623e53c248622c2784fb": [],
+    "6461ec7f926677d46e1247a0c9f59e8a884d4557896f10d94a4edabf5a0db917": [],
+    "2c7cbd41171b0cf680bd553af2d9fa92369bcab040f5749af2c988a8607b4c73": [],
+    "8427c19c7c4ddea5a423938f0b07c95c73c77293856e3e5bfc5ba02e5f32eead": [],
+    "f25c48223d1254631068449f32895e833420752278ca6fec4abd621de820f928": [],
+    "229f3d429bd7e1a60e0f918a00fcfe20984d1ee280abb6e7cdfc770dcf850eab": [],
+    "0dba53360f1eaf5a6e34d0d5eca60ef9d4d6850c3cc15fd7627b020f709e53c7": [],
+    "83e0b13e50babf9b3a54bfa1344edbf04fdd6193d0b12ce14c8ea7f1e7bc22b0": [],
+    "58cc06e2c4ea0304b99b0c7a7b928e3b72e9ab1f4090575fca070fb2617b54d2": [
       {
         "event_id": "",
         "source_id": "affirm-deep-dive-and-poll-alert",
@@ -78,9 +78,9 @@
         "unresolved_fields": []
       }
     ],
-    "b0d17c0fbddade9d0d32ef82d0784abc43617fa702668f541c2e2d8a17cf7a84": [],
-    "587fedc61f0589487c5fe802c07e7c0e8e604ae36da563cdc4e20cd3c74ca9a4": [],
-    "946489de0a34c752df3b2b75f81c567312209f4821f875c3c05479426c337ef4": [
+    "a3cd88892c2aea374294b0785bae577abc32b95406b6e14f720e4280b0c4b0b8": [],
+    "0a2e1c6ddf71a49b4db92ea05b5006d34e89c9237d64f4022afb48153d676710": [],
+    "3f742e8fc102a732fca9a0dd874f43994749046db022a1682bbf844b0f83eb97": [
       {
         "event_id": "",
         "source_id": "winning-pick-wednesday",
@@ -138,8 +138,8 @@
         "unresolved_fields": []
       }
     ],
-    "946721eb743a3bb2f604a713f82580a86ef00786213f31a7789a9c01dc1131cf": [],
-    "90689e00951e85b5005bd1641a57b7549e70e0fbf8ab356d3486bf5b6b3c0b87": [
+    "3147304f478c30a923b65ee16f72ab6e119099f510742800d8c98dfd0766e9c9": [],
+    "0a3df1c8977d8c7484bc2d9af0b4b7ee52af4a6d19fa10d9d1760df5f8be16eb": [
       {
         "event_id": "",
         "source_id": "chinas-economy-making-moves",
@@ -169,21 +169,21 @@
         "unresolved_fields": []
       }
     ],
-    "7a36b00ca5ad5ab306e0d9ff2abfdd43b940a3d32ba3148b7126b07ed72078d9": [],
-    "df9471400cbf23f1d10561d2c9d9dd7898ad7912917b4eabf26f4b506c8e2f0f": [],
-    "a0261bd23ae2e81dd7bcaddd27add1c0c27aaeda87ea51b7eebce45ceefbce9e": [],
-    "4394cba071875a79c6236dcf01b67aa653de68ba234f7a4cc2421f28b34c2207": [],
-    "d804c48ad9cd5f84d921492976baf783d32a4ab8f1a5de2b500177015ef78fa7": [],
-    "43530913f7dd9811cdbc783c3395f77b7286317f07e593b9132034e400eab01f": [],
-    "b1a91c5577e362ae3ac187b1a13bdd4a372d735f241fd66d08f514d863376e20": [],
-    "206f7612129d025996af9de332705d6be0b71877d0afc1c17a82c4de09f27b97": [],
-    "fff02e254313a4c9c3736ed94fc5e5902764a580fb6693f097533770d8cb2088": [],
-    "044571931e9dc9a97ca3dc46b725d5cd303088ef20dde1b931cc5c5dea2903b4": [],
-    "68ef0a330fac2fcae0b7a54291e33add52665bcd64dc366f387dbbb4634e5c73": [],
-    "d9b8969d5f73a6eb786df455c1872c34509cf29cec10db9e69aee099d584a552": [],
-    "496c50ffb44d495d86695c3be26436883ea68ed695d7338139d7ae21a55deeab": [],
-    "03a1960691f99973c23ecb41e494637ef700079c5ce87d97ea52374d0bef4167": [],
-    "ec53c7f27a0058ea4b8ef1b8ac2bdee3e14f167e925d81ac30e3745bf96c80e9": [
+    "4aa9141cb23c04f9bafb3b2bbda56ed8a496cb3afeed2a0c4934e7cbd01a2d5d": [],
+    "357272fd0c93e97a7d914199f907e9e251c04fe01033bc36868096dfea051105": [],
+    "8119ab973b732a3c60995df8090745c7fda4c98dfe8d73888daf120d231c5488": [],
+    "d7790f07c8cb181723a5e563a271f95ad5b28402fc87b9d2af3e8223a6f02632": [],
+    "cf0c490730f63ce55f9f01e557cfaabd204c39140d30482ee92392118e19ba69": [],
+    "e2576490f812af27765e5df5a00c3524e06908bd9f2a73d246d95a916f573315": [],
+    "2de2b7666ae20ffb2ddebf30fd1373273ea03f4954f234273a422def8fdcae47": [],
+    "01ed382b60fe361e3b464c094f82ca696e1fff1d37273d48bc7a9401fc498e01": [],
+    "261d707207c2878b1453eae46de223b2e2899cf9fee26ea3a28b0d1170f00ced": [],
+    "ef5fe07e1478d5b278343c43c3bf77289bbc13982a4d03fa2133863ca17ab627": [],
+    "e1f50a666b647679e2e3350ec158bf4603fcc204037fffd3315c912d468b0079": [],
+    "1de1190c4c6371831d18127a1d5060e52dfb1a55413a3346a5503a351671ab37": [],
+    "e87bca3450ef81d99ee1ae7e724c3b90290241a12fadfe91a36fe0781659fe71": [],
+    "a8d7c122c4bd8658c6c1c9c78bc299de4922e45af1cd22cd7d2f52921e900a89": [],
+    "379d8bc491c19effdc432c207e7c759a8651c3301479dc8db5159516eece52a7": [
       {
         "event_id": "",
         "source_id": "picture-perfect-stocks",
@@ -213,29 +213,29 @@
         "unresolved_fields": []
       }
     ],
-    "082862e979c6f9fd728e8b32e20ed20d0c318b10976dfc3b1ebb7ec8535fc7e6": [],
-    "99f70b1a9b108606de64030db846ca130c80601c78f1d731de4fb27dc2a59c4e": [],
-    "ef7477e163d47e4e3d26b39e7e3a47104f9d2a66836c10579320600db406efb0": [],
-    "821cdbc63378496b9dfbd609c92dd5eb4829cbc4cfda61e11aa3d35bad20da1d": [],
-    "cd7ec33893b8f38947600ca64fd85fbbbdba383278bc594b3d812cda6b0ff5aa": [],
-    "a3fccb29c30f9ed6a943ced7526fb5dc5be4e019d6807a4889718c3da1b40935": [],
-    "4d784213cf1cdcb3e438cf694da87636c68d4121a6b847719c48fddc659447ed": [],
-    "3ab89e8855bdac165198a6111f01df3323f14f9bf01fd93cf8bd44dce1e05878": [],
-    "8d01d139180b2da8c539d8f47182bd83c88d98fcc643fafcdcc397d51938950c": [],
-    "5065d04ded57f6379bc8b4bffea9b3beab39eba53da7c00002672d576cedf6f8": [],
-    "40296d8723521b86c5d50bbe861ffaf6a19fc62314421a026e0efa4dfef09d17": [],
-    "2995921186a27adcd42aeabb9e6aa6c8896a2f5a899e3b5057146abee9e0fcc3": [],
-    "3e32dc9a6c3f650a7c03121da89bab57ddd69c6da26fb0d3f74da301a08f87d4": [],
-    "a68b15010ea7c4bb29585820edd991fb37dedd24798e0b3e798996700265feae": [],
-    "ec6a124e6aedc2b39777c10910245f00ef1be454778ed2d7ef49889577efc97b": [],
-    "b471a29f9f8ad935bcdf3e21fb2a172db7452f4fef5225862a05690c8d79b50f": [],
-    "96a8aa9312686f092196f3f4ba5d2a9cd8dbbf2ece7b65478329fbc5f1b52ed3": [],
-    "1edf7cf0c1703a7f47b0d0a41e49ec8fcb4c8dc78a76555b8cda04c79205df52": [],
-    "b1589cc7f5c1524e9bfded4851ee9462f9ce3aecdb687d2cfe1ef1ab78371ccd": [],
-    "7998e7253d8e32d7c4eba5bc1644a0b3190276fb6c5c792990bae6591aa9574e": [],
-    "fef498619eff4f419b506afc82fa84bdc007b2b8dfcfdce3e6ec209fb7106dd8": [],
-    "2cf7e8de60c2e2950f19870ab19e00732fef04ba95c4729d7babe2d1112319d8": [],
-    "a42290e78f59c268eb1893794cb65dcddc9ef51364f0a2fc33017f83e780a5a2": [
+    "1c3046f8157272d558fcb8f60d8079ea07e33a156f62ecc764c69b2b72f73b50": [],
+    "6e550990f31a8b49b63d45842b1fcbcefbf374c8f723ad1de705776ad02014d8": [],
+    "f4a3cf8ba5994de0645be683337e5ac7ab06c666583471507138c0797c9fbe12": [],
+    "6252920a243067b1f75fc823b6e7b784e567ea2da58711b795e70eba9121c0cd": [],
+    "ebeb3e253cbc6e033cd4e8c5a47d885bedc034e9327cbf734c96c41756a96e26": [],
+    "54a78237d8247f123bc495c3750a31dd37cc6548bb1a76164787f19532d16e8a": [],
+    "3b70e1c0ffc0074c5737158222f232978d20d156561e8b8d531d9d3e8b8eadfd": [],
+    "1262e7acda76d84be4de3ebec8e5bb62d0b999ced959aea5e1491854393d006e": [],
+    "1586a94bd2de13b8b7d6e2b214413efc9d12622e6d4e82b669305d9ec75532c0": [],
+    "42560691c9bad7285c6c1229a8ed90130e5b9d414164b70f374c136ceb7ae2fa": [],
+    "75c135e930d72214124ca89de46430c2fd7b6ecd738cb492b3fce62c8f2687d9": [],
+    "f123419866ba61a21cbc168080e9cfd2571ad12f6903e76e9eefbaec8d83ff5f": [],
+    "db594ef3c650cbc4c654c04b8dff0d32bac941f510c407aca38629c1c4f9a0c4": [],
+    "889cb77760b5a5cd4d07dc6b6b029df2ddbdaee7c1212426bf49703aec33841d": [],
+    "a166d08e3f8a132c0bad6c6fbe074ad46528f0dc9cf0ab1aa007b1ece42ae11e": [],
+    "6e56a9a45951515baf6b994c5efd867385e4af26789816c937ca637578b422c6": [],
+    "312a266d1126d01229d790076ab35fbd743c6a75246262645ee72d6a9dfd7abf": [],
+    "539ef6e3dd30c10012f3ee8da339e146caa3fc5ccc3518eecf3a14bc763c247f": [],
+    "5c18ad29f91e32baa5bcd62fa50db6859f589c8b683dc97199b14e590a007215": [],
+    "081b2bfd00ee828b8169b8162f26a647aab2705efed78afbe45b4e12ecc61d6f": [],
+    "ecca5d865873ad3cfffdaa16f8dfcc6ac517eae31d952148a85a42a14d128475": [],
+    "b3ef14f16921540a3f844c04790cfeccb623eb9b0bbd1b4858347d49a7fcd526": [],
+    "b923853f32ccb80d6735ad5e33dc596c3243634b92f50ab25a66873d860932b1": [
       {
         "event_id": "",
         "source_id": "timothys-stocktok-tracker",
@@ -265,7 +265,7 @@
         "unresolved_fields": []
       }
     ],
-    "d7b9e976ce41ed3ed229fbd950ee8e14a880cafef8506ed2afe784b248b2ff0e": [
+    "894c1e3e2444ba3d5b2efb30741c12d2115be7dfa904588689b7734f7b424bfe": [
       {
         "event_id": "",
         "source_id": "tariff-stock-market-dump",
@@ -295,11 +295,11 @@
         "unresolved_fields": []
       }
     ],
-    "018dbec526e50aa9227fd604bbeb7a4c9f260078c17a7f68a28650069e2558c8": [],
-    "7c49e7305cfa0dc9fb1c302af1102a5af512d0cdfede426f5ec217fc7a7750e2": [],
-    "01ffbcddcfcbee32e3f0b8107f88c7786614b293bf358ac1a171222125f1ee86": [],
-    "208830c9b6469088027dbdffc3ee1eeeeb98768f0df9c00857c8dfcd9c915667": [],
-    "e1252437457080468154ae57af2c0f8f421930ab5c65ab6003f645096324e6ce": [
+    "2f131cbc8db57defbaf2ee4187c6d2bfef3953da92143bec85519979917200f7": [],
+    "0479cb587036888ba7807c78a8215a41ab073fe98ed3be4d2d512ff9882dcf58": [],
+    "e1ddc44358e8ceed32c84c96b8eb7914d3879ea26d3494c13e2996a783d02ce2": [],
+    "0bb028d5dc7b5783922807e9aa04702ac3063797e9feecf1a9437814885c52c9": [],
+    "a556f4f7cb920d9417ce8952f885965759e3877778b1bfc0d25b54d28d875220": [
       {
         "event_id": "",
         "source_id": "6-clear-signals-when-the-bear-market",
@@ -329,29 +329,29 @@
         "unresolved_fields": []
       }
     ],
-    "92868699daec0caa190bf925b975885f91aa6ed5ca230c8a13b527e1cdaf0695": [],
-    "c387cfa79a808c5eddc0aa0cb6b2f272e11e0f29b0bd29b7ffbabd8702c4dda0": [],
-    "d36d2103d05e2504e0481b8ad97b8437adee6df74f65cb9fb410af2e45b6a699": [],
-    "542176e852cfc86fac2d90a8dad4e571429cc2338e6b06eb5b83e6459ca2a761": [],
-    "4a1610ebde772d13a7ee62590bad456fd1adbc7f9cf78abb151bb1ae9234e04b": [],
-    "8d8ce5363347e50d9a01e142ac884f3abf785e43464d2a7f4688529247b44291": [],
-    "f0b85b581808d95fd265977dda8d4f7942b72d7589a21cf39ed93e470db7d319": [],
-    "8e161d69dc8814be3ac89735ee768e2917fa1ec247d87fe314a78af81206452b": [],
-    "d8b992540ff1d5af90862e46a159d623e27f656cc568bdde389e9f98a1ad0124": [],
-    "84955b6bb7c5f9177e7edc7ada91a8844d18e5cf11d3670983d32f90e881cde4": [],
-    "40edaf6e9860b45354ce7df35e53c073ebb8772db2dde365a7f341bd32c9c130": [],
-    "5652be02f1088bed79345ced6a9f89baae3205ac4ff0085bb17d98c5dc019ff9": [],
-    "0b5a0dac35022d9d5b8ec7ab33b45121cc4a380852971a82ce72f88731e96d93": [],
-    "140e2f01a237d7ddf37296e063fc6ac11ba9b58016e59a0ac55e0b809e59728c": [],
-    "8edbd1d4c01d2d44d963c03e931463e4c405c692bb3ad9e0086d00628ff60994": [],
-    "69c06aebf210cec920a598b6130e515029220e4b5bd3f3b01a84009de264ec40": [],
-    "d78b1fca6e5e6173b817e04cd11b6b9b2fcbf3465edff0c0cca5f2ba219512a4": [],
-    "c3efb858dc3500f7805853717e7dac93e9992c7d6744b8728e7e5948eceb893e": [],
-    "c1a1709c2457e6b5f53e82d026dacb614868a034c8738c628461378fa08d419a": [],
-    "80411759d602bd8e8d9f51867584ded5f76acf73b21129202ef5e2d45c8390e9": [],
-    "18cb83f73be649fef5e0293a5d3e4f1a9189b673d2f898b36ebfe5d85d1bd6e3": [],
-    "7a74839ca2c30240258dda9c1bd367c4d511c9928d66801b37436fd4d95c1f10": [],
-    "81ecc1e1d1253ae74caa7abe313b3e8241a190d58b67df323fe4ade370c9ba19": [
+    "4f9b7a6c17f999381c2203bc2a28c033705d6777df3a193cdf222b92338d8f30": [],
+    "155abbd92bff3bb0f7819b65e698bb0d2402521cf114d33dedde18f6ca23ad3f": [],
+    "5e9a5647db6b762ba7ea69c5c5a735606db37723a40f1703399b202ae7d3182e": [],
+    "76f4e8c2750a186ccbada720d6c3244492e8c619cf9beb4ccf855a4cdf69da59": [],
+    "b476a568f335f8b30d7281b3c569db5ad50cb188cbb934326ec1b781845b9aba": [],
+    "3d588e1af5073f3a7fc2f4521d741145cdd8ca7f301f79dedfc44baface51b80": [],
+    "0ae1fb0254f82fad68dd6765923b70b66b7cc8edaf9bd533d473ca562b53ca2d": [],
+    "ed12405a6ca1d6de66a1ddf7f8320e443b4444f054d68248d39760c412c469f6": [],
+    "f0eeef035da8cded51f11a9f7880745419105091785a4e1a0366a7617cf04a26": [],
+    "4d965b1a5380b28eff022e3bf0d57e67566058f9c0bc930df4d20a7643dbd9ad": [],
+    "c8a44e3d4089ac66caa71fe2ac9ad5fc8842449096205e086273777270c34e63": [],
+    "5f0c72072cb7d50108ce4434b8800e7de7dc2793278cddd77c886a1605971205": [],
+    "1b823ea1c03929cdd633f510bfbc0f900fe95c906b98ec901091ed2d55d49753": [],
+    "e0c2a4449f963405e55ac525456453ea9892e3c12f790f74bd6da7d84452e8f8": [],
+    "c8990b68f22911873b939b0d37cf0e9fbeaa2cdd06e70eab555c8f28e5c6f8d5": [],
+    "e0977d98eee248e22dfccd67d2926d71cec53a1800e3ce5185735d8e57946448": [],
+    "2948c331ac891fc91ae34eacdaf95e2cf7a952cb65eb3fa8b69363610cbf9cc8": [],
+    "b8c05e731f353a989f53f3bf85ed79adb0f73a2c23acda7c2d34d24e36d6b33d": [],
+    "af568510c77ca57c8b0b8acc7c49d06973585d929dad56d7583a8d1151281e66": [],
+    "9e3e30c21c7ab477d587eda6ed038f2e55901c6c7cb63939cea696fbff96d27d": [],
+    "1251016bc980d71ba81d2efb53ceb8960b57c90899d5910c92c1b0b12f40d980": [],
+    "73acaa7548c0104d04814b332d9daea3b491844c641ca5e034d1a762321823f8": [],
+    "857775405a618753a8168ecd80e9b47722a7c30188b5f36c705216846ee53a39": [
       {
         "event_id": "",
         "source_id": "the-next-palantir",
@@ -381,7 +381,7 @@
         "unresolved_fields": []
       }
     ],
-    "a95843cd43848275682523d6a2d1822d81586403e47097e60dc7b0ee127f82ea": [
+    "4c9629759344758d1327e1782d3b3bb54a90f9a1556adb058bf941c49bd40d3b": [
       {
         "event_id": "",
         "source_id": "bitcoins-diminishing-returns-even",
@@ -439,9 +439,9 @@
         "unresolved_fields": []
       }
     ],
-    "3180c843217d5501377418551a41970f23d8198a88854c2c7811349f07409383": [],
-    "0d76146f7ddb6e4aedf98a99db7bd4f67da8383fbcc7ef87429bc30bb559cc00": [],
-    "0ad782d6d60f45d5ddc50abab066fd961b2266096db50ea3075846bd76cacdf7": [
+    "568ad28dfa0569fc68d985246a8aaa3081900bcb396f2f20cc5191cc1cbba351": [],
+    "c878b42710503e5bb495a16bde92892825ba12846a8a3670d7929b6d451c66c7": [],
+    "0bdd21bf64c72033521edbccea60b67b5f67b1a97e568c47bdfc6260bdbf238a": [
       {
         "event_id": "",
         "source_id": "swingers-be-swinging",
@@ -471,21 +471,21 @@
         "unresolved_fields": []
       }
     ],
-    "c22010d3aab5a83f7d59be837143555e6b10b73e85deefbd939740d8bbe53483": [],
-    "28596475e435e80b048e477babd3885a89f06c70f4eda5bce7b0cc8995cf80b8": [],
-    "a83a96c6a9cd23f4458042bb525b427aba49f05d111c97a33bf0c888dad2b5a6": [],
-    "fc336298c738efc7f787485dc9ef56afeff2422bc84037ec96c42fa1be0b3be0": [],
-    "c44d61f4a35344b549aae57f1ef52930ec716c35c8c8302a7e9e906e40a29e6d": [],
-    "cc95c15381dd9cc0a4473971c4513327c5398b01a8a3134bb473c75a66bc4067": [],
-    "1ff5e4fb6c50a1ee12f0c039f952193c8a038658960bbd68e78c203c1bef2295": [],
-    "7f3ae090213d1a84d42c93df491848fb9ed8ebf43d1a8606df006ec9dfee4926": [],
-    "b3b2cf2aa42b93915004b7a66f8181d0a35d8a4fb29799ed2a2cfdd4645b40d7": [],
-    "6eea2c554280953ec54ff8285a50b47aa5d765041727b3de2c38d6c47475d17e": [],
-    "9a4b11b5f5084ee91a57b0b6568a61934af39159531750783765d9470063e4a5": [],
-    "6b319158dd32686acc5dd32f99a19fb247d9344b90eada97aa24020f8f79d95f": [],
-    "d03f9ba3392da21f5c474321f28032474e5ab7fc77be6a1680ef64191f040f75": [],
-    "1d8264585aa79cc52a2f51754961c48b71f2c41250f3e2c568c23cd1a52d7a3e": [],
-    "9e11dce8bfef30fa7a5e3b2294a7dfbb8660ae1cf5d00089838d9998598899e4": [
+    "e2074f0c58c3cc98214695d40adc949dcd0d0048eee5c2973059f3d1057c0a9a": [],
+    "a6b427217979f45d37a3168269b90ab8b9523987a2c6b24e807b0d2a48849ae6": [],
+    "126275aeb5daeb0076c21e885788bde15814d3aa84df64ab8525da705fe62ef3": [],
+    "e2264e8a60c2bab786cf3f352436c8eaa660e965c18d72c552da1b2caa2033d7": [],
+    "2c738b6aa65c727dd69d05404692f7a11bb5822e06f6e1e066bd59b7977e8228": [],
+    "554d8bf904edb196627ba6455373d53198dad469b72255bacda2b02f6f8c8e33": [],
+    "a717565f3412ff6e247d9e84785d8151abef21ca1d94d615a39157551140b2c1": [],
+    "d752a0599ab40106d800063990cc5a7e166d727bc60d75bca5b0acad1ede978e": [],
+    "7343d91171f2d25eccbc4b0d91cc0b489abdb4111e8a40aab9df74e45dd30f50": [],
+    "3de3027095dcbd469f69cc179277c008d4b8e911c17619c32b241f971be7a5a8": [],
+    "e1359b1564db7bcd32b7f6a7bb3506c111442edd817aacf3c2aaa7453617300f": [],
+    "a78ae55d5d888c63bf50b46d83ac5fd48a56e369bb9f83896cbf4002938e3ef1": [],
+    "2680c80c78beb5f50ffcd62780d1970f2635ed0fb7d2c1ee8be49f08fb91998a": [],
+    "5f7869f007b7936c6f66f4691e2a8832244dfc97b03b8363001e9530a8fe6927": [],
+    "a16b3c9142e583199dc5127a444a21f157868b2bd26f9f8d3224c2d0d704322e": [
       {
         "event_id": "",
         "source_id": "how-to-scan-for-a-stockthen-buystart",
@@ -515,8 +515,8 @@
         "unresolved_fields": []
       }
     ],
-    "1195900859ba6dc304ab5cb7aca16594f458af7ecbf039e83945ee4e3a00a577": [],
-    "4d654bdf8240c29c3a983ad6a218785ec173b62afdbb6f4b290d95c8d527e911": [
+    "b82069397e689aa8642227d627a59cc0623d790d341bd1ea2d42275311a26094": [],
+    "79ee5fd0883c4d5463285911ea0545e8e9b9c6fa88b8519a751a7eb851fdecd1": [
       {
         "event_id": "",
         "source_id": "amd-is-not-exciting",
@@ -546,13 +546,154 @@
         "unresolved_fields": []
       }
     ],
-    "26940c85ddec56ffe9274e1ec65462553caf1d4572bf9628907419bbbaf6c08f": [],
-    "0055005045a7855e42dc7c73763729ab6f4944c0829f55c932b9199010b1fd20": [],
-    "91201840d6761069f53fecdc21844548d030762e410262b3088af498ebd9485f": [],
-    "93225e2869d40d2499220b749bc6ebd2efb6373a368f55987c7fd03ae59c1bf2": [],
-    "2b8392aedef03cae988d796c7d79ace538f419007315a27454b8a18ab54a4307": [],
-    "486a58779e853d7a038413d0988d7b4c1bd7b078cf966948367a42c348d02ddf": [],
-    "ee3962dd7edbea0bca51f0b90054fda9b1bb4050f7cecbf55c2c7c6fbb172a54": [
+    "cc1d2464401739d680bd80d7827c96799b6d495bad3ebe81a5712de7f087871f": [],
+    "ea7b9a1d15fff95cec9ba3b4e9b37304217410c05258dd0492b178a65d6be39f": [],
+    "a54a273a9cfcaf3509eb8cb1df67f47fc025c146af03619ec777446cb51d373b": [],
+    "e5fb2fc34f2c5a7e4f8c9aab4f172af3090a719981752b8e7e38df796d4a0a02": [
+      {
+        "event_id": "",
+        "source_id": "stock-market-clarification-and-prediction",
+        "source_type": "article",
+        "location": "paragraph:21:c3@char:4176",
+        "char_offset": 4176,
+        "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+        "publication_date": "2025-06-24",
+        "effective_date": "2025-06-24",
+        "date_uncertainty": null,
+        "company_name": "QuantumScape",
+        "ticker": "QS",
+        "normalized_ticker": "QS",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "stock-market-clarification-and-prediction",
+        "source_type": "article",
+        "location": "paragraph:21:c3@char:4176",
+        "char_offset": 4176,
+        "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+        "publication_date": "2025-06-24",
+        "effective_date": "2025-06-24",
+        "date_uncertainty": null,
+        "company_name": "WNS",
+        "ticker": "WNS",
+        "normalized_ticker": "WNS",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "stock-market-clarification-and-prediction",
+        "source_type": "article",
+        "location": "paragraph:21:c3@char:4176",
+        "char_offset": 4176,
+        "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+        "publication_date": "2025-06-24",
+        "effective_date": "2025-06-24",
+        "date_uncertainty": null,
+        "company_name": "SPOT",
+        "ticker": "SPOT",
+        "normalized_ticker": "SPOT",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "stock-market-clarification-and-prediction",
+        "source_type": "article",
+        "location": "paragraph:21:c3@char:4176",
+        "char_offset": 4176,
+        "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+        "publication_date": "2025-06-24",
+        "effective_date": "2025-06-24",
+        "date_uncertainty": null,
+        "company_name": "DASH",
+        "ticker": "DASH",
+        "normalized_ticker": "DASH",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "stock-market-clarification-and-prediction",
+        "source_type": "article",
+        "location": "paragraph:21:c3@char:4176",
+        "char_offset": 4176,
+        "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+        "publication_date": "2025-06-24",
+        "effective_date": "2025-06-24",
+        "date_uncertainty": null,
+        "company_name": "Affirm",
+        "ticker": "AFRM",
+        "normalized_ticker": "AFRM",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      }
+    ],
+    "badbf8c6a461bf5ddd48358c501115a6c7fb1a99fec33616f29e104c24f194d6": [],
+    "11cc0f40cba948be2ba83702bc598af7bee3accb0ddab61d626aa813ed4ab3d0": [],
+    "9ae0e280fd3a6fab462976da22341762906dcc93f45cfe074557ed671eaaaf8f": [
       {
         "event_id": "",
         "source_id": "friday-week-close-highlights",
@@ -610,11 +751,11 @@
         "unresolved_fields": []
       }
     ],
-    "ba4640c5040428305cc8889111fd47627a6fdeaef3b304344967fc59fc56c0ee": [],
-    "c3bb00706b16ff704c5c744acffa1017152acf52121a0bc66d8e458f1ba48617": [],
-    "31f6f8edda213ce1258f683527a1d3316e0a6152cd10a82af710b18ea62a084f": [],
-    "7e1824ff2fc7297bb632181958649ab41f1380a9c4040c17bee477fd1bd786d3": [],
-    "7218880969c3ac46d1cdac85ef6ba70c3ef83782290b63f519be72b08f242865": [
+    "c969a3f71cac9c436a2f6e931ebcb6be6f9167be0fa0824b026a611459bb3717": [],
+    "aced7b8ed5fd0c7ec6c30e6878265878c9ddebe4934db60c7b8899ac56aedcc3": [],
+    "f3e287458370c13aa6eadcd9d356e31671a52e044b5f30957b107d6da246c847": [],
+    "b5a66e8483ae2a56b8b78427ba2908de5ae0f9ac9474374152459a94017db05d": [],
+    "b975dc53eb2653b029053be409ef950f67a9f11223161e68e59bd4a39ce0ae16": [
       {
         "event_id": "",
         "source_id": "end-of-week-highlights",
@@ -672,34 +813,34 @@
         "unresolved_fields": []
       }
     ],
-    "5078c6e0d2a821c29c113e186a319206b4c0f3553197817d681463233e931cdc": [],
-    "6673dd3be7a63802398a06b8bb1b547a0fda4bab5bececa0e3533021dd32e115": [],
-    "92839efe7f23653dbe08e4b9961d7cc51e34a0dc5dbfd2707fd1fdd7fcaef514": [],
-    "3cd5091ab95ab6293dc4c9e13e73e9c801e9edf865a49adc5bbe9b2b6ec615a2": [],
-    "62df6b46e37dee5e39766f1340650b93c242991abf6acc451fed055bd1dfa973": [],
-    "eded0bd3c6f5a30a561e2074a07308b22135cbc62f08b20f3da7a3ae27def4d9": [],
-    "49cd34dc3cccf9c1f15baa02e992a6a85a3658366eefcdb072e8ec462f7b6a43": [],
-    "144fb6a9f42ad884c0cc9c8aea657627ddb0af5f18316fb3f0c7ec50820c6dbc": [],
-    "d306f27282941a49e576ef6d86e3507db0785ea5999ab330c5a5935848170b8b": [],
-    "9e37a8cee10b282fc19f943c197930b88c7d855b23692e60c231ea597d46899f": [],
-    "0ec47c28d6f364d2f5ed3bea2bdeebf74295f4e06007502ce9b0e154c7e8902d": [],
-    "91728a71ded3c60190d7939fa78a2f211f4f7f16d2626384694f538175af25dd": [],
-    "875444b38d64937f75cd27765f7c5a0f63a9466c8376d70fcde6ba8cf1d66209": [],
-    "59a59f238055507f4e0255db92b3a9a4875f9da8abd2e4c411c169578a6f5795": [],
-    "52031342b5407126dd56af3bd285b9164631b281fc9db55122ffa9fd15e0a279": [],
-    "871c24593f600feafd3b55088c1c54fe65da9c70a9722db2ddc0bbd2be85a7b6": [],
-    "f640132fcf4dd64e51289ea174bd14edee2061813e8d68c462376608fd0b3a89": [],
-    "2c3601884714567d6cb082fc00a5667a42562fcc6ee212001e192b8f43201820": [],
-    "d7f6e3287b1f3288bc268f054ce79ccec02ba8f4d295979379f38b38c25f0bf3": [],
-    "5514413237f027084874de39ef51c90730be66696a4482a8b964213dd86d6cbf": [],
-    "c526570c527b9b8be7b587fe4550a6c0c1830f45565a528d9c00f782e46c2556": [],
-    "99cc8e5e5096cb6e5d75793a1f509c9d96ac54f92d85b979bebf43cd44c5bbf0": [],
-    "eccbd128cbf977c734021c3d8f2d646a0871eb75a04b1705c79ebcb6942fb089": [],
-    "c27a766332a31c3817506e79d3ded98991b170cb3c978b540d3c11ec9e046644": [],
-    "38114fd30313b2a3783532eb19a8a21c391c228b4e4d0bc452c925978ab43ba3": [],
-    "488b2dee747d63a349c8fa106417909688a4b0cbce1d071c88d4901ef38f59c7": [],
-    "5baa1ad415e0bbcd90812209dd59e932a83fa8e681fe2365791cd4f6a93a4d3e": [],
-    "0693cc3fd2171704f2db42661ff887d225755908f0887770c45757878bff5812": [
+    "59bd2bde45d7d39308cdd9642d03f9862836c95352a1545f5c486bffbb7d79c4": [],
+    "a15ceb8309a8b24a75b1b0bd551a92ae6b29e7a63f151ff083362fd76cc08589": [],
+    "962d9fc2fcd14f5805667c587f1706e7565963d9d6167617558df616086d3667": [],
+    "732a5330faa7b32b710e830ac42ea3c2cd9cbc42b63b1e46bd69b61a1d9529e2": [],
+    "5a9d6b89ef9b69f9cc2b9ecbc9867b05d858a0d957a86ae086284b0bee5a12b7": [],
+    "a699d727e91d744a6be6d14a967719c1a703e8177b28795d16e2c95d99ec96ae": [],
+    "9e30a84f19a1955d0358ca7f770ed9ab15c076e1dc18333e7b0bdddf67b6b2e8": [],
+    "9af7a015078dcefe1268ce084fe100c786659728da1258cafc42904f82e83306": [],
+    "83e3dc6fa41f85f0cb7c798a46af0642ebf5965fb4c81403fee3c2275a99cda2": [],
+    "b5aa7f85df3d95d9229e5cac0c3d250c4439658b0ac13995149747c376db6428": [],
+    "6598761fba6ff885025a54ee0066e9c6044820dcfb20d3e00f5f6677c10e0c83": [],
+    "efc9cb0d451020a3f56e93419ae700c44edb4b6e1cda6e1b4d5a829fc257ec03": [],
+    "82c8a9c329af66a783a1942449c42204399724d2abfb21c5354310b88999ec20": [],
+    "8f27fad6bc9a40dfb79c81d0112bf4f846a6c8b002a6911e5c66a8d362104b21": [],
+    "e61e042de3fcd586828e62bf444e964ed2cff2916109e5d26d3af43ca2eccdba": [],
+    "5ae71c4faa7caa6622bde8c3b074ad73720774eaa27c5da2e1dac8dfc625482b": [],
+    "09a492e1aeac2616b07a0c8a512699a903095b1114cd4bf69fd3adddb1df4e69": [],
+    "3fe2f62af7ed711b109ca65b7df170b392a94642dfa43b94648da6a846f6b0ce": [],
+    "1cdf634da02e3defdc0c9ee68854b2e9ebdf2bb668046e3fecadbcf567392dda": [],
+    "d5a09d706d513f3f62da1c209e93fd7652fdd76344ceae078956d953a667f8a5": [],
+    "5ba33a909da6492c3c29b1bd5b9114603b261fff634504746398a0097a5226e3": [],
+    "8c650ced5c428c706d66e5504689e75f993ff374231910995612ed600dc52c5b": [],
+    "c5242b574b07fda31cce8cb1dd539e94486fafb55634cd86a2820a31f4150871": [],
+    "d8ca6117019c2d2da747edf31c773e7a2a984bbae5ea2cd54e06f00c089c2b74": [],
+    "7553bd80af02c68038b8a1c7de212f2dad9af81f3c2da18c05d67175f9d8f4cb": [],
+    "59352b3a206fb0b6129be6fe427737d7920f36eba86041f8b6453a52a69f3286": [],
+    "951d6e2ac2f0f6d5f42e0e61234fe3cfd9ae641d6a6e42909c540d49b0997e34": [],
+    "b7044295a36ffa0fdda2f375996ca2330962b2655047dce7544cb461af453ab7": [
       {
         "event_id": "",
         "source_id": "selling-a-stock-the-bad-croissant",
@@ -729,13 +870,13 @@
         "unresolved_fields": []
       }
     ],
-    "37ef17faf8e872af86ecb144236ad9e8f33bd80d5fe0b63ca7e70c6071e489de": [],
-    "56322f814ac885872c143c2529d74db682dcdc3a6c6a5d9ba4087e4df84159ae": [],
-    "867d6b3d6fd6932be29185fc83ff3152763fb6c1b815f5d4d2738e19d698f6d6": [],
-    "05d0488994ae55e8a512cf29026c1a9f443ebd380341829d66821d30754726d1": [],
-    "78bbf3b41a20504dbf80778033bc5bb0d66784656812f73127335ff2f8308068": [],
-    "23160b71c664c393e8dbf68b263a4c76adf43673be11034e2a2c98f5ab6c1a39": [],
-    "e79992bef8a37bba13b58c1c43092ca319fec720ba9a4ab43a7f236e374d6da1": [
+    "83943af3f7b2216ed0da6332d37573978614f183590e97e7e60eb47955cdbeca": [],
+    "acaea11e1abc488fdbbbbf893abab604a7d941d8ed7ec08b7eaffab5b212544d": [],
+    "f2b8608d0206820829d22fbc0f050fa7e8acefb0c2141722daab1d1e41fc626e": [],
+    "6f05339ef0aa2fd9cb7d1c42431a2541dd2713a20de806f0d49b373d5ae59915": [],
+    "a300ceb83db9744115af581ee119f142221ce1c9014e0513c81b8c16832c0a7a": [],
+    "d5e8756741c8f78b4773b8bb62e44749f2468a7296fd0f21cdfd720b4d35d498": [],
+    "60e368a6eeb2ab0d2ed96f1c0851ad3b43a9bed0542c086b6b138f9cb4acbfe9": [
       {
         "event_id": "",
         "source_id": "2-popular-stocksto-short",
@@ -765,33 +906,33 @@
         "unresolved_fields": []
       }
     ],
-    "95eca2f3da68affd9ed057a6b29a0230f27e5af2ca5b3a58fa9fbdfa277cd379": [],
-    "bec4c08a0ae5748629a47f825d391523cd31bfed337b41346bb6d63093f27c7b": [],
-    "f4f6bd2d6d410b1ea2618d73fe811384c287800f46abbebb51664912c5282064": [],
-    "ed5c3a63d519dce71e7d45b31b416e1815af043c18d3a618d22f8ddfccf8c41b": [],
-    "743ddb53f7b8dd1ac0059b9b72a45225135a3f9c78f6f2fbb7045fa5c9e977e2": [],
-    "81f5ec6b976843feebad22fc8b3497f2b90adc811987f0709784aad7f7cdd632": [],
-    "f64f11cd6aff5038ebdc5a06c35b06a796ea21b278260c1589bcaafd1bf2a7ed": [],
-    "501a3ec9da7d8ec78a59736c1fd51f2137dc19107e894adc6ea3847d74063350": [],
-    "f2d6877be8f90c607560acc3fd5ef425c34c3abfff8f51343ff52fba30e17bfb": [],
-    "cc9a06f1bf13a7f56854776ddcc3e547debd97b32e5fcb342d7352bb10f934fb": [],
-    "1940af428bbe893e837d3b2bb54f5cfa57c1b5322690e3450b223867af12fd45": [],
-    "aada206f1a75620a9747f9506ba73c85534ac23089d600382b5453e5f1df5133": [],
-    "a1048e0955d71d1a8774708859c92d3130e29bc2a448d5fbf2acd5c2890d62ec": [],
-    "ee7bc91e43573ec21ae27302e65dc7a331da4afcdb26f9f9be20e7a913778a04": [],
-    "1d7a44590b4d58294e62c2a461c42b67cfd49d7827e25a1c7cd4b0375c2de984": [],
-    "14a7780c9efac1fa6ebbaef2152ae723cac497e068777e8dec89ba9b374f3c65": [],
-    "37cab983defd6c557edde35bbfbfdd71d93917c22ae96d9d9f8b0fca194fefb0": [],
-    "57c775ce15bafbe3d9a4fae2e5fee7453bcadd7077f945bb753bcce0a4b35269": [],
-    "2ba1b0ef35fd03d8903931c32e17f74e5fc011f8eed4189462e7eaf929858f16": [],
-    "49d251e0202545795eccec9ed398dd7827e5d0124be54619bf996f2683a63687": [],
-    "decea837ba6ba89ed22c2433095da8ab85968e005b8a0dd16e8f01533d6ace5d": [],
-    "5310bb752c0ea83747a342fe0ff70424d39960912d67f3c61d5f5152329dea0b": [],
-    "c65dc9fb950563dd9d7f22ba61725116889b478a83ae4bafc63726c1bdaa0db6": [],
-    "6246d1c76a71fc21d4073d3c690c1f82d7340b1df6b86b710467e4a4618f9157": [],
-    "56aaf1964717fa4a5ecd3eb80214dd071fc87a23e33621e996151039c7561a5f": [],
-    "29b1a4139d081fcbb5dccb1756f3620265680a40aea43e264951ae6679212949": [],
-    "fe106207ffce7f6764da99b3575a704f0effcd84d80c9e4132b2e58d7cbef774": [
+    "a8fb526aac07a79640bac1b3530ef9d41d5b116903fa43631477b60639e061a4": [],
+    "96464857e4566d9c1986be4efcce7b798320722786bf7f69b9633eca6bdd7919": [],
+    "5865e57d446116f477dc8871cc03732bd1333b284a6595cd1b08e7d2abaf2726": [],
+    "84c00ea8a93bee1e44cfb1d12b49558597c8bbdae43b99b315e4e96f0fdc2aca": [],
+    "a962b6159d873f11d679ba87631cf698f87854a329ea04349f6aff182f4ae10b": [],
+    "83198d0d5cf002921552f7472be1e1d173ff518b032bebd34f25225395bd7308": [],
+    "2a81fdc1f59fcedcd6f9e15315be06b07c543724c0e6bc132b4ee2cb3820b904": [],
+    "54782076ca79495fd4b27779162ef4054963524d48a2d2d236f9f8826869d8d6": [],
+    "f47104f85f41463d78da5c1c6f7c17734a73d2e28ac616b574d9213ca2094332": [],
+    "596e52dd9e2203ae7cdb4c9156492c359b4d5ea2c4f00a148e00c34059631ffb": [],
+    "41d07738840455aaebab62814edc15e296131d261eb2a7a4077a752cc8d93cf4": [],
+    "14800aa51b8ffea8fd5c8820d79008002976a5a600ba09f09d8c8b1f068e2478": [],
+    "ee261d76a64cc867aa6bd88c7cbc4017184746b5b581192ff08033e4c5b17960": [],
+    "cf89878c9f84c3b12610367b04d71a269eccd6cb3612d8119d8c3509bb3b9148": [],
+    "41c06ea4566aeee2d559c7651f060511cdb2f1e607edc0802afb0aacc6596b61": [],
+    "2119437f491074faf9328ed28ae9502af76c40a9313f2fdcab858832565366ad": [],
+    "e9b2f2f9ca3944b07e5e47c451325b1b6c6d449faa1b3cb94f6900512f41dbbf": [],
+    "e47276f1645a986c6efaf9f70359c41fe58ae435406adb56654ec5e60081a38d": [],
+    "068bf49b08b4333d8fd9936ae2c158847ce7dd419e26d6ae6ef5e28708a7c133": [],
+    "a019f70f96dfd59c9e6cb4adc21324ca41a9b35efb8e49d5e41dcb5de10cdfaa": [],
+    "22533ea2db92412fe69379c94c37f592af8cd52d250396b6a7b1574507a57cf2": [],
+    "5f8acb7c23e305bff9067243e604afcdcb553f59bbb292296dd20e976c11a042": [],
+    "b3be679b6c47d40edd7c88d3e61622131ba66905482ba5121c510df589dd9ce6": [],
+    "221430909a34bb4d1c407615c0e2d6b762aad80dc8287e8c1edde51ee4d5328e": [],
+    "baa2d3638c29d8c140104203071171260c2073f191a208f4a91d83fcbac1d667": [],
+    "c2ff51a8d35cad8302d76be2e759fb7551d112127d895a29161f67432bc8dfb4": [],
+    "1b149d05e72e8f38c9739d7ccb2686125152477489d217d2c5197768a42f698d": [
       {
         "event_id": "",
         "source_id": "why-stock-market-caution-is-critical",
@@ -821,12 +962,12 @@
         "unresolved_fields": []
       }
     ],
-    "6b080427e033959db99c834ed1033260352a2872be0019d4f81c78502e9dab78": [],
-    "0e12a05b04c732e27e91516a3cafd0cecb9cf9d9ca1a49b5f6389b788b4276a5": [],
-    "6faf42b177207391ef7ff2739ef845823ccb8134afea8f17bc173bec400fad80": [],
-    "726dc51d795b152fc25d1135b0379d4ffee28d0277f81f12c395d6782a28eda9": [],
-    "2634d419eea0254f4b655cbc21f1625ee98c814a1d90d821f6bc22047690d711": [],
-    "855887aae2b3eeaa06c3f871755b5d4809b443b75308b10125ec02835f5c0814": [
+    "d3b2c3b416a34e2f19ad02496a1c41fda4ab73ab437ee68ac291a1703785b580": [],
+    "eb546e63d5bf1e72d5894bc3aaec7237e360236957f930b8eff619b044239c4e": [],
+    "0a3069948770ea372422f0bc58d35884d6de621853f308b0e94c3c8f4b1252f8": [],
+    "599cbb48805b0d04c555eb57ce35d520ddf0983e9afafd48952a397256fdb5c5": [],
+    "aecc7eaec6a2e91e0daf2d8f775736b477471488d6cd0348da9578a2ca0dfa23": [],
+    "cbc785912ea08768fa795dc70aa145b2934e055c5d1a8e0b802634a60399943e": [
       {
         "event_id": "",
         "source_id": "is-the-bull-market-back",
@@ -856,12 +997,12 @@
         "unresolved_fields": []
       }
     ],
-    "863f3ad62720047c46ddf31f7f8aead94c355bab86773d4a113bab55d282a071": [],
-    "578f33e90ab9c70fd160e72e3ea1a4562eed36d44380fadd0cfc44334a7b3dac": [],
-    "9a88501f23f239244c3a26b9580cba6a89869e014f3143c57cda7924fed09f08": [],
-    "49b011294d4a17fed9783191d8c290993aaa6ec88159892e4eb3fc1cdcbe2bb2": [],
-    "f892a2b9a8db389db4bb1d98395b48d29fa2eed360d20b443171ab89160e2079": [],
-    "6089ab98df52292da37313a38a6879d7080a49d473580d7cfa0b1d0e955cec1f": [
+    "08d7c267fcee8f5ff6aee4fbf658e46103f8cecec7687518cb92cdff9f34b20e": [],
+    "6203ad6e1ff6d093bd79634d0217d31781184073f9cddea3dcddb14f40058f61": [],
+    "3e03fa1945dc4c65fc0dcf386a0ca4bb17d7e744dcc6d004b2d0980c2c3b8e9c": [],
+    "559193964d74e8052789545fe16e621f08da13827199c4fff17890cbdc04216d": [],
+    "6691de027c9be3a31d1e554bc5cd39c9cad3f5527c327940164e0c149483dc5e": [],
+    "2fb6bb333b1e0d204883e584499e93616c18c110d6ccf4556a8edfed0da1d008": [
       {
         "event_id": "",
         "source_id": "stocktok-market-update-1021",
@@ -891,15 +1032,15 @@
         "unresolved_fields": []
       }
     ],
-    "26d4fb4a222184d51d15e4b89e204a5bbfbc78de28e0daa95926a11a411c93ae": [],
-    "4529066be4370630cbd4ef24e119a2d62816930765bff7db09e117a38149b7bd": [],
-    "6921579ba26194da44a73a446eac5f20e8ed2f7f4d125cb6b59d1ffb88ada96b": [],
-    "42142e8e8d1c0cb87ac560466a45ca0df5c2397c058ea692db36f09254e551b8": [],
-    "7de1c8addd759511d64405bb6a2f72c76d233a48ba5e27f1572d29c84cc3d2a4": [],
-    "a456f7aac72d12dcfdf478a97436de4ba193987bccec9130a9316eefa7bf6123": [],
-    "2292bb88d98673be5afe0aa35ba59d1f5a8511d5b34f7aad12c4d5a347529cc8": [],
-    "38e0aa28b929c955bda8107e637c525c4861e7f18656c366582429dbed866142": [],
-    "a0944836ea4148ec7cb2c912303671d2e236ccd31d10137ed72a27d2acfca04f": [
+    "9bbfd31ae26c9148ef25864e95a561172131d826bc9dc6b08ee8c3475bb91b71": [],
+    "b3aea110f87fd80e8283f65bf8705e9a514121e397f8010d351c6ba4983ac878": [],
+    "b914d903d604a3d4a49661afb92ad0627a5c1235e3cc437f3412d3695bbf8411": [],
+    "0b6aebe2a343b3844e2099bc185674e1bd5a3a46eff2fc631f2edbc8b48fb6d7": [],
+    "82970c66e512b3c2c6f8adfbb36aef0fde8141ae30d5e2920bdcfc0772f319f3": [],
+    "78364ebde19f4ff296262289728de634ca5c07fb190fe2e7bd48189560d967ac": [],
+    "f7cb188562e9acc6320367934c022640777ef1f24afb26ae4dc28d5ce9330fb0": [],
+    "842198c5bd753ca540d0b73d9979a926fa6511f7dbc04da09535ce407cb28db9": [],
+    "8f3585a89bb480de12651069aba14d317aad0af1435b9dafae489cb5860b3a82": [
       {
         "event_id": "",
         "source_id": "quick-market-update-from-stocktok",
@@ -929,7 +1070,7 @@
         "unresolved_fields": []
       }
     ],
-    "33daba2ebc9055b08589da81f2ef8c045a91c7361737788015d75c637f1c83ce": [
+    "ef892ed843c298105398f32d767eede6f5e4a7418838682b5ecd62fabbefd7d4": [
       {
         "event_id": "",
         "source_id": "stocktok-weekly-wrap-up-13f",
@@ -959,10 +1100,38 @@
         "unresolved_fields": []
       }
     ],
-    "c45c1a954e019e2afd4e26a97ccc62e4c9c449dec2733d25aba60b6184a05094": [],
-    "e113ba9386fb74614eb84ffa69c28de8905c7c890989261946d80921a566ba4d": [],
-    "3bafca0f1fee5dd99d6ec8f0fa4e0b7d856152a9232bd2f969073ede34d0df1b": [],
-    "7e97c0ce9369697de8d10b7f3ac076e65f92ee473092d7d527c5ae4bd7e56ba5": [
+    "f7cc6c4ed05ff5f561d70d3b922349866360a7d163dfb7aef37fcd81be2bd8eb": [],
+    "e15d466feebb5b902c9b823c970eb3bdac5cda30dd2c69c0e0d279bbdfe2a692": [],
+    "640e5271fca9c347d30b38adc2945eaae4921929cf0b04c2eb9f7a97f2afa4fe": [],
+    "b164c8a23adaec8b4de31dd6a4b2ad93c77e75b3369a8707cee7fa4fdd6b6c32": [
+      {
+        "event_id": "",
+        "source_id": "shorting-nvidia",
+        "source_type": "article",
+        "location": "paragraph:0:c0@char:0",
+        "char_offset": 0,
+        "exact_text": "If you do not know me…you will quickly discover that I have held firm that Nvidia is the bubble of our decade.",
+        "publication_date": "2025-11-13",
+        "effective_date": "2025-11-13",
+        "date_uncertainty": null,
+        "company_name": "Nvidia",
+        "ticker": "NVDA",
+        "normalized_ticker": "NVDA",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
       {
         "event_id": "",
         "source_id": "shorting-nvidia",
@@ -1020,7 +1189,7 @@
         "unresolved_fields": []
       }
     ],
-    "5f8d7f96c8cf04f2469fc1df11991426ac26e468c2eec3397752c897f0f06be1": [
+    "0acfa5f6c1cdee62496ac3b8f98da75c1d4103c49331b9dcac7028b5c9b0e3c9": [
       {
         "event_id": "",
         "source_id": "stock-market-hard-stop",
@@ -1050,7 +1219,7 @@
         "unresolved_fields": []
       }
     ],
-    "37b5134c6a5cd9dc46a6a74596dbb2c17c8254ccb0d6b519fcfb82820204c222": [
+    "7830caaad3c8dc5152f82701c1aecb64479d6a4b21b65fdf012c7d1d49235ad9": [
       {
         "event_id": "",
         "source_id": "nvidia-matches-enronnearly-exactly",
@@ -1067,27 +1236,27 @@
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "short",
-        "action": "COVER",
-        "execution_status": "confirmed",
+        "action": "BUY",
+        "execution_status": "proposed",
         "discovery_layer": "primary_article",
         "portfolio_book": "primary",
         "stated_price": null,
         "stated_currency": null,
         "position_sizing": null,
-        "trim_fraction": 1.0,
-        "confidence": "high",
-        "notes": "That means I will be closing out my Nvidia short position…to avoid the pain of a blow off top leg, then seek to re-enter at the first break downwards, when and if a euphoric leg oc",
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       }
     ],
-    "a77b3a1f4cdffe44f2e788000308b83728cb5fad83f5fa852522fb403aa63358": [],
-    "bb8697d6c1a169a6fe31f8def900f39e1544f64aa4eaf43e35a22ee6900fde74": [],
-    "eca624c431160cab4be80095ab0a70790c93948dc2dbd59d050de7c96edd3cfa": [],
-    "b5e39173d815ce0cc23cbb77b541d8f7fe3f71f8d510c0213c5e578959e21bab": [],
-    "14719cf718c6d0ec6eb33dba5659d4d183854d057d020f3d7db8d6eff592f535": [],
-    "0e963f378dca7557c8254158f5f58a8c5e801e2b23df15e50d3a80a67715f9e1": [],
-    "7446a0da9acaa59311f6a13200e88dba70e8fee8971f02d2f93e83394ff687bb": [],
-    "661e7ec4a3e8e507006d5da915733fb1ebf2c4ef5598775be6e928307595193e": [
+    "f2b847db272a1dd5225a335704f0b31ab109f8cd96263df3a8da42a2521a23ce": [],
+    "514d6810b286d587422e8fa3841fed90113cf2bb819dccfef07098250984af29": [],
+    "ba2527afa8f1a1178cfd36eaac83a9898146c7c445a95ba575a808501ba5086a": [],
+    "247fb7d96d093ef41270bddad89757a540c5bcd3e79aa415a76df8e48632b116": [],
+    "733ccd16e35a2cb7b75c8c599b40bced7d1f87ba06391eb6ff8836101e0be7a4": [],
+    "e1e131f53ccdb50690163b6d6a42007fcb8735cf97198435854b14f49a6cc953": [],
+    "81c62d38da9c47157920e68f199a2306ea60fca229ddb147072af708b3ef19ae": [],
+    "5aeb5b3c36be366d45546ab2a7af0b52e12ca25d779878b6e9c7ec75b686396d": [
       {
         "event_id": "",
         "source_id": "is-netflix-bullish-or-bearish",
@@ -1117,25 +1286,25 @@
         "unresolved_fields": []
       }
     ],
-    "9dab3c01e6ed837b5bc525826c965f66b9c3c59eb2b5adbaf1655e6bd568ea64": [],
-    "70ea70615c21e58b46d08890601f4e1643315bf7eed0c0fa690513b076ad405e": [],
-    "459cff95771198dcb30a790d696ee376b4988df7b0145c89c53922cdccc9dce3": [],
-    "c14c89fc1ff8ab81353bd404901552d52426bee15be7146aeefd950f1d64c149": [],
-    "555e5b87ea65949eaf9f678b94b5e1d7c744bfc8858a51dbf75a09f7466dbdaa": [],
-    "5b459a808e6ea89db7aae59e54bf6dd2ae3b8d2d59123d5206e12b1d15b2c653": [],
-    "d4e6e731ec89449e5d47fbde228b5fcdb8d6794f03edb5a126cdf582998e4e4e": [],
-    "ac1927c3d1bcdb8ad8b86303bcd35235fffeb86e1847fb65680d133684d2b1f9": [],
-    "a3c9a445c4530512c28a6163502d22972b23a20d3746260c192efc8089a6c5fb": [],
-    "3331f42be6cf9067a4a3643579fee5454f47013ca81fecb90c023df645158917": [],
-    "1222cc5224311b002ec3105d7a283438da9bd660810fdc88dcb7920c9d46374a": [],
-    "a59deb5ac200edc62fee52e64ee60449a851a9d3c5d85946fe2f06c0594406df": [],
-    "e472ce45f526c35bf03e78b3e98747a49e509f56bbf3fbb63b7d1c7602777cad": [],
-    "dd5444066b6d761e6d97a853d358533f067b70dc2ed7e8ebf3a72327c6586371": [],
-    "3d6106063834b24c97aefec8e7d7ec15f3d28f9ad0b2762f6ea1d815fcef7e08": [],
-    "02caf57ba2da8e02e2c1a0397090e032d84afaba0a368b0eed135010b64b3a3a": [],
-    "5184d5fd5c37c7855f2795b4380c30041f7c5a570cd6a16554d6f6a19f4353d2": [],
-    "47bffb29cf0100e5001bea0d78601ebfb5c899e03d0ec87e55f9c6eff482e06d": [],
-    "e66d077290e35d515faf3a59c283805459d7ba6c061e03bd42bb9bbc3b5d00a5": [
+    "2cbe1d944656f21909dba8c856e4a328016ea0b45cd0e17336046f45aa5322f7": [],
+    "79895b2cae8e385e7e5ef281e729cea579e081df40ea6a85f6a6482bb6a8925f": [],
+    "14434e8e6ff2ddfc09d9e29f503dc34c356c8ba25f4455c7f0c6b76bcad0efd8": [],
+    "2abc4a5e1e470352ce0656a02642b56ccd653019faea364b0f393eca98ab87e6": [],
+    "6b1f4e347b74bc0acc103327f1aa92559f698dbaa4137a04c691216b7c5f3c6a": [],
+    "14d57c50a54806dcd60252b1180e9bad67a50af555d1cd0eb7ad82a1f0bd6bd9": [],
+    "6be9e0ca3681109b9c526cf5a483826d73cd10e8a5cf1db396d613934e55d897": [],
+    "780d972e66aeeedd1dbb334516c1b0a324f542b2f62875433f757dc07a1762e2": [],
+    "a11f286e75e2b1f9a2b42c23b23394b5c7dcb8ad2ece959263f2476e5ca1c352": [],
+    "4f4f60859210e1a5963a95b84b1f52f4eaf97454c9387ed2dedb701d427321c4": [],
+    "362e26c788eb3df3765ad58ac7b73a71b07130bf05a2449e8f82ed3373431364": [],
+    "918733dcba46f55364fca3f1f5f417c9ce37040cf9f1ab74de278b4c9449e1bc": [],
+    "2f81a676e8b9d883dca57d9ddf4976354fabd7e275ef872656a1cf739a022c9c": [],
+    "83f0a150ef66b5874e9fd25c471d9a2f49055b9e60922d4f4a5b6fe60c25f714": [],
+    "1dad6838e3e51fb27a36c43cf396e5ab4dfcba52f8058e1a5cca2c9e1927b460": [],
+    "9912a7c1b4b1df47f77e92ee11e826d4b103010b5ee233c0efee0864ad91f7e3": [],
+    "5a5150a86338febb723030cff217b66132ea1ff4b9529380915ddeea8fffcde0": [],
+    "2dd90b90a764e704d2aee7d47500ae81de0212b4612004b2db6e41303324f4ca": [],
+    "28a2d265efe686d8db89b4232cd37c03efea5c85564c0774ca1c66f39985f99d": [
       {
         "event_id": "",
         "source_id": "only-10-stocks-made-the-cut",
@@ -1417,7 +1586,7 @@
         "unresolved_fields": []
       }
     ],
-    "2e9d60c67cf876c452a167859177bd690f498ef1d7ece169b2c90fac5ba925f9": [
+    "c5d75c7699713f08779dd113572ee3a7f85e699533602b4fccd08bf73080fb63": [
       {
         "event_id": "",
         "source_id": "stock-market-flash-update-silver",
@@ -1447,17 +1616,17 @@
         "unresolved_fields": []
       }
     ],
-    "adf5a4b1755fe65d35a40906f559c86647c85c6968da83a88c5b0d3ed22d71cf": [],
-    "68b562af0600afc46296148bf6c08e0792fd44ab9664192651a9ea6b8bb9418e": [],
-    "93a499cb3ecbabd6d1d2e4dd550505d84296ed9cb6d5ada6bc9954b1eeb77f7d": [],
-    "fae8256b251e50d6029bb44bf66a2df5b7b57d012110cd3fd3e541429dc2c343": [],
-    "d7720ec2a2abe9351aac02c85e9656fcdf78d370bee12576586e7987509b2427": [],
-    "e8f83209c8bd67698bce7879fb5741b011eb4639b20c5d04ed2bb1d6e2d27aa2": [],
-    "27129cc6b8920da55f0b6cb5058427d6298abe0c453fe39db4757df28a768be6": [],
-    "8b1e571e891493a83081c42e6acbd73db47d22c90f50136234ee04502c84f8da": [],
-    "ebcdcfdd2b34e5717935861d63c5509d96864766e402a262afa99241a5497c75": [],
-    "f7869d36bf6cfd4fc4abdc079883a7db5aa367bca28edea3970ec4bf3c9092cd": [],
-    "57b31e7a32c1749ef7a0430c686932881b5766f9a72ae92b61684b02e6cde264": [
+    "fa5642bde30a234a8e7587bea0704ed77c70c5e7dc45b36085f3c10aeb257dad": [],
+    "99f8d8e73c5836b5ff540c0a87a3e353aff0a549e94c4c28eb988aef1c0f8708": [],
+    "cdfa5cca80a0f0888649cba1b3894f0d88557aa30c93af4a335feed7d30fe332": [],
+    "35866c88204540bc85a648b4da3dd281ee48f37b4b5897fe0c2ad1707bfeb8b3": [],
+    "d381e8804d73b9e82d76d6ac86e624eb40850d1fe4640d14f656a178b2e4dcbf": [],
+    "44074a0d88a0473fd9b8860806a5d6e33802ac81d086c9482ecb1022ef9f1922": [],
+    "757e8fb1c76cb2fa8a088a9ac94a1bd184c26c8f96727523a22c9f39c8236fca": [],
+    "e1d1880a36fc278e1a100d1443fbe6a706bd7db6146c32dfa8972ee2e1582cfc": [],
+    "51266632f62c3ac2697f83034fcc6182ab8b5d36d65fd174c47351b9185c3f5a": [],
+    "c7a6d285416e7f83da512bd654f95c87cda3ca361f681c3ea36fd3257d06a927": [],
+    "e7ec928c00a86f0b873728a573fb802e2bd7781cd52536153a7c493f2e590e1b": [
       {
         "event_id": "",
         "source_id": "i-ranked-37-stocks-only-one-earned",
@@ -1571,7 +1740,7 @@
         "unresolved_fields": []
       }
     ],
-    "e2a4260b9b6c4c14974f4df77d8985d45f73194135d797684ece48a54db22e99": [
+    "84a23430d89e7e6bcdd8e51e653f8b935edf3497cd146a61a6adcbb634f62202": [
       {
         "event_id": "",
         "source_id": "important-portfolio-update",
@@ -1601,8 +1770,8 @@
         "unresolved_fields": []
       }
     ],
-    "4455aca4b4710fdf2ab68e156aa462c3ba848a142f01c4ca30ba81e32ef0489a": [],
-    "0b5342d04b7f78210f9579d047cee930b5582e9f44622d16420e4c6cd21036d4": [
+    "c91d5cf78ac6a0598b789084ace76eec00ab72f688ab903458363a201617519f": [],
+    "05f43a1a73b42c9fe184a5af3de7210e4b36399e5c349bab5d7f26d97c13456d": [
       {
         "event_id": "",
         "source_id": "buying-this-stockagain",
@@ -1632,32 +1801,32 @@
         "unresolved_fields": []
       }
     ],
-    "0acaf10f40060dca83c36bf9f1aff2d4d49c01b1b66da3617fea7fcbfc6f06a4": [],
-    "1098e92bb851f22cfb8340e5a3f75465bf573e8dd913c8077c0ddb33f089252e": [],
-    "b0ffc0cac427eb892a7dd6bf956500b1f3fb8886fa3d07977931cb74bb01a268": [],
-    "d76ffbfa068a81a798d86c64ee46a959e6c78e66b3b1f9db9a2f9a06177e979a": [],
-    "8f1d94f75260e2379d7aab76633da9bbe0975fa9e05b71c00440749d8223e82e": [],
-    "3c9b9f76d49296bae360da3df8055ad98b367cd1d0bbe07e6cc10dbfd9536659": [],
-    "185d05f51c2bd92c64cee15fafb46ba73239e13d4a724c3d21bbaee4853f4561": [],
-    "2725d6b8122bb77388bcda69e2f37c13dc8cd874fbe321f626699411bfa4ad0d": [],
-    "38e8fadd6ea2d8cfb70e40d80ff91f5846bdeaee8796242109b8dfa6932b8d8e": [],
-    "c88c024523b2211b606a0752c0a30349bc347473788b24a35ae5fe3333a6d65c": [],
-    "cdc056b4a16564d45221a9ede4f0e057d48ba5fe9e48a4f114d463473e8c73d6": [],
-    "049b0fb5b3c442a714cc8a7022101905414a009ab3c034e9a9f7767de6ea44b2": [],
-    "65755a1f349a454903f60ced07d6df24fa3375c6da1da019cb5a4607ddb34f41": [],
-    "ae07211a53b4f4ecc0dd1ac3944c1035d6724ad331f4f4deb84c6e7f9f5b3256": [],
-    "770644a91bb23eedb4714fab13762445ac0f76618b496c74e7e2ad8d4a6ed419": [],
-    "974bfcb243488c7ef25a010eef3285722e7cdc3e0b08be99040d5c4c0b64d210": [],
-    "2f6b1f9024084f7467ac24bc8da5c9062bac7ef9038b5f6ddd385420144b3ad4": [],
-    "413a1adce309e15b576a8483f2973da5506e8ce6a7a028dbf0169ec85c92a6da": [],
-    "fd9aa1bdf6627a54e5810c3b7f437362ade309c54b48f6e85c5e5592c4ea6d92": [],
-    "aa87768bfc6b3c34c8d7826a557b5d245c1f3f96476037d89759a4996749d73f": [],
-    "e1089e302a84805b4ef5d47b9fe3102707de90da9fe9ee4670468f4ef5d894a7": [],
-    "5024ed2c11f34d25ff5db97d355d8e4ecb8a84472acad74ef7a84b9380049642": [],
-    "575f15b63e0cefb86698fd217a059f767ef2dc3fb900dba999b4a762c5cebfa8": [],
-    "694064212e3651d8476352847bc7d55d44cc405578d405f7f678a80e247bfb4d": [],
-    "783fe5aabcff114d2c7e5aa37a84fcbdbddec175a81cf8457691e9643dc4c8c5": [],
-    "d3ae9578df6317171a4d6a7c6ba0f483edb5ecb21370bcc1fda65a419834d921": [
+    "9f1ad88ebcd23e3500b1d9afc6060dba927c0c8e1f999d584e68054ec4bea999": [],
+    "f1ef0386d25a66be93474bc291860afe9be8ad66c4b7408732c27d43ec888989": [],
+    "5f731bfd4436a25c8385c3f1d5f69c61e7f8eb4913333640e624ec3ff396ab2c": [],
+    "c65554bace679963683afc0670f7d493ee292f2bfbaa05584c5e0f6d7a365995": [],
+    "e4fb030035f1c149dc09b2b63cc6246f7a54e1ed959161d8313d48f3b2a0da5b": [],
+    "d0559bb7f5c1697dd2eb5ba595a68156553724ca3d10113878e37d072995f30c": [],
+    "d2d1ef174605f13ceeeb6c5ea0ac387ce39cf3a86611305f8d37310be052c894": [],
+    "84cafee4e25d5e11acf4d3de4401248050d34b20fb918f53c48e1a2e2e5a6dc4": [],
+    "699f43df5020e8a991ff17fbb5beb215e1903fb52396d59efa300972423afd3b": [],
+    "c7da74b74e8c6b9b4ab22bac56024e00c686101263fe9303f4ef097edf55b47f": [],
+    "53a1813a5067cfbe04f30d739ed2fcc1e7aa331636cdf89c46ded29a75e715c0": [],
+    "22554bb38fb709843460d85ff4f7524951ba73adcba1d88d583896cca4b625e6": [],
+    "0d6875e8afebc8e760d43005ad0d654e5363f198e7d007273afb806cf791a02c": [],
+    "1c9cc7682d4802f3c368a1b77bb5ceae3598c187d1e1f5e78293b7c1c04fc52b": [],
+    "f38fef8e6f76ae763a75ddd9acfefc872befebc43bc137f1ce4532084e87f73d": [],
+    "6be2c937b20f3c41873abb6b711488c3d2d5ed37027f383b410508d639049f2c": [],
+    "e861dc93c6d5ad14e5d25bde332304c646b6fb3aaf91d14fb5765362676d2f5f": [],
+    "bbbce94707e19b912263e75c12387d90efbeaa504ac9ea5658b4e0e61c0557d3": [],
+    "1c71a172bb569680ff58fd5a6144aedb17d719f5f6ff4ae7f7434e85b31d7546": [],
+    "4eea550252eefa5b2d08922ad0c3119cb4cb477bc91e32defff2bd4a0ab3601e": [],
+    "928b9f017f2dee47ddef1c4acd4c9ea4c57f37b76daaefe44e996341340cded1": [],
+    "d8865a6a736a7214df568518790fed7f36730ecc72973a80fc868f4243233a61": [],
+    "526545d410e8cf413c87c005d8c3ed7ca3fe1c2f967b71d2f5db3a0b9d157716": [],
+    "dd34ed64b558bdeb6fa01179c519233f2c0c620cfdbe14cf0919b68adda23ffb": [],
+    "08ecb42d446e075a835065c5c44b89a34305f4e43d3dfd758f83bc84748ab407": [],
+    "b34cd4da1d6bcbaf6c7c0b859554f10ee26ef4659c73cbae7404094cd1a3db61": [
       {
         "event_id": "",
         "source_id": "5-stocks-you-asked-about-2-are-ready",
@@ -1687,9 +1856,9 @@
         "unresolved_fields": []
       }
     ],
-    "753554635c73b43cb1eacd0b9f4219a2f10ea24a6ba6c09ed9b8466168252532": [],
-    "3508a2e778251a53253d98a75641f8361e6a089c86bac7d175e0fe0e3acfd01b": [],
-    "e49f6a75d8c8a8ecb6077669d73826f616380246959022f29dd9b9c31abdf7df": [
+    "7a9c9b9ead1b98df329a5a90aaf290282dfe0dd91f0e1e43233bbc8527e4cf5d": [],
+    "00bdc461b5e6c4a9be64dcf96f0ceb9be200112c6b03784b5ea71d2cd6aa65f0": [],
+    "388983f1d7fc7938edd89f3d6674cfd020125bfdc72d00b9919eba32a2d48505": [
       {
         "event_id": "",
         "source_id": "brief-stock-market-update-when-to",
@@ -1719,13 +1888,13 @@
         "unresolved_fields": []
       }
     ],
-    "66a3631f9331ebcd470871d01eaafb7fe8e227339de2f5b00163d867801d5d5e": [],
-    "569f7e398515dde9065433df579897031f3fe67655480a9938d373f3c3b0b0cc": [],
-    "4360231a4768eb858c7ffcd7e738400227ce0655f0d3a9c5b8511404a72bb13b": [],
-    "b5188e4d162caeb2f914cceb3b01634c760c6250520275ac818284cba726e4df": [],
-    "7f963081d1d691df822547e00a5ca9ab0ec84560295dad514a2ad55ced778932": [],
-    "2b3ec72054b5ad0877dac948c39ea5d38183a0f470d8a52186a45d5dead4beeb": [],
-    "4a4e1a003f03baf0eb26116e16231776d5ff8306e6a5d78282f9423ae4b6d355": [
+    "0ae3241fc6b23db2d48b990d76b07b820b15c6d41ed8810592e6738e9ced2101": [],
+    "7c93c24452e85efa4992680b052c47292fa4fef256f95bae8cdbfd02fa463210": [],
+    "4dbf73421d782894a6601ae1994587247c59824178d854244e702df2a0eeed00": [],
+    "9f04705ce75f791e577c34ea8dcf2924023366527ba7abc3544497236ae4f2bc": [],
+    "ced6a245b54407cf56838303d17d71b49f03a72fd0c0cd1c8dff5d5a2d3c7cac": [],
+    "fde4d70de5cc8a42275d3facc4878500faae3bb5d529c871df79258b0e4c5123": [],
+    "f9c9b4c5c8884ed22518c0cda22dbf656d44a1c158202920f69eb79215404374": [
       {
         "event_id": "",
         "source_id": "stock-croissant-alert-649",
@@ -1839,7 +2008,7 @@
         "unresolved_fields": []
       }
     ],
-    "2bfdc56f4ae9bab34324ecc33f7cc6513c91bf31a7a961e804b3effa453d1bfb": [
+    "2e768b2be4588fbd5bee2aa5426ed1e8fbeb958347a30790b6f8b70a89ae579b": [
       {
         "event_id": "",
         "source_id": "selling-off-a-stock",
@@ -1869,15 +2038,15 @@
         "unresolved_fields": []
       }
     ],
-    "a80cecbb69705ba730fdf99a1ab8ab276a5da955c3b4a10da6e9b72d061dcd55": [],
-    "a0d12299837a5505932830ddce292381f0218259dfc2346209fc3c5cb02080af": [],
-    "4b59e931eee0ed227a55b2717904c0b359b73ac449564a15d984a7c779370cb8": [],
-    "4aaa36d619dea674584ec4e7a79e8e08cf83be7fbb49c0a7031d521ab8e994cb": [],
-    "5925480bd9757853f8268bc923d505a70b1368f7cad98013b775dcb8b92ea20a": [],
-    "d88ebcec1bb64e52a54dfeb0ddc56f4b8f15ccc3e7b02369ea9592c9a5f3a4c6": [],
-    "51303143071bd3a82eb2c120cd9dcd41af46c3afa8a7a8d20de23b2128da0a7f": [],
-    "ba0c8d05798c9f86a52bf7529f4c6067c80877384a041f38482779058181afef": [],
-    "1867b4a27dab5f3058af388f324734247386cca6098d2711726f0cdac73bdd74": [
+    "3aa575aa45c35c0abc5cb200b7e171fc85e769ed9c00480ce4ee8102b6e42364": [],
+    "a47da7430298179539359a3c248b60e9efd4a42377702ea85d134f0355fcc91e": [],
+    "20098a4f1f18298a9edba916ac5413a981892c872bf6e189f10d6b37b32ffb5e": [],
+    "ca1fb7ccdcd771b3f95862599c2de3e205551863fc96c9ef6b63d3911eaf9107": [],
+    "78c0d8faf812c48f570f578b2497ddeeeff304313c79e23456bd6cc2f1c0181d": [],
+    "f85baa85ab539aa27f49186beba730821125ecdd3ed8e0a95e6283ef2ac695ab": [],
+    "668b3b3f64b1a8db9f0d33225c0fddb695c34a95fa739c03330c44fcb2cb0256": [],
+    "712bf3000b773efb82dcd6d566e10dd7fa9efcaa034c75c30a45e8d7396b7499": [],
+    "409d84adb060c7726717166f90609c9f5d4e28218d2a53212131d2041898b4f8": [
       {
         "event_id": "",
         "source_id": "palantir-is-down-42buy-the-dip",
@@ -1907,7 +2076,7 @@
         "unresolved_fields": []
       }
     ],
-    "7cf2acc980967f019d9de57cfa957235e7eeabe7feee4cd5e73c208948064b86": [
+    "c5d1f8119fe417dfcb7b2cf632cbaf4a0e05cfa058334577feaddda9215493a8": [
       {
         "event_id": "",
         "source_id": "top-stock-has-the-best-vcp-ive-seen",
@@ -1993,8 +2162,8 @@
         "unresolved_fields": []
       }
     ],
-    "9b34c4445595166212c342c32b8d54ca5edf84567b3af2e250ea2c16af342ff4": [],
-    "6646886a40ec2fef6af13717d4945e1db44c17fa0e1f9e04e49beea0525f93be": [
+    "0c787faa0e0b59f2bab6ccf19683417fc338eadc2243410d2fa8845000952bee": [],
+    "7631a29d9e495f82a1a4072f4edba9b5b7166827a33a2ddeacb07398dcc927b4": [
       {
         "event_id": "",
         "source_id": "sell-alert",
@@ -2024,24 +2193,24 @@
         "unresolved_fields": []
       }
     ],
-    "6be4604006681a96d144b555d30071b103e976022ef87d61e328b3e8ee71df31": [],
-    "0ec6605e30054e7f4cd4b77f554f580761e088425bc6996a66e45dd8ca498a7c": [],
-    "464b30549d777468d9cebed7b4ae33b97ba2e9e7dd9f9322c1d665792df61772": [],
-    "a18e4ddd3cfaab946628534c8a453e986dc5a5d785cfc302168ff0a612389e14": [],
-    "6ae4a2a7311c45f1840ce0ee7382f85dc4885698982132eba344194a277aeb6e": [],
-    "1dc26269c3b366116611cb312e425f1b40358c5d4631f42bf405a2cc3aa16ca5": [],
-    "4205f004e059406f2a0fe01471c37ca68abf52129ec2ebf65452070d0e3068c7": [],
-    "dc20816bfc47fa1679498bb63e405aaf9c6ec6293a258fb0fbab47ac8aa8bb42": [],
-    "72a04b2d689cab3d795a9b00003c6e8eadf17c1752483f031e6ad23ea43bd0e7": [],
-    "691946ec95ea2821e328e54d2d0a12f77111a21c813626758f64a69f5bb724ed": [],
-    "3495eb140741a985ac292f67869b8d962ca67e7a74576eab5009f522533d9148": [],
-    "23c60a13721c5f4355a1a697473312ed81e8d5af75e07bf5665ce6d1fdcb0c2e": [],
-    "5ae006bcac892d5dfa7e4f0c5b43cbf366d4451d6ee9c414406f26aab72ab319": [],
-    "5d95e8b90f7ba17a3f74755e0ed7a39691167f19aff300ac3d5fff44614c5a5b": [],
-    "d4c451b87ca4824fabeac8ae781b1a1b85b11516fb8d23abf9843d38fab60f9b": [],
-    "694c06d6a6628ec4809480c56cb41e2ceb95a88e929439cd0dc27533d28ef39e": [],
-    "1c427f15b90956e9e8ba624a53539367026fe217a337384a47b21bb705014212": [],
-    "8324285efb734cd4f920dd22435ed899ceda06d14dc42da4a4cf4b5d0b199582": [
+    "d1982e828cf768dd0ccb6f8018e57461e735c603e0e5663882ac8237b05399f4": [],
+    "86109765f5f117e57ad8552f1bddd5d541310800ac27980923e989130c7b2d02": [],
+    "e0ebbad8f2886a4f603a012e5d7ad0558334262f7b4429a86259b03656897c96": [],
+    "180689ab02158e6107908cb4dce48d074ad4d81f33c0f315f7a4555bf2fda6f3": [],
+    "dd73ef2cd830f07885a81832e5eb2b4581508a7c8ff885c883b97381402e51c0": [],
+    "09fa789e1fe1eb4e7a08820f22a548554d22834966b9ca58005cd7e5364d0b25": [],
+    "f1447f54e05e99a15ced7dbacaf0788159e9c781271aedd3f9ac0b90ecca9a83": [],
+    "0ec6f595c96ad0d231c1acf969d15afabf872bc8d9ab1f4d5e66d6133f4cc2b9": [],
+    "b139e74df05688dac10931dc161e8d4a54b6d0e2099f10fbfce8a5256d59ca37": [],
+    "5ea0b71753eae33843bc49bb7a4ef830c7f6283806bd592a990facd8679e5618": [],
+    "b3245e3d7963cee0c07d65728c099b69f784d3c09f05e240bcbc635786f1bec6": [],
+    "87261ef72ca083f04fb0388f26a59413e4b0bd4727ea8b9f613de6324cf33fef": [],
+    "c3f9a9065af952140258436c4bdab52cc536c953bd5a5dc77c22869df9728a06": [],
+    "078b387e24cd82a45682d4a8f411d5addbbe5e8d70f9723147f0d78510f60d89": [],
+    "989f0ef10eaf38a657e4f6047e3651cb5bd64ccea4beca322d490fb8a41171c4": [],
+    "eeac108edf10e540c2fa77f32edf09bfff2d035179d7f534950c8005e203c32f": [],
+    "904a26a80875bc4e93ffdfa49832aaadde1af084b70777540bf9e3f15dd1b803": [],
+    "09146c5794aeff6c76a63e9f94832a0860b6d3cf77dca4a4ed611f0702a1aae1": [
       {
         "event_id": "",
         "source_id": "stocktok-etf-20",
@@ -2323,25 +2492,25 @@
         "unresolved_fields": []
       }
     ],
-    "1eb369b1f14b96cfb785ce7594c7322dff615c04edda601d1203d46b94acdfdd": [],
-    "404c92e8fbf08ca08472fc1bbb6825b75250f7ed1260b69b122dad052243d5ed": [],
-    "6aca9e0a5313667a154ffde0025baf1e7a2d2384f5ec2ea5e31bd92f6ffcb439": [],
-    "b98e7217dc5bf28c5fc40dc3cbab58e5efcadefdfdece85fe11f28e51c331e50": [],
-    "5ad2c76c7d702b8f76daf2d0bca65b9fad1675599148b1f73996eaa60abb9a13": [],
-    "6d4fcb0df4534737cde8eef4fd46548ec99e9ce1071bc9484e1ad7e4e6dbd33d": [],
-    "7d1153afdba1cb39d3c94148b944dab76442a6316632bbc6893905dd11db3def": [],
-    "7db1d88c5249847dd12a14d062cc3420baffee609053764db3aa2c7a80008437": [],
-    "cf91a4cb859849d9b41c31af7a1357b708d75b4b0d2f3870587648fb713fc82f": [],
-    "e434eb09b73398c76e3d0e982cee8e7f43951fd4c870d0743952927576c88956": [],
-    "3e0f0123c0d127c4231392d6cd7ff073b454efe3fb18bea198865ca21c0b7ec3": [],
-    "1cd8c06395b8dc00a422cc4e34414b87742cb6fa5631128758a4530eb078c993": [],
-    "3dd274ccb7c440485a4dc763fa3289d3d521969abe5ba5d89608c8b8c1347bc0": [],
-    "630c0b8e62fe3116020f618ad101ab8afe8ff845187e94a868ea153e3f141699": [],
-    "edabe2613508775c128d67f51512dd3e7383956b2b4fc7a9c1918102025f93c4": [],
-    "750dbe8f327bc587752e9d58432b910fadf8e6583c552b1a1cd3158650f08a38": [],
-    "0de6b71205c0bbdc0bd19cc85721506c9def939a01bebd80b9d319fdeebda3bf": [],
-    "5ef32187e5b0822b9420b7b9ddc8bd5b9ae10d8aea0b7e02b967c4d1f84de60a": [],
-    "03be111241ea3ffc9e05e722036d616ac893d4746bc8f9c368ca8060281b8389": [
+    "af94343dfda38d1c0845bf480b9e632a777c2709cc7f1cf7f6fd8083cabf9251": [],
+    "15127a738d8385b80931d0240d9e2a25bf989cc59ea8b17253d8ac5ae4ad57d4": [],
+    "5a57b11ce0f3a9bf34bda3d906b49037eec61822e04585061434d7ca682eea75": [],
+    "0e0ee01a318543a11e96e3d8acd2b8a192d8d84494cc375011870425d163194d": [],
+    "71754c6c0db1a839384c1f774b9c6744bd80cb72f39edc31155a405905ca6d6f": [],
+    "39f176310ec879ce2b35127034cef4a971200ef70d81713008c581b277b93ce5": [],
+    "1cc54608a8e6c3a1aa15e8f9f97ed4d9dd589f7cee1f41d0deb6d9a39f2a8f19": [],
+    "4d92597772960df02810b62dc5f22b6b7f374130ebc35453b8475040f3489999": [],
+    "f933e305775de4d5386a58ae13332c177f4f2b2b3bc6927675e628b86f943e47": [],
+    "0b6b260b426200ffa96b860742684b0fb51ba9e18f15efff4efd368b733f8944": [],
+    "53fc519281847cb3c00b2317002d322a1f42b30e1536677363e22faeed378710": [],
+    "989d70f4de81e8e67610e4838638c8fec59955629bd119f49c4c3be6b05eaf48": [],
+    "ff7cf945779d8e7e620e0b5d42d341d6196cf603599727b3e736fdc244a9bcaa": [],
+    "aa3b2eeaa2599d8082e649e249ecb86de8b091afc7abff0b9617f2239e8ec494": [],
+    "9073779fa0354fae6d43907f1014a3d6ed1ba4161614383f54fd86a26eb474e6": [],
+    "121934a00b7c8bd84f52242b18ef1b7ce653a90505bfcd051d9bbada5e6de2c9": [],
+    "7b2d4a2d30fc153d2cef9db5037afcf19caca119f0976384492243bf7228dd73": [],
+    "0c7eb8b34fb3b81e0736bee16e94da8ee37f90caddabf70484afd645c06d6a07": [],
+    "d56f4e24d575d0566faf6edef5a0c715974f5bb966e04e2bad44639973c2d5e0": [
       {
         "event_id": "",
         "source_id": "the-stocks-i-want-to-short",
@@ -2371,8 +2540,8 @@
         "unresolved_fields": []
       }
     ],
-    "fd30f82a20387a8aba804320c26857729ba6e188fe6335dab334066024b1bea1": [],
-    "9f11252668ff432f12683883aec170ba64bc08a1d00eff2d5aac2c6eef428266": [
+    "06219148c174a764eaec4462c7de8ba831d005c5326607995ecdb4d2cef39b82": [],
+    "b1aaef320282ba06df994f1cad003a025790e9b6b6f715f82fc183da4c8994b0": [
       {
         "event_id": "",
         "source_id": "the-last-two-stocks-ran-30-and-34",
@@ -2402,26 +2571,26 @@
         "unresolved_fields": []
       }
     ],
-    "4f3310981c22e8e39eca4932434d9bd4e2a78b6cac5f2e2cd780bdcd412ac1ba": [],
-    "b6967e7b74cd33b3293129a7e4b99663113706176f2536655d2a71661b2da8f9": [],
-    "52dec55c5ad1fad3c6d3400b60f72c3fd11875fb6a1ec27e07d1b7d9f395574d": [],
-    "5edf9ce15618fd6dab4a8251eb60f5a615dbda15e6a47d1a9bb80f78d3233d77": [],
-    "eb6b2d84a2a0336c11bc7d5abbdcbe3781e613e0dba30d4ec3a8cf5d4a659f9c": [],
-    "925ec095c6d2f8070f5f5d7a9d5264c7630e576a0e1c6d131964290a3314cdca": [],
-    "8c0557159ca68e72fde4d2d8afae1a271f36705e6c609207af090a2dfbab4b1a": [],
-    "dffef6eb7665b107165248b7ed24495dd91ef8e9c67e9029d998525d74aeeaf5": [],
-    "a25d637071581d6b0a0d99cca701cb88fb58f77cc3f79e924d5ea07a7dda2bfd": [],
-    "7e8d1c72bdb58fd1f877672c823487c1bd48b599af75a859d3d10064af286dc2": [],
-    "5c3d9a1d284099bdf1e2d7b1b7c356c7b58213bf3f5ecab372d76bde42011659": [],
-    "fb7a7e8af0ffbc164ad1272dfe205c57c95039cd0a745b5391caa308d6aa7f00": [],
-    "9382aae19d6f016b53d30eae0077696185b49daf3804094af60d4faa6ff1954c": [],
-    "a61651dccb3f1450646319cc6964f71230b9f684be970d46d660e1d8bff9dfea": [],
-    "51a37d08597895b4267016432bc4e7070113be5acbc2021d73d6eaf9423f4d81": [],
-    "eb97cdc532b8e5debb4b5f66f02e8aa10dd09d93f1d47c40ae22645d6ab48c33": [],
-    "d0e3487543e5ca5a16a47ce1330a664224db5593f4cc620bd0b36436b5d47451": [],
-    "33ba663e31b74b1bd00efe0a69d769baf1c054106169e6787f82924c61ddcc59": [],
-    "1569a95e5c14f2ce88e1581756e4baf2a463c3d51b556b9b3b547c9b217f2d0e": [],
-    "8739e50ae2952055b7211b69ef64417ee27d0767b5f8717edc4d408cd05edc05": [
+    "99e72a3f89bc410b36a46ba0ec88a2affaa0e71c87de33e318f63cdf2ce5a91b": [],
+    "2110ff1833b4b2dbfe64628b1571b99d0f9156bf7b641e9b57cca082a515f4a4": [],
+    "3a3a6ec286e1d81d78a019788a1c16ddc2032c6111e33556a59384b9a352f459": [],
+    "627d72e03d554db0b3b51d56e664636a009d0d78659c57d8b67a493ea5489274": [],
+    "36a3b61f5637e887a3c892aafccfae8ff6b5300ad80462c20b7ae5bdefd3dcb5": [],
+    "5bba7788f8e2457295ab74f82ecd524f2b33af94814bcaed71901e10d44470a7": [],
+    "02392616da4b10c55e2dd40256c8c090c8d414e6bf3b4bfcd2e16f195f5827da": [],
+    "34f66ab58c3eaef14d1ef11b9a962bcb7445e392614c416b6867338200f76032": [],
+    "b51b14ccfdb8af64100f1565a7a37ae46d63bb37eb7830bd08f8314fff911041": [],
+    "2737865f708d2793b4e0267f45a0ca92d2cde5d28cef19c7046b38e56cd2c648": [],
+    "e879d7ce92bc06cdf4be6f4c5a3391b48e46866f80f890ef21ff56913eac5073": [],
+    "4805ebf7a8f3ace838410b9bf16605ab270e803e573953f11210380cab99b771": [],
+    "c676ce45708d85e1ba265eb5189e20e48d53003659a71b059d65fae528999737": [],
+    "04cc7e18622f215baf6e789fff5e5ad9ff98bfdc1ccf68621bcd0c1505d11ab5": [],
+    "06dd9ce6cbbdbd8ce330889e3661cf0c54ff672f6d66cfd2c7148c47aaeef7d4": [],
+    "bfd0771a1194aa51a982bb2eea1e87f298623de2d700a95250951067ce0ebed1": [],
+    "49f6f6cc0020907b8164a05eb1070d14cccf8d557a7d68fca44c5095918f8fb0": [],
+    "92b647c61735d60761157d192016b38584af48f323cac78cd252ff3c992ef44a": [],
+    "70072af36db672b16e30ad16f993515363385f00729cf3d5dc44f399d36f12f8": [],
+    "e444fa93c8488208af4e864d2afe6ced0a83988258dca0bca55b978d0a7d5585": [
       {
         "event_id": "",
         "source_id": "the-average-midweek-mover-stock-is",
@@ -2451,7 +2620,7 @@
         "unresolved_fields": []
       }
     ],
-    "ea0f8a78fe9539dc12253e8c546efb5a7ef69ccd54839c26e29537e229a5675f": [
+    "11bd4a32faf52c67af6202efa630f3f834fd4af372d4a0fcd578e6634533751e": [
       {
         "event_id": "",
         "source_id": "this-is-not-what-the-beginning-of",
@@ -2481,9 +2650,9 @@
         "unresolved_fields": []
       }
     ],
-    "a882912b88e1e18a0e63c96bb0721901990ad978005c67e3465efd53ad89829b": [],
-    "f1f8879ef62d79996b8ade98969e04510ebf24bb06a88f5f6bba1da82f652c9e": [],
-    "62f3dba5aaa8f6e991ed69bbe657b8ee93722f528249569a1c6d27e1d6ac7c93": [
+    "72e8a10be1b3097f9b367007ab24c2a2bb2d779828a6e2a0d55491ccc1430e49": [],
+    "67198a6b1dd2ad17a53cc907e37956a8fafd56318068a98a0bd69670c58bc134": [],
+    "106021d9ad38e7c77409c02edec23a350886736799bfdfce931bdac714256cec": [
       {
         "event_id": "",
         "source_id": "nvidia-investors-should-be-careful",
@@ -2513,7 +2682,7 @@
         "unresolved_fields": []
       }
     ],
-    "18a56a75233f862c893f112e77c0b4f3cf51c503f0f14023440454cbab8355e4": [
+    "603ee10529465cf181aeec2f281626a4a2066bbb42aaa66378b8d028c04779da": [
       {
         "event_id": "",
         "source_id": "flash-update-this-recession-resistant",
@@ -2543,9 +2712,9 @@
         "unresolved_fields": []
       }
     ],
-    "fd3e0ab2e57d368fdde3a3c22effa30bc8127ab5db8a81511915bb584358dc86": [],
-    "f059ef239f4ce47ed03e62aa46d2f965f09d2889db37d782320c2067387ad2b4": [],
-    "0f26d50f488e986c57b3ea3cf627f316ed58826ceaa443c85fde6fe98e799d68": [
+    "37b326d4cd905240ef73cd0bc05e605e183d4573f0735fc9883436bdbac0e513": [],
+    "ae78ac9919a8f467c34a2e0a1d34b8577392869b74a9f399bde7b42eeabbba54": [],
+    "6401d6baaef6e72f809833e59e56d67e0962c08081f9abfc335a27d5ee23c70c": [
       {
         "event_id": "",
         "source_id": "i-found-3-stocks-hiding-among-389",
@@ -2575,10 +2744,10 @@
         "unresolved_fields": []
       }
     ],
-    "e2b65fc49a30f9f773899903d4c77519d2acb33a3514a5d36c924ac3f0d6ca07": [],
-    "01593acea894a39461c55623c29955f0309dd4771e435aa5963f74bb5feb0080": [],
-    "be2a83474756e43f928a0b0ca50f8930fd09416ac4744f22c29e02cf5bb39eb4": [],
-    "263c16bb45be2f9b5f9dd780d4cc06ea42757ff8c5f204a6fbc405ba6b6101a3": [
+    "c464c5c7d3553e0de174645916376c2ab6db16252b1eaeffe82ec3e33d8bbade": [],
+    "7d1e46c094c32b61fbf836765436f6ad8e32b8b7c68dc32f754aa1a43ae81b0d": [],
+    "dbab26fb0f4d79081730c16be2eefaf9ac8dd00ec359141f3b68a602de3b53fa": [],
+    "bbec646dd47b0e7a14a61a32182d9cfe4312c03c314b9b850b2b010efb4dd7f6": [
       {
         "event_id": "",
         "source_id": "stop-buying-stocks-at-52-week-lows",
@@ -2636,10 +2805,10 @@
         "unresolved_fields": []
       }
     ],
-    "1235f726d8831edc1bf44164e4416223dff4ba892531c95ff6b799caacfc573f": [],
-    "12e5653427b49d39a79a3f0d984dcbd1afef9db7bd552d3913f3b2ef7d07a4b7": [],
-    "1d0a77760e9d4c4c9a50520e371563340ca21a0fe14a2d09583f3955aa641c41": [],
-    "b1a8c1ddcd21c1cdb90399a55ae4f79afbd1bb2e25a16b1f2373da77345b582c": [
+    "7647d5d2ccf1355557158e6148be7aa8b11b30f6b981402591552948d7858e51": [],
+    "38344d65c99c92d46d941656d205bafeaf15c8d46ee1f98a8a8444dbf7750a6c": [],
+    "e29bdfff941d4c4ad178ec0651566c0976737fe0cfb7f3018ba62de525d42acb": [],
+    "e518d04bb1f3d8a6e1d4c08f21d640bb1d85242c27a37c0999774beccf870ff9": [
       {
         "event_id": "",
         "source_id": "when-should-you-buy-tlt",
@@ -2669,7 +2838,7 @@
         "unresolved_fields": []
       }
     ],
-    "a614668945e27a3b5472475ccc2acff877f32b66c47b90b39396324781b823d3": [
+    "508987fa610bb6a9f72d463112f34293d3282289babf4968c0142b21578a8761": [
       {
         "event_id": "",
         "source_id": "our-best-stock-just-hit-another-all",
@@ -2699,12 +2868,12 @@
         "unresolved_fields": []
       }
     ],
-    "ca4162bac904f55ee43ed15a4428482fa97831eb74e20b4e068545823c47b41c": [],
-    "b9728b878f81904ecb8f7a60e173698dd37f2bfe992622c3597f300677f054b6": [],
-    "2bdbb544560e333398d2b5d24aa62d0e805b5ce1630733ef0d5e12c1b3fcc5e7": [],
-    "18c25a30da80b1356b81671af31dc4e91ba8b4279d34eddce24b8c137193bd92": [],
-    "ada3bb4f77fb5cec0afee29067f7280dd2bc5e1e81f5e738a0afae95f7507431": [],
-    "1054a8623287c98a19854d7c97e9458cdd3714422eec26a00e15ad6aadd6d134": [
+    "858062961367b17ab51078f85778b5cb1ca9374d1767bc1c3d7a4311616f4a02": [],
+    "33384fc07e40f964e2cf19cca7a971bada209642f2fa374e6db980e35f533f1e": [],
+    "dba50f2cc912b01e8ca332989e0204dcf3106ee76126dba29c9b2c9aad969e28": [],
+    "4ecec184ecd6fda3a4f698799c852e4dd4e15c8133c63cfa7a4f6e1f86e49e3c": [],
+    "edd947a41b9f710681cd03f66bd799082d6bc5cecc4370fa960df5f175149ef8": [],
+    "3b2249aaec3efc8a8b41de07702abd70b71bc21819e02e22b4745b90dd508d7b": [
       {
         "event_id": "",
         "source_id": "what-im-buying-when-im-selling-and",
@@ -2734,10 +2903,10 @@
         "unresolved_fields": []
       }
     ],
-    "765d33696550e49ccb7c36e06e32bb0f26d53740b5a5f26ae53f065ac4435b63": [],
-    "46e6a3c2cbaf69a1ae02c760da9c784eda759c95b2e0aef5b039452d4f299c19": [],
-    "f0d6ab6d824ea0c1b9c48715e247c45a5d83b5e5c8667a436c2bf8d4ab5881a9": [],
-    "30b3f50380937bc7115ac7033d2d6a08482a7dcd9711e1118e44b028d1bd8fe2": [
+    "48f24fbc3f7e434ef9328619728207d8e1f7ee01ac68cbb74b02c957edb09111": [],
+    "e9240d43bdd3554d6b53921812c5c78edf014b078c434db8f5ad3d86669a773b": [],
+    "ad99e47858e02f9f3e0c1d084c3ad666dcfde3fbe703c27eb73c0ce659aa7404": [],
+    "adf9fb6090f444cd01f2c6c8152e0e927a4b3e10ac00f9239e46b398bb943e6e": [
       {
         "event_id": "",
         "source_id": "i-ranked-27-stocks-these-3-came-out",
@@ -2879,11 +3048,11 @@
         "unresolved_fields": []
       }
     ],
-    "2de920c7b6b24b158dfeb8cbd23e2febb34a3ec43dca35ab681777e7c4ef306f": [],
-    "1c35d94e30399cb787637a645f290b22e38b6c9c0afe006012287932b8d53568": [],
-    "bcca36d4390080c4b5a64934215e65d1d6e78544f6caf27ddc26abc5cbb894a6": [],
-    "c4c7ba2c6322c7f5280bf46dc3cf0832b5cd0b0fb1b7e80194e549baa0314da8": [],
-    "1977683703742862244a1503c1117dde9350b407d3973f166cbfd3d1565c3e77": [
+    "a69e711d04cf1373dbe3985e4383db77cd6a46bcd6c98f6193746db48aa876c4": [],
+    "491b4794c400a335f15ee693b52f6dc86d5c06c6453d48930731a94b580a271f": [],
+    "9a8b61066d8bf0d80b7750aa8744bcdc6cc4e6da7068915e89f2e23fd7b36715": [],
+    "031e5415286e8d9c74c7379b7044641761126ce7d721d47ae176ca6820d657b9": [],
+    "4e4d653f94f82f67e4f2a49e77fa2d16cef226a5463fac619bec523348135204": [
       {
         "event_id": "",
         "source_id": "the-stock-market-is-still-bullish",
@@ -2913,8 +3082,8 @@
         "unresolved_fields": []
       }
     ],
-    "e6d2dcfb30afd45bdece3a396a5797b326ab56b3e5a4f84e68346e935e3b8668": [],
-    "fcf79db3140af4453d26449d7bbc27b91c24ebb6c1723f0f2699363067e9a016": [
+    "baac103965ad2d45db975828d41c338f4d4e378d1a994b0f6565c8aa7ad383a9": [],
+    "4ab444110f717b51a215f0252fee2911d665406721d1022a951a522ccd8744d5": [
       {
         "event_id": "",
         "source_id": "lets-pretend-the-stock-market-is",
@@ -2944,10 +3113,10 @@
         "unresolved_fields": []
       }
     ],
-    "673b90d436993f30307aea79c3a68573cc7a106e39c098b802abf37e889b8b52": [],
-    "2ed3380bf166afa6665986e44e18f8dc7cd20df33efc9240d0ffce430e2d7801": [],
-    "bf6b5a1b1d20af2053affc7b73d24907f1d94c68f7ea4cf9787c4a51a51da230": [],
-    "29678c297eee375bc3303294e62bf55cea71a8a64ed580d66ffb178d4f320d02": [
+    "4718df9262af7288ad25dd88d8268f99eb65f37aec2206bf26cff986187ffe20": [],
+    "c311e7e615e7b711e6f2b82e1c54f86021d516b78900b8d613bc4eab107ec6d8": [],
+    "0e0035713436e72fb9ee44aff716cde11f681abae7bf588438a739b7e680f68d": [],
+    "7f7ed77d1b4abb69455d46b0fd4368ed67b5587074601b9c1af9fb665d715ba7": [
       {
         "event_id": "",
         "source_id": "is-this-the-warning-sign-weve-been",
@@ -3089,8 +3258,8 @@
         "unresolved_fields": []
       }
     ],
-    "e69a7273e3816dc80c599d31587c540d73d605d8ff08ba2cc5f206e04a8c8add": [],
-    "f019539f3683a80350931338fc257c6d56b73535a0982b51d244567d31810eee": [
+    "cba23c4a5569bbecd375b9679d1520dfff36b6e3138789e17ac5223b4d35f5f9": [],
+    "91641f53d4fd94aa620c571beca9d084f01edf039fed7c0cfd1d9a87270fae0d": [
       {
         "event_id": "",
         "source_id": "stocktok-etf-doubles-the-s-and-p",
@@ -3372,8 +3541,8 @@
         "unresolved_fields": []
       }
     ],
-    "fb64d99aa345c2fe9f2d68b60e5fb2fbc4134b9ada42dbadd0aa795a3a2ea641": [],
-    "186fb9eb402653fe388293ea15bbf3e9ba7d7da52214b579229a44e81ca93021": [
+    "abf98bfbbea6154624a6c9d677cd5274fd89aca92ee42b07c93ffdaa4adbd91a": [],
+    "5bd595bb3e8e514aa0aa9cc814cdec0c79691a71d6783d0b0623da0393e46466": [
       {
         "event_id": "",
         "source_id": "chat:a27b2288:reply:c6dde053",
@@ -3456,6 +3625,34 @@
         "trim_fraction": 1.0,
         "confidence": "high",
         "notes": "LRN was stopped out.",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:a27b2288:reply:672552a1",
+        "source_type": "chat_reply",
+        "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:672552a1-0144-4372-9531-5062a530f1b8:clause:0",
+        "char_offset": 0,
+        "exact_text": "Going to add to the CHEF position.",
+        "publication_date": "2025-05-15",
+        "effective_date": "2025-05-15",
+        "date_uncertainty": null,
+        "company_name": "CHEF",
+        "ticker": "CHEF",
+        "normalized_ticker": "CHEF",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -4048,6 +4245,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:a27b2288:reply:f716e4dd",
+        "source_type": "chat_reply",
+        "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f716e4dd-4053-4150-9d83-b15d8bb1bfb2:clause:1",
+        "char_offset": 0,
+        "exact_text": "I am going to close my Netflix short.",
+        "publication_date": "2025-11-10",
+        "effective_date": "2025-11-10",
+        "date_uncertainty": null,
+        "company_name": "Netflix",
+        "ticker": "NFLX",
+        "normalized_ticker": "NFLX",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "short",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:a27b2288:reply:def6aca0",
         "source_type": "chat_reply",
         "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:def6aca0-98e6-4016-875c-dc75cd239c96:clause:1",
@@ -4199,6 +4424,34 @@
         "company_name": "Pan American Silver",
         "ticker": "PAAS",
         "normalized_ticker": "PAAS",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:a27b2288:reply:f98f1ff4",
+        "source_type": "chat_reply",
+        "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f98f1ff4-1b73-492a-bece-6ce4650935e2:clause:5",
+        "char_offset": 0,
+        "exact_text": "I also will buy APLD.",
+        "publication_date": "2026-01-27",
+        "effective_date": "2026-01-27",
+        "date_uncertainty": null,
+        "company_name": "Applied Digital Corporation",
+        "ticker": "APLD",
+        "normalized_ticker": "APLD",
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
@@ -4395,6 +4648,34 @@
         "company_name": "Hold Simon Property Group",
         "ticker": "SPG",
         "normalized_ticker": "SPG",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:a27b2288:reply:5b41d223",
+        "source_type": "chat_reply",
+        "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:5b41d223-d014-445b-8a3f-c3419708544d:clause:0",
+        "char_offset": 0,
+        "exact_text": "Going to add VMC to the portfolio.",
+        "publication_date": "2026-02-04",
+        "effective_date": "2026-02-04",
+        "date_uncertainty": null,
+        "company_name": "Vulcan Materials Company",
+        "ticker": "VMC",
+        "normalized_ticker": "VMC",
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
@@ -5024,6 +5305,34 @@
         "trim_fraction": null,
         "confidence": "high",
         "notes": "If you have not seen Midweek movers today, I picked up TWLO and APPS.",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:a27b2288:reply:30392699",
+        "source_type": "chat_reply",
+        "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:30392699-fb1a-4107-9e76-c90c3e82861c:clause:3",
+        "char_offset": 0,
+        "exact_text": "I intend to exit Hinge and Twilio.",
+        "publication_date": "2026-10-30",
+        "effective_date": "2026-10-30",
+        "date_uncertainty": null,
+        "company_name": "Twilio",
+        "ticker": "TWLO",
+        "normalized_ticker": "TWLO",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       }
     ]

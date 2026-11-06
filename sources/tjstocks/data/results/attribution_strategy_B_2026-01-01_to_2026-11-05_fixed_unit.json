@@ -53,10 +53,10 @@
     }
   ],
   "excluded_non_equity": {
-    "total_excluded_events": 7,
+    "total_excluded_events": 6,
     "by_type": {
       "short": {
-        "events_count": 7,
+        "events_count": 6,
         "tickers": [
           "COST",
           "NFLX",

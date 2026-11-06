@@ -51,7 +51,7 @@ def test_cluseau_korean_basket_true_forensic_chronology():
     assert sk.iloc[0]["action"] == "BUY"
     assert sk.iloc[0]["date"] in ("2026-04-28", "2026-04-29")
     assert sk.iloc[0]["discovery_layer"] == "primary_chat"
-    assert "TRIM" in set(sk["action"])
+    assert any(sk["date"] == "2026-10-01") and any(sk["action"] == "SELL")
     assert sk[sk["action"] == "SELL"].iloc[-1]["date"] == "2026-11-04"
 
     # 3. Hy-Lok (013030.KQ) and iM Financial (139130.KS) May 2026 chat ownership disclosures

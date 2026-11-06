@@ -5,12 +5,12 @@
   "geographic_attribution": [
     {
       "region": "United States",
-      "positions_count": 18,
-      "open_positions_count": 16,
-      "capital_deployed_usd": 19000.0,
-      "realized_pnl_usd": 3806.06,
-      "unrealized_pnl_usd": -1424.61,
-      "total_pnl_usd": 2381.45,
+      "positions_count": 17,
+      "open_positions_count": 15,
+      "capital_deployed_usd": 18000.0,
+      "realized_pnl_usd": 3632.36,
+      "unrealized_pnl_usd": -1409.44,
+      "total_pnl_usd": 2222.92,
       "tickers": [
         "AGX",
         "AR",
@@ -23,7 +23,6 @@
         "DQ",
         "FTK",
         "LRN",
-        "MTRN",
         "NESR",
         "OSCR",
         "SNEX",
@@ -31,7 +30,7 @@
         "SQM",
         "STRL"
       ],
-      "return_on_deployed_pct": 12.53
+      "return_on_deployed_pct": 12.35
     },
     {
       "region": "Latin America",
@@ -76,9 +75,9 @@
   "simulated_instruments": [
     {
       "instrument_type": "long_equity",
-      "positions_count": 21,
-      "capital_deployed_usd": 21500.0,
-      "total_pnl_usd": 1905.66,
+      "positions_count": 20,
+      "capital_deployed_usd": 20500.0,
+      "total_pnl_usd": 1747.13,
       "tickers": [
         "AGX",
         "AR",
@@ -93,7 +92,6 @@
         "FTK",
         "ILC.SN",
         "LRN",
-        "MTRN",
         "NESR",
         "OSCR",
         "SNEX",
@@ -109,7 +107,7 @@
     "by_type": {}
   },
   "discovery_layer_counts": {
-    "primary_article": 50,
+    "primary_article": 45,
     "primary_table": 31,
     "primary_chat": 3,
     "checkpoint_review": 1

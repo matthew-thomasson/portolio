@@ -8,9 +8,9 @@ This document provides quick access to the complete chronological trade historie
 
 | Publication | Total Signals | Trade Log Link | Date Range | Primary Trade Actions |
 |---|---|---|---|---|
-| **Beating The Tide** | **85 trades** | [**`sources/beatingthetide/TRADE_HISTORY.md`**](../sources/beatingthetide/TRADE_HISTORY.md) | 2024-01-02 to 2026-11-02 | 45 BUY, 18 SELL, 11 TRIM, 10 ADD, 1 HOLD |
-| **TJ Stocks** | **17 trades** | [**`sources/tjstocks/TRADE_HISTORY.md`**](../sources/tjstocks/TRADE_HISTORY.md) | 2025-05-12 to 2026-11-03 | 13 BUY, 3 SELL, 1 TRIM |
-| **Cluseau** | **149 trades** | [**`sources/cluseau/TRADE_HISTORY.md`**](../sources/cluseau/TRADE_HISTORY.md) | 2024-11-20 to 2026-11-04 | 59 BUY, 52 ADD, 19 SELL, 19 TRIM |
+| **Beating The Tide** | **80 trades** | [**`sources/beatingthetide/TRADE_HISTORY.md`**](../sources/beatingthetide/TRADE_HISTORY.md) | 2025-01-15 to 2026-10-23 | 55 BUY, 16 SELL, 9 TRIM |
+| **TJ Stocks** | **17 trades** | [**`sources/tjstocks/TRADE_HISTORY.md`**](../sources/tjstocks/TRADE_HISTORY.md) | 2024-12-23 to 2026-11-03 | 13 BUY, 3 SELL, 1 TRIM |
+| **Cluseau** | **142 trades** | [**`sources/cluseau/TRADE_HISTORY.md`**](../sources/cluseau/TRADE_HISTORY.md) | 2023-10-19 to 2026-11-04 | 56 BUY, 50 ADD, 18 TRIM, 18 SELL |
 
 ---
 
@@ -31,7 +31,7 @@ This document provides quick access to the complete chronological trade historie
 ### 3. [Cluseau Trade History](../sources/cluseau/TRADE_HISTORY.md)
 - **Source of Truth**: Extracted from quarterly portfolio reviews (`september-2026-portfolio-review`, `june-2026-portfolio-review`, `april-2026-portfolio-review`, `march-2026-trade-review`), standalone research publications (`boring-is-beautiful`, `opening-the-gates`, `go-stub-yourself`, `buying-the-buyback`), and **404 live subscriber chat threads** (`sources/cluseau/chat/chat_threads.json`).
 - **Raw Data Files**:
-  - Structured CSV: [`sources/cluseau/data/trade_events.csv`](../sources/cluseau/data/trade_events.csv) (149 trades)
+  - Structured CSV: [`sources/cluseau/data/trade_events.csv`](../sources/cluseau/data/trade_events.csv) (142 trades)
   - Baseline Holdings: [`sources/cluseau/data/portfolio_holdings.csv`](../sources/cluseau/data/portfolio_holdings.csv) (59 baseline positions)
   - Coverage Report: [`sources/cluseau/data/results/coverage_report.json`](../sources/cluseau/data/results/coverage_report.json)
   - Chat Archive: [`sources/cluseau/chat/chat_threads.json`](../sources/cluseau/chat/chat_threads.json)

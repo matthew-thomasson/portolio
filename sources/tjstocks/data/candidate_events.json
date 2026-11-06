@@ -420,7 +420,147 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0016-2025-06-27-RBLX-BUY",
+    "event_id": "tjstocks-0016-2025-06-24-QS-HOLD",
+    "source_id": "stock-market-clarification-and-prediction",
+    "source_type": "article",
+    "location": "paragraph:21:c3@char:4176",
+    "char_offset": 4176,
+    "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+    "publication_date": "2025-06-24",
+    "effective_date": "2025-06-24",
+    "date_uncertainty": null,
+    "company_name": "QuantumScape",
+    "ticker": "QS",
+    "normalized_ticker": "QS",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "HOLD",
+    "execution_status": "retrospective",
+    "discovery_layer": "primary_article",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Retrospective reference or passive holding commentary",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0017-2025-06-24-WNS-HOLD",
+    "source_id": "stock-market-clarification-and-prediction",
+    "source_type": "article",
+    "location": "paragraph:21:c3@char:4176",
+    "char_offset": 4176,
+    "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+    "publication_date": "2025-06-24",
+    "effective_date": "2025-06-24",
+    "date_uncertainty": null,
+    "company_name": "WNS",
+    "ticker": "WNS",
+    "normalized_ticker": "WNS",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "HOLD",
+    "execution_status": "retrospective",
+    "discovery_layer": "primary_article",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Retrospective reference or passive holding commentary",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0018-2025-06-24-SPOT-HOLD",
+    "source_id": "stock-market-clarification-and-prediction",
+    "source_type": "article",
+    "location": "paragraph:21:c3@char:4176",
+    "char_offset": 4176,
+    "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+    "publication_date": "2025-06-24",
+    "effective_date": "2025-06-24",
+    "date_uncertainty": null,
+    "company_name": "SPOT",
+    "ticker": "SPOT",
+    "normalized_ticker": "SPOT",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "HOLD",
+    "execution_status": "retrospective",
+    "discovery_layer": "primary_article",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Retrospective reference or passive holding commentary",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0019-2025-06-24-DASH-HOLD",
+    "source_id": "stock-market-clarification-and-prediction",
+    "source_type": "article",
+    "location": "paragraph:21:c3@char:4176",
+    "char_offset": 4176,
+    "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+    "publication_date": "2025-06-24",
+    "effective_date": "2025-06-24",
+    "date_uncertainty": null,
+    "company_name": "DASH",
+    "ticker": "DASH",
+    "normalized_ticker": "DASH",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "HOLD",
+    "execution_status": "retrospective",
+    "discovery_layer": "primary_article",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Retrospective reference or passive holding commentary",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0020-2025-06-24-AFRM-HOLD",
+    "source_id": "stock-market-clarification-and-prediction",
+    "source_type": "article",
+    "location": "paragraph:21:c3@char:4176",
+    "char_offset": 4176,
+    "exact_text": "The worst trades of the year would be $QS …a stock I broke rules on. $WNS has been a nuisance…but I continue to hold. $SPOT and $DASH are recent picks performing well. $AFRM is rocketing up for the day.",
+    "publication_date": "2025-06-24",
+    "effective_date": "2025-06-24",
+    "date_uncertainty": null,
+    "company_name": "Affirm",
+    "ticker": "AFRM",
+    "normalized_ticker": "AFRM",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "HOLD",
+    "execution_status": "retrospective",
+    "discovery_layer": "primary_article",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Retrospective reference or passive holding commentary",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0021-2025-06-27-RBLX-BUY",
     "source_id": "friday-week-close-highlights",
     "source_type": "article",
     "location": "list_item:1:c0@char:164",
@@ -448,7 +588,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0017-2025-06-27-RBLX-BUY",
+    "event_id": "tjstocks-0022-2025-06-27-RBLX-BUY",
     "source_id": "friday-week-close-highlights",
     "source_type": "article",
     "location": "list_item:2:c0@char:1052",
@@ -476,7 +616,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0018-2025-07-03-SPOT-SELL",
+    "event_id": "tjstocks-0023-2025-07-03-SPOT-SELL",
     "source_id": "end-of-week-highlights",
     "source_type": "article",
     "location": "paragraph:0:c2@char:0",
@@ -504,7 +644,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0019-2025-07-03-TTMI-ADD",
+    "event_id": "tjstocks-0024-2025-07-03-TTMI-ADD",
     "source_id": "end-of-week-highlights",
     "source_type": "article",
     "location": "paragraph:0:c4@char:0",
@@ -532,7 +672,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0020-2025-08-13-EBAY-SELL",
+    "event_id": "tjstocks-0025-2025-08-13-EBAY-SELL",
     "source_id": "selling-a-stock-the-bad-croissant",
     "source_type": "article",
     "location": "paragraph:0:c0@char:0",
@@ -560,7 +700,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0021-2025-08-26-TGT-HOLD",
+    "event_id": "tjstocks-0026-2025-08-26-TGT-HOLD",
     "source_id": "2-popular-stocksto-short",
     "source_type": "article",
     "location": "paragraph:3:c0@char:905",
@@ -588,7 +728,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0022-2025-10-03-XMTR-HOLD",
+    "event_id": "tjstocks-0027-2025-10-03-XMTR-HOLD",
     "source_id": "why-stock-market-caution-is-critical",
     "source_type": "article",
     "location": "paragraph:5:c2@char:416",
@@ -616,7 +756,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0023-2025-10-13-COST-SHORT",
+    "event_id": "tjstocks-0028-2025-10-13-COST-SHORT",
     "source_id": "is-the-bull-market-back",
     "source_type": "article",
     "location": "paragraph:1:c2@char:624",
@@ -644,7 +784,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0024-2025-10-20-NVTS-BUY",
+    "event_id": "tjstocks-0029-2025-10-20-NVTS-BUY",
     "source_id": "stocktok-market-update-1021",
     "source_type": "article",
     "location": "paragraph:0:c1@char:0",
@@ -672,7 +812,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0025-2025-11-06-DG-HOLD",
+    "event_id": "tjstocks-0030-2025-11-06-DG-HOLD",
     "source_id": "quick-market-update-from-stocktok",
     "source_type": "article",
     "location": "paragraph:1:c3@char:23",
@@ -700,7 +840,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0026-2025-11-07-DG-HOLD",
+    "event_id": "tjstocks-0031-2025-11-07-DG-HOLD",
     "source_id": "stocktok-weekly-wrap-up-13f",
     "source_type": "article",
     "location": "paragraph:9:c2@char:2120",
@@ -728,7 +868,35 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0027-2025-11-13-NVDA-SHORT",
+    "event_id": "tjstocks-0032-2025-11-13-NVDA-HOLD",
+    "source_id": "shorting-nvidia",
+    "source_type": "article",
+    "location": "paragraph:0:c0@char:0",
+    "char_offset": 0,
+    "exact_text": "If you do not know me…you will quickly discover that I have held firm that Nvidia is the bubble of our decade.",
+    "publication_date": "2025-11-13",
+    "effective_date": "2025-11-13",
+    "date_uncertainty": null,
+    "company_name": "Nvidia",
+    "ticker": "NVDA",
+    "normalized_ticker": "NVDA",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "HOLD",
+    "execution_status": "retrospective",
+    "discovery_layer": "primary_article",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Retrospective reference or passive holding commentary",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0033-2025-11-13-NVDA-SHORT",
     "source_id": "shorting-nvidia",
     "source_type": "article",
     "location": "paragraph:1:c0@char:493",
@@ -756,7 +924,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0028-2025-11-13-NVDA-SHORT",
+    "event_id": "tjstocks-0034-2025-11-13-NVDA-SHORT",
     "source_id": "shorting-nvidia",
     "source_type": "article",
     "location": "list_item:6:c0@char:1734",
@@ -784,7 +952,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0029-2025-11-14-NVDA-SHORT",
+    "event_id": "tjstocks-0035-2025-11-14-NVDA-SHORT",
     "source_id": "stock-market-hard-stop",
     "source_type": "article",
     "location": "list_item:11:c0@char:1996",
@@ -812,7 +980,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0030-2025-11-15-NVDA-COVER",
+    "event_id": "tjstocks-0036-2025-11-15-NVDA-BUY",
     "source_id": "nvidia-matches-enronnearly-exactly",
     "source_type": "article",
     "location": "paragraph:2:c2@char:399",
@@ -827,20 +995,20 @@
     "exchange": "US",
     "market": ":us:",
     "instrument_type": "short",
-    "action": "COVER",
-    "execution_status": "confirmed",
+    "action": "BUY",
+    "execution_status": "proposed",
     "discovery_layer": "primary_article",
     "portfolio_book": "personal_swing",
     "stated_price": null,
     "stated_currency": null,
     "position_sizing": null,
-    "trim_fraction": 1.0,
-    "confidence": "high",
-    "notes": "That means I will be closing out my Nvidia short position…to avoid the pain of a blow off top leg, then seek to re-enter at the first break downwards, when and if a euphoric leg oc",
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Watchlist / conditional / unexecuted idea",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0031-2025-12-07-NFLX-COVER",
+    "event_id": "tjstocks-0037-2025-12-07-NFLX-COVER",
     "source_id": "is-netflix-bullish-or-bearish",
     "source_type": "article",
     "location": "paragraph:16:c1@char:5546",
@@ -868,7 +1036,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0032-2026-01-14-PRU-BUY",
+    "event_id": "tjstocks-0038-2026-01-14-PRU-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:21@char:5196",
@@ -896,7 +1064,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0033-2026-01-14-MTB-BUY",
+    "event_id": "tjstocks-0039-2026-01-14-MTB-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:22@char:5223",
@@ -924,7 +1092,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0034-2026-01-14-SPG-BUY",
+    "event_id": "tjstocks-0040-2026-01-14-SPG-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:23@char:5238",
@@ -952,7 +1120,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0035-2026-01-14-UBSI-BUY",
+    "event_id": "tjstocks-0041-2026-01-14-UBSI-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:24@char:5265",
@@ -980,7 +1148,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0036-2026-01-14-TXT-BUY",
+    "event_id": "tjstocks-0042-2026-01-14-TXT-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:28@char:5797",
@@ -1008,7 +1176,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0037-2026-01-14-HNI-BUY",
+    "event_id": "tjstocks-0043-2026-01-14-HNI-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:29@char:5815",
@@ -1036,7 +1204,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0038-2026-01-14-SPB-BUY",
+    "event_id": "tjstocks-0044-2026-01-14-SPB-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:30@char:5837",
@@ -1064,7 +1232,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0039-2026-01-14-FDX-BUY",
+    "event_id": "tjstocks-0045-2026-01-14-FDX-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:31@char:5917",
@@ -1092,7 +1260,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0040-2026-01-14-MSCI-BUY",
+    "event_id": "tjstocks-0046-2026-01-14-MSCI-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:32@char:5941",
@@ -1120,7 +1288,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0041-2026-01-14-VLO-BUY",
+    "event_id": "tjstocks-0047-2026-01-14-VLO-BUY",
     "source_id": "only-10-stocks-made-the-cut",
     "source_type": "article",
     "location": "list_item:33@char:5957",
@@ -1148,7 +1316,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0042-2026-01-15-PAAS-BUY",
+    "event_id": "tjstocks-0048-2026-01-15-PAAS-BUY",
     "source_id": "stock-market-flash-update-silver",
     "source_type": "article",
     "location": "paragraph:2:c0@char:348",
@@ -1176,7 +1344,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0043-2026-02-04-AFRM-HOLD",
+    "event_id": "tjstocks-0049-2026-02-04-AFRM-HOLD",
     "source_id": "i-ranked-37-stocks-only-one-earned",
     "source_type": "article",
     "location": "list_item:4:c7@char:709",
@@ -1204,7 +1372,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0044-2026-02-04-AFRM-HOLD",
+    "event_id": "tjstocks-0050-2026-02-04-AFRM-HOLD",
     "source_id": "i-ranked-37-stocks-only-one-earned",
     "source_type": "article",
     "location": "list_item:5:c6@char:1363",
@@ -1232,7 +1400,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0045-2026-02-04-AFRM-HOLD",
+    "event_id": "tjstocks-0051-2026-02-04-AFRM-HOLD",
     "source_id": "i-ranked-37-stocks-only-one-earned",
     "source_type": "article",
     "location": "list_item:6:c3@char:1963",
@@ -1260,7 +1428,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0046-2026-02-04-AFRM-HOLD",
+    "event_id": "tjstocks-0052-2026-02-04-AFRM-HOLD",
     "source_id": "i-ranked-37-stocks-only-one-earned",
     "source_type": "article",
     "location": "list_item:7:c2@char:2243",
@@ -1288,7 +1456,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0047-2026-02-05-APLD-BUY",
+    "event_id": "tjstocks-0053-2026-02-05-APLD-BUY",
     "source_id": "important-portfolio-update",
     "source_type": "article",
     "location": "paragraph:5:c0@char:1203",
@@ -1316,7 +1484,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0048-2026-02-09-BFST-TRIM",
+    "event_id": "tjstocks-0054-2026-02-09-BFST-TRIM",
     "source_id": "buying-this-stockagain",
     "source_type": "article",
     "location": "paragraph:2:c1@char:477",
@@ -1344,7 +1512,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0049-2026-05-05-SEPA-HOLD",
+    "event_id": "tjstocks-0055-2026-05-05-SEPA-HOLD",
     "source_id": "5-stocks-you-asked-about-2-are-ready",
     "source_type": "article",
     "location": "paragraph:8:c0@char:2196",
@@ -1372,7 +1540,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0050-2026-05-11-NFLX-HOLD",
+    "event_id": "tjstocks-0056-2026-05-11-NFLX-HOLD",
     "source_id": "brief-stock-market-update-when-to",
     "source_type": "article",
     "location": "paragraph:21:c3@char:4854",
@@ -1400,7 +1568,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0051-2026-05-29-CATY-ADD",
+    "event_id": "tjstocks-0057-2026-05-29-CATY-ADD",
     "source_id": "stock-croissant-alert-649",
     "source_type": "article",
     "location": "list_item:8:c0@char:803",
@@ -1428,7 +1596,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0052-2026-05-29-APLD-ADD",
+    "event_id": "tjstocks-0058-2026-05-29-APLD-ADD",
     "source_id": "stock-croissant-alert-649",
     "source_type": "article",
     "location": "list_item:18:c1@char:1645",
@@ -1456,7 +1624,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0053-2026-05-29-TSLA-ADD",
+    "event_id": "tjstocks-0059-2026-05-29-TSLA-ADD",
     "source_id": "stock-croissant-alert-649",
     "source_type": "article",
     "location": "list_item:18:c1@char:1645",
@@ -1484,7 +1652,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0054-2026-05-29-NFLX-HOLD",
+    "event_id": "tjstocks-0060-2026-05-29-NFLX-HOLD",
     "source_id": "stock-croissant-alert-649",
     "source_type": "article",
     "location": "list_item:26:c0@char:2080",
@@ -1512,7 +1680,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0055-2026-06-01-TXT-SELL",
+    "event_id": "tjstocks-0061-2026-06-01-TXT-SELL",
     "source_id": "selling-off-a-stock",
     "source_type": "article",
     "location": "paragraph:0:c5@char:0",
@@ -1540,7 +1708,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0056-2026-06-23-DG-HOLD",
+    "event_id": "tjstocks-0062-2026-06-23-DG-HOLD",
     "source_id": "palantir-is-down-42buy-the-dip",
     "source_type": "article",
     "location": "paragraph:1:c0@char:195",
@@ -1568,7 +1736,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0057-2026-06-24-INTC-HOLD",
+    "event_id": "tjstocks-0063-2026-06-24-INTC-HOLD",
     "source_id": "top-stock-has-the-best-vcp-ive-seen",
     "source_type": "article",
     "location": "paragraph:20:c6@char:4594",
@@ -1596,7 +1764,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0058-2026-06-24-CRWV-ADD",
+    "event_id": "tjstocks-0064-2026-06-24-CRWV-ADD",
     "source_id": "top-stock-has-the-best-vcp-ive-seen",
     "source_type": "article",
     "location": "heading:26@char:5987",
@@ -1624,7 +1792,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0059-2026-06-24-CRWV-ADD",
+    "event_id": "tjstocks-0065-2026-06-24-CRWV-ADD",
     "source_id": "top-stock-has-the-best-vcp-ive-seen",
     "source_type": "article",
     "location": "paragraph:27:c0@char:6031",
@@ -1652,7 +1820,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0060-2026-06-25-BB-BUY",
+    "event_id": "tjstocks-0066-2026-06-25-BB-BUY",
     "source_id": "sell-alert",
     "source_type": "article",
     "location": "list_item:3:c0@char:729",
@@ -1680,7 +1848,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0061-2026-07-28-SPB-SELL",
+    "event_id": "tjstocks-0067-2026-07-28-SPB-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:11@char:2152",
@@ -1708,7 +1876,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0062-2026-07-28-MSCI-SELL",
+    "event_id": "tjstocks-0068-2026-07-28-MSCI-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:15@char:2275",
@@ -1736,7 +1904,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0063-2026-07-28-FDX-SELL",
+    "event_id": "tjstocks-0069-2026-07-28-FDX-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:16@char:2302",
@@ -1764,7 +1932,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0064-2026-07-28-SPB-SELL",
+    "event_id": "tjstocks-0070-2026-07-28-SPB-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:24@char:2918",
@@ -1792,7 +1960,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0065-2026-07-28-MSCI-SELL",
+    "event_id": "tjstocks-0071-2026-07-28-MSCI-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:26@char:3671",
@@ -1820,7 +1988,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0066-2026-07-28-FDX-SELL",
+    "event_id": "tjstocks-0072-2026-07-28-FDX-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:28@char:4226",
@@ -1848,7 +2016,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0067-2026-07-28-SLVR-SELL",
+    "event_id": "tjstocks-0073-2026-07-28-SLVR-SELL",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:29@char:4565",
@@ -1876,7 +2044,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0068-2026-07-28-CAKE-BUY",
+    "event_id": "tjstocks-0074-2026-07-28-CAKE-BUY",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:36@char:6517",
@@ -1904,7 +2072,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0069-2026-07-28-CNXN-BUY",
+    "event_id": "tjstocks-0075-2026-07-28-CNXN-BUY",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:38@char:6893",
@@ -1932,7 +2100,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0070-2026-07-28-FELE-BUY",
+    "event_id": "tjstocks-0076-2026-07-28-FELE-BUY",
     "source_id": "stocktok-etf-20",
     "source_type": "article",
     "location": "list_item:40@char:7211",
@@ -1960,7 +2128,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0071-2026-08-17-NVDA-SHORT",
+    "event_id": "tjstocks-0077-2026-08-17-NVDA-SHORT",
     "source_id": "the-stocks-i-want-to-short",
     "source_type": "article",
     "location": "paragraph:2:c0@char:198",
@@ -1988,7 +2156,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0072-2026-08-19-HNI-SELL",
+    "event_id": "tjstocks-0078-2026-08-19-HNI-SELL",
     "source_id": "the-last-two-stocks-ran-30-and-34",
     "source_type": "article",
     "location": "heading:11@char:2234",
@@ -2016,7 +2184,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0073-2026-09-09-PLTR-HOLD",
+    "event_id": "tjstocks-0079-2026-09-09-PLTR-HOLD",
     "source_id": "the-average-midweek-mover-stock-is",
     "source_type": "article",
     "location": "paragraph:5:c2@char:699",
@@ -2044,7 +2212,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0074-2026-09-10-PLTR-HOLD",
+    "event_id": "tjstocks-0080-2026-09-10-PLTR-HOLD",
     "source_id": "this-is-not-what-the-beginning-of",
     "source_type": "article",
     "location": "paragraph:6:c2@char:1452",
@@ -2072,7 +2240,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0075-2026-09-13-META-HOLD",
+    "event_id": "tjstocks-0081-2026-09-13-META-HOLD",
     "source_id": "nvidia-investors-should-be-careful",
     "source_type": "article",
     "location": "list_item:4:c0@char:977",
@@ -2100,7 +2268,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0076-2026-09-14-PLTR-HOLD",
+    "event_id": "tjstocks-0082-2026-09-14-PLTR-HOLD",
     "source_id": "flash-update-this-recession-resistant",
     "source_type": "article",
     "location": "paragraph:1:c1@char:106",
@@ -2128,7 +2296,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0077-2026-09-16-PLTR-HOLD",
+    "event_id": "tjstocks-0083-2026-09-16-PLTR-HOLD",
     "source_id": "i-found-3-stocks-hiding-among-389",
     "source_type": "article",
     "location": "paragraph:2:c1@char:515",
@@ -2156,7 +2324,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0078-2026-09-21-LOW-HOLD",
+    "event_id": "tjstocks-0084-2026-09-21-LOW-HOLD",
     "source_id": "stop-buying-stocks-at-52-week-lows",
     "source_type": "article",
     "location": "paragraph:2:c0@char:398",
@@ -2184,7 +2352,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0079-2026-09-21-LOW-HOLD",
+    "event_id": "tjstocks-0085-2026-09-21-LOW-HOLD",
     "source_id": "stop-buying-stocks-at-52-week-lows",
     "source_type": "article",
     "location": "paragraph:2:c1@char:398",
@@ -2212,7 +2380,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0080-2026-09-25-TLT-BUY",
+    "event_id": "tjstocks-0086-2026-09-25-TLT-BUY",
     "source_id": "when-should-you-buy-tlt",
     "source_type": "article",
     "location": "paragraph:0:c1@char:0",
@@ -2240,7 +2408,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0081-2026-09-26-MSTR-HOLD",
+    "event_id": "tjstocks-0087-2026-09-26-MSTR-HOLD",
     "source_id": "our-best-stock-just-hit-another-all",
     "source_type": "article",
     "location": "heading:7@char:1311",
@@ -2268,7 +2436,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0082-2026-10-03-XMTR-BUY",
+    "event_id": "tjstocks-0088-2026-10-03-XMTR-BUY",
     "source_id": "what-im-buying-when-im-selling-and",
     "source_type": "article",
     "location": "paragraph:6:c0@char:1710",
@@ -2296,7 +2464,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0083-2026-10-08-CWCO-HOLD",
+    "event_id": "tjstocks-0089-2026-10-08-CWCO-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2324,7 +2492,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0084-2026-10-08-SHMD-HOLD",
+    "event_id": "tjstocks-0090-2026-10-08-SHMD-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2352,7 +2520,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0085-2026-10-08-WULF-HOLD",
+    "event_id": "tjstocks-0091-2026-10-08-WULF-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2380,7 +2548,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0086-2026-10-08-PAAS-HOLD",
+    "event_id": "tjstocks-0092-2026-10-08-PAAS-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2408,7 +2576,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0087-2026-10-08-PAAS-HOLD",
+    "event_id": "tjstocks-0093-2026-10-08-PAAS-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "paragraph:7:c5@char:981",
@@ -2436,7 +2604,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0088-2026-10-16-NFT-HOLD",
+    "event_id": "tjstocks-0094-2026-10-16-NFT-HOLD",
     "source_id": "the-stock-market-is-still-bullish",
     "source_type": "article",
     "location": "list_item:12:c0@char:1889",
@@ -2464,7 +2632,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0089-2026-10-20-DG-BUY",
+    "event_id": "tjstocks-0095-2026-10-20-DG-BUY",
     "source_id": "lets-pretend-the-stock-market-is",
     "source_type": "article",
     "location": "paragraph:9:c2@char:1145",
@@ -2492,7 +2660,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0090-2026-10-30-HNGE-SELL",
+    "event_id": "tjstocks-0096-2026-10-30-HNGE-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:3:c2@char:223",
@@ -2520,7 +2688,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0091-2026-10-30-TWLO-SELL",
+    "event_id": "tjstocks-0097-2026-10-30-TWLO-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:3:c2@char:223",
@@ -2548,7 +2716,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0092-2026-10-30-HNGE-SELL",
+    "event_id": "tjstocks-0098-2026-10-30-HNGE-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:4:c1@char:663",
@@ -2576,7 +2744,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0093-2026-10-30-TWLO-SELL",
+    "event_id": "tjstocks-0099-2026-10-30-TWLO-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:4:c1@char:663",
@@ -2604,7 +2772,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0094-2026-10-30-INTC-HOLD",
+    "event_id": "tjstocks-0100-2026-10-30-INTC-HOLD",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:6:c0@char:1202",
@@ -2632,7 +2800,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0095-2026-11-03-VLO-TRIM",
+    "event_id": "tjstocks-0101-2026-11-03-VLO-TRIM",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:5@char:1143",
@@ -2660,7 +2828,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0096-2026-11-03-CAKE-HOLD",
+    "event_id": "tjstocks-0102-2026-11-03-CAKE-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:6@char:1189",
@@ -2688,7 +2856,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0097-2026-11-03-HNI-HOLD",
+    "event_id": "tjstocks-0103-2026-11-03-HNI-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:7@char:1222",
@@ -2716,7 +2884,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0098-2026-11-03-CNXN-HOLD",
+    "event_id": "tjstocks-0104-2026-11-03-CNXN-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:8@char:1251",
@@ -2744,7 +2912,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0099-2026-11-03-UBSI-HOLD",
+    "event_id": "tjstocks-0105-2026-11-03-UBSI-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:9@char:1279",
@@ -2772,7 +2940,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0100-2026-11-03-TXT-HOLD",
+    "event_id": "tjstocks-0106-2026-11-03-TXT-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:10@char:1315",
@@ -2800,7 +2968,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0101-2026-11-03-PRU-HOLD",
+    "event_id": "tjstocks-0107-2026-11-03-PRU-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:11@char:1345",
@@ -2828,7 +2996,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0102-2026-11-03-SPG-HOLD",
+    "event_id": "tjstocks-0108-2026-11-03-SPG-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:12@char:1369",
@@ -2856,7 +3024,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0103-2026-11-03-FELE-HOLD",
+    "event_id": "tjstocks-0109-2026-11-03-FELE-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:13@char:1403",
@@ -2884,7 +3052,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0104-2026-11-03-MTB-HOLD",
+    "event_id": "tjstocks-0110-2026-11-03-MTB-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:14@char:1435",
@@ -2912,7 +3080,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0105-2025-04-30-GRND-SELL",
+    "event_id": "tjstocks-0111-2025-04-30-GRND-SELL",
     "source_id": "chat:a27b2288:reply:c6dde053",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c6dde053-5643-4a14-bb85-f2aa80d50e26:clause:1",
@@ -2940,7 +3108,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0106-2025-04-30-EHC-SELL",
+    "event_id": "tjstocks-0112-2025-04-30-EHC-SELL",
     "source_id": "chat:a27b2288:reply:c6dde053",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c6dde053-5643-4a14-bb85-f2aa80d50e26:clause:1",
@@ -2968,7 +3136,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0107-2025-05-12-LRN-SELL",
+    "event_id": "tjstocks-0113-2025-05-12-LRN-SELL",
     "source_id": "chat:a27b2288:reply:b2b3bc9b",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b2b3bc9b-b48b-4764-92eb-06f03b7fe47e:clause:0",
@@ -2996,7 +3164,35 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0108-2025-05-21-RELY-SELL",
+    "event_id": "tjstocks-0114-2025-05-15-CHEF-BUY",
+    "source_id": "chat:a27b2288:reply:672552a1",
+    "source_type": "chat_reply",
+    "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:672552a1-0144-4372-9531-5062a530f1b8:clause:0",
+    "char_offset": 0,
+    "exact_text": "Going to add to the CHEF position.",
+    "publication_date": "2025-05-15",
+    "effective_date": "2025-05-15",
+    "date_uncertainty": null,
+    "company_name": "CHEF",
+    "ticker": "CHEF",
+    "normalized_ticker": "CHEF",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "BUY",
+    "execution_status": "proposed",
+    "discovery_layer": "primary_chat",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Watchlist / conditional / unexecuted idea",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0115-2025-05-21-RELY-SELL",
     "source_id": "chat:a27b2288:reply:55a1dbd0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:55a1dbd0-33db-41fc-9fa6-a6fa5531fe58:clause:0",
@@ -3024,7 +3220,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0109-2025-05-22-GRND-SELL",
+    "event_id": "tjstocks-0116-2025-05-22-GRND-SELL",
     "source_id": "chat:a27b2288:reply:afb526d5",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:afb526d5-2cce-4247-a76e-1067e653f3c7:clause:0",
@@ -3052,7 +3248,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0110-2025-06-10-GE-SELL",
+    "event_id": "tjstocks-0117-2025-06-10-GE-SELL",
     "source_id": "chat:a27b2288:reply:e0ad05be",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:e0ad05be-ac04-497b-b1c2-76d6e88ffa5f:clause:0",
@@ -3080,7 +3276,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0111-2025-06-16-TTMI-BUY",
+    "event_id": "tjstocks-0118-2025-06-16-TTMI-BUY",
     "source_id": "chat:a27b2288:reply:a31aeb0c",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a31aeb0c-f004-47d5-a0bd-7726eb725425:clause:1",
@@ -3108,7 +3304,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0112-2025-06-16-RTX-BUY",
+    "event_id": "tjstocks-0119-2025-06-16-RTX-BUY",
     "source_id": "chat:a27b2288:reply:a31aeb0c",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a31aeb0c-f004-47d5-a0bd-7726eb725425:clause:1",
@@ -3136,7 +3332,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0113-2025-06-27-DASH-ADD",
+    "event_id": "tjstocks-0120-2025-06-27-DASH-ADD",
     "source_id": "chat:a27b2288:reply:897e4575",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:897e4575-c3af-477d-9206-2fab51f8433a:clause:0",
@@ -3164,7 +3360,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0114-2025-07-14-RBLX-ADD",
+    "event_id": "tjstocks-0121-2025-07-14-RBLX-ADD",
     "source_id": "chat:a27b2288:reply:a9834e1d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a9834e1d-440e-4c7a-9f20-be0253a5c33d:clause:1",
@@ -3192,7 +3388,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0115-2025-07-16-RBLX-SELL",
+    "event_id": "tjstocks-0122-2025-07-16-RBLX-SELL",
     "source_id": "chat:a27b2288:reply:0bff687b",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:0bff687b-c86a-4dd9-bc4a-514f8a65e6a6:clause:2",
@@ -3220,7 +3416,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0116-2025-07-17-RGTI-BUY",
+    "event_id": "tjstocks-0123-2025-07-17-RGTI-BUY",
     "source_id": "chat:a27b2288:reply:2ad67fdf",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:2ad67fdf-1b6e-44c0-861e-a63c3bff1501:clause:1",
@@ -3248,7 +3444,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0117-2025-07-28-ILF-SELL",
+    "event_id": "tjstocks-0124-2025-07-28-ILF-SELL",
     "source_id": "chat:a27b2288:reply:aa151f44",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:aa151f44-0039-48a2-9294-45bb6dbf6369:clause:0",
@@ -3276,7 +3472,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0118-2025-08-13-EBAY-SELL",
+    "event_id": "tjstocks-0125-2025-08-13-EBAY-SELL",
     "source_id": "chat:a27b2288:reply:3296125d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:3296125d-5c1c-4eeb-a91b-f0e43b1bf116:clause:0",
@@ -3304,7 +3500,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0119-2025-09-05-AFRM-BUY",
+    "event_id": "tjstocks-0126-2025-09-05-AFRM-BUY",
     "source_id": "chat:a27b2288:reply:69243fe3",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:69243fe3-ac28-4d3b-abaa-cdec1f9291d7:clause:1",
@@ -3332,7 +3528,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0120-2025-09-10-UI-BUY",
+    "event_id": "tjstocks-0127-2025-09-10-UI-BUY",
     "source_id": "chat:a27b2288:reply:c4d4f7e3",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c4d4f7e3-dcf1-4b8b-99f0-d28b4494ea3d:clause:2",
@@ -3360,7 +3556,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0121-2025-09-10-BABA-BUY",
+    "event_id": "tjstocks-0128-2025-09-10-BABA-BUY",
     "source_id": "chat:a27b2288:reply:c4d4f7e3",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c4d4f7e3-dcf1-4b8b-99f0-d28b4494ea3d:clause:2",
@@ -3388,7 +3584,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0122-2025-09-17-RGTI-ADD",
+    "event_id": "tjstocks-0129-2025-09-17-RGTI-ADD",
     "source_id": "chat:a27b2288:reply:a2e2f0a8",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a2e2f0a8-f6f5-4833-b4de-be237f46358f:clause:0",
@@ -3416,7 +3612,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0123-2025-09-18-HII-ADD",
+    "event_id": "tjstocks-0130-2025-09-18-HII-ADD",
     "source_id": "chat:a27b2288:reply:b5a4474e",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b5a4474e-accc-487e-bde2-d196dfd92ab1:clause:0",
@@ -3444,7 +3640,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0124-2025-09-23-KTOS-ADD",
+    "event_id": "tjstocks-0131-2025-09-23-KTOS-ADD",
     "source_id": "chat:a27b2288:reply:9dc97fe1",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:9dc97fe1-08ac-4e1a-a550-1317acb6c68a:clause:0",
@@ -3472,7 +3668,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0125-2025-09-24-BABA-ADD",
+    "event_id": "tjstocks-0132-2025-09-24-BABA-ADD",
     "source_id": "chat:a27b2288:reply:feadeb39",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:feadeb39-65e0-4950-9297-d5e9e80b86e1:clause:0",
@@ -3500,7 +3696,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0126-2025-10-08-TMC-SELL",
+    "event_id": "tjstocks-0133-2025-10-08-TMC-SELL",
     "source_id": "chat:a27b2288:reply:51994cad",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:51994cad-70b5-4816-ab9b-186b58275de9:clause:0",
@@ -3528,7 +3724,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0127-2025-10-21-NVTS-SELL",
+    "event_id": "tjstocks-0134-2025-10-21-NVTS-SELL",
     "source_id": "chat:a27b2288:reply:1e5a6f31",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:1e5a6f31-a531-43a1-a5bc-18595a28581f:clause:1",
@@ -3556,7 +3752,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0128-2025-10-29-HII-SELL",
+    "event_id": "tjstocks-0135-2025-10-29-HII-SELL",
     "source_id": "chat:a27b2288:reply:a758b1e1",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a758b1e1-0d98-4bc8-bf34-7f10d2f9ffc4:clause:0",
@@ -3584,7 +3780,35 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0129-2026-01-05-ERO-ADD",
+    "event_id": "tjstocks-0136-2025-11-10-NFLX-BUY",
+    "source_id": "chat:a27b2288:reply:f716e4dd",
+    "source_type": "chat_reply",
+    "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f716e4dd-4053-4150-9d83-b15d8bb1bfb2:clause:1",
+    "char_offset": 0,
+    "exact_text": "I am going to close my Netflix short.",
+    "publication_date": "2025-11-10",
+    "effective_date": "2025-11-10",
+    "date_uncertainty": null,
+    "company_name": "Netflix",
+    "ticker": "NFLX",
+    "normalized_ticker": "NFLX",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "short",
+    "action": "BUY",
+    "execution_status": "proposed",
+    "discovery_layer": "primary_chat",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Watchlist / conditional / unexecuted idea",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0137-2026-01-05-ERO-ADD",
     "source_id": "chat:a27b2288:reply:def6aca0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:def6aca0-98e6-4016-875c-dc75cd239c96:clause:1",
@@ -3612,7 +3836,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0130-2026-01-05-AMKR-ADD",
+    "event_id": "tjstocks-0138-2026-01-05-AMKR-ADD",
     "source_id": "chat:a27b2288:reply:def6aca0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:def6aca0-98e6-4016-875c-dc75cd239c96:clause:1",
@@ -3640,7 +3864,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0131-2026-01-13-KTOS-BUY",
+    "event_id": "tjstocks-0139-2026-01-13-KTOS-BUY",
     "source_id": "chat:a27b2288:reply:ab506b60",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:ab506b60-afb3-4ce9-8d1e-9c70931c3eea:clause:0",
@@ -3668,7 +3892,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0132-2026-01-13-KTOS-BUY",
+    "event_id": "tjstocks-0140-2026-01-13-KTOS-BUY",
     "source_id": "chat:a27b2288:reply:bd1eda48",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:bd1eda48-55c6-44ab-a833-11829e4a40cc:clause:1",
@@ -3696,7 +3920,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0133-2026-01-15-NVMI-ADD",
+    "event_id": "tjstocks-0141-2026-01-15-NVMI-ADD",
     "source_id": "chat:a27b2288:reply:a0611e40",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a0611e40-7997-4f61-b81b-2881f1b4fd40:clause:0",
@@ -3724,7 +3948,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0134-2026-01-27-PAAS-BUY",
+    "event_id": "tjstocks-0142-2026-01-27-PAAS-BUY",
     "source_id": "chat:a27b2288:reply:f98f1ff4",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f98f1ff4-1b73-492a-bece-6ce4650935e2:clause:2",
@@ -3752,7 +3976,35 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0135-2026-01-29-PL-SELL",
+    "event_id": "tjstocks-0143-2026-01-27-APLD-BUY",
+    "source_id": "chat:a27b2288:reply:f98f1ff4",
+    "source_type": "chat_reply",
+    "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f98f1ff4-1b73-492a-bece-6ce4650935e2:clause:5",
+    "char_offset": 0,
+    "exact_text": "I also will buy APLD.",
+    "publication_date": "2026-01-27",
+    "effective_date": "2026-01-27",
+    "date_uncertainty": null,
+    "company_name": "Applied Digital Corporation",
+    "ticker": "APLD",
+    "normalized_ticker": "APLD",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "BUY",
+    "execution_status": "proposed",
+    "discovery_layer": "primary_chat",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Watchlist / conditional / unexecuted idea",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0144-2026-01-29-PL-SELL",
     "source_id": "chat:a27b2288:reply:14800bbc",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:14800bbc-fb4e-4c51-98e4-27affba7519e:clause:0",
@@ -3780,7 +4032,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0136-2026-01-30-FDX-HOLD",
+    "event_id": "tjstocks-0145-2026-01-30-FDX-HOLD",
     "source_id": "chat:a27b2288:reply:84406a0c",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:84406a0c-9034-40c4-a78a-7ab370421ff0:clause:3",
@@ -3808,7 +4060,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0137-2026-01-30-COMP-SELL",
+    "event_id": "tjstocks-0146-2026-01-30-COMP-SELL",
     "source_id": "chat:a27b2288:reply:78683ac0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:78683ac0-131b-4e9a-bf55-15fa8a106991:clause:0",
@@ -3836,7 +4088,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0138-2026-01-30-NVMI-SELL",
+    "event_id": "tjstocks-0147-2026-01-30-NVMI-SELL",
     "source_id": "chat:a27b2288:reply:b4558e8d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b4558e8d-fe61-479b-b812-6fbb82112dcd:clause:0",
@@ -3864,7 +4116,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0139-2026-01-30-AMKR-SELL",
+    "event_id": "tjstocks-0148-2026-01-30-AMKR-SELL",
     "source_id": "chat:a27b2288:reply:f756f401",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f756f401-0e2c-4cac-9eab-ea1c3c86370d:clause:0",
@@ -3892,7 +4144,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0140-2026-01-30-ERO-SELL",
+    "event_id": "tjstocks-0149-2026-01-30-ERO-SELL",
     "source_id": "chat:a27b2288:reply:91d0d93d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:91d0d93d-8439-4f37-a877-1debb14e3913:clause:0",
@@ -3920,7 +4172,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0141-2026-02-02-SPG-BUY",
+    "event_id": "tjstocks-0150-2026-02-02-SPG-BUY",
     "source_id": "chat:a27b2288:reply:d1a1ca7b",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:d1a1ca7b-0a87-4b56-b254-fe5d1adacb2c:clause:0",
@@ -3948,7 +4200,35 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0142-2026-02-06-FDX-ADD",
+    "event_id": "tjstocks-0151-2026-02-04-VMC-BUY",
+    "source_id": "chat:a27b2288:reply:5b41d223",
+    "source_type": "chat_reply",
+    "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:5b41d223-d014-445b-8a3f-c3419708544d:clause:0",
+    "char_offset": 0,
+    "exact_text": "Going to add VMC to the portfolio.",
+    "publication_date": "2026-02-04",
+    "effective_date": "2026-02-04",
+    "date_uncertainty": null,
+    "company_name": "Vulcan Materials Company",
+    "ticker": "VMC",
+    "normalized_ticker": "VMC",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "BUY",
+    "execution_status": "proposed",
+    "discovery_layer": "primary_chat",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Watchlist / conditional / unexecuted idea",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0152-2026-02-06-FDX-ADD",
     "source_id": "chat:a27b2288:reply:ab7d3f97",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:ab7d3f97-ea17-44df-a44a-5f3438f0d8f8:clause:0",
@@ -3976,7 +4256,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0143-2026-04-14-CATY-ADD",
+    "event_id": "tjstocks-0153-2026-04-14-CATY-ADD",
     "source_id": "chat:a27b2288:reply:bd8062e6",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:bd8062e6-9b33-41b5-8a50-d63e2f41f096:clause:0",
@@ -4004,7 +4284,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0144-2026-04-14-BFST-ADD",
+    "event_id": "tjstocks-0154-2026-04-14-BFST-ADD",
     "source_id": "chat:a27b2288:reply:bd8062e6",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:bd8062e6-9b33-41b5-8a50-d63e2f41f096:clause:0",
@@ -4032,7 +4312,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0145-2026-05-26-LUNR-SELL",
+    "event_id": "tjstocks-0155-2026-05-26-LUNR-SELL",
     "source_id": "chat:a27b2288:reply:ae96fdf0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:ae96fdf0-d7c9-47e3-bd35-8d77fc5b4dff:clause:0",
@@ -4060,7 +4340,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0146-2026-06-01-TXT-SELL",
+    "event_id": "tjstocks-0156-2026-06-01-TXT-SELL",
     "source_id": "chat:a27b2288:reply:5dac00b4",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:5dac00b4-23bd-481b-9b4e-e82bdb38c418:clause:0",
@@ -4088,7 +4368,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0147-2026-06-25-EVC-BUY",
+    "event_id": "tjstocks-0157-2026-06-25-EVC-BUY",
     "source_id": "chat:a27b2288:reply:0d059460",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:0d059460-aba0-4329-abe6-d88b33ace46b:clause:1",
@@ -4116,7 +4396,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0148-2026-06-26-APLD-SELL",
+    "event_id": "tjstocks-0158-2026-06-26-APLD-SELL",
     "source_id": "chat:a27b2288:reply:7dca16a8",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:7dca16a8-cd99-42e6-bc28-aeca0e880f25:clause:0",
@@ -4144,7 +4424,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0149-2026-07-17-XMTR-ADD",
+    "event_id": "tjstocks-0159-2026-07-17-XMTR-ADD",
     "source_id": "chat:a27b2288:reply:b93d4489",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b93d4489-90e5-4486-9e1b-d5d092e48dd2:clause:0",
@@ -4172,7 +4452,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0150-2026-08-04-SPG-ADD",
+    "event_id": "tjstocks-0160-2026-08-04-SPG-ADD",
     "source_id": "chat:a27b2288:reply:6d11ae71",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:6d11ae71-c597-4aaf-84a0-8463adef398b:clause:1",
@@ -4200,7 +4480,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0151-2026-08-04-XMTR-ADD",
+    "event_id": "tjstocks-0161-2026-08-04-XMTR-ADD",
     "source_id": "chat:a27b2288:reply:6d11ae71",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:6d11ae71-c597-4aaf-84a0-8463adef398b:clause:1",
@@ -4228,7 +4508,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0152-2026-08-04-CNO-BUY",
+    "event_id": "tjstocks-0162-2026-08-04-CNO-BUY",
     "source_id": "chat:a27b2288:reply:6d11ae71",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:6d11ae71-c597-4aaf-84a0-8463adef398b:clause:3",
@@ -4256,7 +4536,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0153-2026-08-11-EVC-SELL",
+    "event_id": "tjstocks-0163-2026-08-11-EVC-SELL",
     "source_id": "chat:a27b2288:reply:deafc135",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:deafc135-f53a-4026-9a13-c0eefacb880a:clause:0",
@@ -4284,7 +4564,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0154-2026-08-19-RIOT-BUY",
+    "event_id": "tjstocks-0164-2026-08-19-RIOT-BUY",
     "source_id": "chat:a27b2288:reply:053239d2",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:053239d2-e08e-4d7c-995e-e0d855f41e6d:clause:5",
@@ -4312,7 +4592,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0155-2026-08-27-WSFS-SELL",
+    "event_id": "tjstocks-0165-2026-08-27-WSFS-SELL",
     "source_id": "chat:a27b2288:reply:77098c07",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:77098c07-1729-4a70-b013-224b8afcb540:clause:0",
@@ -4340,7 +4620,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0156-2026-08-27-SPG-SELL",
+    "event_id": "tjstocks-0166-2026-08-27-SPG-SELL",
     "source_id": "chat:a27b2288:reply:77098c07",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:77098c07-1729-4a70-b013-224b8afcb540:clause:0",
@@ -4368,7 +4648,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0157-2026-08-27-CATY-SELL",
+    "event_id": "tjstocks-0167-2026-08-27-CATY-SELL",
     "source_id": "chat:a27b2288:reply:22a50048",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:22a50048-c7a7-4c2c-8b32-42af71f9a1cb:clause:0",
@@ -4396,7 +4676,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0158-2026-09-01-RIOT-SELL",
+    "event_id": "tjstocks-0168-2026-09-01-RIOT-SELL",
     "source_id": "chat:a27b2288:reply:7b53db2e",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:7b53db2e-be38-4154-8379-e2f1c2672766:clause:0",
@@ -4424,7 +4704,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0159-2026-09-02-TE-SELL",
+    "event_id": "tjstocks-0169-2026-09-02-TE-SELL",
     "source_id": "chat:a27b2288:reply:d9942f18",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:d9942f18-247a-490d-84ae-9ca11ef22ee9:clause:0",
@@ -4452,7 +4732,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0160-2026-09-02-CXDO-SELL",
+    "event_id": "tjstocks-0170-2026-09-02-CXDO-SELL",
     "source_id": "chat:a27b2288:reply:b417322e",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b417322e-675d-4044-a34b-b01af13977ac:clause:0",
@@ -4480,7 +4760,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0161-2026-09-14-HNGE-BUY",
+    "event_id": "tjstocks-0171-2026-09-14-HNGE-BUY",
     "source_id": "chat:a27b2288:reply:24195abe",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:24195abe-388d-4080-ad3e-6e8beb263be0:clause:0",
@@ -4508,7 +4788,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0162-2026-09-23-TWLO-BUY",
+    "event_id": "tjstocks-0172-2026-09-23-TWLO-BUY",
     "source_id": "chat:a27b2288:reply:16ea07c7",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:16ea07c7-49ea-460f-9f25-33a55ae1807a:clause:0",
@@ -4536,7 +4816,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0163-2026-09-23-APPS-BUY",
+    "event_id": "tjstocks-0173-2026-09-23-APPS-BUY",
     "source_id": "chat:a27b2288:reply:16ea07c7",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:16ea07c7-49ea-460f-9f25-33a55ae1807a:clause:0",
@@ -4561,6 +4841,34 @@
     "trim_fraction": null,
     "confidence": "high",
     "notes": "If you have not seen Midweek movers today, I picked up TWLO and APPS.",
+    "unresolved_fields": []
+  },
+  {
+    "event_id": "tjstocks-0174-2026-10-30-TWLO-BUY",
+    "source_id": "chat:a27b2288:reply:30392699",
+    "source_type": "chat_reply",
+    "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:30392699-fb1a-4107-9e76-c90c3e82861c:clause:3",
+    "char_offset": 0,
+    "exact_text": "I intend to exit Hinge and Twilio.",
+    "publication_date": "2026-10-30",
+    "effective_date": "2026-10-30",
+    "date_uncertainty": null,
+    "company_name": "Twilio",
+    "ticker": "TWLO",
+    "normalized_ticker": "TWLO",
+    "exchange": "US",
+    "market": ":us:",
+    "instrument_type": "equity",
+    "action": "BUY",
+    "execution_status": "proposed",
+    "discovery_layer": "primary_chat",
+    "portfolio_book": "personal_swing",
+    "stated_price": null,
+    "stated_currency": null,
+    "position_sizing": null,
+    "trim_fraction": null,
+    "confidence": "medium",
+    "notes": "Watchlist / conditional / unexecuted idea",
     "unresolved_fields": []
   }
 ]

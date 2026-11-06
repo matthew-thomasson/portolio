@@ -1,4 +1,4 @@
 source_key,display_name,reconciliation_status,unresolved_errors,warnings_count,start_date,end_date,a_seeded,a_trades,a_positions,a_external_capital,a_ending_value,a_net_profit,a_roi_pct,a_xirr_pct,a_spy_roi_pct,a_spy_xirr_pct,b_trades,b_positions,b_external_capital,b_ending_value,b_net_profit,b_roi_pct,b_xirr_pct,b_spy_roi_pct,b_spy_xirr_pct
-beatingthetide,Beating The Tide,FULLY_RECONCILED,0,0,2026-01-01,2026-11-05,21,57,41,29514.79,35647.23,6132.44,20.78,31.12,6.94,10.2,30,21,14080.29,15985.94,1905.64,13.53,34.04,3.09,7.4
+beatingthetide,Beating The Tide,FULLY_RECONCILED,0,0,2026-01-01,2026-11-05,22,56,41,30188.49,36129.35,5940.86,19.68,29.24,7.03,10.27,28,20,13753.99,15501.1,1747.11,12.7,32.99,2.71,6.7
 tjstocks,TJ Stocks,FULLY_RECONCILED,0,0,2026-01-01,2026-11-05,0,17,13,12000.0,14519.43,2519.43,21.0,30.13,7.02,9.87,17,13,12000.0,14519.43,2519.43,21.0,30.13,7.02,9.87
-cluseau,Cluseau,RECONCILED_WITH_WARNINGS,0,1,2026-01-01,2026-11-05,27,136,55,57639.92,69085.63,11445.71,19.86,28.6,7.85,11.09,102,39,34609.25,41653.68,7044.44,20.35,34.73,6.45,10.62
+cluseau,Cluseau,RECONCILED_WITH_WARNINGS,0,1,2026-01-01,2026-11-05,27,132,55,61256.89,71534.69,10277.8,16.78,24.75,7.14,10.35,98,39,37405.79,43399.55,5993.76,16.02,27.9,5.6,9.46

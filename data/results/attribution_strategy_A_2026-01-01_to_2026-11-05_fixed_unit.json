@@ -8,9 +8,9 @@
       "positions_count": 34,
       "open_positions_count": 27,
       "capital_deployed_usd": 35000.0,
-      "realized_pnl_usd": 3369.2,
-      "unrealized_pnl_usd": 2386.01,
-      "total_pnl_usd": 5755.21,
+      "realized_pnl_usd": 3195.5,
+      "unrealized_pnl_usd": 2368.13,
+      "total_pnl_usd": 5563.63,
       "tickers": [
         "AGX",
         "AR",
@@ -24,13 +24,13 @@
         "DQ",
         "DXPE",
         "EPC",
+        "ERO",
         "FTK",
         "GPN",
         "HRTG",
         "IBEX",
         "KINS",
         "LRN",
-        "MTRN",
         "MU",
         "NESR",
         "NGD",
@@ -47,7 +47,7 @@
         "TPC",
         "WGS"
       ],
-      "return_on_deployed_pct": 16.44
+      "return_on_deployed_pct": 15.9
     },
     {
       "region": "South Korea",
@@ -110,7 +110,7 @@
       "instrument_type": "long_equity",
       "positions_count": 41,
       "capital_deployed_usd": 42500.0,
-      "total_pnl_usd": 6132.47,
+      "total_pnl_usd": 5940.89,
       "tickers": [
         "AGX",
         "AR",
@@ -125,6 +125,7 @@
         "DQ",
         "DXPE",
         "EPC",
+        "ERO",
         "FTK",
         "GPN",
         "HRTG",
@@ -135,7 +136,6 @@
         "KINS",
         "KT",
         "LRN",
-        "MTRN",
         "MU",
         "NESR",
         "NGD",
@@ -161,7 +161,7 @@
     "by_type": {}
   },
   "discovery_layer_counts": {
-    "primary_article": 50,
+    "primary_article": 45,
     "primary_table": 31,
     "primary_chat": 3,
     "checkpoint_review": 1

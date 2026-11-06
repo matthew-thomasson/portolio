@@ -1,69 +1,12 @@
 {
-  "_version": "3.5.0",
+  "_version": "3.6.0",
   "items": {
-    "3556c5af357abb9e37b869fe42bf9658de841adaaf1cd9288d7f93751691514c": [],
-    "87e00f30ee8188b72181b9183e96f9a3f2ec6691469057b17e59387e2c2747c4": [],
-    "be99f68dca0e96c707f768796f72e1f8e1bdc38fc981568f451698de8fd9d96d": [],
-    "cf843ebc31adefe6022012c36b70c73eaf1a4237ada724f810590d9612cefdef": [
-      {
-        "event_id": "",
-        "source_id": "why-the-new-loan-wont-move-the-valuation",
-        "source_type": "article",
-        "location": "paragraph:42:c4@char:6809",
-        "char_offset": 6809,
-        "exact_text": "make room for a new position that had a great valuation, profitability and risk-reward profile.",
-        "publication_date": "2025-01-11",
-        "effective_date": "2025-01-11",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "make room for a new position that had a great valuation, profitability and risk-reward profile.",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "why-the-new-loan-wont-move-the-valuation",
-        "source_type": "article",
-        "location": "paragraph:42:c4@char:6809",
-        "char_offset": 6809,
-        "exact_text": "make room for a new position that had a great valuation, profitability and risk-reward profile.",
-        "publication_date": "2025-01-11",
-        "effective_date": "2025-01-11",
-        "date_uncertainty": null,
-        "company_name": "Reward Argan",
-        "ticker": "AGX",
-        "normalized_ticker": "AGX",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "make room for a new position that had a great valuation, profitability and risk-reward profile.",
-        "unresolved_fields": []
-      }
-    ],
-    "6c9e17be37445284b978f1be4377d25b7b272ab4b3007bfb51c0021e06d6cdeb": [],
-    "59ac1dbff2c9fe2abd7c4fac5351b6ae4d842d2ac78ed840d2dfda1ebb8c9c93": [
+    "46677eaff273531ea7900ad53867de2a0ec53a612e65f1acf3afdfdf516c3e4b": [],
+    "58e3c1c0eef330c83d5d1ed7d087abbaecea281c65a7ea34aa044958b40908c1": [],
+    "85256b09907f9132dd6a6bacb8c735ed480a9bf10a4f445017ecc2392a132693": [],
+    "75ce0959617f97c73c094ac3df20ed3d7684ec67663e099b49b08d3231a189e7": [],
+    "298dd38ab6279547ea8f3a7c595b4fb738d562dba410a37bdca4f57581f79a00": [],
+    "6ef654630a8fe4e8da16bdac1c587333fedaa19eb54913d60c9b2e506b478996": [
       {
         "event_id": "",
         "source_id": "this-industry-leader-is-a-steal-trade",
@@ -261,8 +204,8 @@
         "unresolved_fields": []
       }
     ],
-    "e155e95887e54cecb400a346bdbb055bdbe7484be2605c6e0c44466ef0860f07": [],
-    "37d679589a77019be3eab7a180a78f2d79b7df7ed967403927cdc611ddee5e28": [
+    "1381f791601a50944b6beb7d291f86d1f26920887fec9ce0a18adcc911d0e1c9": [],
+    "72818212370b5c60998647977474ed6a20354eeaebb8848f1aa32c485da524c4": [
       {
         "event_id": "",
         "source_id": "argentina-investment-alert-supv-ypf",
@@ -514,39 +457,11 @@
         "confidence": "high",
         "notes": "Valuation—The reason I am closing my position in SUPV",
         "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "argentina-investment-alert-supv-ypf",
-        "source_type": "article",
-        "location": "heading:68@char:12889",
-        "char_offset": 12889,
-        "exact_text": "Valuation—The reason I am closing my position in SUPV",
-        "publication_date": "2025-01-21",
-        "effective_date": "2025-01-21",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "SELL",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": 1.0,
-        "confidence": "high",
-        "notes": "Valuation—The reason I am closing my position in SUPV",
-        "unresolved_fields": []
       }
     ],
-    "e97ef5a73302d68d9843c4df7de11fb443c11470d633260b0f13f07bec45c98c": [],
-    "6352e206e8bce8516f1746c0744e77cef497998112d273e20b74b6570dc9fbaf": [],
-    "d7b751ce5f05f6a8788ee4c151f00f40dd1535d1a9ee6c733e1dc1e1f711e715": [
+    "b3503b28db27a65a4577c05545f08ad10beea8891646b9e5b37453c5f2bd3f56": [],
+    "e33e66624c9ba9595b64307870f204b34e14a16a353c3a264b4f6bd767d735d3": [],
+    "498da77311f8cee2bb1bafbe9e1abb4b3e5c5f070b4f30f3b8b6700c3529bacc": [
       {
         "event_id": "",
         "source_id": "trade-alert-two-closing-trades-to",
@@ -576,9 +491,9 @@
         "unresolved_fields": []
       }
     ],
-    "003e351b9e508bdab2c248618af57ad2412c7d48535d83da08f1c644e2b79134": [],
-    "84d5626ccf89f3d201f970f7285576f443104c43b5bfcf276bb65bbcb4917288": [],
-    "4a5dd1325e2b6ff7a1eb575108eadafd587e02e7f4c715beb5674337675acc4e": [
+    "5903c78ca095515f96ad55a946cd704593fb850044cd6d84fd94293ad4c64373": [],
+    "cb72b2837b539dc6df7e51d8cb0b1715cf798c57dfcf0f55e562c13fa7294026": [],
+    "b814c90dc779f049caa1481c66bc9881b600389e5ab93f68a856d2ee3e137d4c": [
       {
         "event_id": "",
         "source_id": "trade-alert-ffh-reallocation",
@@ -636,7 +551,7 @@
         "unresolved_fields": []
       }
     ],
-    "7f835da8c5d2418d5fafbc2fbaaa3f40255110c3871dace499bd2fcf2d378903": [
+    "62a0577c3f9c080a13b9b83e2aa099fb8bfbcd9263d969b78dea95defba8043e": [
       {
         "event_id": "",
         "source_id": "closing-another-two-positions-national-bank-mho-homes",
@@ -666,7 +581,7 @@
         "unresolved_fields": []
       }
     ],
-    "1db4630c346db537265d41a9e0dc8d2f0f71115a89f7cd2a22ad0eb4438e73e5": [
+    "baa6fa85ebb0c1f9000cef236008833f1ca33f0be3d2359dca96da2fdbed35fc": [
       {
         "event_id": "",
         "source_id": "dxp-enterprises-dxpe-a-hidden-mro",
@@ -836,7 +751,7 @@
         "unresolved_fields": []
       }
     ],
-    "d044d962084985736496b41ebf93e6b1615a982c5f93fc063fdf55521a9587c3": [
+    "6c4cd6b4f99d0771f1e03f805d40201267dac3f6cb3cd3f3cb8c5a4097d3d42b": [
       {
         "event_id": "",
         "source_id": "the-fast-and-slow-investor",
@@ -894,7 +809,7 @@
         "unresolved_fields": []
       }
     ],
-    "54d03cd0122ec3199cecfbe994532687a26af4a9a17a6b8d60ac29d712262c64": [
+    "a9437dc0008342807002ed240716eb39fae1feb1f1628c04b93e5c2de3f4a870": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-one-more-position",
@@ -924,7 +839,7 @@
         "unresolved_fields": []
       }
     ],
-    "3a9192fd95cf03432412d0638e308e224e2cc35a290f97391210a67c396db825": [
+    "116c25c6f8a77e2fe4f726c2c609f19aa768d22f0dee6d246bb7c06c4a1e4386": [
       {
         "event_id": "",
         "source_id": "the-tariff-trap",
@@ -954,7 +869,7 @@
         "unresolved_fields": []
       }
     ],
-    "57204eeb51761c3095985d0cec0159e1fda255529e0b6e4b6a328bcc9868793a": [
+    "363883954664ef7708af1805182979e06104b66d7cf5a3a6f88c8a1b65e9f7d0": [
       {
         "event_id": "",
         "source_id": "closing-wgs-and-clov",
@@ -1124,7 +1039,7 @@
         "unresolved_fields": []
       }
     ],
-    "29f5af28e786994552cbb367ae62101e6c531f502b6a833e2cb649c7697db8dc": [
+    "fb4957d8920d15899a77d04f1f078053d5caefa5a9abac39f852aea375a7e750": [
       {
         "event_id": "",
         "source_id": "trade-alert-two-hidden-gems-poised",
@@ -1210,8 +1125,8 @@
         "unresolved_fields": []
       }
     ],
-    "43add45e436db17b999d24e916f5e97b1b5254583b09dcb6334ad702c17274d9": [],
-    "2dbb21a6c6b3a34898e6c5f4daef4c9ee0c2322af32742987b2073f94d381f77": [
+    "d427cb41f1a6f0e8462e7b6666cd84be6e87d54f0d5e3211b3db2193358fc439": [],
+    "5743fd0d5145f9e05cc9faa1545d25c7295109b34372abc4e3ca4904f105f4b8": [
       {
         "event_id": "",
         "source_id": "the-future-is-nuclear-smr",
@@ -1241,8 +1156,8 @@
         "unresolved_fields": []
       }
     ],
-    "4f55604f13a490cb3a35c1fb5d04df3147de6a1df6f7be1097ceeadd53ff2365": [],
-    "e38b2e93a0e6dbb3a83fecea371b53ffed0e2093c33b6467b5586e1fb44909c6": [
+    "182e0c950bdfd7e16424246fa5e8e76617e13b004adf76287b4a6ec352a3d0cd": [],
+    "36ce65b3a6b6a01cd1a198a6b6f84fde4ea69f0edb15dfde31cdb916d154365b": [
       {
         "event_id": "",
         "source_id": "emotions-the-big-no-no",
@@ -1272,8 +1187,8 @@
         "unresolved_fields": []
       }
     ],
-    "d8442209661bab637405069d453d63bf38e8d887f20927c3e1c0782961047f90": [],
-    "7cac174a079cff48d1f27b8d572aadf889a5f37b7f40d1266bcee855d02a5ba3": [
+    "ff12b2c24e384632538800b547b89141e6deca6d8bcf3f05d9cf1753f311510c": [],
+    "180cc2e286a688ae6efed46f90ce6e7c36b8e6a815bd1eccadd6227fb205811a": [
       {
         "event_id": "",
         "source_id": "closing-amph",
@@ -1303,7 +1218,7 @@
         "unresolved_fields": []
       }
     ],
-    "5b6c1185afc02b81a1cf891492591cb036d01ca6c1960798b444104860ce5fbb": [
+    "9f58e7f58c8ced35bdbf5f204992b72e6477e7372f7868f52e5fa60c747e7a36": [
       {
         "event_id": "",
         "source_id": "dxpes-earnings-shine-but",
@@ -1361,7 +1276,7 @@
         "unresolved_fields": []
       }
     ],
-    "1bdb9a3e644e593059cf0df5a1e4a25b7bc4be9feded0ba160d4968e2dae7d79": [
+    "588f3862ab56aecae966498986319b312c39b2e503af3e78fc25fb8deb658397": [
       {
         "event_id": "",
         "source_id": "closing-rgti",
@@ -1391,7 +1306,7 @@
         "unresolved_fields": []
       }
     ],
-    "c0c616e6eb3af10da0fd1b6eccd2c8dd675807de64974338ee2954fa26cf99df": [
+    "aca204bae2cdcb46450806fe0c6d2155b2c62d32f8c481b57699cae039841b97": [
       {
         "event_id": "",
         "source_id": "fortrea-ftre-an-attractive-post-spin",
@@ -1477,10 +1392,10 @@
         "unresolved_fields": []
       }
     ],
-    "d44aa30378236132a84ad13def31dea7e7144c41c1e46aedbc0e38b6c169f9d2": [],
-    "c7fce826b4ca5ce6b7d2440c47bdb97e17b0fe42a4fda452fd4222380d20bf0d": [],
-    "5f5a02392a9ef28f207b7d07226202b4824ff01476053af0a5f5d5938ca80340": [],
-    "db7a77ca17f3fa76da09afe33feb01892e96fa23260f9422348d325e9beb6ff1": [
+    "6b816d9b12eb1b03dd97cffda27bee0c84bd01da16836cba7ef524100d93dcc9": [],
+    "75e1202e971fcf6fae4d8db7e5be4733fe8d2570412359957de952b51d5f077e": [],
+    "313f07f8ef7d6e69e27a24939d496a32812acb3d153fae06c5f8c405d64327ff": [],
+    "68aa005b7281675ca4f35894c88ed9b016b95c9d5df9c6300f71c07849aeaedb": [
       {
         "event_id": "",
         "source_id": "tsmc-stock-why-this-semiconductor",
@@ -2070,7 +1985,7 @@
         "unresolved_fields": []
       }
     ],
-    "a67f506d1acd9283d11b9e1da1689dee82e001277880a37f7130380e51a19a46": [
+    "48cdc86b9cd11ad40d216f907cb9f9ddcf7f1b27147635bc9c34f80623269808": [
       {
         "event_id": "",
         "source_id": "closing-rere-with-a-23-gain-and-redeploy",
@@ -2128,7 +2043,7 @@
         "unresolved_fields": []
       }
     ],
-    "0586534d0ab683e51bb74fd9fcac4c11f25d477f59c79467b4ea32949f061bbe": [
+    "76a7111fb7b41a3b671b429eb90e854c1ba8e074a6fa87fe8db96bc127488df2": [
       {
         "event_id": "",
         "source_id": "you-cannot-win-them-all-why-i-cut",
@@ -2186,7 +2101,7 @@
         "unresolved_fields": []
       }
     ],
-    "3c1f732d8d11df348cb604e113a6bf41c5cfffcc828cbdbc3dfd2648be8543e1": [
+    "a02364c034355fb10638f3ed2c51d18ae80628421581c291537ed1367e269032": [
       {
         "event_id": "",
         "source_id": "stop-believing-the-stories",
@@ -2244,8 +2159,8 @@
         "unresolved_fields": []
       }
     ],
-    "baaf24f70cde71aaf6ca4d5046b9358f1536d79a1a5f0923362acb0253419bb7": [],
-    "a3c7d6afdaef62f539baed5c7f3b0fd1a5b00322502c4dfe386668ead92b2fd0": [
+    "fdd1e59bcf2122e3c22f775b13d6afad2d7dae1884615b69a1bb0a6fa4b79e37": [],
+    "96ed10f60426aeb8a2475038160b9780fa0241b9afb2d58dc3337096c96093df": [
       {
         "event_id": "",
         "source_id": "george-atuan-celestica-the-most-important-ai-stock",
@@ -2527,9 +2442,9 @@
         "unresolved_fields": []
       }
     ],
-    "8a15a786a6039f1e59e58e613d83965eac1260ac18d8c03b1d49c55c249ed1e2": [],
-    "2eeef1674911ad9c217d32a5faca9952a93a6bba3d8037f85541754e8ad26430": [],
-    "24667a2842415ef133229ea0daf353fa2b0712ff36542afd608cc30599112d86": [
+    "117010ab630f44e3725a5c4c2101079f2e62a2eb5bd6e3ca2b7d90ec3e63c067": [],
+    "df516c93666c1d00c170cf753e76e7e06f2c4efb631aae015c0002337bc5d966": [],
+    "0547269e1eafb35e64c122d61775abb772eda794f983e3ad49be8b9031ddba10": [
       {
         "event_id": "",
         "source_id": "george-atuan-the-only-investing-rule",
@@ -2559,7 +2474,7 @@
         "unresolved_fields": []
       }
     ],
-    "18aed3e03718b0398ef15820364e4fd73df58db4847249092f44d94f1048e487": [
+    "afda3eca4ae0634e813fb5607482962904f023ea541c25c11f9b635d54c91dd4": [
       {
         "event_id": "",
         "source_id": "george-atuan-the-dirt-on-a-quiet-compounder-hiding",
@@ -2981,7 +2896,7 @@
         "unresolved_fields": []
       }
     ],
-    "f7d817993f98b11f6ae3ed9032e40c6b33c5e284c1731f601a7f5185763d2fa6": [
+    "9888988b51720aa866a3728b98ed6b35c1e3a45e0c3174bb4b0ebe9af5aa00de": [
       {
         "event_id": "",
         "source_id": "weekly-stock-performance-tracker",
@@ -3039,7 +2954,7 @@
         "unresolved_fields": []
       }
     ],
-    "9cc93c30308facb3c58d0a45d317f5b733b8655f91b25f339d4a20b97102eae6": [
+    "b0daaeba9d58b8af25ba512f9cbb86e55b8ee611b9abfa05f24b3b89e09edec1": [
       {
         "event_id": "",
         "source_id": "what-market-efficiency-really-means",
@@ -3125,8 +3040,8 @@
         "unresolved_fields": []
       }
     ],
-    "62917a33a229f0c26db5ad2bb2eee974784b4b2477c9423aa97a41235e9933e7": [],
-    "02dc6a7480169518ed88990a34cbd7875fcf79689c54c87076fdb29327c89bce": [
+    "96f920816a859bb636fef39ce840489e43531c81ab12abf4fb6967d492772976": [],
+    "568059944120237671e2fa1382e0e320087a5e055a134132485bae738f4b288c": [
       {
         "event_id": "",
         "source_id": "start-here-beating-the-tide-essential",
@@ -3156,8 +3071,8 @@
         "unresolved_fields": []
       }
     ],
-    "b9b4018408df03608a28b24620afa56d5cbdd5e1d1740ebde56f93eb2c4f7f48": [],
-    "a0821d1788a77290a74d7f690a7a9863f1f945543fd9bd9708a31fa2834d782d": [
+    "07779ceac8e510529fe52b1c3c4deedab9cda5f7de7a7edf21ae92dba61b88e4": [],
+    "9a01048ce9599e6880566d9664d1f8d6bc22c99084d5c180d246ed236c13e360": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-zeta-buying-undervalued-stock",
@@ -3243,9 +3158,9 @@
         "unresolved_fields": []
       }
     ],
-    "6895cd28d9893b34ac4301d1e69e005de26869fe3f9fddf8c0f49614ce66af71": [],
-    "e00853d9855eedbe7be52208220b9919bc19dada16ede6ad54318795f2511da2": [],
-    "02455084244a42e999eb07efa756aa59661aa3fec354904a7a167ce81df2a321": [
+    "99011c7caa5eda7ba6c01126f1851001d19cd8bdbdb1e8e63a467c903ded529f": [],
+    "9412e8fed1460e003a73226e937f9ba36372ee7d9696c6cb9b80e071a78e6c25": [],
+    "a42553c9a6aecdba80fda3c30b800c37103407def68384205dd57f98cd2b6140": [
       {
         "event_id": "",
         "source_id": "kingstone-stock-deep-dive-stock-analysis-investing",
@@ -3555,7 +3470,7 @@
         "unresolved_fields": []
       }
     ],
-    "209c1c0778c3d2841c1130b03c4ffc618130e152f55e950b5f8c98298d1a6686": [
+    "5813453583e4d7194b9aceff95edf6ebf801acd2086620ed21cb55cbe5129437": [
       {
         "event_id": "",
         "source_id": "buffetts-greatest-lesson",
@@ -3585,7 +3500,7 @@
         "unresolved_fields": []
       }
     ],
-    "521e5dcd30815bc08fba054396b3b940287ddfbdf36f2c35c355efcfe2250a7e": [
+    "379b43a78e9584bf87c4aad2ddcf5c8b027557ae9c1afd66d66b0f03c64c5866": [
       {
         "event_id": "",
         "source_id": "undervalued-ai-bpo-stock-deep-dive",
@@ -3783,7 +3698,7 @@
         "unresolved_fields": []
       }
     ],
-    "24e78f8330d264cff06efa8fc3a1a3b952ee4bc94e26bae06b9c374dac2a97c1": [
+    "de4e393a3aa588048b3535625bb6259af1f645b5b68f62bb2cb832ff7b013797": [
       {
         "event_id": "",
         "source_id": "connecting-the-dots-stock-investing",
@@ -3813,7 +3728,7 @@
         "unresolved_fields": []
       }
     ],
-    "fb3409e2ca092442e7addcd70de4492793382442b9b8c81e4a0976479c9bb75a": [
+    "1510a6c4018392f8fedbcfbcc6d7bad8703dcd1bc48e901f396ca8196111abf5": [
       {
         "event_id": "",
         "source_id": "t-mobile-stock-analysis-why-i-locked-in-47-percent-gain",
@@ -4039,7 +3954,7 @@
         "unresolved_fields": []
       }
     ],
-    "dab62b3e0d25c937b77b68e681a41d63b3a64ebf60b47b0fccdad28a0fcfb92d": [
+    "f5220d78552d87c6d090ab771d234c4a3f06b96d3c5f2287e051abb76aab7360": [
       {
         "event_id": "",
         "source_id": "royal-caribbean-stock-analysis-2025-rcl-valuation-earnings-outlook",
@@ -4349,8 +4264,8 @@
         "unresolved_fields": []
       }
     ],
-    "db5e55ef00645cd86c80f79e0d2e814b81086c8a082e6a83d49310ab9cf136c6": [],
-    "4e51e50c3fa6e196ee95f2b52b59d12ccab1a6d58afffe1ca3cd09c187f42833": [
+    "8e8f3158bd9b78a5d8e71ab0869260a3755c12db4c4794bf1abf190886523f51": [],
+    "34f0d6282df40be673859e146439ed47d3b83f9bcded73431baca58778df0ba2": [
       {
         "event_id": "",
         "source_id": "united-rentals-uri-stock-sold-new-investment-idea",
@@ -4380,7 +4295,7 @@
         "unresolved_fields": []
       }
     ],
-    "4097f2031347a23f3c2268aeb0b2dfad2ce46bf815dbe1cedfa53df56e12bddc": [
+    "d82674c276401b06c41d5905d81052ea2c9abee8d5bc1e5681b38ecd73a7f9b9": [
       {
         "event_id": "",
         "source_id": "united-rentals-uri-deep-dive-stock-sold-thesis-played-out",
@@ -4423,34 +4338,6 @@
         "ticker": "URI",
         "normalized_ticker": "URI",
         "exchange": "NYSE",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "SELL",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": 1.0,
-        "confidence": "high",
-        "notes": "Why I’m Closing the URI Position at ~$725 – Valuation & Outlook",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "united-rentals-uri-deep-dive-stock-sold-thesis-played-out",
-        "source_type": "article",
-        "location": "list_item:12:c0@char:1101",
-        "char_offset": 1101,
-        "exact_text": "Why I’m Closing the URI Position at ~$725 – Valuation & Outlook",
-        "publication_date": "2025-05-20",
-        "effective_date": "2025-05-20",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -5175,34 +5062,6 @@
         "publication_date": "2025-05-20",
         "effective_date": "2025-05-20",
         "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "SELL",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": 1.0,
-        "confidence": "high",
-        "notes": "Why I’m Closing the URI Position at ~$725 – Valuation & Outlook",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "united-rentals-uri-deep-dive-stock-sold-thesis-played-out",
-        "source_type": "article",
-        "location": "heading:162@char:45202",
-        "char_offset": 45202,
-        "exact_text": "Why I’m Closing the URI Position at ~$725 – Valuation & Outlook",
-        "publication_date": "2025-05-20",
-        "effective_date": "2025-05-20",
-        "date_uncertainty": null,
         "company_name": "Outlook. DRDGOLD",
         "ticker": "DRD",
         "normalized_ticker": "DRD",
@@ -5418,9 +5277,9 @@
         "unresolved_fields": []
       }
     ],
-    "041b299f6f1c8c63b36aef7b31f67a9d8f815e13244422711dfb531b92bbbc2a": [],
-    "4c4b4f171505ec28ede06764ffbe1d6c3f4bd93be8309f469e3c12454e5bb4ba": [],
-    "32474b23e8a38f7fb36cddf169b7a0d51a7fe70f543f2c39cdecb9a9e111b808": [
+    "193a384c4816109fbfb77666a91bcebe0f006c50fe18fe2cfa98207dc933a834": [],
+    "f883d4951b473961a7ed87b42d3ca5f22b1439de37fc4061d275406ca21026e2": [],
+    "bd1a33e5e9ac269964c114aa1c042125a1b5ea94014a80d7e0d94e6859d7aee0": [
       {
         "event_id": "",
         "source_id": "warren-buffett-investing-lessons-beating-the-sp-500",
@@ -5562,7 +5421,7 @@
         "unresolved_fields": []
       }
     ],
-    "e1d289a9400a4b944533ab734878d7bc2bedaa4895bf2962730252f6fd532a7d": [
+    "a7910b7f81e5dfcf50059b46c7bf4166aa31d2b04e210089f6d9ce08a71f0c85": [
       {
         "event_id": "",
         "source_id": "hidden-multibagger-deep-dive-stock-analysis-turnaround-opportunity",
@@ -5617,6 +5476,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "hidden-multibagger-deep-dive-stock-analysis-turnaround-opportunity",
+        "source_type": "article",
+        "location": "paragraph:55:c1@char:10274",
+        "char_offset": 10274,
+        "exact_text": "Because they’re physically integrated and share some infrastructure, RYAM has been looking to sell them as a package.",
+        "publication_date": "2025-05-27",
+        "effective_date": "2025-05-27",
+        "date_uncertainty": null,
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
+        "ticker": "RYAM",
+        "normalized_ticker": "RYAM",
+        "exchange": "NYSE",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -5788,7 +5675,7 @@
         "unresolved_fields": []
       }
     ],
-    "b17a3cdd8d223cc65f497529083c81f2a82df50a38761c4c755f68890c323e15": [
+    "1f62b2bba87010f1a494fda20228e2915e4e4322cd6f2a1ec0e02d8dba2cdd52": [
       {
         "event_id": "",
         "source_id": "closing-position-tcbx-stock-analysis",
@@ -5958,7 +5845,7 @@
         "unresolved_fields": []
       }
     ],
-    "dd093ab5a23e9b7dc06eaace17c6138772e73607b6d3a8687c88ef87f7d58c04": [
+    "d71c2d18872cdd0a99555dfc73e49fd1aba6ff3fc26fadacf16e44fbc0c1abd4": [
       {
         "event_id": "",
         "source_id": "avoid-bad-investments-bs-detector",
@@ -6016,7 +5903,7 @@
         "unresolved_fields": []
       }
     ],
-    "ed3f72d5f8c6b2778c2c46802f00e2ca1e5ed64e9f5dd97bb5ea45d9ba721493": [
+    "8451fcae74843bb6582ac27a6cf47173a94373baecff88f7bf36d77f7092bfab": [
       {
         "event_id": "",
         "source_id": "stride-lrn-stock-deep-dive-upside-2025",
@@ -6326,10 +6213,10 @@
         "unresolved_fields": []
       }
     ],
-    "5b75a774f49b09e89b74d44877517b84d8ea58d19a727b69e77ad9f542b5a031": [],
-    "e5916b2b56d39e1c4d4bbbcee614dc7c8373e3ffb28f77a7fe4b91bb5a3a516d": [],
-    "fd94ef3b9e1471f2cf73d0570f0193d8a8f6bb0f4d9eef3316328cc225d86359": [],
-    "d76502a68ff4806f1005995153cb5f804284ef4146f0f569240df08fbf9c78d0": [
+    "208535288c96aceffcb0e2028bc24faf439ba0498315e4acc4ebd87e8a93f862": [],
+    "2de071a3d80d12622f2b18597086aa1514a3369b18e482cafce03f3357ebac28": [],
+    "8e0000196aac5475c7aaa9e385e1f8e08fd1d25edd8e9bd2a679748d9f787014": [],
+    "023f542a93b8dc6fb098a277f14dd695ecee61dccc1b154027b3c32b5ddd631e": [
       {
         "event_id": "",
         "source_id": "100-year-fund-building-generational-wealth-legacy",
@@ -6359,7 +6246,7 @@
         "unresolved_fields": []
       }
     ],
-    "b3173a448376f375f6dee0805892f184d4f5645ef247f7b74f76590987d22347": [
+    "931a286db0010b1065a966e58b6dcfbfd4571f745124f83327177643fff92369": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-qifu-qfin",
@@ -6504,34 +6391,6 @@
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-qifu-qfin",
         "source_type": "article",
-        "location": "paragraph:23:c1@char:3245",
-        "char_offset": 3245,
-        "exact_text": "make room for QFIN.",
-        "publication_date": "2025-06-10",
-        "effective_date": "2025-06-10",
-        "date_uncertainty": null,
-        "company_name": "Qifu Technology",
-        "ticker": "QFIN",
-        "normalized_ticker": "QFIN",
-        "exchange": "US-ADR",
-        "market": ":cn:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "make room for QFIN.",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-qifu-qfin",
-        "source_type": "article",
         "location": "paragraph:96:c1@char:19598",
         "char_offset": 19598,
         "exact_text": "To mitigate this, Qifu re-negotiated its VIE contracts in 2022 (changed names, but same control terms).",
@@ -6557,7 +6416,7 @@
         "unresolved_fields": []
       }
     ],
-    "3c3b3f5c6924a5d40f9ce1510a365ef96d15e38815a5167c9e3a5f815118e5cf": [
+    "d9c08679518f99d1ce4e719534b8c93b20e9c05cb0dbba7619ad64704e637084": [
       {
         "event_id": "",
         "source_id": "when-sell-stock-closing-positions-beating-tide",
@@ -6587,7 +6446,7 @@
         "unresolved_fields": []
       }
     ],
-    "0a8f5b8c66e876be9e92c8ab1dbd076b1ed9aaffb26c2a31987505b8fe7826a7": [
+    "916f3aa5b44becf80790715fdfe50224884e3d1bd8a2e6a68cb99129997e9bb5": [
       {
         "event_id": "",
         "source_id": "best-stock-investing-book",
@@ -6617,9 +6476,38 @@
         "unresolved_fields": []
       }
     ],
-    "0eaeedc621e1056b19042ddc2d9312b5b269d847538648d15c22d2aba14cc22d": [],
-    "f739bd51bd55bc14098512e907c9d4bac769583a682c34801f95eac662f8e61c": [],
-    "559e7bf679144d48909b7b5e0ad985e04b15b4ca4c4ba5e2fa1616cf59101ffb": [
+    "3c9f7a30286d359b7a459df9707f668bafcc6f044689fba151ee2d3489815003": [],
+    "4db568e98578b3eee93444dace9dba07429015daaa61b500af4cb87ae02569cd": [
+      {
+        "event_id": "",
+        "source_id": "secured-put-options-for-income",
+        "source_type": "article",
+        "location": "paragraph:55:c1@char:11426",
+        "char_offset": 11426,
+        "exact_text": "You must be comfortable holding the bag at your strike price, even if the market goes temporarily much lower (In the previous example, I was assigned CLS at $105 while the market price was $67).",
+        "publication_date": "2025-06-22",
+        "effective_date": "2025-06-22",
+        "date_uncertainty": null,
+        "company_name": "Celestica Inc",
+        "ticker": "CLS",
+        "normalized_ticker": "CLS",
+        "exchange": "US",
+        "market": ":ca:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      }
+    ],
+    "037302abb45f4de14eb040f886488e1473fba5c48e36132a37ccc7eb7e3025be": [
       {
         "event_id": "",
         "source_id": "argan-agx-deep-dive-stock-analysis-2025",
@@ -6675,9 +6563,37 @@
         "confidence": "medium",
         "notes": "Retrospective reference or passive holding commentary",
         "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "argan-agx-deep-dive-stock-analysis-2025",
+        "source_type": "article",
+        "location": "paragraph:294:c0@char:80630",
+        "char_offset": 80630,
+        "exact_text": "From a portfolio perspective, I still hold Argan but I’ve started reducing my exposure.",
+        "publication_date": "2025-06-23",
+        "effective_date": "2025-06-23",
+        "date_uncertainty": null,
+        "company_name": "Argan",
+        "ticker": "AGX",
+        "normalized_ticker": "AGX",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
       }
     ],
-    "df835e82d4df251dcdbbbf55a864a80ab65a9f62bcfbcc1419e657e4371a6fc0": [
+    "9fc20fd4d2b2874dbdd756a6e6d63e85d822fd0f68439bb52be5af524676d843": [
       {
         "event_id": "",
         "source_id": "rotating-out-of-iamgold-iag-into-better-gold-stock",
@@ -6847,7 +6763,7 @@
         "unresolved_fields": []
       }
     ],
-    "94dd6cd0cd18f661a5da2d65f34c53d7800526a4a691c3d08510f876de51df5e": [
+    "0c4f016f92d0b83a16c7e1f1845f5bdc6c0e505cee3c24dfd8c717759954359f": [
       {
         "event_id": "",
         "source_id": "interview-nexstar-media-group-broadcastings",
@@ -6961,8 +6877,8 @@
         "unresolved_fields": []
       }
     ],
-    "b327407a42eeba386bdaee515d38fa729c10e32f2397d98d0d553f003cf4d4cd": [],
-    "2204f4d0d6eb564db0e25d823481070585bf288b0f584c50dd8bc988b72447f7": [
+    "fcdad6eae1856f06cfdd3e4a368598bd3b0d028073db32f93711ecf4eb95a3d7": [],
+    "3bc61baad56b8df7dd45a8ac0d54c19877cdbb54cb3f629a954cb9a3f1fbf4a0": [
       {
         "event_id": "",
         "source_id": "frequently-asked-questions-faqs",
@@ -6992,7 +6908,7 @@
         "unresolved_fields": []
       }
     ],
-    "836c0184145c20bd1b815e0a5e3783a43c41b168eb7be837bd4c6de4ea590eae": [
+    "62c91f21b3ed0ed45671029be12c8aff6ec7f43291211094116b652a70ff7439": [
       {
         "event_id": "",
         "source_id": "stock-picker-performance-h1-2025-review",
@@ -7022,7 +6938,7 @@
         "unresolved_fields": []
       }
     ],
-    "e9ec8d73746e1c3650f92ccbdcfac7e95c72cd5a9ddfb5e024c2db7866f91c37": [
+    "d26c217002763e961019a2998997b206ba5cbae793d94b3834d8bb857eea75bb": [
       {
         "event_id": "",
         "source_id": "trade-alert-replacing-a-finance-stock",
@@ -7108,7 +7024,7 @@
         "unresolved_fields": []
       }
     ],
-    "d81178bd01f6a19e4b8d49ec2c2585926bc6b18217bd3ea9f01d352119afaacd": [
+    "e5ab8d5515a5e2d5f9d761b0cad9add6c062cc1e013311ab6955c72b6aab58b4": [
       {
         "event_id": "",
         "source_id": "deep-dive-cheapest-asia-bank-stock-dividend-upside",
@@ -7138,7 +7054,7 @@
         "unresolved_fields": []
       }
     ],
-    "12ef261ff7604f365fe515af0fbe07928c23f370bf8bc6dc7e5ef6d2437f2c4a": [
+    "8885c11826f9af4f1eefab80c9f8a1fcdc4974031ea71ad35537c5546cdd23e8": [
       {
         "event_id": "",
         "source_id": "kraft-heinz-khc-breakup-split-3g-strategy-cost-cutting-fallout",
@@ -7168,7 +7084,7 @@
         "unresolved_fields": []
       }
     ],
-    "08fade8b6d2158e29f485e449ec35168269209a76937a232c210f3c124385099": [
+    "563a7a0642dff1a04bf84dc9d66a275ca84b91572f602d5f82a82450b938dd01": [
       {
         "event_id": "",
         "source_id": "tsm-q2-2025-earnings-fundamental-analysis",
@@ -7254,7 +7170,7 @@
         "unresolved_fields": []
       }
     ],
-    "117d2b36f7f5b2ba609678798fb9aff224babee35d0f6fb7bf739974490eeeb4": [
+    "aa762422e1306386438d1c55d1b6310376ec0f3648857ffbf5ebe0f33f517fb3": [
       {
         "event_id": "",
         "source_id": "opfi-stock-deep-dive-fintech-lending-stock-analysis",
@@ -7396,9 +7312,9 @@
         "unresolved_fields": []
       }
     ],
-    "19c4ae5f7c4ea872cc621c40bafb467a3a7d5eb2d05aa713326875cddfc912ac": [],
-    "ae2077bc6eaf59e78ec9c774f3851540945180df9674937e6cacb903e34fd69b": [],
-    "19d4bf4bbd8d9a1dbcc031904f530eaa4c635812420e04bf48f5492c3ea3c880": [
+    "729ae945973afaea98dd166d6051e67264defd63988eee3b04a27659b3190506": [],
+    "22187a81dea1542d86042ea901d7d2ba8cce74e3659cda531f76af2561efaae1": [],
+    "e30c0e62495b640f56164dcf0f4c353d609ab0177960b9348bd50a51dca274c2": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-undervalued-insurance-stock-insider-buying",
@@ -7848,8 +7764,8 @@
         "unresolved_fields": []
       }
     ],
-    "74800696a4b24f04012c93033b89333fcdee2c4a379d317061030fa8323272c9": [],
-    "631fadb34e4a4ea16a0b8f47875d2aa941d0eef905a608b37669092ee9dc0f12": [
+    "e908f8cd3012012f9f59d086245f1ecf8223a25ab2392ee192d26fc4705af1ce": [],
+    "9de71aa7df83fd8a3c1708fde87d9d2588cc57f3faf65b0bc2ad3d8c4766d203": [
       {
         "event_id": "",
         "source_id": "deep-dive-general-motors-gm-stock-analysis-best-stock-pick-newsletter",
@@ -7947,34 +7863,6 @@
         "company_name": "General Motors",
         "ticker": "GM",
         "normalized_ticker": "GM",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "HOLD",
-        "execution_status": "retrospective",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Retrospective reference or passive holding commentary",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "deep-dive-general-motors-gm-stock-analysis-best-stock-pick-newsletter",
-        "source_type": "article",
-        "location": "paragraph:19:c0@char:3650",
-        "char_offset": 3650,
-        "exact_text": "Before we move on, let’s also note valuation: GM stock looked downright cheap in 2024.",
-        "publication_date": "2025-08-13",
-        "effective_date": "2025-08-13",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
@@ -8131,9 +8019,9 @@
         "unresolved_fields": []
       }
     ],
-    "9c7c049bc3df0e0dbb90791babe42825eb0ac9f09f05ea6792e6b7b692b58a34": [],
-    "9a3df6faa6f46e9dab96adcef240ae2418ffc6c2b563fcb59710e785300124f7": [],
-    "a0058e8d3fd819456fafddb5320f9a91165b0216afb0dba5883440ddb9d389f0": [
+    "2caa200b070728a96153e1eff6ef2f769982f061ccd06e90f73a6a4c6e4e8fb2": [],
+    "e39a0fae937053d256ba8bbb9c6e3ae7ee31e6fed24beff5611f816408a2fc87": [],
+    "c431817153e19fd600f313e4f28b1243258fef072dec4a0e3e9789010a2efc04": [
       {
         "event_id": "",
         "source_id": "why-street-repairs-finished-principal-agent-kins-kingstone",
@@ -8191,8 +8079,8 @@
         "unresolved_fields": []
       }
     ],
-    "5521b2f42bfeda8e579f653c535a010f12d342b2715e6b6cecc23932e0d22051": [],
-    "62f6a2ad682ab4bdb31504a7e33534c0dffe9ddf7afa164d8d0a1073c3b91f14": [
+    "7078dd15677e26188f489e81316df4215be941b7f7f2d057174a06b559cefe5b": [],
+    "0e3e0017ab6e724db1c4389d986ea317431e6bead365acad88bc100318f3fb82": [
       {
         "event_id": "",
         "source_id": "rise-fall-walls-investing-moats",
@@ -8250,7 +8138,35 @@
         "unresolved_fields": []
       }
     ],
-    "6467083d435df5ba226bbe0b610cbc7897f31c25d9eeb851697efb35d813678b": [
+    "7044982e317eea741f133b01ff1282a2053f5ce78f5bb99144a9548d888125d7": [
+      {
+        "event_id": "",
+        "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
+        "source_type": "article",
+        "location": "paragraph:5:c0@char:1078",
+        "char_offset": 1078,
+        "exact_text": "I remember watching copper prices skyrocket in 2021.",
+        "publication_date": "2025-08-27",
+        "effective_date": "2025-08-27",
+        "date_uncertainty": null,
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
       {
         "event_id": "",
         "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
@@ -8292,6 +8208,34 @@
         "company_name": "Mueller Industries",
         "ticker": "MLI",
         "normalized_ticker": "MLI",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
+        "source_type": "article",
+        "location": "paragraph:50:c0@char:8776",
+        "char_offset": 8776,
+        "exact_text": "A quick example: In 2021, Mueller got a double boost: copper prices jumped +37%, and unit volumes in core product lines grew +6.4%.",
+        "publication_date": "2025-08-27",
+        "effective_date": "2025-08-27",
+        "date_uncertainty": null,
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
@@ -8451,15 +8395,43 @@
         "event_id": "",
         "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
         "source_type": "article",
-        "location": "paragraph:87:c5@char:19655",
-        "char_offset": 19655,
-        "exact_text": "The company rolled out an investor presentation in 2024 and seems to be opening up a bit. (They even added a role focusing on industry/investor relations in 2025.) This could help close the valuation gap if more folks catch on to the story.",
+        "location": "paragraph:82:c1@char:18461",
+        "char_offset": 18461,
+        "exact_text": "Similarly, they bought Elkhart Products (EPC) , a copper fittings maker, to consolidate more of the copper value chain.",
         "publication_date": "2025-08-27",
         "effective_date": "2025-08-27",
         "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "confirmed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "high",
+        "notes": "Similarly, they bought Elkhart Products (EPC) , a copper fittings maker, to consolidate more of the copper value chain.",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
+        "source_type": "article",
+        "location": "paragraph:85:c1@char:19205",
+        "char_offset": 19205,
+        "exact_text": "For example, even as copper volumes dipped in 2023, they managed to hold gross margins of ~29%.",
+        "publication_date": "2025-08-27",
+        "effective_date": "2025-08-27",
+        "date_uncertainty": null,
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
@@ -8507,6 +8479,62 @@
         "event_id": "",
         "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
         "source_type": "article",
+        "location": "paragraph:109:c0@char:23990",
+        "char_offset": 23990,
+        "exact_text": "In 2022-2024, Mueller had to put a lot of cash into working capital as prices rose, but that should stabilize or even reverse if copper prices ease.",
+        "publication_date": "2025-08-27",
+        "effective_date": "2025-08-27",
+        "date_uncertainty": null,
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
+        "source_type": "article",
+        "location": "paragraph:148:c2@char:30996",
+        "char_offset": 30996,
+        "exact_text": "sold non-core assets (like a French copper tube operation in 2021).",
+        "publication_date": "2025-08-27",
+        "effective_date": "2025-08-27",
+        "date_uncertainty": null,
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
+        "source_type": "article",
         "location": "paragraph:155:c0@char:32532",
         "char_offset": 32532,
         "exact_text": "I’ll keep Mueller on my watchlist.",
@@ -8532,9 +8560,9 @@
         "unresolved_fields": []
       }
     ],
-    "d0938ee79197162283b708472a15cf819f0a84b6bd626ba5fde3183601eda7da": [],
-    "9b4bd5a1ee98a47fceb032761ee3f73d6a2d06c23c15ac0dd0e510f477efe292": [],
-    "968733bf9ec678d42b7aeae2b338914592e739fe2bfffd554a9a4dbd8d414ea9": [
+    "e649f3f7b9b2a5f96c282195899b81d6c413dc5bc7942f30900c47fae39a5d10": [],
+    "9ab04ec94d5c699cdd3efc33f77404695a8fcaf5a113812d63a1b64ce0b00f34": [],
+    "d0be26fabc02191c04b1af3058f03defe7fa7c81a4f1cdf8277163a2a886ca29": [
       {
         "event_id": "",
         "source_id": "opportunity-cost-investing-portfolio-buffett-unh-risk-reward",
@@ -8704,7 +8732,7 @@
         "unresolved_fields": []
       }
     ],
-    "f8201df96285d82825ccd02fd1357743d51ee063f73d8c5ca95944eb40375ef6": [
+    "89f4b246689cef481b1b5235e1d7a334e5cf6deea0bc2075b44fd2c5bf8fa18d": [
       {
         "event_id": "",
         "source_id": "roic-vs-roe-investing-metric-stock-analysis",
@@ -8734,7 +8762,7 @@
         "unresolved_fields": []
       }
     ],
-    "4ea693fc210fad7c417b0b99610f168fbe97f3f00fd87e32a17916c6a0aba67a": [
+    "b4b51ef29b2be6e0811c9d5e58b0a9f2c1e60f408e01dcdb3c4f0dd60e25364a": [
       {
         "event_id": "",
         "source_id": "trade-alert-new-position-added-to",
@@ -8764,36 +8792,8 @@
         "unresolved_fields": []
       }
     ],
-    "6013cd0dc47b7ba5411d0a7851b833554465e010be38805deed55d479124bbef": [],
-    "ccf78ff5842b72a2f46a8aa03097010fd6db451e031235f254c58bcc02a07d35": [
-      {
-        "event_id": "",
-        "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-cash-rich-builder-50-upside",
-        "source_type": "article",
-        "location": "paragraph:10:c0@char:841",
-        "char_offset": 841,
-        "exact_text": "I’ll walk you through the story, the numbers, the risks, and the catalysts… and I’ll show how ROIC ties the operating improvements to valuation so you can see exactly why I bought.",
-        "publication_date": "2025-09-10",
-        "effective_date": "2025-09-10",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "HOLD",
-        "execution_status": "retrospective",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Retrospective reference or passive holding commentary",
-        "unresolved_fields": []
-      },
+    "30fab5ee810aaf126eea34be06ab23e751683e58dc84698c032cbe0e1cdd9697": [],
+    "b920fb78158685d099bff1ee2c34848ec4a94709fa8227969a5e70d7c7e21bc5": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-cash-rich-builder-50-upside",
@@ -8991,8 +8991,8 @@
         "unresolved_fields": []
       }
     ],
-    "166c7a0a212920f3fc0b56869f8f48003c89c73e77aa24a48858c54ea389c091": [],
-    "75e67df4b4309ca592a48eee70eccc997f348349833e24aa55054d2f68800a54": [
+    "90cf88cf1826497e9a23b663c168bed958fc317a7ec00b84c6ff4f064771eb3f": [],
+    "66b6775fbd0fff71ee3b3eb9b3cb3bfdaab2dd0027d46b7914591ce71f4dd3c8": [
       {
         "event_id": "",
         "source_id": "oil-dri-odc-57-percent-record-quarter-why-closing-position",
@@ -9171,7 +9171,7 @@
         "publication_date": "2025-09-17",
         "effective_date": "2025-09-17",
         "date_uncertainty": null,
-        "company_name": "Earnings Miss Oil-Dri Corporation of America",
+        "company_name": "Oil-Dri",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
         "exchange": "US",
@@ -9218,7 +9218,7 @@
         "unresolved_fields": []
       }
     ],
-    "158a570a3e3105e147cce4046ddc5bc5d76fd3e51854fb97cf3d99163fe725b1": [
+    "9fd75abc54138841e378066fb39e105676c501ca5305bc73296da476ffb8cb67": [
       {
         "event_id": "",
         "source_id": "5-whys-investing-celestica-cls-update",
@@ -9276,8 +9276,8 @@
         "unresolved_fields": []
       }
     ],
-    "48e235b8200522025672ea8af1375d40470d556a79394fd634dd9ba051f7538d": [],
-    "7f6852c2ada9c025fa32be87fadc7f01ca92685c2bb27f37b8fbd55802ed6ee0": [
+    "a5989404975f562c81107819c173a53aa661e069de17d68bfaa96cafecaaa438": [],
+    "9121d19ecb51e82fab88d5f4fdbdfc00a1a6635830eb5a6994b3ffa3701f9f23": [
       {
         "event_id": "",
         "source_id": "ai-love-triangle-openai-nvidia-oracle-10gw-capex",
@@ -9307,7 +9307,7 @@
         "unresolved_fields": []
       }
     ],
-    "e32685dea8d98dfec70d62d76e9af353ee93c0ffd71dc99401028ce8ec4698a9": [
+    "d267982b7a42f5d7b51719d23c8370baab5c92a9c32574faa81c5b54cf0f4466": [
       {
         "event_id": "",
         "source_id": "free-cash-flow-yield-stock-investing-guide",
@@ -9421,7 +9421,7 @@
         "unresolved_fields": []
       }
     ],
-    "6f9902468efe8a8528467097d7cfeb69b10a13133bc9ab037c0042e321f6f123": [
+    "c356a75b8394a82c69ae6154d4218dad65352b7a90e3a26b0ce2648adb25cf4d": [
       {
         "event_id": "",
         "source_id": "party-lessons-for-investing-process",
@@ -9479,7 +9479,7 @@
         "unresolved_fields": []
       }
     ],
-    "be448a5c45de0b5d66f468b4aed22dc0dcc90e66799f9079277f25e4de75eda4": [
+    "7d4ecb4ec4e057ad3af02a3e2e969b80770b41bdba0719758c15107c519b6ed8": [
       {
         "event_id": "",
         "source_id": "em-telco-trade-alert-hidden-assets-upside",
@@ -9509,7 +9509,7 @@
         "unresolved_fields": []
       }
     ],
-    "38844b404f5c8c4cae84def5ef6560de1edb7efcc18cb439fc796f55dde4f746": [
+    "01471635b39209174ce6c223f3080b4f019263c94b4d705324737db247005de0": [
       {
         "event_id": "",
         "source_id": "deep-dive-the-most-mispriced-telecom",
@@ -9763,8 +9763,37 @@
         "unresolved_fields": []
       }
     ],
-    "74062424eb7301f3d3c7db9b9ddc2d6e1261fbba43afee1a8bbe3a73c2de5c84": [],
-    "21aaeb0b9f88f8b237ed8a8d3eab8c4d4773e8b48a37b9a44cb65dd15f986d09": [
+    "faa74986804dde43bae88e3c6196c37376994995c41758ea672b8c6c179308de": [
+      {
+        "event_id": "",
+        "source_id": "tariff-noise-faster-research-odc-update-oil-dri",
+        "source_type": "article",
+        "location": "paragraph:145:c1@char:23266",
+        "char_offset": 23266,
+        "exact_text": "It did earn a spot on my watchlist with clear triggers, sharpen my view of copper and HVAC cycles, and refine my checks for spread-driven margins.",
+        "publication_date": "2025-10-12",
+        "effective_date": "2025-10-12",
+        "date_uncertainty": null,
+        "company_name": "Valuation. Ero Copper",
+        "ticker": "ERO",
+        "normalized_ticker": "ERO",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      }
+    ],
+    "94e2a7b0cef24295918e5c26a485983341a4682eb761bfe2e21cb756913efd8d": [
       {
         "event_id": "",
         "source_id": "manulife-mfc-deep-dive-stock-analysis-beating-the-tide",
@@ -10186,8 +10215,8 @@
         "unresolved_fields": []
       }
     ],
-    "95fce1db7052cae16e99a3e5dbccfbed82352eda78b95806c18ae1eec17aa0cf": [],
-    "c8952444b8dfc34accf815273d437226056cb4f93facc76b2b234c551861522d": [
+    "a46115c6f4933f8c42863b0494813a8dfaef42d6b1a5497e6806eb4f928983b5": [],
+    "fa336e8e499340a843039326a88212aaa08fae385e8d909896be412f0ceaf44a": [
       {
         "event_id": "",
         "source_id": "tsmc-valuation-upgrade-argentina-market-reset-tsm",
@@ -10273,7 +10302,7 @@
         "unresolved_fields": []
       }
     ],
-    "8102108dd07165cd653cb8e628da1bdbc4f35d5543acebfbc491ec365af6f79f": [
+    "4db4c69e38a5ba02251a4c953edd5a150fd91444008f0c1c7223addfb141dd1e": [
       {
         "event_id": "",
         "source_id": "how-to-read-10-k-and-proxy-statements",
@@ -10359,9 +10388,9 @@
         "unresolved_fields": []
       }
     ],
-    "1659ab4177525f6fa4b0f63a160f63e164e35c0d87a6f702a139d88a7831b628": [],
-    "4e66fa50cd0e96d7a068467a29b0c6973d09f42565f0299dcce074a590d58140": [],
-    "318da1efc9fd8ce0b5fc98f42c8f811604c66925e51ed7d35b89939584a86142": [
+    "664865252fecc84a109ad48d727c519a6cf71b039abf5c41e3e8853075b52a9f": [],
+    "61a664e25b2e98c9d8eb0ed9221f01c51417cbe83645a1ef14aa1b3003cf2b4a": [],
+    "7859d32c7f1c11cfc668db0dec73c755193b52709c1dfbf4d2bcbc4dda983cad": [
       {
         "event_id": "",
         "source_id": "kt-south-korea-deep-dive-a-telco-without-an-edge",
@@ -10753,38 +10782,10 @@
         "confidence": "medium",
         "notes": "Retrospective reference or passive holding commentary",
         "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "kt-south-korea-deep-dive-a-telco-without-an-edge",
-        "source_type": "article",
-        "location": "paragraph:210:c2@char:45484",
-        "char_offset": 45484,
-        "exact_text": "K-Bank has grown since launching in 2017, and in 2021 it raised capital at around a 1.7 trillion KRW valuation ($1.4B) when things were bullish (KakaoBank’s IPO gave a halo).",
-        "publication_date": "2025-10-30",
-        "effective_date": "2025-10-30",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "HOLD",
-        "execution_status": "retrospective",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Retrospective reference or passive holding commentary",
-        "unresolved_fields": []
       }
     ],
-    "8cece6a5ad7358886847307596e33ee22310c628fa77cf65b9362668f6faa9da": [],
-    "a1e0caa05c4baa8cca2406a60ce85e5b2a4c650b3ad988a60ec40759cf71532a": [
+    "8a9a6358edab046b75dc8969cc042f15bbca4d6fd6dab17b5e3aa44f1f5c3ff4": [],
+    "4df0f825d431336986dc4fa60b388833a295f9fb5b6c57617a04f5b5429bf3df": [
       {
         "event_id": "",
         "source_id": "the-balance-sheet-primer-your-stocks",
@@ -10926,8 +10927,8 @@
         "unresolved_fields": []
       }
     ],
-    "9f55ddf08025e043c5d0291518639abd1d92323ed0006b05f32028d9c8ef3767": [],
-    "768765fa92ffe9cd099de8b17c5b7d05ce2ed4ec35058edda3372e27e4f28642": [
+    "9de0ba94ef4d714b5aab07852ccdf1798548567a9124be61d4ebd3cdaac46ab6": [],
+    "3bc5459115175964954000de4759358faf8968ed63cfc22251eb9cc0cc9dd510": [
       {
         "event_id": "",
         "source_id": "dxp-enterprises-dxpe-q3-2025-overreaction",
@@ -10957,7 +10958,7 @@
         "unresolved_fields": []
       }
     ],
-    "7d740f0927e0219a4abba6abd5b39afdec79758aeb16fb42412040ecf6df22c5": [
+    "ba911d72a167e6fb6a26c80e7890ad9d6c5396b50e51ff56d70f62f540891d00": [
       {
         "event_id": "",
         "source_id": "stock-pick-high-roe-financial-deep-dive",
@@ -11323,7 +11324,7 @@
         "unresolved_fields": []
       }
     ],
-    "9b33e97468d7ce41f6c6459f9c543711c788ebd91a6144249a8570294328db53": [
+    "e9c61165c32aae87c8dc4ff0ac4302914898407ea72d5d6dc082f77c53161778": [
       {
         "event_id": "",
         "source_id": "kins-q3-2025-earnings-record-profit",
@@ -11409,7 +11410,7 @@
         "unresolved_fields": []
       }
     ],
-    "ef5e710440081ccdc2ba4629ee04c78f9c032be272811f18b31bc5debe18c51a": [
+    "d8e03919a3c6e63df215bf79630f907b8d27991e120400b182e3f1f2a2fb3f71": [
       {
         "event_id": "",
         "source_id": "weekly-56-why-passive-taking-over",
@@ -11439,7 +11440,7 @@
         "unresolved_fields": []
       }
     ],
-    "97a6b55ae7008a44fbcc52942f09b95fc4895166a864e4b2c82c7d453d6bbdbf": [
+    "aa90ef1ba961d45912e0a5688ee8acf807055bb2da9f115e09d9888c352d2e0c": [
       {
         "event_id": "",
         "source_id": "gsl-deep-dive-stock-analysis-wrong-part-of-cycle-global-shipping-lease",
@@ -12225,7 +12226,7 @@
         "unresolved_fields": []
       }
     ],
-    "3f78e64d7bcedff2f5659e61acf57ab676333beab2a9bf494e41d59cfb4e5ebd": [
+    "62c3bf604ef0d4a4a41df427fa676ffb144d425e475752dcd8b0bfd4c95f0c1a": [
       {
         "event_id": "",
         "source_id": "are-we-in-an-ai-bubble-artificial-intelligence",
@@ -12283,7 +12284,7 @@
         "unresolved_fields": []
       }
     ],
-    "809ad2d74fec5a823fc43168ca94378f7135c96ac8a2aed9217fdb23799be98e": [
+    "fea9eedea5bb683e89e2635c4ddb716ce621241b61df423c480b1af2336f98e3": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-caap-investment-thesis-corporacion-america-airports-sa",
@@ -12509,8 +12510,8 @@
         "unresolved_fields": []
       }
     ],
-    "bff7707838fdb1283100bee66216fa0edea976aebdf536b1af1bffa6088e2825": [],
-    "8a77aa2f8cfa7a3a1fb86df6599acbda2fcc8f61297cfbe44129f5e80c46b33c": [
+    "6c0b49c10bb9987cd474a73456bd5a2b89b3c4cfe554fdeeaf61b5a81f810ac1": [],
+    "62be588e2976a49ef1de756a316cb111aaaba9f596679549601a9c1b1cc8c43c": [
       {
         "event_id": "",
         "source_id": "sp500-valuation-magnificent-7-cheap-energy-sector",
@@ -12596,7 +12597,35 @@
         "unresolved_fields": []
       }
     ],
-    "51ada2957c652119b2ce4fa6ec93050f3a7bf43414dfbc17cddc3f561f7e14c5": [
+    "22eb88366f18617295d9612264cc3cf3562435d80eb5ebd7ff6cd9f7572c5ef2": [
+      {
+        "event_id": "",
+        "source_id": "investment-thesis-strl-sterling-infrastructure",
+        "source_type": "article",
+        "location": "list_item:81:c3@char:15894",
+        "char_offset": 15894,
+        "exact_text": "Equinix is also planning big expansions: it says it will add +24,000 cabinets by 2027 to its existing +144,000, and it expects to spend $4–5 billion per year through 2029 on new growth (up from $3.3B in 2025).",
+        "publication_date": "2025-12-04",
+        "effective_date": "2025-12-04",
+        "date_uncertainty": null,
+        "company_name": "Equinix",
+        "ticker": "EQIX",
+        "normalized_ticker": "EQIX",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
       {
         "event_id": "",
         "source_id": "investment-thesis-strl-sterling-infrastructure",
@@ -12626,8 +12655,8 @@
         "unresolved_fields": []
       }
     ],
-    "dafd5a4a3d3bacf253a2b9c5d017a64f15eba98a7f3b55862eb96188b4c2d5e5": [],
-    "9708ff0194f6c027571db17f9df115693bf57bb9bdd935c2e8036b9a27d5ec2e": [
+    "872d60ccf4e2e738dbba74d890f8450c673eeeb15e8b4c302b151a0198bcf481": [],
+    "7e9b0359886cce90181fa0e746f51f510115c1160f60390a3bd8758ca666aa2b": [
       {
         "event_id": "",
         "source_id": "trade-alert-saying-goodbye-to-finv",
@@ -12685,8 +12714,37 @@
         "unresolved_fields": []
       }
     ],
-    "6824e423d2a18754c40cb291c9cd7b73ec811aa5a3644819281232e2131be5eb": [],
-    "4657ccfe68f3e04bb4cd38bdbbf8c2cf7342bf6b7f05f461fc96df012604212d": [
+    "3293b6523207b096d921b5832aa5a17633ba70b84a9ccf1216f51538932456fe": [
+      {
+        "event_id": "",
+        "source_id": "powell-industries-q4-and-full-year-powl",
+        "source_type": "article",
+        "location": "paragraph:28:c1@char:7121",
+        "char_offset": 7121,
+        "exact_text": "POWL announced a $12.4 million expansion of its Jacintoport facility in Houston, which will add 335,000 square feet of production space (a 62% increase) and double the site’s shoreline bulkhead to 1,150 feet.",
+        "publication_date": "2025-12-10",
+        "effective_date": "2025-12-10",
+        "date_uncertainty": null,
+        "company_name": "Inc",
+        "ticker": "POWL",
+        "normalized_ticker": "POWL",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "checkpoint_review",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      }
+    ],
+    "3e04664c5f5f229265dc4cde72dbeb94a86dc66e28af37285ce2064d24ac6b42": [
       {
         "event_id": "",
         "source_id": "finv-qfin-qifu-finvolution-why-i-sold-my-chinese-fintech",
@@ -12996,7 +13054,7 @@
         "unresolved_fields": []
       }
     ],
-    "a21fac6c0ab3a445a728b59e2b78270d23156a9184c6258e45768dde919b1e67": [
+    "92c0356071c42db096f42ddca203f775e4928f55eace7bdf781d59632a8f996c": [
       {
         "event_id": "",
         "source_id": "ignored-energy-stock-2025",
@@ -13250,9 +13308,9 @@
         "unresolved_fields": []
       }
     ],
-    "7eae6543fb36d9e299910ebb04e727e9168e4451a3a8a990ef8b10f8a157bc68": [],
-    "db0a41fbc00739fffc145db6f399d08d9b494cc8895134462c10029540081d14": [],
-    "5bbdc10ed2834d8a21841d48096e8e1d0f6bc42ed81abf2894eee4e9b315cf29": [
+    "10cfdb7f56b2f313b365183a81362098fb0c5b323167ce728b03deb43874f6e8": [],
+    "b00e2f0c3825032d4f1efcda05e3caa65f744d0b8f83978f778451f0305f1cfd": [],
+    "fd74e3c58eda385e9bd9c8a944d96fcd2c6a911e97e509d4285cf3bd3807e9d5": [
       {
         "event_id": "",
         "source_id": "micron-mu-top-stock-pick-2026",
@@ -13394,8 +13452,8 @@
         "unresolved_fields": []
       }
     ],
-    "ad8eeac4dc0ac184307e76715a6bad961dbe94acda4a27ef19c797fa874fcb6f": [],
-    "fe31a764d093f92e1923f5f43b602f9ea9dc615e4cefdbd1be6f9dbc9240ed57": [
+    "227b0a3f51f72fa23131636abe9cc35130e60a02de4223ad741ff3dde21e5f45": [],
+    "ce40fff8a0336d0f9fa4dde62170e61541611624293af9c27e6cc34eff65abf8": [
       {
         "event_id": "",
         "source_id": "closing-the-jdcom-position-what-went",
@@ -13621,7 +13679,7 @@
         "unresolved_fields": []
       }
     ],
-    "f3bd9d64aaa62bf9c3e093c6c4329ebfe10648a3463737d05fc67dd6428999e7": [
+    "c082cfc7c0d5b3758c3fbe14ffb120af6e264bae9860bf00fc86eefc4e7d4940": [
       {
         "event_id": "",
         "source_id": "trade-alert-new-3-position-added",
@@ -13651,7 +13709,7 @@
         "unresolved_fields": []
       }
     ],
-    "71049f85ee52bc6fa4a4a5c7eff4ce8c4910974bc107def71b2a45b0978e862c": [
+    "b15b4cac6518ab7b2785c021f17a8c52fe254fd190d48a5e577933487316e8ff": [
       {
         "event_id": "",
         "source_id": "investment-risk-and-reward",
@@ -13681,7 +13739,7 @@
         "unresolved_fields": []
       }
     ],
-    "9594b757d2158a6d9056ed0fe3acd5009f28149e2fab329190ed6578f009cc1c": [
+    "c0d55cfb2e5da45f64403c10d835f084bbd02558174346ee803cda8b1f2e5e6a": [
       {
         "event_id": "",
         "source_id": "why-im-closing-agx-after-a-166-gain",
@@ -13851,7 +13909,7 @@
         "unresolved_fields": []
       }
     ],
-    "b1a4968a9210932c87612b9da51bfa7a84e6eaa7132b8ad0fa5a41194325903e": [
+    "71d76e8ddf42d674c35b52612d00230fc1d0b4011f9c5872482d91745dfbe140": [
       {
         "event_id": "",
         "source_id": "why-im-raising-my-tsmc-taiwan-semiconductor-tsm",
@@ -14021,7 +14079,7 @@
         "unresolved_fields": []
       }
     ],
-    "507c9d54f03fc3d09ef3532876cfea37109dcf25aaedbc7670147a806ab8190a": [
+    "655dae61f16943fbda796e11ad6f3dfef5d13beef151cd80a126dd34519c743e": [
       {
         "event_id": "",
         "source_id": "the-stock-that-slipped-through-my-fingers",
@@ -14079,9 +14137,9 @@
         "unresolved_fields": []
       }
     ],
-    "16d340229e5d90f17636132aba9975b516c6771babee27cd0fb80b0cfeb27712": [],
-    "2bfe3009dc662dc463e28772db09ec0f779bc682745118aee6fa6eab54fcd354": [],
-    "d41dd233e02e584d1969346352520eedadd41263f7061e6a859580d7fa544ab9": [
+    "b4a923c79d3f67dd5bd5daf7a2f3eeed20ac9cced6e9826465f2cd2d47146a73": [],
+    "e8a2f1fdf9f1bffbe6bdfe43469ff4422459a608d2652c34dbd428d2a6fd8f7f": [],
+    "75a5adcfe798418dc81c47922bce5a68cb66f93bd0867c92f5034f8ed7d71d71": [
       {
         "event_id": "",
         "source_id": "celestica-cls-stock-analysis-2026",
@@ -14114,6 +14172,34 @@
         "event_id": "",
         "source_id": "celestica-cls-stock-analysis-2026",
         "source_type": "article",
+        "location": "paragraph:42:c4@char:5569",
+        "char_offset": 5569,
+        "exact_text": "Celestica will sell every unit it can build.",
+        "publication_date": "2026-01-25",
+        "effective_date": "2026-01-25",
+        "date_uncertainty": null,
+        "company_name": "Celestica",
+        "ticker": "CLS",
+        "normalized_ticker": "CLS",
+        "exchange": "US",
+        "market": ":ca:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "celestica-cls-stock-analysis-2026",
+        "source_type": "article",
         "location": "paragraph:104:c0@char:13052",
         "char_offset": 13052,
         "exact_text": "Within the Education page, you can find my book , educational articles , my Investment Philosophy , and an Udemy course I created back in 2019.",
@@ -14139,7 +14225,7 @@
         "unresolved_fields": []
       }
     ],
-    "38743f8ca45f0d475d7bc211a761a8a9c169ffd1670e415ae59929e854da50d8": [
+    "86017180b3552119b08a7158bc193de146eb0363d4f09ea604d988dd6c9fbfa6": [
       {
         "event_id": "",
         "source_id": "why-im-closing-my-position-in-natwest-nwg",
@@ -14402,9 +14488,9 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
+        "company_name": "Strategic Education",
+        "ticker": "STRA",
+        "normalized_ticker": "STRA",
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
@@ -14449,9 +14535,9 @@
         "unresolved_fields": []
       }
     ],
-    "9201f406384ea165fe3d5bc24b7b46909c724700b394943ad27a2c44628f1b87": [],
-    "b456ac204bbd9baeb53fc902e3b5e7298d77594425ece5e35e2e80507dad171c": [],
-    "9336a99857442ecc6bc350e0a95c54b7d8e96379def84693ba8f1ab7f30b2673": [
+    "13ecdbb4924b6d489f5b388e392c98201f315d676a443767335106edd9066e86": [],
+    "8b9715e495632109c1448486711f72527b571c5521e8ffd9f98fdf63c5a39270": [],
+    "017793c16f615d91f121b9f46bffe8a23a0b5d8e479407297b41896a05971255": [
       {
         "event_id": "",
         "source_id": "trump-fed-pick-selloff-micron-lrn-mu-stride",
@@ -14509,7 +14595,7 @@
         "unresolved_fields": []
       }
     ],
-    "e45abc341db5d29fa91ce9cf0dd8c4134b71b9c98b39371cf2b0a76f15e8e8fb": [
+    "22121ea643360f1999f9bec29c173d32a9f8080fa2314d0817e9455fe2db20c6": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-position-in-pypl",
@@ -14567,7 +14653,7 @@
         "unresolved_fields": []
       }
     ],
-    "b319b8b4af8275a1203fbf44b90fa219b7ee55a17cbcae45c9136cc59d72f300": [
+    "a7c42edb39a2b375a05e369332a672ded8d9e9c5ab97c3beff9e66f4707f2e70": [
       {
         "event_id": "",
         "source_id": "paypal-post-mortem-why-i-sold-pypl",
@@ -14681,7 +14767,7 @@
         "unresolved_fields": []
       }
     ],
-    "5041c3292257ba081aaab20d5082de1b615f74d713e423bf6e7cd3ed8553b05f": [
+    "bb315488d584ec2c4b8b327a90d0d99350b08a1e328fc88b296be2bf5cece03d": [
       {
         "event_id": "",
         "source_id": "the-crown-has-been-passed-powl-powell",
@@ -14711,9 +14797,9 @@
         "unresolved_fields": []
       }
     ],
-    "1a4854911b79dcd1ba8db31c6e6ea220904936e5e90a3dbacb0af92b3177f749": [],
-    "47c8a7a186e2f265d714853b60d20a894323927f56243f491a92ba8eff8cd937": [],
-    "14c7b7944cad1aa83d7152f1460b04c2d9d37a14b6d2872a1a67875d0bfec13a": [
+    "fe9f6d01e409e81721d1d7e4c1b4412a0c9a2aecce9bab19ffb887f231b53b4a": [],
+    "9e7ee0521625664be38f0634faabd362c69e077621d6cdd9e877373442707a1b": [],
+    "f93f1279dbf77c16eed28231e965c70402a55b4465a9cc56650d25c1b8a60f09": [
       {
         "event_id": "",
         "source_id": "trade-alert-february-pick-a-commodity",
@@ -14743,7 +14829,7 @@
         "unresolved_fields": []
       }
     ],
-    "d381a7bd46e44e78ea47b6cf0277b31b8d90673345993ff7be96a4f0e8e827ba": [
+    "a3ae2dcd5558c59b414fff1bea481d48f4ad03518f4d2faeeb4ceeafc5eb9e04": [
       {
         "event_id": "",
         "source_id": "deep-dive-the-market-is-confusing",
@@ -15025,7 +15111,7 @@
         "unresolved_fields": []
       }
     ],
-    "f00799fd45347a3e5991faa2c90600a70d3a0bdc8ccd9081e048a80891818101": [
+    "4b78a900296e3b9fb5643571acd1ef021eb0efbcdae68308b02148da5d83b419": [
       {
         "event_id": "",
         "source_id": "weekly-71-dxpes-water-segment-is",
@@ -15055,7 +15141,7 @@
         "unresolved_fields": []
       }
     ],
-    "c1078239af820e11e9480ab7778e63702cba628f31ae3792724772777b31956f": [
+    "fe9c80533a0dd11d9a57bb37de0977de60db33adda1227aba8dd62fa0e7592e0": [
       {
         "event_id": "",
         "source_id": "strl-q4-2025-earnings-sterling-infrastructure-analysis",
@@ -15113,9 +15199,9 @@
         "unresolved_fields": []
       }
     ],
-    "94fddcfc421a828b3fbefa2ce24989a21b4fabc7090348fbd552643f455c2e60": [],
-    "bd8ae691f52cb3d9b4efc38e34028731be9fd5923bcab8a9a5ce6be6353b572d": [],
-    "cc26ec8f643a29305f26a7e381ac1f9284feaf2da5773e10d455193184a032cd": [
+    "e66129e72f9cf0a2574102424bf9c3f55b2424f08284f32ae0606558f124147f": [],
+    "de8cb0364002b73651fbc718ecd535eca42ffb25745cdd4b4049f033986694d2": [],
+    "b783766f6b1bfd5153977061993ec65cc30c9ab80c95a9fd8c5d2334c0b1441a": [
       {
         "event_id": "",
         "source_id": "energy-in-the-crossfire-selling-opfi",
@@ -15229,7 +15315,7 @@
         "unresolved_fields": []
       }
     ],
-    "b22a35ede3f7cafdad9a74a9dcdb041b15063a1200283abe9e033997ffd5e64c": [
+    "9e1b536d289ba922ac8b4fa2e9f5af2f9384a348aecf6d6e82fc9c68e214bdef": [
       {
         "event_id": "",
         "source_id": "mena-oilfield-services-stock-deep-dive-investment-thesis",
@@ -15483,7 +15569,7 @@
         "unresolved_fields": []
       }
     ],
-    "ba91709dd29d554a3fa0f7e07dd73895fd61c70fcd9d492baf8ea30312c363fd": [
+    "1e35f3d4dd032b8e24b65e2a8fb293f565fed1705085399242498e1de6aff7ca": [
       {
         "event_id": "",
         "source_id": "micron-technology-mu-q2-2026-earnings-review-price-target",
@@ -15541,7 +15627,7 @@
         "unresolved_fields": []
       }
     ],
-    "b5db9954945f8d11b9b60a1f8be5b40836e0d2559a1dedabd30ab77d4dd55e51": [
+    "bea6b1a1798be09603c8662a6fcd89175335bd71b78c3a00529d88ad613474c3": [
       {
         "event_id": "",
         "source_id": "coeur-mining-cde-deep-dive-investment-thesis-stock-analysis",
@@ -15599,7 +15685,7 @@
         "unresolved_fields": []
       }
     ],
-    "d850b3710ed0331ecbc554dcd7ea984c881103141bfa95dc89c929079c519714": [
+    "6b6e835572d9c93661fbbbc409a08bfcf3a7b8208e2f7d7a8b5b9d00cef87b81": [
       {
         "event_id": "",
         "source_id": "i-left-500000-on-the-table-gut-feeling",
@@ -15629,9 +15715,9 @@
         "unresolved_fields": []
       }
     ],
-    "c9e531278adb582abe321c13ca2260a211baf28232dc4fa5e1d621ec76d8a8bb": [],
-    "53f265018bf938d566284caafe6a793e52273932f48b136388c9cce3a6b88591": [],
-    "cf6cebba72f72e4be58a5538f13b544adca8ab7bed1a8299637bd6ac138ba5f4": [
+    "bf300d414be1536bc61acf0b2e4817702464041e09a739451e639267e2af7d0e": [],
+    "b05f57dd9925f2d8121cc4222f200d20bd6a0032a317187372424924afff0e6e": [],
+    "2edd791025923bdbcbd54f95337dd101da66727e99a86d8230d2db7672b4145b": [
       {
         "event_id": "",
         "source_id": "april-2026-stock-pick-aerospace-defense-trade-alert",
@@ -15717,7 +15803,7 @@
         "unresolved_fields": []
       }
     ],
-    "856b8104f1c04a264c78a8ba7f1ed1144e283fede8b39e130c299f14b151f8b7": [
+    "76312e7b33bcc82a42a9a593a888c84f435a7f51805b27e518b0c37811bb734e": [
       {
         "event_id": "",
         "source_id": "stock-deep-dive-jet-engine-moat-war-economy",
@@ -15775,7 +15861,7 @@
         "unresolved_fields": []
       }
     ],
-    "db8f020a7cd4f4fe4415d46916163826554ebc2df8a7e614af8381b90d972760": [
+    "f481c2d1c22e01c1e490fa717abc57e8cb5aaa63f10336f0f46aa7d1ff71d266": [
       {
         "event_id": "",
         "source_id": "tsm-q1-2026-earnings-fundamentals-accelerated-market-yawned",
@@ -15805,7 +15891,7 @@
         "unresolved_fields": []
       }
     ],
-    "f13a30e5bffede15cad87bb5bd4a5a904cc763ede48a22350fe99478743a0f0b": [
+    "d4e8515773276dd338716eace380323c1b3862764a1e6a13fc494494a7410762": [
       {
         "event_id": "",
         "source_id": "this-latam-utility-company-update-q4-fy2025",
@@ -15835,8 +15921,8 @@
         "unresolved_fields": []
       }
     ],
-    "431d9f23eb067580fd795f4bb92266c3295be55406d88ac5a709336f594e7bff": [],
-    "5ef7d5abbbfc9434cc5e4f4e73fbe4e54e0ac7e0b21cba43311bf7ac82f8dcb4": [
+    "e51ad1abe0d3fdb6746812a9784e7c145d6e9f6be209ebe8707fa50ee5085fcb": [],
+    "c99f3d176e825dc1cfea4855ddf12e59a974b1652bdc94db933bc6aa005363e4": [
       {
         "event_id": "",
         "source_id": "pilgrims-pride-ppc-closing-trade-deep-dive",
@@ -15953,34 +16039,6 @@
         "event_id": "",
         "source_id": "pilgrims-pride-ppc-closing-trade-deep-dive",
         "source_type": "article",
-        "location": "paragraph:64:c3@char:12563",
-        "char_offset": 12563,
-        "exact_text": "Second, the independent directors are willing to block a parent-initiated buyout on valuation grounds.",
-        "publication_date": "2026-04-23",
-        "effective_date": "2026-04-23",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "Second, the independent directors are willing to block a parent-initiated buyout on valuation grounds.",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "pilgrims-pride-ppc-closing-trade-deep-dive",
-        "source_type": "article",
         "location": "paragraph:66:c0@char:13041",
         "char_offset": 13041,
         "exact_text": "Related-party transactions ( Moy Park was acquired from JBS in 2017 ) pass through committee review, but the structural conflict exists.",
@@ -16034,7 +16092,7 @@
         "unresolved_fields": []
       }
     ],
-    "085ff55b54cca33392f7e4c2b9d48c03becd170d653513d6f0a11d573dfc8f86": [
+    "83202edbc8900f82a43688143e3fd124b2ac72ac3dd84725ce7c6fa72fc4c740": [
       {
         "event_id": "",
         "source_id": "position-sizing-arithmetic",
@@ -16148,9 +16206,9 @@
         "unresolved_fields": []
       }
     ],
-    "75127116f543ed109c7a5c424f6f9a42ff5fb702411d3752b53825518111e517": [],
-    "f2415d9b2b355ad123746923fccde37fc53629c78b46793b192e64c43d897a27": [],
-    "4b63264ca7048bc861e3c3b9be8afffd5f87ddddcb7707559ec7e96ca7d00f42": [
+    "3e2981ae8a50fd315a82e013d12bda1358c22a870a21389e83739647b5144bc7": [],
+    "614677bd5420c149d887b2413783fea315f8acf4665a1cf34992ca2dbe040fb9": [],
+    "a3addd4c62ecef6e9bab9abc1bcabd9b8a1e34d3f42bbdb16d98773a94245981": [
       {
         "event_id": "",
         "source_id": "stride-lrn-q3-fy26-update-career-learning-engine-gen-ed-wobble",
@@ -16180,8 +16238,8 @@
         "unresolved_fields": []
       }
     ],
-    "268c783a202056156ecb337ab36fa23c21c51f11753839c6589994d11c70b1a6": [],
-    "44d5de37ecdba35fd560ee16d5e72a70002b37ba6bceae1085e6d18f01c3a390": [
+    "f6d914bb69c3a3729e00c37d92c30fb94636502eb28abb254733ed116d996c97": [],
+    "47409f9f377268330fd1afe0a8917858fd7f390e3b51914c395dc242951a2f92": [
       {
         "event_id": "",
         "source_id": "disposition-effect-selling-winners",
@@ -16267,7 +16325,7 @@
         "unresolved_fields": []
       }
     ],
-    "0b55e376bc12700326d04a4ad6638f18e908e349c80a98e43cc6ec346c4516df": [
+    "830543e720c8868b4d6e738cffc36404871d3f07fca2d739954e78367e4174aa": [
       {
         "event_id": "",
         "source_id": "powl-update-holding-1055-percent-unicorn-fair-value-q2-fy2026",
@@ -16275,6 +16333,34 @@
         "location": "paragraph:1:c0@char:181",
         "char_offset": 181,
         "exact_text": "Since I added Powell Industries [ $POWL ] to the portfolio at $26.78 (adjusted for the 1 to 3 split)",
+        "publication_date": "2026-05-12",
+        "effective_date": "2026-05-12",
+        "date_uncertainty": null,
+        "company_name": "Inc",
+        "ticker": "POWL",
+        "normalized_ticker": "POWL",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "powl-update-holding-1055-percent-unicorn-fair-value-q2-fy2026",
+        "source_type": "article",
+        "location": "paragraph:8:c1@char:1174",
+        "char_offset": 1174,
+        "exact_text": "I wrote that I was comfortable holding a great business slightly above my fair value when the company keeps surprising to the upside, and that POWL would be the first candidate to trim only when I needed capital for a clearer setup.",
         "publication_date": "2026-05-12",
         "effective_date": "2026-05-12",
         "date_uncertainty": null,
@@ -16325,7 +16411,7 @@
         "unresolved_fields": []
       }
     ],
-    "76c2907e44e9c60b9b781b3c24b3242c07fb4b594e5c40e3fe25c0c76d1b5080": [
+    "105143d62c6783c4eee8634f82d94c96eaab70d5455913df752e74aa6222d4ab": [
       {
         "event_id": "",
         "source_id": "sterling-infrastructure-strl-q1-2026-update-target-1010",
@@ -16383,8 +16469,8 @@
         "unresolved_fields": []
       }
     ],
-    "996697eecfdf0cf790e76a5af2777a903e4f06b4e15283428d27924f517472f7": [],
-    "3f300d6f8c66b5c899a7c0f95134a8a951f4ec830447919a0253646355a9d5fc": [
+    "348ae5d56cab38d19f1e5d5c86761204046169b4c9ead3e80dbfe1bf4db17b79": [],
+    "71267da9f50391bdbfe78a638e79af666e8e4e95b2087eacac6ca5a200aeaac2": [
       {
         "event_id": "",
         "source_id": "trade-alert-closed-all-trimmed-strl",
@@ -16414,37 +16500,8 @@
         "unresolved_fields": []
       }
     ],
-    "17ef1a1b84aff70a9d7474f6e3b657b49466c5810a9caa212b0a703b5840461b": [
-      {
-        "event_id": "",
-        "source_id": "best-dirty-business-portfolio-pick-2026-buy",
-        "source_type": "article",
-        "location": "paragraph:9:c1@char:1089",
-        "char_offset": 1089,
-        "exact_text": "In February I picked up a utility name that slipped through my fingers in 2024 when valuation finally became sensible.",
-        "publication_date": "2026-05-20",
-        "effective_date": "2026-05-20",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "HOLD",
-        "execution_status": "retrospective",
-        "discovery_layer": "checkpoint_review",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Retrospective reference or passive holding commentary",
-        "unresolved_fields": []
-      }
-    ],
-    "d4a0b6d1723b0db40430ed76c30f3dd98ed95ef9fb715eb5570b60bbecb53944": [
+    "440cbb4330559b6ca21351d16f7cada1121282a8c31002bb1435c8c678fec4e7": [],
+    "a911f3626c46f35f846f4c116e7bb360721f6429402a952e34e3cba8d017b550": [
       {
         "event_id": "",
         "source_id": "dell-stock-still-a-buy",
@@ -16502,7 +16559,7 @@
         "unresolved_fields": []
       }
     ],
-    "a8345aeddca89f9afb935f27f808da701ed1e0fe9dfc29fd8e42a18685ff92d1": [
+    "4db50f63a5e545cc40d9c8f671eb087842914507027228ab0f767abb86d1eaf7": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-one-position",
@@ -16532,7 +16589,7 @@
         "unresolved_fields": []
       }
     ],
-    "42953678b481b8f302fabd490e10434dc2b7febda722e3b3244bcf96c7bed12c": [
+    "fca87a97ac476eccd5294f8c44f381f603db4b93846b763d707596cc36ad5116": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-one-more-position-c6b",
@@ -16562,7 +16619,7 @@
         "unresolved_fields": []
       }
     ],
-    "38a9ede941fa97f6e9d08772e984f2b7a5a2d3b8ebabcba0e3a37eec6ec1edfa": [
+    "6516b7e094957bffd319f21f49db6800cb76f44fbc8d9b8b0475c58ab9acc30d": [
       {
         "event_id": "",
         "source_id": "micron-price-target-update",
@@ -16704,8 +16761,8 @@
         "unresolved_fields": []
       }
     ],
-    "7dc6d9e1dffdf5bfd5575a3d8646ecd3c71d52d509b84ad34dced447a024f915": [],
-    "bda394e5dd75cdb97a3c64723fd7989939845048b1e451c8577ad5b2a9178e53": [
+    "4a908b9b073145e173563737761419fec6d392719621b590b7440607377c87f5": [],
+    "4f447eeb9e4bafe0a51230f71929f1fd1697f6baca771cad83f64050f0b22069": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-axia-on-the-adr",
@@ -16735,7 +16792,7 @@
         "unresolved_fields": []
       }
     ],
-    "62f50ef033acbc9ced8d2eb41fe8c8f0565808f5dbcc2b967f8ca26b7ec91b62": [
+    "b7e7da24e86381fb297401d7a0d960dd21a8f6cbe7adffca6d7b62ea6e6dade6": [
       {
         "event_id": "",
         "source_id": "june-stock-pick-trade-alert-i-just",
@@ -16765,7 +16822,7 @@
         "unresolved_fields": []
       }
     ],
-    "bd85c52c9a0747f4ffad3c108d88ecbd8666386e0ef65705038e6f71394d6342": [
+    "44738261397d073da962ca3e74cf9d4493ecf4cb85e7f2c045d004c39a25500c": [
       {
         "event_id": "",
         "source_id": "slow-death-brand-investing-nike",
@@ -16907,7 +16964,7 @@
         "unresolved_fields": []
       }
     ],
-    "e05d661d76ef63c1b1a98bb5fbad292a548193879520d6640cfe1adfa3dac790": [
+    "e1d77a89ffbea83abbfdabfdb9897591333aaeb8a7ee9a3225c0c0d19ddf99b4": [
       {
         "event_id": "",
         "source_id": "boring-middleman-600m-cash-against-9b-price",
@@ -16937,7 +16994,7 @@
         "unresolved_fields": []
       }
     ],
-    "265861bd7cdb24a666e47f2f63a0ebdeea57654bc79255c901adf5092a2964ea": [
+    "cc39efaa2efb40a749a2568687d3bf2769c0d23af1f461d30af3ea0271ec2f3c": [
       {
         "event_id": "",
         "source_id": "heritage-insurance-hrtg-position-close-post-mortem",
@@ -17107,7 +17164,7 @@
         "unresolved_fields": []
       }
     ],
-    "470e60d789f7b4ac775858a83112d73fef1459c58a88f794e369a59b9b2faa25": [
+    "59758672b006ce034301cadce244903253976c1fed6f253c5da0fffc24a1dcc4": [
       {
         "event_id": "",
         "source_id": "ai-bubble-five-dominoes",
@@ -17137,7 +17194,7 @@
         "unresolved_fields": []
       }
     ],
-    "f7688c737ecd2e24aabf86c3174b3b9d19a100599135673acf0202886c95a829": [
+    "9595dacafdadd1541a1d0ed7fd371d2ec24cc5e31e466651f8c57964f81ecbeb": [
       {
         "event_id": "",
         "source_id": "micron-mu-company-update-raising-target-1630-after-q3-2026",
@@ -17195,7 +17252,7 @@
         "unresolved_fields": []
       }
     ],
-    "992dcabdb26d6dfb3c92414fcf9577ee1e1eaac924b68781ef82481fdf50ab8c": [
+    "67c5d4ab0e1c79fa8025e7a587c01abd17fe881a9ad36fd2e20f149260e90be7": [
       {
         "event_id": "",
         "source_id": "spacex-ipo-lockup-analysis",
@@ -17365,7 +17422,7 @@
         "unresolved_fields": []
       }
     ],
-    "bfd78f786c9a6692860218e98aec9d343ce56591279eb906024f0d1a626a52c3": [
+    "3870e31ec56fed364cb3fa1da04bb6ad42bced79df789aee05a3d66461027295": [
       {
         "event_id": "",
         "source_id": "mr-market-voice-in-your-head",
@@ -17449,37 +17506,9 @@
         "confidence": "high",
         "notes": "The voice’s pitch during the drawdown: “data center construction is the bubble’s ground zero.” The witness’s answer is that we already acted, calmly, months ago: I trimmed STRL whe",
         "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "mr-market-voice-in-your-head",
-        "source_type": "article",
-        "location": "paragraph:122:c1@char:23359",
-        "char_offset": 23359,
-        "exact_text": "Trimming on valuation during calm is what letting go early looks like in practice.",
-        "publication_date": "2026-07-12",
-        "effective_date": "2026-07-12",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "TRIM",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": 0.5,
-        "confidence": "high",
-        "notes": "Trimming on valuation during calm is what letting go early looks like in practice.",
-        "unresolved_fields": []
       }
     ],
-    "69a03c456cf5061bd8b84dc7e1a280675d1fb9e5d83f2b80db8c8d4b2e3fefe8": [
+    "08dcc02fb33b6c5011fe7ab44a3178730eacbb4fc7245e4595e4d7bcdc81a0ab": [
       {
         "event_id": "",
         "source_id": "gap-stock-cheap-no-catalyst-redeploy",
@@ -17509,8 +17538,8 @@
         "unresolved_fields": []
       }
     ],
-    "eda05b2ba7a8f0da0f07953067b05c65420a43563af08455472b9be1bc3c99c1": [],
-    "b67118fef7ef2168867bb272c57ce20de8730cf349f1bd9c1b28fc61ae7998e3": [
+    "4593ad4c69e2a46fcdc5d85eca0019d1ba9530ac6c57ee55915f911520cbbfaf": [],
+    "d9469a5899f56d950abeb398924a3e32fc4b9928ce5fccec33a7a6a7d61fdb0f": [
       {
         "event_id": "",
         "source_id": "record-year-priced-for-relapse-deep-dive",
@@ -17540,7 +17569,7 @@
         "unresolved_fields": []
       }
     ],
-    "6ab3499d68b7e7bf2f2f98e98885a0373613b8e46298807e7f96d10288564fe5": [
+    "68718fe7434fc654da5621e8cb0b68e049e70152df7d2efab58ca2f34f66ce21": [
       {
         "event_id": "",
         "source_id": "physics-of-investing-valuation-is-gravity",
@@ -17626,7 +17655,7 @@
         "unresolved_fields": []
       }
     ],
-    "fb3909966ff8bdd837f018e30477d153026e2940c8e6ac3a38b433f9fd6141d4": [
+    "fa6f01e98a5cfc3edda879319eef830c8ba9dcd59c13c39658a5aacb9461111d": [
       {
         "event_id": "",
         "source_id": "ryam-rayonier-advanced-materials-stock-up-125-percent",
@@ -17684,7 +17713,35 @@
         "unresolved_fields": []
       }
     ],
-    "6f9a2bfe0a0ec68da7f192b6d846f12636215f92df62a3e83f5652bffce4b492": [
+    "945563e51999c733a1134d7689e401949166aae54844b0cf8d1c4d5f880972b5": [
+      {
+        "event_id": "",
+        "source_id": "celestica-cls-q2-2026-earnings-fundamentals-vs-sentiment",
+        "source_type": "article",
+        "location": "paragraph:24:c0@char:1835",
+        "char_offset": 1835,
+        "exact_text": "I have held CLS since 2023.",
+        "publication_date": "2026-07-29",
+        "effective_date": "2026-07-29",
+        "date_uncertainty": null,
+        "company_name": "Celestica Inc",
+        "ticker": "CLS",
+        "normalized_ticker": "CLS",
+        "exchange": "US",
+        "market": ":ca:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
       {
         "event_id": "",
         "source_id": "celestica-cls-q2-2026-earnings-fundamentals-vs-sentiment",
@@ -17798,9 +17855,9 @@
         "unresolved_fields": []
       }
     ],
-    "f7ed397fe6aebbb20c2582e0ec20616403ea9fdf293c70c6cc3d0ae4f2dac58d": [],
-    "22f0f79153476be4b939484dc42f1a16507b7427c035a4fecdaabd04e0c41025": [],
-    "f98e43b31c9fe7d6e9ce7219c27ec8c2f80a5496d009f7ecfcf3cfbbab83518f": [
+    "1c5a79f89e29efd73ab2c6d0266875c48732caf193e90587e953554b9d6d3747": [],
+    "133e5b34a3e404feca426cabe47fcfcec1cb61e0e0a8cb534a2c24ebaca202ab": [],
+    "e0dae42acca1434e231da546da75e422cf0e41eb0a1ebda80459129cdfcdc9cf": [
       {
         "event_id": "",
         "source_id": "sterling-infrastructure-strl-q2-2026-update-upgrading-to-buy",
@@ -17858,9 +17915,9 @@
         "unresolved_fields": []
       }
     ],
-    "de8a16636f5762942711846709c258277ba517d3db63a0fac5055946ec339e4b": [],
-    "0df16c962f2d7a80ed501c3dd17582d6d43fa9ae505e97d2d621b751db5776cb": [],
-    "0ac53568e24c933b7e759dd92c0875e3e9ebfc57708227181757cac74b14de2e": [
+    "c1b88641df6e56d16f54a4b5e81524024af21165721031d0426e3a7f76a883b3": [],
+    "dda47fca9eb6208fee52e255e56cf7ebfd1c68b8683e3cd3d8164f9d625d490c": [],
+    "0fcdf7934ecef86a7ec251def79fe1c077e5cadf9101cf4b72294e51a87a08a9": [
       {
         "event_id": "",
         "source_id": "ryam-rayonier-advanced-materialscrown-jewel-record-price-review-deadline",
@@ -17918,7 +17975,7 @@
         "unresolved_fields": []
       }
     ],
-    "c931f52710259dbe3230d24818bea4706a6c6c7e6aced463ac6d6a1302857d01": [
+    "2ee938fcb57896ba1dbf283eca613fa769e83aec50cd97ad0112d1fbdd0df3d1": [
       {
         "event_id": "",
         "source_id": "august-stock-pick-everybody-is-watching",
@@ -18032,7 +18089,7 @@
         "unresolved_fields": []
       }
     ],
-    "fe008aa7d80ae87f9a8685607784768caf9ad3759b8b2715c57d8106c2fa9a2b": [
+    "e2a06ee2a947fc9c6feef4eb7b8fd61a6f78d722ed2416f6575286fc93fb654e": [
       {
         "event_id": "",
         "source_id": "trade-alert-august-stock-pick",
@@ -18202,8 +18259,8 @@
         "unresolved_fields": []
       }
     ],
-    "5b1fe7d027b4af175454a215acd16bbb9dceef69ee4136be9961c5d0265080f1": [],
-    "03ae4a351262baef259787f6055d737bd75264f876f70b76465497e06e73e166": [
+    "402774f9ce9b997e0795b7d4b90c34720437496941dbd96ca07aed7fa36e0495": [],
+    "88223daeac372bf49b487db744d39df1d98daafffd173bacf17ec48ea7ce7a65": [
       {
         "event_id": "",
         "source_id": "strattec-strt-post-mortem-closing-75-percent-gain",
@@ -18401,9 +18458,9 @@
         "unresolved_fields": []
       }
     ],
-    "635b39873c2b16d6e05449c652804d58ca3da41a685bc83f564cf316822e20bd": [],
-    "416edd2fe5aeb24bb66de72766830019b42f1a0ec40a777680a6b0aab49920e8": [],
-    "bbaf866569952fc21d3d8adcdd8e6bd5151497764f92373f8595d60379c6acc3": [
+    "2b73e9b9f07f15b4ffcf55595edc88fc6062a91a72da8f50bfd72ba0c2999a6b": [],
+    "f9d4a1efbbfa49c9196d5f884178114580f8d6453a2596d0818a57b1d94ad422": [],
+    "fbb4e15bc332d09c5e399ba3a3242f94236f595d8515d4a7bf1273cf9a0e4209": [
       {
         "event_id": "",
         "source_id": "mena-oilfield-services-q2-2026-earnings-update",
@@ -18433,7 +18490,7 @@
         "unresolved_fields": []
       }
     ],
-    "c4a9e66f22a2524f0c77048247a46143e6379fcc4fa6adecd8c3ec8b2128d368": [
+    "d287f28f3c8aedb502e40ab18edbb4ccef69e4accad32094234a5e9d1b31eec7": [
       {
         "event_id": "",
         "source_id": "dell-q2-fy2027-update-95-billion-ai-backlog-buy-to-hold",
@@ -18519,7 +18576,7 @@
         "unresolved_fields": []
       }
     ],
-    "05dbc9f95e5825fed7905666ba3cf61cf2860ad1273215671bf3a32d6059e038": [
+    "546fce7a7981cecf9886f2e107972c51bbaea72d63cc105f56144d07c099286e": [
       {
         "event_id": "",
         "source_id": "ai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-positionai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-position",
@@ -18605,8 +18662,8 @@
         "unresolved_fields": []
       }
     ],
-    "7905feb75b0069f7abb73cf7003e0dc4fa1234329c0756b8b7e7f1f7db4581e2": [],
-    "a68e887ed6e78e8756519823fbc8466aa6c027cdd937eb179958e53cffc06d42": [
+    "9ddad16e2713e6bbfc993bd3b78edff3d7d85d8c4b7e904954e1ea5f1f67ff09": [],
+    "8aed286400bf609f1fb26020ffcc1b1499179962fe45e2b399940dcca578cdd4": [
       {
         "event_id": "",
         "source_id": "september-pick-cost-of-equity-bank-valuation",
@@ -18692,9 +18749,9 @@
         "unresolved_fields": []
       }
     ],
-    "d48b4b2716fd13df602f5199d096fcaa9e0ffbec1e95d20ced1901728295e3fb": [],
-    "24aad428d9ac1a7e68e6bd3309f91ff754252cefee04b3af68fc793346515c8c": [],
-    "0e88a916d273d025d8d86b948f5609f502dc7581348cbb1d280e947da7b6ee50": [
+    "85dfa75328904e1a8b888738635386f609aa21a17fc210f50ef44ddea78c13d9": [],
+    "0e9a4a37d8f21eb319d33ec175873c27b4f9626cda06d8ecafc32225b51cd176": [],
+    "d8228a85a3bff39312391f0e756b5e8f1c7c444bbdfbb38cda7b94f15acb7c5d": [
       {
         "event_id": "",
         "source_id": "ilc-inversionles-la-construccion-three-engines-one-mispriced-holding",
@@ -18724,7 +18781,7 @@
         "unresolved_fields": []
       }
     ],
-    "c89985c692771049ad80a06dcd33ee6ef90f01129641a104c68481970016a13f": [
+    "d2f0f63e6a6f2fdf9e9e81b498211b79ec405bf6a70e431425060fd53c97c7a7": [
       {
         "event_id": "",
         "source_id": "synchrony-financial-syf-stock-sale",
@@ -18785,34 +18842,6 @@
         "event_id": "",
         "source_id": "synchrony-financial-syf-stock-sale",
         "source_type": "article",
-        "location": "paragraph:16:c1@char:2035",
-        "char_offset": 2035,
-        "exact_text": "I expect the shares to move largely sideways because I don’t see a material catalyst that can force the market to close the remaining valuation gap.",
-        "publication_date": "2026-09-27",
-        "effective_date": "2026-09-27",
-        "date_uncertainty": null,
-        "company_name": "Valuation. Materion",
-        "ticker": "MTRN",
-        "normalized_ticker": "MTRN",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "HOLD",
-        "execution_status": "retrospective",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Negated non-execution statement",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "synchrony-financial-syf-stock-sale",
-        "source_type": "article",
         "location": "paragraph:34:c2@char:5359",
         "char_offset": 5359,
         "exact_text": "In 2024, SYF deliberately restricted credit and accepted weaker volumes.",
@@ -18838,8 +18867,8 @@
         "unresolved_fields": []
       }
     ],
-    "5442e95e867f68e0c31d0a16fa2fa5064759f63b0b5e8e78b5a9528d7b00c5d5": [],
-    "54d5808c774572e822e3134cc2405b080eb0ac7d4a83311db63b0f400f5d30f8": [
+    "80563bad50cc2cc40f4b2cef8830d72cfc438d80df497236a690082542795cc2": [],
+    "858894e4aecbe1bae65c310a2f602e411a8ac3fefd1938272bdce362d781237f": [
       {
         "event_id": "",
         "source_id": "mu-micron-stock-q4-target",
@@ -18869,7 +18898,7 @@
         "unresolved_fields": []
       }
     ],
-    "65568e90cdd8793c4f351034005e38d34491f86bde9a6a8911be963c9f64b851": [
+    "483d70a1b841dda0577d73b999cda97af7ff1f86e5de4b23a5ddf4f7cb04e2a3": [
       {
         "event_id": "",
         "source_id": "december-energy-pick-126-percent-still-buy",
@@ -18899,9 +18928,9 @@
         "unresolved_fields": []
       }
     ],
-    "9b65d8d6947cc1755695f03b87adcea02bf0f6f8e2d0f42b50bdc38fb9531d2f": [],
-    "6a08217d5f43a3e94e4a8ee919a2f077dab24ec633976b48957e737280daefa3": [],
-    "dc25294b7315c3da1276f0b4c4cfc4ecf55ae6e98ff0af5eecbb740d27d428ce": [
+    "e349b612a8bd0537457819821925cc16630ec766bcbdde8dcc7ca2aa71073caa": [],
+    "0694dfcfdc66053e21c085246f2ed5168efb91891d4ff3958d4cd52e6e19c7d7": [],
+    "7b64439b8926fbb41339e56f55b86ec632f1e94c1ffc979f479a73e7d70dc17a": [
       {
         "event_id": "",
         "source_id": "september-pick-update-fine-q3-rates",
@@ -19043,7 +19072,7 @@
         "unresolved_fields": []
       }
     ],
-    "ff5f62dd9d3f46e000ebff83927b386f2d68d46d3e5256f7db8762e3444192b0": [
+    "3bd10d2929bf92860581b8ff7ab1b857eabac5cdf252243e178a4f1b65ea7092": [
       {
         "event_id": "",
         "source_id": "ai-sell-off-bond-market",
@@ -19101,7 +19130,7 @@
         "unresolved_fields": []
       }
     ],
-    "8c4f00595dc423d681acb5dde446b7ad3f72a2636d3e8ae79788719d9e321711": [
+    "d23ab00825410dd7875cb842d3c5655bd1f9da55a3aeffcbe75ed701c1f463eb": [
       {
         "event_id": "",
         "source_id": "tsm-q3-2026-earnings-review",
@@ -19215,7 +19244,7 @@
         "unresolved_fields": []
       }
     ],
-    "fc06143a290ff866cc7c592851b96fb21a9008ed90bb0e317a37cde6b5c5bc82": [
+    "ae88a0779ae6fa3ea3a33b9ee4f7ea2e6683b13ac599fde0540c8f6a4e0f7614": [
       {
         "event_id": "",
         "source_id": "ai-capex-energy-audit",
@@ -19329,7 +19358,7 @@
         "unresolved_fields": []
       }
     ],
-    "767529baf68172159686ba7977bd1e08c539ed5160ec131945dee75e203383e5": [
+    "075bc443a5e20cff9885fc57f07378b6fd0411d37b1d90fc907db03ab21dece3": [
       {
         "event_id": "",
         "source_id": "oilfield-data-power-small-cap-deep-dive",
@@ -19751,7 +19780,7 @@
         "unresolved_fields": []
       }
     ],
-    "0d2c14e7e5a878bdbac26b5cc82c70528498b6a10e0aaaa776fbcd359ca8b84d": [
+    "e8abd15e08f8228a00bac42153294eaf88a19f35b48efdca6383b62f929da45f": [
       {
         "event_id": "",
         "source_id": "anthropic-ipo-s1-suppliers",
@@ -19977,7 +20006,7 @@
         "unresolved_fields": []
       }
     ],
-    "18c0f13e1c859241ac29c8203f49bdc819865a1297cb9fbed30ccd25040e798a": [
+    "3bd4d27d668d891e53767ec296249228a3d8c8f83871df94c878a8f05a207ed4": [
       {
         "event_id": "",
         "source_id": "celestica-cls-q3-2026-earnings-40b-guide-reverse-dcf",
@@ -20007,7 +20036,7 @@
         "unresolved_fields": []
       }
     ],
-    "93601e9fb394cd3292eee7359ccea835f63a3f173fc32c566c42680114119a50": [
+    "3e83571541d3f2313a9e3056c8e3564291b06f67aee9ca198d2813cc302b2b40": [
       {
         "event_id": "",
         "source_id": "sociedad-quimica-minera-sqm-lithium-buy-90-target-chile",
@@ -20205,7 +20234,7 @@
         "unresolved_fields": []
       }
     ],
-    "2a47ae9fe1e457a75d5290af5a2865bba9950007da736defc1152b76e428fa14": [
+    "18ad3506b41ec3d84174c70ed7478e8f175ca8eb4d35c86b21977e28b651eabf": [
       {
         "event_id": "",
         "source_id": "hold-to-buy-casual-dining-value-leader-247-fair-value",
@@ -20263,7 +20292,7 @@
         "unresolved_fields": []
       }
     ],
-    "a935d1aa252069a58e166921938d57be556dccfb31583c1fcb3284a38f8c14f9": [
+    "507e64c05f5febdef94610117c137492a2e234848cefd1de1b70a58547a16e6c": [
       {
         "event_id": "",
         "source_id": "chat:5bbbf07f",
@@ -20336,16 +20365,16 @@
         "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
-        "action": "SELL",
-        "execution_status": "confirmed",
+        "action": "BUY",
+        "execution_status": "proposed",
         "discovery_layer": "primary_chat",
         "portfolio_book": "primary",
         "stated_price": null,
         "stated_currency": null,
         "position_sizing": null,
-        "trim_fraction": 1.0,
-        "confidence": "high",
-        "notes": "My gut feeling was right when I was saying that most likely I will be selling PYPL in the chats above.",
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {

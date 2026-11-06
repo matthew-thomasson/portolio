@@ -17,7 +17,7 @@ from .config import Settings, SourceConfig
 from .ingestion import discover_publication_authors
 from .prices import PriceProvider
 
-EXTRACTOR_VERSION = "3.5.0"
+EXTRACTOR_VERSION = "3.6.0"
 
 # Financial / accounting / macro / English tokens that must NEVER be mistaken for bare stock tickers
 STOPWORD_ACRONYMS: set[str] = {
@@ -303,6 +303,9 @@ GENERIC_ALIAS_WORDS: set[str] = {
     "thought", "thoughts", "weekly", "monthly", "growing", "extreme", "comparable", "sales", "example", "current", "special", "feature",
     "income", "securities", "ishares", "depository", "receipts", "deposit", "deposits", "rate", "rates", "interest",
     "credit", "debt", "loan", "loans", "notes", "yield", "treasury", "holding", "holdings", "equity", "equities", "group",
+    "potential", "entry", "levels", "level", "target", "targets", "setup", "opportunity", "opportunities",
+    "valuation", "fair", "cheap", "expensive", "conviction", "allocation", "exposure", "uplift", "discount",
+    "windfall", "flier", "speculation", "advice", "suggestion", "suggestions", "commentary", "discussion",
 }
 
 NON_COMPANY_START_TOKENS: set[str] = {
@@ -315,12 +318,18 @@ NON_COMPANY_START_TOKENS: set[str] = {
     "buy", "buying", "bought", "sell", "selling", "sold", "add", "adding", "added", "trim", "trimming",
     "trimmed", "close", "closing", "closed", "cut", "cutting", "exit", "exiting", "exited", "hold", "holding",
     "trade", "trades", "weekly", "monthly", "update", "alert", "review", "recap", "note", "notes", "execution",
+    "potential", "entry", "levels", "target", "targets", "setup", "opportunity", "opportunities",
 }
 
 
 def _clean_company_alias(name: str) -> str:
     s = name.strip().lower()
-    s = re.sub(r"^(?:long|short|buy|buying|sell|selling|closing|closed|new position:?|position increase:?|reduce|cut|added|remove)\s+", "", s)
+    s = re.sub(
+        r"^(?:long|short|buy|buying|sell|selling|closing|closed|new position:?|position increase:?|reduce|cut|added|remove|"
+        r"potential\s+entry\s+levels?:?|price\s+targets?:?|key\s+holdings?:?|portfolio\s+review:?|watchlist:?|potential:?)\s+",
+        "",
+        s,
+    )
     s = re.sub(r"^\d+[\.\)]\s*", "", s)
     s = re.sub(
         r"\b(?:inc\.?|corp\.?|corporation|ltd\.?|limited|plc|holdings?|group|co\.?|company|sa|nv|ag|se|ab|adr|ads|equity|common|stock|shares)\b",
@@ -477,6 +486,12 @@ class SecurityResolver:
         norm_sym, mkt, exch = self.normalize_symbol(raw_symbol, hint=hint, context_text=context_text)
         base_sym = raw_symbol.strip().lstrip("$").upper().split(".")[0]
         clean_disp = re.sub(r"\s+", " ", company_name).strip(" -–—:,.()[]")
+        clean_disp = re.sub(
+            r"^(?:Potential\s+Entry\s+Levels?|Price\s+Targets?|Key\s+Holdings?|Portfolio\s+Review|Watchlist|New\s+Position:?|Position:?)\s+",
+            "",
+            clean_disp,
+            flags=re.IGNORECASE,
+        ).strip(" -–—:,.()[]")
         if (
             base_sym in STOPWORD_ACRONYMS
             and base_sym not in VALID_TICKERS_DESPITE_OVERLAP
@@ -1128,7 +1143,11 @@ class ExtractionEngine:
             r"repurchasing\s+[\d,]+\s+shares|share\s+repurchases|market\s+sold\s+off|stocks?\s+sold\s+off|"
             r"shutting\s+down\s+the\s+equity\s+strategy|taconic\s+capital|"
             r"dip\s+buyers|retail\s+investors|if\s+a\s+friend\s+of\s+yours|if\s+i\s+(?:buy|want\s+to\s+buy)\s+[a-z]+\b|let[’\']s\s+say\s+it\s+is\s+trading|"
-            r"you\s+could\s+buy|if\s+you\s+(?:buy|want|own|have\s+fewer|haven[’\']t)|better\s+off\s+(?:just\s+)?buying|"
+            r"you\s+could\s+buy|if\s+you\s+(?:buy|want|own|have\s+fewer|haven[’\']t|are\s+thinking|are\s+looking|are\s+considering)|better\s+off\s+(?:just\s+)?buying|"
+            r"nothing\s+wrong\s+(?:here\s+)?with\s+(?:paring\s+back|trimming|taking\s+off|cutting|taking\s+some\s+profit)|"
+            r"it\s+makes\s+sense\s+to\s+(?:spread\s+your\s+order|nibble|trim|take\s+profit)|"
+            r"wouldn[’\']t\s+blame\s+anyone\s+for|can\s+take\s+some\s+profit|"
+            r"as\s+people\s+make\s+room|people\s+make\s+room|investors\s+(?:are\s+)?(?:buying|selling|making\s+room)|"
             r"a\s+lot\s+of\s+people\s+(?:just\s+)?buy|wouldn[’\']t\s+fault\s+you|should\s+have\s+(?:just\s+)?bought|"
             r"margin\s+added\s+to|charge\s+added\s+to|deal\s+added\s+more|value-added\s+services|"
             r"added\s+(?:a\s+|the\s+)?[a-z0-9\s-]{1,35}\b(?:function|feature|spread|metric|tab|tool|chart)\s+(?:on|to)\b|rankedstocks|"
@@ -1486,6 +1505,11 @@ class ExtractionEngine:
                 r"\b(?:on\s+(?:my|the|your)\s+watch\s*list|worth\s+adding\s+to\s+your\s+watch\s*lists?|on\s+(?:my|the)\s+radar|"
                 r"worth\s+a\s+look|worth\s+considering|caught\s+my\s+eye|caution\s+is\s+warranted|"
                 r"i\s+want\s+to\s+(?:buy|add|own)|would\s+(?:absolutely\s+)?love\s+to\s+(?:buy|add)|"
+                r"will\s+be\s+(?:buying|adding|trimming|selling|closing)|will\s+(?:buy|add|trim|sell|close|exit|re-enter)\b|"
+                r"when\s+(?:the\s+)?market\s+opens\b|"
+                r"(?:plan|planning|going|intend|intending)\s+to\s+(?:buy|add|trim|sell|close|exit|re-enter)\b|"
+                r"(?:look|looking)\s+to\s+(?:buy|add|trim|sell|close|exit)\b|"
+                r"will\s+(?:look\s+to|attempt\s+to|try\s+to)\s+(?:cash\s+out|sell|buy|add)\b|"
                 r"will\s+probably\s+buy|would\s+probably\s+(?:buy|wait)|getting\s+close\s+to\s+buying|going\s+to\s+wait|"
                 r"what\s+would\s+make\s+me\s+buy|long\s+before\s+i\s+trim|if\s+i\s+(?:had\s+no|didn[’\']t)|"
                 r"waiting\s+for\s+.*?(?:earnings|report|pullback|clarity)\s+(?:first\s+)?before\s+(?:adding|buying)|"
@@ -1533,6 +1557,7 @@ class ExtractionEngine:
             re.search(
                 r"\b(?:haven[’\']t\s+(?:sold|touched)|i\s+am\s+not\s+selling|won[’\']t\s+(?:really\s+)?touch\s+it|"
                 r"continue\s+to\s+remain\s+in\s+the\s+portfolio|remains\s+in\s+the\s+portfolio|sitting\s+tight|"
+                r"i[’\']ve\s+held|i\s+have\s+held|we[’\']ve\s+held|we\s+have\s+held|currently\s+holding|i\s+still\s+hold|i\s+continue\s+to\s+hold|comfortable\s+holding|"
                 r"since\s+(?:i|we)\s+(?:first\s+)?(?:added|bought|picked|closed|exited|initiated)|"
                 r"from\s+(?:when|where)\s+(?:i|we)\s+(?:added|bought)|before\s+i\s+bought|than\s+when\s+i\s+bought|"
                 r"than\s+the\s+one\s+i\s+bought|when\s+i\s+(?:bought\s+it\s+last\s+year|launched\s+this\s+newsletter|started\s+this\s+newsletter)|"
@@ -1628,7 +1653,7 @@ class ExtractionEngine:
         elif re.search(
             r"(?:(?i:\b(?:i\s+(?:have\s+|carefully\s+|also\s+)?added|added\s+(?:some|more|a\s+little\s+more|a\s+bit|a\s+lot\s+more|\d+(?:\.\d+)?\s*bps|several\s+hundred\s+shares|to\s+(?:my|the|that))\b|"
             r"put\s+the\s+proceeds\s+into|i\s+add\s+to\s+my\s+position|"
-            r"i\s+(?:am|will\s+be)\s+adding\s+to|adding\s+to\s+(?:my|the)\b|i[’\']ve\s+been\s+(?:steadily\s+|heavily\s+)?adding\s+to|"
+            r"i\s+am\s+adding\s+to|adding\s+to\s+(?:my|the)\b|i[’\']ve\s+been\s+(?:steadily\s+|heavily\s+)?adding\s+to|"
             r"have\s+been\s+(?:steadily\s+|heavily\s+)?adding\s+to|steadily\s+adding\s+to|quickly\s+adding\s+to|buying\s+more\b|bought\s+more\b))\b|"
             r"\b(?i:increased|added\s+to|adding\s+to)\s+(?:\$[A-Z]{1,5}|[A-Z]{2,5})\b)",
             raw,
@@ -1642,7 +1667,7 @@ class ExtractionEngine:
             r"opened\s+a\s+(?:new\s+|small\s+|starter\s+)?position|started\s+a\s+(?:new\s*,?\s*|small\s+|speculative\s+|starter\s+)?position|"
             r"initiat(?:ed|ing)\s+(?:a\s+(?:new\s+|smaller\s+|small\s+|starter\s+)?(?:position\s+in\s+)?|smaller\s+positions?\s+in\s+|my\s+position\s+in\s+|my\s+)?|"
             r"sized\s+my\s+position\s+(?:small\s+)?at\s+\d+(?:\.\d+)?%|have\s+allocated\s+\d+(?:\.\d+)?%\s+of\s+my\s+portfolio\s+to|"
-            r"redeploying\s+most\s+of\s+that\s+capital\s+to|make\s+room\s+for|initiating\s+[A-Za-z0-9\s]+?\s*\(|initiating\s+[A-Za-z0-9]+\s+position|"
+            r"redeploying\s+most\s+of\s+that\s+capital\s+to|initiating\s+[A-Za-z0-9\s]+?\s*\(|initiating\s+[A-Za-z0-9]+\s+position|"
             r"put\s+on\s+a\s+(?:\d+(?:\.\d+)?%\s+)?position|i\s+picked\s+up|picked\s+up\s+(?:some|more|both|[A-Z][A-Za-z0-9&.\'’-]+)|"
             r"small\s+\d+(?:\.\d+)?%\s+buy\s+in|dip\s+buying\s+[A-Z]{2,5}|"
             r"april\s+trade\s+is\s+\d+(?:\.\d+)?%\s+of\s+the\s+portfolio\s+in|"

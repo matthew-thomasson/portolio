@@ -5,12 +5,10 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-02-27,DQ,BUY,41.45936837503787,24.1200008392334,1000.0,0.0,I bought DAQO Energy [DQ].
 2026-03-16,NESR,BUY,48.520134419488606,20.610000610351562,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-04-23,MTRN,BUY,5.463822559827881,183.0220489501953,1000.0,0.0,"Second, the independent directors are willing to block a parent-initiated buyout on valuation grounds."
 2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-07-06,SPCX,BUY,6.23363677480445,160.4199981689453,1000.0,0.0,"Four days after listing, SpaceX agreed to buy Cursor (Anysphere) for $60B in stock, a coding-assistant startup at roughly 15x its reported ARR."
-2026-07-12,MTRN,TRIM,-2.7319112799139407,246.60409545898438,673.7005100573737,173.70051005737366,Trimming on valuation during calm is what letting go early looks like in practice.
 2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-08-05,STRL,BUY,1.8655671237518667,536.030029296875,1000.0,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
 2026-08-17,AR,BUY,27.472526320886033,36.400001525878906,1000.0,0.0,August Stock Pick: Everybody Is Watching The Wrong Number

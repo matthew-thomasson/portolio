@@ -1,7 +1,7 @@
 {
-  "_version": "3.5.0",
+  "_version": "3.6.0",
   "items": {
-    "91b8ccc16f079f92b898ebc9f7778cf5baa50c22be249a317bc9a24152318cf3": [
+    "1927760709d2513cd6547e7480253f49211d3a18f9502dfc893ab5f5c44990b7": [
       {
         "event_id": "",
         "source_id": "45-discount-to-nav-bitw-trap-or-compelling",
@@ -31,7 +31,7 @@
         "unresolved_fields": []
       }
     ],
-    "404e87bc7f7446ba36f076ef23b27387d818d80297600c06dbc0e22b004b4729": [
+    "c523b526ce9cb23ce9ece540164911e42e3e65ab100cbf37c45a29c69ab3b828": [
       {
         "event_id": "",
         "source_id": "igic-the-little-insurer-that-could",
@@ -61,7 +61,7 @@
         "unresolved_fields": []
       }
     ],
-    "f36f6a6a2c4bb7f80461848731248ea1c8ff1447be51679b310b0aecd401ea56": [
+    "0ae1f43290dd5aa5e2586d1852b72e9beabdcb64ca215ad282554c1b9ccb4672": [
       {
         "event_id": "",
         "source_id": "cubi-trouble-in-paradise-or-an-easy",
@@ -119,7 +119,7 @@
         "unresolved_fields": []
       }
     ],
-    "e1d458632d80029abf9fe1aca3790c3c4f769952eca73e4d6c396ec1eac58c9e": [
+    "a157d0bc92715a72e11a3a524b760298ea817c45c121b8a6001256fa70220c91": [
       {
         "event_id": "",
         "source_id": "in-a-world-full-of-50s-a-beautiful-41c",
@@ -345,7 +345,7 @@
         "unresolved_fields": []
       }
     ],
-    "4baa57cd2f530760aad7959db3d4c35300212118feffd5667929a876d5586dd4": [
+    "089fb4a6f77ec7627336e02679e282f617874da5a1621e6a4ac867b9054f4224": [
       {
         "event_id": "",
         "source_id": "the-fastest-growing-bank-youve-never",
@@ -655,7 +655,7 @@
         "unresolved_fields": []
       }
     ],
-    "d77a7fa9ebaf8cfcc2c436544a3e3cb8cb4480fb66035c4bdd9d49e26dd084ce": [
+    "13aadecbaaca53c258a05bfd14fd1f05061e7f77245aaa17410ad26722244bb5": [
       {
         "event_id": "",
         "source_id": "its-just-more-fun-the-second-time",
@@ -797,9 +797,9 @@
         "unresolved_fields": []
       }
     ],
-    "6a63b58321ca18d048bdecd6e512b7748c85d5b0f7e39428db61981a6688b867": [],
-    "753db3efc87529e95a924250bdd98fa0d1f70e79f121ff6741741371ac019a77": [],
-    "eb648f2ddff9e1a4c596d37eb0d3020c920b74e0c4f0632eedcd87f874a00ace": [
+    "185c1a0c41eb9c8d4a65cbda373cedfda5fb82927932cd72224c04e50c88982f": [],
+    "6a99a39d5f6512ead182b88e9a98cd644229016182ff086a2d483007001dc07d": [],
+    "becea983f98f82734af47d089817894a570cb7fd856ee207dc4c2a215678c24a": [
       {
         "event_id": "",
         "source_id": "identifying-structuring-and-sizing",
@@ -885,7 +885,7 @@
         "unresolved_fields": []
       }
     ],
-    "e4fed56d9e05fcb0c5a6122d8adb02295b232d8dff3a7d69b18f417be6cb5dac": [
+    "2f9ce74cd63dee55cb1a9e021826ab05d6e3b386e3ae5a36799d724845515b1e": [
       {
         "event_id": "",
         "source_id": "the-value-investors-paradise",
@@ -943,7 +943,7 @@
         "unresolved_fields": []
       }
     ],
-    "b3d51a96b625fed3fcd6c24f7cc173c8f60ab620374d54118eb1a678116d8428": [
+    "fd44d871055331559d014c380e6abbd40ace8bb012752b04b86ae87d33a76525": [
       {
         "event_id": "",
         "source_id": "betting-on-capital-markets-with-a",
@@ -1001,7 +1001,7 @@
         "unresolved_fields": []
       }
     ],
-    "dbfb1c07b97322c9bd05e08984c4c29f1aa1ae2447cc702e0d10b77b9a6a7151": [
+    "5c1b29b8046686237d618e4ec80f96ea28fe5d56fae4f9efd7c49864322c111e": [
       {
         "event_id": "",
         "source_id": "riding-the-uplisting-wave",
@@ -1087,7 +1087,7 @@
         "unresolved_fields": []
       }
     ],
-    "b4acfff322ba9bc791d2025a77c9f5dc24ac4f1bbeab2c2ecb53534d4274f25b": [
+    "3cb6cf7586c9fb659b338ba4ffef9e99d479347421b4dc1a28bed5f5c99fe561": [
       {
         "event_id": "",
         "source_id": "juicing-the-market-one-repurchase",
@@ -1117,7 +1117,7 @@
         "unresolved_fields": []
       }
     ],
-    "be3ca209d297b860d02ffbd19a5a672a57568e586e57688ee2107fe57b137369": [
+    "f67acd5898a9320d36bb72baa17356e2f9764e7b7a57a5df878af08445307469": [
       {
         "event_id": "",
         "source_id": "shifting-into-rates-down",
@@ -1203,7 +1203,7 @@
         "unresolved_fields": []
       }
     ],
-    "b3550f87172ba1152d18ecb772a6e31a6009359842d827b3b20a440921a5a198": [
+    "f2a9d54df6aadb14311c491bec6aaaf1fd2d1a0a3632bad75bc33296fe347cc1": [
       {
         "event_id": "",
         "source_id": "dividends-discounts-diamonds-in-the",
@@ -1261,8 +1261,8 @@
         "unresolved_fields": []
       }
     ],
-    "b8d1a7d7d0f7b94a02c5d6378c579a4879275659ce49e53e87d571da4b9e195d": [],
-    "b368ef629ae6abe9554964adbdca148be954fbb90edb9246a6200404a2a82fd5": [
+    "6f78d9561a8e45250c2f8e4216dd98f28072394896f83b72783f3b1619a08ff6": [],
+    "170e5c1cf646ff86bed747d2273e37a46a64621e41a92541ca1ba34f28a4850a": [
       {
         "event_id": "",
         "source_id": "30-days-to-november",
@@ -1320,7 +1320,7 @@
         "unresolved_fields": []
       }
     ],
-    "9b70b75c4a2bbb9a69a4d51513a7d9f025b423bd463c7494ce375522c9c7e998": [
+    "300a7d816f4ea802f383e3591b87392a64801ab116d8e9ce2ba86a433006a99d": [
       {
         "event_id": "",
         "source_id": "capital-markets-ai-and-rare-earths",
@@ -1406,8 +1406,8 @@
         "unresolved_fields": []
       }
     ],
-    "3507b79f34097626825e77100cc9313a9b6031b902d9d1b857087b08de388b51": [],
-    "1503f4ccd9ef2a2bfae09ddb572ff6ade1169e69dc90facfc68bae1013219ddb": [
+    "c5435ebd66709648019d3bce2884a170fcd88fd9b0b66875728ade2385869bd9": [],
+    "0bff51dde24afd490ff12b76eddb5ec162bf70df85656034690eaeed87b0c265": [
       {
         "event_id": "",
         "source_id": "double-vision",
@@ -1465,7 +1465,7 @@
         "unresolved_fields": []
       }
     ],
-    "9b0ddc0b3d14fac88169b316d18ce6d976d9889b2230e99fd791a3385361e111": [
+    "5f4d905b0487977549e52ea95d5c5fb4cabae69eda5db5dec8dd6a35685ed10a": [
       {
         "event_id": "",
         "source_id": "snacking-on-banking-and-insurance",
@@ -1523,9 +1523,9 @@
         "unresolved_fields": []
       }
     ],
-    "c059ecefa96d7e700b80b0777863494037f000ed70b5c10086e76a2444dff012": [],
-    "3fcdde3794cbe76ef28e87ba7785354aebbfd4c325069e8250701ba913545227": [],
-    "713944b521e4f44a5be456486f4f9e675f9ac678b1ea69acefaabbc734ea5ba5": [
+    "354ef9f8d4a8c9b26863d14318f7a3113319ed0c91fdb8e6bbd85be0db0321a8": [],
+    "1031827176d8ebd95e6821a9f78590690cafaecd60ff691afae9ecd7a278082a": [],
+    "2721064297ab7bc24e9e7dca039de35033dcf0943a8d6b164e185c139c7d59f7": [
       {
         "event_id": "",
         "source_id": "february-3-2026",
@@ -1583,7 +1583,7 @@
         "unresolved_fields": []
       }
     ],
-    "1476cd0095b0d7ee0671fd654645431ae5ad5ed1bfb9008b35e9aeb5aa51989a": [
+    "8b67c8dc7813c3e29010654f6eed8c3f591fd4a3b1ba3b0ff89a087c6c725e56": [
       {
         "event_id": "",
         "source_id": "earnings-updates-and-a-software-shot",
@@ -1669,8 +1669,8 @@
         "unresolved_fields": []
       }
     ],
-    "6e121a04cc50a4b0611395e2b7ae7f42689169ea13c2f8a2de39cb26a3418dc7": [],
-    "c4d9883a9660dedcaa0101274757450e4a63abfecbb55e7924b1d10cf51e60ae": [
+    "1e72fe82c9c3c7e38be8d8662f517011d9eb2504e95294d793bc7bb22fe5523f": [],
+    "4e677b3b2488fa51eb36eb548b9f557f5f63ed47cfadb423406229f23f8b7e0b": [
       {
         "event_id": "",
         "source_id": "march-2026-trade-review",
@@ -2120,7 +2120,7 @@
         "unresolved_fields": []
       }
     ],
-    "f5cdf4186f5a712d95ca82acdd4902b078345f39fe20285b73f1f07e84a38018": [
+    "f2c667322e4897b72d0ab325b71026810b6dc607921c0e887ab0e77d734ac728": [
       {
         "event_id": "",
         "source_id": "global-dental-labs-and-us-malls",
@@ -2150,7 +2150,7 @@
         "unresolved_fields": []
       }
     ],
-    "2337acdb63e9879b3fbe696d89803a68606ae669c8d79fd6d96275ea1e9fd268": [
+    "9151c1817528f935c1ef93b8b0459fde1bff1930d9a4180ffbb3fe789fedcce5": [
       {
         "event_id": "",
         "source_id": "april-2026-portfolio-review",
@@ -2519,6 +2519,62 @@
         "event_id": "",
         "source_id": "april-2026-portfolio-review",
         "source_type": "article",
+        "location": "paragraph:147:c3@char:40240",
+        "char_offset": 40240,
+        "exact_text": "Google trades at 28x earnings, slightly higher than the broader S&P 500 at 22x, but given the utility-like nature of their products and potential AI integration opportunities throughout their ecosystem, it’s a name I am comfortable holding at a premium to the market.",
+        "publication_date": "2026-04-17",
+        "effective_date": "2026-04-17",
+        "date_uncertainty": null,
+        "company_name": "Advanced Integration Tech",
+        "ticker": "AIT",
+        "normalized_ticker": "AIT",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "checkpoint_review",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "april-2026-portfolio-review",
+        "source_type": "article",
+        "location": "paragraph:147:c3@char:40240",
+        "char_offset": 40240,
+        "exact_text": "Google trades at 28x earnings, slightly higher than the broader S&P 500 at 22x, but given the utility-like nature of their products and potential AI integration opportunities throughout their ecosystem, it’s a name I am comfortable holding at a premium to the market.",
+        "publication_date": "2026-04-17",
+        "effective_date": "2026-04-17",
+        "date_uncertainty": null,
+        "company_name": "Google",
+        "ticker": "GOOGL",
+        "normalized_ticker": "GOOGL",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "checkpoint_review",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "april-2026-portfolio-review",
+        "source_type": "article",
         "location": "paragraph:154:c4@char:43374",
         "char_offset": 43374,
         "exact_text": "While it may seem like a value trap at first glance, Customers was the top performing KRE component in 2023 and 2025, and has generated a three year return of 330% vs 77% on the broader benchmark .",
@@ -2656,7 +2712,7 @@
         "unresolved_fields": []
       }
     ],
-    "69914a207687cb161abd1f906a5ef20df60564d58154396be84363d4654f486f": [
+    "e8f23661d084ee6f60e3896a45829ed2eace71cbfd0a7fca866391675bd24c2a": [
       {
         "event_id": "",
         "source_id": "opening-the-gates",
@@ -2683,6 +2739,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "opening-the-gates",
+        "source_type": "article",
+        "location": "paragraph:19:c0@char:4602",
+        "char_offset": 4602,
+        "exact_text": "Of course, there is tracking risk , there can be no guarantee the price of SK Square will track the value of its SK Hynix stake, but as shown in the graph above, the discount does seem to be closing and I think IBKR enabling Korean Equities will add additional momentum as value investors discover the opportunity.",
+        "publication_date": "2026-04-29",
+        "effective_date": "2026-04-29",
+        "date_uncertainty": null,
+        "company_name": "SK Square",
+        "ticker": "402340",
+        "normalized_ticker": "402340.KS",
+        "exchange": "KRX",
+        "market": ":kr:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -2798,7 +2882,7 @@
         "unresolved_fields": []
       }
     ],
-    "7c06864cd6d0ab9811dcfc84a087508d73ec1c08149902b9b3aa0b9d238fd14c": [
+    "eb45604dd3b2345a728fc2ec1a513466e2bfbcdcde968ea7a6f6cc0361fec4ef": [
       {
         "event_id": "",
         "source_id": "boring-is-beautiful",
@@ -2828,7 +2912,7 @@
         "unresolved_fields": []
       }
     ],
-    "6fbc5cc3f4b31f38d259cb987657126990d25b04c72c0d982d2886de8b74f86e": [
+    "80a85f355fc6d28e294743e523e999e152b2180374713468815c39f0004967ad": [
       {
         "event_id": "",
         "source_id": "go-stub-yourself",
@@ -2970,7 +3054,7 @@
         "unresolved_fields": []
       }
     ],
-    "5bea051c413e593cc5a83237c8ed8ab3dbbd05341eae690ad0dbd6a161703a7f": [
+    "073b2bdd67ae0290159775e1fab7c50eaaf1530896ca70b074af011774340f9c": [
       {
         "event_id": "",
         "source_id": "too-many-cooks-spoil-the-pot",
@@ -3031,34 +3115,6 @@
         "event_id": "",
         "source_id": "too-many-cooks-spoil-the-pot",
         "source_type": "article",
-        "location": "paragraph:22:c0@char:4924",
-        "char_offset": 4924,
-        "exact_text": "Investors in these funds have long awaited the payday of the SpaceX investment, but because the funds are not closed, new investors can swoop in, establish SpaceX exposure at a lower-than-IPO valuation, and dilute the existing investors’ potential profits, thus “spoiling the pot” and siphoning some of the windfall.",
-        "publication_date": "2026-06-03",
-        "effective_date": "2026-06-03",
-        "date_uncertainty": null,
-        "company_name": "Potential Entry Levels SE Holdings",
-        "ticker": "9478",
-        "normalized_ticker": "9478.T",
-        "exchange": "TSE",
-        "market": ":jp:",
-        "instrument_type": "equity",
-        "action": "HOLD",
-        "execution_status": "retrospective",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Negated non-execution statement",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "too-many-cooks-spoil-the-pot",
-        "source_type": "article",
         "location": "paragraph:32:c0@char:7763",
         "char_offset": 7763,
         "exact_text": "Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it .",
@@ -3087,34 +3143,6 @@
         "event_id": "",
         "source_id": "too-many-cooks-spoil-the-pot",
         "source_type": "article",
-        "location": "paragraph:32:c0@char:7763",
-        "char_offset": 7763,
-        "exact_text": "Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it .",
-        "publication_date": "2026-06-03",
-        "effective_date": "2026-06-03",
-        "date_uncertainty": null,
-        "company_name": "Potential Entry Levels SE Holdings",
-        "ticker": "9478.T",
-        "normalized_ticker": "9478.T",
-        "exchange": "TSE",
-        "market": ":jp:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it .",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "too-many-cooks-spoil-the-pot",
-        "source_type": "article",
         "location": "paragraph:33:c0@char:8187",
         "char_offset": 8187,
         "exact_text": "While you could wait until next week to establish a position closer to the actual IPO, I think there is a possibility BARAX closes itself to new investors to preserve a potential SpaceX windfall, hence why I initiated my position this week.",
@@ -3143,32 +3171,32 @@
         "event_id": "",
         "source_id": "too-many-cooks-spoil-the-pot",
         "source_type": "article",
-        "location": "paragraph:33:c0@char:8187",
-        "char_offset": 8187,
-        "exact_text": "While you could wait until next week to establish a position closer to the actual IPO, I think there is a possibility BARAX closes itself to new investors to preserve a potential SpaceX windfall, hence why I initiated my position this week.",
+        "location": "paragraph:34:c0@char:8428",
+        "char_offset": 8428,
+        "exact_text": "This trade isn’t risk free, but if the SpaceX mark within BARAX is still $1.25 Trillion and the IPO is successful, I think the trade has potential and I will attempt to cash out my shares shortly after the IPO.",
         "publication_date": "2026-06-03",
         "effective_date": "2026-06-03",
         "date_uncertainty": null,
-        "company_name": "Potential Entry Levels SE Holdings",
-        "ticker": "9478.T",
-        "normalized_ticker": "9478.T",
-        "exchange": "TSE",
-        "market": ":jp:",
+        "company_name": "Baron Asset Fund Retail Class",
+        "ticker": "BARAX",
+        "normalized_ticker": "BARAX",
+        "exchange": "US",
+        "market": ":us:",
         "instrument_type": "equity",
         "action": "BUY",
-        "execution_status": "confirmed",
+        "execution_status": "proposed",
         "discovery_layer": "primary_article",
         "portfolio_book": "primary",
         "stated_price": null,
         "stated_currency": null,
         "position_sizing": null,
         "trim_fraction": null,
-        "confidence": "high",
-        "notes": "While you could wait until next week to establish a position closer to the actual IPO, I think there is a possibility BARAX closes itself to new investors to preserve a potential S",
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       }
     ],
-    "8cc703496755e320c2562970e8f361e2309d800168137a916e705e87d82022b9": [
+    "0959720cfb0c23447a61823d095a1d98c333489e34104c79df3b10d9db08d6ce": [
       {
         "event_id": "",
         "source_id": "june-2026-portfolio-review",
@@ -3674,7 +3702,7 @@
         "unresolved_fields": []
       }
     ],
-    "a654896f03f51cf0ea890ea94fa172021b7c0b24f87210bf4cb90f23ce3275be": [
+    "dfb919354473d14dbf4e692d99db4e7beb60365f6ea8decfd76ea5503a846e71": [
       {
         "event_id": "",
         "source_id": "sit-back-relax-and-the-enjoy-the",
@@ -3844,7 +3872,7 @@
         "unresolved_fields": []
       }
     ],
-    "13f2c1c2849616de890e4faf38f77fa4ef0650b639efb424f0ae5d596b244440": [
+    "4c3805e49cd6b7d7471d0b591514385db5071c3df96ff3d3874f16faac0ecabd": [
       {
         "event_id": "",
         "source_id": "buying-the-buyback",
@@ -4070,7 +4098,7 @@
         "unresolved_fields": []
       }
     ],
-    "57a5d5587fbbac61b82ecf25ecd79300532793acd8de281cf06f690c0bd0b4d0": [
+    "fb3ab23a1703e889c7b1dbadde05276a191df927e42a7a3e50958cb94ff93c72": [
       {
         "event_id": "",
         "source_id": "september-2026-portfolio-review",
@@ -4579,6 +4607,34 @@
         "event_id": "",
         "source_id": "september-2026-portfolio-review",
         "source_type": "article",
+        "location": "paragraph:83:c1@char:25695",
+        "char_offset": 25695,
+        "exact_text": "I’ve increased the GoDaddy position at $95 to 1.5%, and will add another 0.5% in the low 90s.",
+        "publication_date": "2026-10-05",
+        "effective_date": "2026-10-05",
+        "date_uncertainty": null,
+        "company_name": "GoDaddy",
+        "ticker": "GDDY",
+        "normalized_ticker": "GDDY",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "checkpoint_review",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "september-2026-portfolio-review",
+        "source_type": "article",
         "location": "heading:98@char:29831",
         "char_offset": 29831,
         "exact_text": "Short American Coastal (ACIC) - Added June 28",
@@ -4775,6 +4831,34 @@
         "event_id": "",
         "source_id": "september-2026-portfolio-review",
         "source_type": "article",
+        "location": "paragraph:156:c0@char:45490",
+        "char_offset": 45490,
+        "exact_text": "Lastly, I continue to hold Kioxia as a low conviction trade.",
+        "publication_date": "2026-10-05",
+        "effective_date": "2026-10-05",
+        "date_uncertainty": null,
+        "company_name": "Kioxia",
+        "ticker": "285A",
+        "normalized_ticker": "285A.T",
+        "exchange": "TSE",
+        "market": ":jp:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "checkpoint_review",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "september-2026-portfolio-review",
+        "source_type": "article",
         "location": "paragraph:169:c2@char:48984",
         "char_offset": 48984,
         "exact_text": "IES has a proven track record of successful integrations, revenue has surged 600% over the last decade, and highly-aligned Chairman Jeffrey Gendell (who owns $6.9 Billion and is also an extremely successful investor) has turned IES from a forgettable, struggling contractor in 2010 into one of the largest and most reliable industrial infrastructure services companies.",
@@ -4884,7 +4968,7 @@
         "unresolved_fields": []
       }
     ],
-    "051594f0a6890a024e537146846eb76db7c99053340e1b0e7d47179b1ec73fdc": [
+    "50b1a9de37ef2d5cdf822bb68828aa0f9fce1e177297fdc6bad5e072f805d054": [
       {
         "event_id": "",
         "source_id": "october-17-2026",
@@ -4914,7 +4998,7 @@
         "unresolved_fields": []
       }
     ],
-    "592879fbce7a2d404e3868d9934bd8508a33976f30dc080767661a39b0fbc514": [
+    "c48400cd6570dbfda70eee12807a42f3c42451706ea3bb1d0525053f40676eb1": [
       {
         "event_id": "",
         "source_id": "chat:7726ab68",
@@ -4941,34 +5025,6 @@
         "trim_fraction": null,
         "confidence": "high",
         "notes": "A small cap I've been adding to recently is Oppenheimer.",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "chat:c9f849e5",
-        "source_type": "chat_thread",
-        "location": "thread:c9f849e5-5ddc-4b98-be5e-1dbdce1c96bc:clause:8",
-        "char_offset": 713,
-        "exact_text": "I mentioned this back on my feed at 14 (funny), but to the active traders, this is one that should be on your watchlist for potential intraday activity.",
-        "publication_date": "2025-10-07",
-        "effective_date": "2025-10-07",
-        "date_uncertainty": null,
-        "company_name": "Potential Entry Levels SE Holdings",
-        "ticker": "9478",
-        "normalized_ticker": "9478.T",
-        "exchange": "TSE",
-        "market": ":jp:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "proposed",
-        "discovery_layer": "primary_chat",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -6365,6 +6421,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:d7a4d308",
+        "source_type": "chat_thread",
+        "location": "thread:d7a4d308-41a1-41c8-b444-c86454de5c75:clause:2",
+        "char_offset": 247,
+        "exact_text": "Going to close both positions today.",
+        "publication_date": "2025-11-20",
+        "effective_date": "2025-11-20",
+        "date_uncertainty": null,
+        "company_name": "QFIN",
+        "ticker": "QFIN",
+        "normalized_ticker": "QFIN",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:5ed74fe3",
         "source_type": "chat_thread",
         "location": "thread:5ed74fe3-3e41-44f3-a682-3976b82a3bbb:clause:0",
@@ -6501,6 +6585,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:6e7d60b0:reply:61e9cc9e",
+        "source_type": "chat_reply",
+        "location": "thread:6e7d60b0-2676-4720-b322-f581484a7db6:reply:61e9cc9e-20a2-467c-8749-7208eed61cdb:clause:3",
+        "char_offset": 0,
+        "exact_text": "bought a tranche of SK at 320 via HY9H when I posted it here, will add more tomorrow.",
+        "publication_date": "2025-12-10",
+        "effective_date": "2025-12-10",
+        "date_uncertainty": null,
+        "company_name": "Sk Hynix Global Depository Receipts",
+        "ticker": "HY9H",
+        "normalized_ticker": "HY9H.F",
+        "exchange": "FWB",
+        "market": ":de:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -7425,6 +7537,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Negated non-execution statement",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:9e05310a",
+        "source_type": "chat_thread",
+        "location": "thread:9e05310a-dc74-474a-9b0e-e3b1adc9e2cf:clause:3",
+        "char_offset": 137,
+        "exact_text": "I am going to close the tariff basket (aside from CBL, which is a standalone position).",
+        "publication_date": "2026-01-20",
+        "effective_date": "2026-01-20",
+        "date_uncertainty": null,
+        "company_name": "CBL Properties",
+        "ticker": "CBL",
+        "normalized_ticker": "CBL",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -8521,6 +8661,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:76456b0f:reply:2cdf831a",
+        "source_type": "chat_reply",
+        "location": "thread:76456b0f-a7e5-4780-bc74-acbc8137ad7c:reply:2cdf831a-3c07-4677-a6f6-46abd23d7895:clause:3",
+        "char_offset": 0,
+        "exact_text": "I like to use repurchases as a guide for levels to add at, if the stock trades down into the 32-33.50 range I will add to my position.",
+        "publication_date": "2026-02-13",
+        "effective_date": "2026-02-13",
+        "date_uncertainty": null,
+        "company_name": "Kioxia",
+        "ticker": "285A",
+        "normalized_ticker": "285A.T",
+        "exchange": "TSE",
+        "market": ":jp:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:d9dcf5d0:reply:19d69121",
         "source_type": "chat_reply",
         "location": "thread:d9dcf5d0-5db8-4d66-9c8f-fed499645d90:reply:19d69121-e324-4e45-8df6-449709e0312f:clause:0",
@@ -8573,6 +8741,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Negated non-execution statement",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:90a85c90:reply:4de228dc",
+        "source_type": "chat_reply",
+        "location": "thread:90a85c90-ef95-49d9-b853-9074e785d5a0:reply:4de228dc-c294-477c-adc6-49d296002e74:clause:0",
+        "char_offset": 0,
+        "exact_text": "I suspect the gap between the preferred and the common will close once Korea becomes accessible, right now most people can only access them via the ETFs, which don't include Samsung preferred.",
+        "publication_date": "2026-02-24",
+        "effective_date": "2026-02-24",
+        "date_uncertainty": null,
+        "company_name": "Samsung Preferred",
+        "ticker": "SMSD",
+        "normalized_ticker": "SMSD.IL",
+        "exchange": "LSE-IOB",
+        "market": ":uk:",
+        "instrument_type": "preferred",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -8758,34 +8954,6 @@
         "normalized_ticker": "BMBL",
         "exchange": "US",
         "market": ":us:",
-        "instrument_type": "short",
-        "action": "SHORT",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_chat",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": 0.25,
-        "confidence": "high",
-        "notes": "With the stock trading at 4x earnings, I think there is potential room for the move to extend further - nearly 25% of shares are shorted and people were betting on a total implosio",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "chat:4e10824f",
-        "source_type": "chat_thread",
-        "location": "thread:4e10824f-a2a6-4055-bf7f-531f7ed8f2a4:clause:8",
-        "char_offset": 883,
-        "exact_text": "With the stock trading at 4x earnings, I think there is potential room for the move to extend further - nearly 25% of shares are shorted and people were betting on a total implosion of the fundamentals, now that Bumble reported a solid quarter I think they will want to close out and move on to names that are more permeable to AI and in a more clear decline.",
-        "publication_date": "2026-03-12",
-        "effective_date": "2026-03-12",
-        "date_uncertainty": null,
-        "company_name": "Potential Entry Levels SE Holdings",
-        "ticker": "9478.T",
-        "normalized_ticker": "9478.T",
-        "exchange": "TSE",
-        "market": ":jp:",
         "instrument_type": "short",
         "action": "SHORT",
         "execution_status": "confirmed",
@@ -9333,34 +9501,6 @@
       },
       {
         "event_id": "",
-        "source_id": "chat:fba00233:reply:99e90681",
-        "source_type": "chat_reply",
-        "location": "thread:fba00233-a548-4fdc-af2e-bb16954f2a37:reply:99e90681-b8f3-4185-b851-4e2126047729:clause:0",
-        "char_offset": 0,
-        "exact_text": "No impact on SanDisk, Micron should be up if Hynix holds this move, but leading up to the list I'd guess Micron has a bit of selling as people make room for Hynix at a cheaper multiple.",
-        "publication_date": "2026-03-25",
-        "effective_date": "2026-03-25",
-        "date_uncertainty": null,
-        "company_name": "Hynix",
-        "ticker": "HY9H.F",
-        "normalized_ticker": "HY9H.F",
-        "exchange": "FWB",
-        "market": ":de:",
-        "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_chat",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "No impact on SanDisk, Micron should be up if Hynix holds this move, but leading up to the list I'd guess Micron has a bit of selling as people make room for Hynix at a cheaper mult",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
         "source_id": "chat:fba00233:reply:38674bda",
         "source_type": "chat_reply",
         "location": "thread:fba00233-a548-4fdc-af2e-bb16954f2a37:reply:38674bda-73e2-4fd1-b1fc-67aa31af94a8:clause:0",
@@ -9643,28 +9783,28 @@
         "event_id": "",
         "source_id": "chat:23db65e3",
         "source_type": "chat_thread",
-        "location": "thread:23db65e3-a677-4a92-b55b-f49acaff99d5:clause:10",
-        "char_offset": 902,
-        "exact_text": "I've held Samsung and Hynix at 5% each, and if you are thinking of initiating a position I think it makes sense to spread your order over the next couple of days and nibble slowly.",
+        "location": "thread:23db65e3-a677-4a92-b55b-f49acaff99d5:clause:13",
+        "char_offset": 1287,
+        "exact_text": "That is why I am comfortable holding, the bull case may, in fact, be even more bullish, and if things turn out to not be that way, the valuations are still pretty compelling and most of the names like Samsung and Hynix and Micron will earn half their market caps in cash, giving us some room to fall back on.",
         "publication_date": "2026-04-01",
         "effective_date": "2026-04-01",
         "date_uncertainty": null,
         "company_name": "Hynix",
-        "ticker": "HY9H.F",
+        "ticker": "HY9H",
         "normalized_ticker": "HY9H.F",
         "exchange": "FWB",
         "market": ":de:",
         "instrument_type": "equity",
-        "action": "BUY",
-        "execution_status": "confirmed",
+        "action": "HOLD",
+        "execution_status": "retrospective",
         "discovery_layer": "primary_chat",
         "portfolio_book": "primary",
         "stated_price": null,
         "stated_currency": null,
-        "position_sizing": 0.05,
+        "position_sizing": null,
         "trim_fraction": null,
-        "confidence": "high",
-        "notes": "I've held Samsung and Hynix at 5% each, and if you are thinking of initiating a position I think it makes sense to spread your order over the next couple of days and nibble slowly.",
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
         "unresolved_fields": []
       },
       {
@@ -10399,6 +10539,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:a31cebcd",
+        "source_type": "chat_thread",
+        "location": "thread:a31cebcd-f4e5-46ce-a23a-ea0b2716ebc7:clause:7",
+        "char_offset": 594,
+        "exact_text": "I will be adding a bit more SK Square tonight.",
+        "publication_date": "2026-04-29",
+        "effective_date": "2026-04-29",
+        "date_uncertainty": null,
+        "company_name": "SK Square",
+        "ticker": "402340",
+        "normalized_ticker": "402340.KS",
+        "exchange": "KRX",
+        "market": ":kr:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:06b458ab",
         "source_type": "chat_thread",
         "location": "thread:06b458ab-f8b8-4791-9c6a-42c117c4ddd8:clause:21",
@@ -10492,21 +10660,21 @@
         "effective_date": "2026-05-01",
         "date_uncertainty": null,
         "company_name": "SK Square",
-        "ticker": "402340.KS",
+        "ticker": "402340",
         "normalized_ticker": "402340.KS",
         "exchange": "KRX",
         "market": ":kr:",
         "instrument_type": "equity",
-        "action": "ADD",
-        "execution_status": "confirmed",
+        "action": "BUY",
+        "execution_status": "proposed",
         "discovery_layer": "primary_chat",
         "portfolio_book": "primary",
         "stated_price": null,
         "stated_currency": null,
         "position_sizing": null,
         "trim_fraction": null,
-        "confidence": "high",
-        "notes": "Will be buying more SK Square when the market opens in two days, I think getting it under 3x earnings (on a look through basis) is a decent deal",
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -10563,62 +10731,6 @@
         "trim_fraction": null,
         "confidence": "high",
         "notes": "I added a small, speculative starter position today in PENG (Penguin Solutions)",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "chat:31e59b62:reply:26b14206",
-        "source_type": "chat_reply",
-        "location": "thread:31e59b62-d182-4fc6-8d67-40346fc7efbe:reply:26b14206-465d-4ecd-b458-96a9409ab9c3:clause:0",
-        "char_offset": 0,
-        "exact_text": "Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly.",
-        "publication_date": "2026-05-06",
-        "effective_date": "2026-05-06",
-        "date_uncertainty": null,
-        "company_name": "Hynix",
-        "ticker": "HY9H.F",
-        "normalized_ticker": "HY9H.F",
-        "exchange": "FWB",
-        "market": ":de:",
-        "instrument_type": "equity",
-        "action": "TRIM",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_chat",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly.",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "chat:31e59b62:reply:26b14206",
-        "source_type": "chat_reply",
-        "location": "thread:31e59b62-d182-4fc6-8d67-40346fc7efbe:reply:26b14206-465d-4ecd-b458-96a9409ab9c3:clause:0",
-        "char_offset": 0,
-        "exact_text": "Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly.",
-        "publication_date": "2026-05-06",
-        "effective_date": "2026-05-06",
-        "date_uncertainty": null,
-        "company_name": "SK Square",
-        "ticker": "402340.KS",
-        "normalized_ticker": "402340.KS",
-        "exchange": "KRX",
-        "market": ":kr:",
-        "instrument_type": "equity",
-        "action": "TRIM",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_chat",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "high",
-        "notes": "Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly.",
         "unresolved_fields": []
       },
       {
@@ -10821,6 +10933,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:ec44083c:reply:d7ce12f5",
+        "source_type": "chat_reply",
+        "location": "thread:ec44083c-9b3a-41b0-b976-456ecee4236e:reply:d7ce12f5-4399-4bbd-95de-4c9b1491b668:clause:1",
+        "char_offset": 0,
+        "exact_text": "I am going to add to my position a slowly over the next couple of days, have some orders in the 23.50 to 24.50 range.",
+        "publication_date": "2026-05-08",
+        "effective_date": "2026-05-08",
+        "date_uncertainty": null,
+        "company_name": "Hynix",
+        "ticker": "HY9H",
+        "normalized_ticker": "HY9H.F",
+        "exchange": "FWB",
+        "market": ":de:",
+        "instrument_type": "short",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:ec44083c:reply:6091ca56",
         "source_type": "chat_reply",
         "location": "thread:ec44083c-9b3a-41b0-b976-456ecee4236e:reply:6091ca56-c0ec-4b51-93c5-b6a907045cb8:clause:0",
@@ -10845,6 +10985,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:ec44083c:reply:6091ca56",
+        "source_type": "chat_reply",
+        "location": "thread:ec44083c-9b3a-41b0-b976-456ecee4236e:reply:6091ca56-c0ec-4b51-93c5-b6a907045cb8:clause:1",
+        "char_offset": 0,
+        "exact_text": "I think a lot of people trade the headline number heavily, in my opinion HRTG at 5x earnings while peers trade 7 to 9x is a tremendous valuation gap that I think will close later in the year",
+        "publication_date": "2026-05-08",
+        "effective_date": "2026-05-08",
+        "date_uncertainty": null,
+        "company_name": "Long Heritage Insurance",
+        "ticker": "HRTG",
+        "normalized_ticker": "HRTG",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -11187,6 +11355,118 @@
         "trim_fraction": 0.6666666666666666,
         "confidence": "high",
         "notes": "reduced two thirds of $CBL position.",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:b9083b1d",
+        "source_type": "chat_thread",
+        "location": "thread:b9083b1d-1c71-4d5b-9abf-0515fa131f7b:clause:3",
+        "char_offset": 519,
+        "exact_text": "I continue to hold Samsung, Hynix, Micron (heavy calls sold), and Western Digital (Samsung Preferred and SK Square are my favorite ways to express a positive view on the memory trade), all four are up 50% - 70% in the last month and are  now greater than 15% of my portfolio, so I've been using a combination of heavy covered call selling, and DRAM puts, to cap overall exposure to 15%, I wouldn't feel comfortable having more than that level of concentration for now.",
+        "publication_date": "2026-05-18",
+        "effective_date": "2026-05-18",
+        "date_uncertainty": null,
+        "company_name": "Samsung Preferred",
+        "ticker": "SMSD",
+        "normalized_ticker": "SMSD.IL",
+        "exchange": "LSE-IOB",
+        "market": ":uk:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:b9083b1d",
+        "source_type": "chat_thread",
+        "location": "thread:b9083b1d-1c71-4d5b-9abf-0515fa131f7b:clause:3",
+        "char_offset": 519,
+        "exact_text": "I continue to hold Samsung, Hynix, Micron (heavy calls sold), and Western Digital (Samsung Preferred and SK Square are my favorite ways to express a positive view on the memory trade), all four are up 50% - 70% in the last month and are  now greater than 15% of my portfolio, so I've been using a combination of heavy covered call selling, and DRAM puts, to cap overall exposure to 15%, I wouldn't feel comfortable having more than that level of concentration for now.",
+        "publication_date": "2026-05-18",
+        "effective_date": "2026-05-18",
+        "date_uncertainty": null,
+        "company_name": "Western Digital",
+        "ticker": "WDC",
+        "normalized_ticker": "WDC",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:b9083b1d",
+        "source_type": "chat_thread",
+        "location": "thread:b9083b1d-1c71-4d5b-9abf-0515fa131f7b:clause:3",
+        "char_offset": 519,
+        "exact_text": "I continue to hold Samsung, Hynix, Micron (heavy calls sold), and Western Digital (Samsung Preferred and SK Square are my favorite ways to express a positive view on the memory trade), all four are up 50% - 70% in the last month and are  now greater than 15% of my portfolio, so I've been using a combination of heavy covered call selling, and DRAM puts, to cap overall exposure to 15%, I wouldn't feel comfortable having more than that level of concentration for now.",
+        "publication_date": "2026-05-18",
+        "effective_date": "2026-05-18",
+        "date_uncertainty": null,
+        "company_name": "SK Square",
+        "ticker": "402340",
+        "normalized_ticker": "402340.KS",
+        "exchange": "KRX",
+        "market": ":kr:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:b9083b1d",
+        "source_type": "chat_thread",
+        "location": "thread:b9083b1d-1c71-4d5b-9abf-0515fa131f7b:clause:3",
+        "char_offset": 519,
+        "exact_text": "I continue to hold Samsung, Hynix, Micron (heavy calls sold), and Western Digital (Samsung Preferred and SK Square are my favorite ways to express a positive view on the memory trade), all four are up 50% - 70% in the last month and are  now greater than 15% of my portfolio, so I've been using a combination of heavy covered call selling, and DRAM puts, to cap overall exposure to 15%, I wouldn't feel comfortable having more than that level of concentration for now.",
+        "publication_date": "2026-05-18",
+        "effective_date": "2026-05-18",
+        "date_uncertainty": null,
+        "company_name": "Hynix",
+        "ticker": "HY9H",
+        "normalized_ticker": "HY9H.F",
+        "exchange": "FWB",
+        "market": ":de:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
         "unresolved_fields": []
       },
       {
@@ -12188,6 +12468,34 @@
         "normalized_ticker": "9478.T",
         "exchange": "TSE",
         "market": ":jp:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:92197696",
+        "source_type": "chat_thread",
+        "location": "thread:92197696-b108-4081-b934-61f1f3efc200:clause:6",
+        "char_offset": 1017,
+        "exact_text": "Still, I think the Hynix ADR (potentially as early at July 14) and new shareholder return programs (Micron in December, Hynix and Samsung perhaps sooner) will add a stabilizing effect.",
+        "publication_date": "2026-07-01",
+        "effective_date": "2026-07-01",
+        "date_uncertainty": null,
+        "company_name": "Hynix",
+        "ticker": "HY9H",
+        "normalized_ticker": "HY9H.F",
+        "exchange": "FWB",
+        "market": ":de:",
         "instrument_type": "short",
         "action": "BUY",
         "execution_status": "proposed",
@@ -12301,16 +12609,16 @@
         "exchange": "NASDAQ",
         "market": ":us:",
         "instrument_type": "equity",
-        "action": "ADD",
-        "execution_status": "confirmed",
+        "action": "BUY",
+        "execution_status": "proposed",
         "discovery_layer": "primary_chat",
         "portfolio_book": "primary",
         "stated_price": null,
         "stated_currency": null,
-        "position_sizing": 0.175,
+        "position_sizing": null,
         "trim_fraction": null,
-        "confidence": "high",
-        "notes": "Only position I am adding to today is VISN at the close, and will be buying back some of my DRAM short at the close to keep the Memory and Storage basket at a constant 17.5% weight",
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -12423,6 +12731,62 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Negated non-execution statement",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:5fa0d7a6:reply:4b8888c9",
+        "source_type": "chat_reply",
+        "location": "thread:5fa0d7a6-d3ad-4563-ad4d-56398dde801e:reply:4b8888c9-f98e-4d15-9f4e-68fb993494a8:clause:0",
+        "char_offset": 0,
+        "exact_text": "SK Hynix will be buying back shares after the ADR, so when the share count is reduced SK Square's position will increase as a percentage, giving them room to sell",
+        "publication_date": "2026-07-07",
+        "effective_date": "2026-07-07",
+        "date_uncertainty": null,
+        "company_name": "SK Square",
+        "ticker": "402340",
+        "normalized_ticker": "402340.KS",
+        "exchange": "KRX",
+        "market": ":kr:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:5fa0d7a6:reply:4b8888c9",
+        "source_type": "chat_reply",
+        "location": "thread:5fa0d7a6-d3ad-4563-ad4d-56398dde801e:reply:4b8888c9-f98e-4d15-9f4e-68fb993494a8:clause:0",
+        "char_offset": 0,
+        "exact_text": "SK Hynix will be buying back shares after the ADR, so when the share count is reduced SK Square's position will increase as a percentage, giving them room to sell",
+        "publication_date": "2026-07-07",
+        "effective_date": "2026-07-07",
+        "date_uncertainty": null,
+        "company_name": "Hynix",
+        "ticker": "HY9H",
+        "normalized_ticker": "HY9H.F",
+        "exchange": "FWB",
+        "market": ":de:",
+        "instrument_type": "short",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -13659,6 +14023,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:0b1c3270",
+        "source_type": "chat_thread",
+        "location": "thread:0b1c3270-c3a7-4e18-9df5-480b8622bac7:clause:8",
+        "char_offset": 1149,
+        "exact_text": "The long-tail segment bounced back from $30.8 Million in Net Premiums Earned in 2025 Q2 to $41.2 Million in 2026 Q2 (the first recovery in a very long time) as conditions become more favorable, and IGI's new Indian subsidiary contributed to a 50% increase in Reinsurance Gross Written Premium, which will add to earnings later this year - Frankly, I'm surprised by how quickly the India segment is growing - when they announced an Indian office earlier in Q2 I thought it was mostly symbolic, but seems that India business is picking up dramatically.",
+        "publication_date": "2026-08-04",
+        "effective_date": "2026-08-04",
+        "date_uncertainty": null,
+        "company_name": "Conditions Slowing",
+        "ticker": "UVE",
+        "normalized_ticker": "UVE",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "short",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:7e3f2223",
         "source_type": "chat_thread",
         "location": "thread:7e3f2223-b9d6-4eb7-b675-a03cd337f3dc:clause:0",
@@ -13683,34 +14075,6 @@
         "trim_fraction": 1.0,
         "confidence": "high",
         "notes": "Trade Update on VISN: Got stopped out on Vistance (VISN) at 10.62.",
-        "unresolved_fields": []
-      },
-      {
-        "event_id": "",
-        "source_id": "chat:e0e848c2",
-        "source_type": "chat_thread",
-        "location": "thread:e0e848c2-a35f-4d9f-af44-f9dce0b11d0a:clause:14",
-        "char_offset": 2306,
-        "exact_text": "Given the prospect of an early call, I don't want to pay much more than $26.25 on C-N, but I think the $26 - $26.25 range represents an attractive risk-to-reward with an < 6 months breakeven, fixed income is never really a home run, but I think this trade is worth considering if you are looking for some yield and ok with a potential 3% loss if they call the notes early.",
-        "publication_date": "2026-08-12",
-        "effective_date": "2026-08-12",
-        "date_uncertainty": null,
-        "company_name": "Potential Entry Levels SE Holdings",
-        "ticker": "9478",
-        "normalized_ticker": "9478.T",
-        "exchange": "TSE",
-        "market": ":jp:",
-        "instrument_type": "short",
-        "action": "BUY",
-        "execution_status": "proposed",
-        "discovery_layer": "primary_chat",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": null,
-        "trim_fraction": null,
-        "confidence": "medium",
-        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {
@@ -14128,8 +14492,8 @@
         "normalized_ticker": "9478.T",
         "exchange": "TSE",
         "market": ":jp:",
-        "instrument_type": "short",
-        "action": "SHORT",
+        "instrument_type": "equity",
+        "action": "ADD",
         "execution_status": "confirmed",
         "discovery_layer": "primary_chat",
         "portfolio_book": "primary",
@@ -14335,6 +14699,34 @@
         "trim_fraction": null,
         "confidence": "medium",
         "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:867739bb",
+        "source_type": "chat_thread",
+        "location": "thread:867739bb-c197-46ce-96fc-b3dfaeb9bae3:clause:40",
+        "char_offset": 6921,
+        "exact_text": "I will touch up on it during the next Portfolio review, but not much has changed since the June update and I continue to hold the Memory and Storage names at 15%, and the AI Infrastructure + Google at 10%.",
+        "publication_date": "2026-09-13",
+        "effective_date": "2026-09-13",
+        "date_uncertainty": null,
+        "company_name": "Google",
+        "ticker": "GOOGL",
+        "normalized_ticker": "GOOGL",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "HOLD",
+        "execution_status": "retrospective",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Retrospective reference or passive holding commentary",
         "unresolved_fields": []
       },
       {
@@ -14787,6 +15179,62 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:c6604d3f",
+        "source_type": "chat_thread",
+        "location": "thread:c6604d3f-608a-4abd-9d21-3dabc185beee:clause:2",
+        "char_offset": 216,
+        "exact_text": "35% of volume is now covered by SCA's (+15% from last quarter), capex for 2027 will be higher (exact figure not provided), and the company \"has no line of sight to when the supply and demand imbalance will close\".",
+        "publication_date": "2026-09-30",
+        "effective_date": "2026-09-30",
+        "date_uncertainty": null,
+        "company_name": "Strategic Customer Agreements",
+        "ticker": "SCA",
+        "normalized_ticker": "SCA",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:c6604d3f",
+        "source_type": "chat_thread",
+        "location": "thread:c6604d3f-608a-4abd-9d21-3dabc185beee:clause:2",
+        "char_offset": 216,
+        "exact_text": "35% of volume is now covered by SCA's (+15% from last quarter), capex for 2027 will be higher (exact figure not provided), and the company \"has no line of sight to when the supply and demand imbalance will close\".",
+        "publication_date": "2026-09-30",
+        "effective_date": "2026-09-30",
+        "date_uncertainty": null,
+        "company_name": "Higher Component Costs",
+        "ticker": "HPQ",
+        "normalized_ticker": "HPQ",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:6d31d1fa",
         "source_type": "chat_thread",
         "location": "thread:6d31d1fa-7e78-4343-b705-2942285588f7:clause:7",
@@ -14955,6 +15403,34 @@
       },
       {
         "event_id": "",
+        "source_id": "chat:33bbb1c9",
+        "source_type": "chat_thread",
+        "location": "thread:33bbb1c9-d94b-49af-81d5-26201d4bc493:clause:5",
+        "char_offset": 587,
+        "exact_text": "I think Itafos is a well-run company that found itself in the wrong spot at the wrong time, and once there is progress in the Middle East I will buy back in quickly, but for now, 30% is max pain where I need to draw the line",
+        "publication_date": "2026-10-14",
+        "effective_date": "2026-10-14",
+        "date_uncertainty": null,
+        "company_name": "Itafos",
+        "ticker": "IFOS",
+        "normalized_ticker": "IFOS.V",
+        "exchange": "TSXV",
+        "market": ":ca:",
+        "instrument_type": "equity",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
         "source_id": "chat:567e864a",
         "source_type": "chat_thread",
         "location": "thread:567e864a-7a50-473b-9df9-fa908f75b9b9:clause:5",
@@ -15080,8 +15556,8 @@
         "normalized_ticker": "9478.T",
         "exchange": "TSE",
         "market": ":jp:",
-        "instrument_type": "short",
-        "action": "SHORT",
+        "instrument_type": "equity",
+        "action": "BUY",
         "execution_status": "confirmed",
         "discovery_layer": "primary_chat",
         "portfolio_book": "primary",
@@ -15567,6 +16043,34 @@
         "trim_fraction": null,
         "confidence": "high",
         "notes": "Dip Buying OPY",
+        "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "chat:0e3ab1d4",
+        "source_type": "chat_thread",
+        "location": "thread:0e3ab1d4-cd17-47e7-8de3-516b1474f1e3:clause:19",
+        "char_offset": 2469,
+        "exact_text": "I'm firm on letting each of these positions go at options expiry with the exception of Google (will close out the December puts prior to expiry).",
+        "publication_date": "2026-11-04",
+        "effective_date": "2026-11-04",
+        "date_uncertainty": null,
+        "company_name": "Google",
+        "ticker": "GOOGL",
+        "normalized_ticker": "GOOGL",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "short",
+        "action": "BUY",
+        "execution_status": "proposed",
+        "discovery_layer": "primary_chat",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": null,
+        "trim_fraction": null,
+        "confidence": "medium",
+        "notes": "Watchlist / conditional / unexecuted idea",
         "unresolved_fields": []
       },
       {

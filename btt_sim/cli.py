@@ -17,6 +17,10 @@ from .downloader import (
     run_sbstck_dl,
 )
 from .extractor import EXTRACTOR_VERSION
+from .independent_audit import (
+    render_independent_audit_table,
+    run_independent_accuracy_audit,
+)
 from .ingestion import validate_source_archive
 from .parser import parse_source_data
 from .prices import PriceProvider
@@ -240,6 +244,12 @@ def cmd_audit(args: argparse.Namespace) -> None:
         console.print(f"[dim]Saved coverage & reconciliation report to {out_rep}[/dim]\n")
 
     prices.save_ticker_map()
+
+    # When auditing all sources (or explicitly requested), execute genuine independent accuracy audit
+    if args.source == "all" or getattr(args, "independent", False):
+        console.print("\n[bold]Running Stratified Independent Real-Source Accuracy Audit...[/bold]")
+        ind_rep = run_independent_accuracy_audit(save_json=True)
+        render_independent_audit_table(ind_rep, console)
 
 
 def cmd_download(args: argparse.Namespace) -> None:

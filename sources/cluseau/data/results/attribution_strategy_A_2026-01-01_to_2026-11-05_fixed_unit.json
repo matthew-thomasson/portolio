@@ -7,25 +7,25 @@
       "region": "Continental Europe",
       "positions_count": 3,
       "open_positions_count": 3,
-      "capital_deployed_usd": 7500.0,
-      "realized_pnl_usd": 1934.8,
-      "unrealized_pnl_usd": 2603.87,
-      "total_pnl_usd": 4538.67,
+      "capital_deployed_usd": 6500.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 3403.17,
+      "total_pnl_usd": 3403.17,
       "tickers": [
         "ABCA.PA",
         "CTT.LS",
         "HY9H.F"
       ],
-      "return_on_deployed_pct": 60.52
+      "return_on_deployed_pct": 52.36
     },
     {
       "region": "United States",
       "positions_count": 32,
       "open_positions_count": 21,
       "capital_deployed_usd": 42000.0,
-      "realized_pnl_usd": 3172.13,
+      "realized_pnl_usd": 3138.64,
       "unrealized_pnl_usd": -487.13,
-      "total_pnl_usd": 2685.0,
+      "total_pnl_usd": 2651.51,
       "tickers": [
         "ACFN",
         "AGM",
@@ -60,16 +60,16 @@
         "WLFC",
         "WSBF"
       ],
-      "return_on_deployed_pct": 6.39
+      "return_on_deployed_pct": 6.31
     },
     {
       "region": "Japan",
       "positions_count": 8,
       "open_positions_count": 4,
-      "capital_deployed_usd": 9000.0,
+      "capital_deployed_usd": 9500.0,
       "realized_pnl_usd": 2024.59,
-      "unrealized_pnl_usd": 423.63,
-      "total_pnl_usd": 2448.22,
+      "unrealized_pnl_usd": 428.17,
+      "total_pnl_usd": 2452.76,
       "tickers": [
         "285A.T",
         "6626.T",
@@ -80,7 +80,7 @@
         "9220.T",
         "9478.T"
       ],
-      "return_on_deployed_pct": 27.2
+      "return_on_deployed_pct": 25.82
     },
     {
       "region": "United Kingdom / LSE",
@@ -102,10 +102,10 @@
       "region": "South Korea",
       "positions_count": 5,
       "open_positions_count": 4,
-      "capital_deployed_usd": 8500.0,
-      "realized_pnl_usd": 718.88,
+      "capital_deployed_usd": 8000.0,
+      "realized_pnl_usd": 715.42,
       "unrealized_pnl_usd": -32.66,
-      "total_pnl_usd": 686.22,
+      "total_pnl_usd": 682.76,
       "tickers": [
         "013030.KQ",
         "139130.KS",
@@ -113,7 +113,7 @@
         "402340.KS",
         "453340.KS"
       ],
-      "return_on_deployed_pct": 8.07
+      "return_on_deployed_pct": 8.53
     },
     {
       "region": "Hong Kong",
@@ -159,8 +159,8 @@
     {
       "instrument_type": "long_equity",
       "positions_count": 53,
-      "capital_deployed_usd": 74500.0,
-      "total_pnl_usd": 10494.59,
+      "capital_deployed_usd": 73500.0,
+      "total_pnl_usd": 9326.68,
       "tickers": [
         "013030.KQ",
         "139130.KS",
@@ -237,7 +237,7 @@
     }
   ],
   "excluded_non_equity": {
-    "total_excluded_events": 67,
+    "total_excluded_events": 64,
     "by_type": {
       "option_call": {
         "events_count": 4,
@@ -267,9 +267,8 @@
         ]
       },
       "short": {
-        "events_count": 48,
+        "events_count": 45,
         "tickers": [
-          "9478.T",
           "ACIC",
           "AII",
           "AJG",
@@ -292,9 +291,9 @@
     }
   },
   "discovery_layer_counts": {
-    "primary_chat": 116,
-    "primary_article": 17,
-    "checkpoint_review": 13
+    "primary_chat": 112,
+    "primary_article": 16,
+    "checkpoint_review": 14
   },
   "date_uncertainty_disclosures": [
     {

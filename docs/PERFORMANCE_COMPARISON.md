@@ -14,12 +14,12 @@ All backtests use identical, dollar-matched cash-flow conditions:
 
 | Publication | Strategy | Capital Invested ($) | Net Profit ($) | ROI (%) | Annualized XIRR (%) | Matched SPY XIRR (%) | Alpha vs SPY (%) |
 |---|---|---|---|---|---|---|---|
-| **Beating The Tide** | **Strategy A** | $29,514.79 | +$6,132.44 | **+20.78%** | **+31.12%** | +10.20% | **+20.92%** |
-| | **Strategy B** | $14,080.29 | +$1,905.64 | **+13.53%** | **+34.04%** | +7.40% | **+26.64%** |
-| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.42 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** |
-| | **Strategy B** | $12,000.00 | +$2,519.42 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** |
-| **Cluseau** | **Strategy A** | $57,639.92 | +$11,445.71 | **+19.86%** | **+28.60%** | +11.09% | **+17.51%** |
-| | **Strategy B** | $34,609.25 | +$7,044.44 | **+20.35%** | **+34.73%** | +10.62% | **+24.11%** |
+| **Beating The Tide** | **Strategy A** | $30,188.49 | +$5,940.86 | **+19.68%** | **+29.24%** | +10.27% | **+18.97%** |
+| | **Strategy B** | $13,753.99 | +$1,747.11 | **+12.70%** | **+32.99%** | +6.70% | **+26.29%** |
+| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** |
+| | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** |
+| **Cluseau** | **Strategy A** | $61,256.89 | +$10,277.80 | **+16.78%** | **+24.75%** | +10.35% | **+14.39%** |
+| | **Strategy B** | $37,405.79 | +$5,993.76 | **+16.02%** | **+27.90%** | +9.46% | **+18.44%** |
 
 ---
 
@@ -28,7 +28,20 @@ All backtests use identical, dollar-matched cash-flow conditions:
 ### Strategy A vs. Strategy B Sensitivity
 - **Beating The Tide**: Benefited strongly from pre-existing 2025 positions (`MU` +121.0%, `VEON` +44.5%) and `DELL` (+283.6%). Strategy A generated +20.78% ROI (+31.12% XIRR), while Strategy B achieved +13.53% ROI (+34.04% XIRR).
 - **TJ Stocks**: Zero difference between Strategy A and Strategy B. The model **StockTok ETF** was constructed from scratch on January 14, 2026, meaning an investor starting on Jan 1 faced no legacy bagholding risk or missing past run-ups. The ETF 2.0 rebalance on July 28 properly sold `SPB`, `MSCI`, and `FDX` while adding `CAKE`, `CNXN`, and `FELE`.
-- **Cluseau**: In the original un-audited ledger, Cluseau showed an apparent +38.00% Strategy A ROI. Following the comprehensive completeness audit (which resolved 20 paywall stubs, added all international positions, Korean baskets, European GDRs, and Japanese deep value), Strategy A returned **+21.22% ROI (+30.35% XIRR)** and Strategy B returned **+18.49% ROI (+31.53% XIRR)**. Cluseau generated substantial alpha over the S&P 500 (+19.23% Strategy A Alpha / +20.90% Strategy B Alpha), driven by extraordinary realized exits (`285A.T` +184.6%, `EVC` +150.7%, `HY9H.F` +86.0%, `SMSD.IL` +32.9%, `SK Square` +18.5%).
+- **Cluseau**:
+  - In the un-audited baseline, Cluseau showed an apparent +38.00% Strategy A ROI because ~50% of trades were missing behind paywall stubs, omitting the entire Korean equity basket and ignoring foreign currency conversions.
+  - After ingesting full articles and enabling FX conversion (commit `16a465f`), Strategy A stood at **+21.22% ROI (+30.35% XIRR)** with $60,139.92 invested and +$12,762.47 profit.
+  - In targeted hardening (commit `0f07cf8`), isolating multi-security pricing (CUBI at 73 vs OPBK at 14) and eliminating the false NECB buy brought Strategy A to **+19.86% ROI (+28.60% XIRR)** with $57,639.92 invested and +$11,445.71 profit.
+  - In the final accuracy pass (v3.6.0), removing unsupported transactions (SK Square May 1 future intention, SK Square May 6 advisory trim, Hynix March 25 market commentary, Hynix April 1 static holding statement) and attributing the June 3 allocation to BARAX instead of SE Holdings brought Strategy A to **+16.78% ROI (+24.75% XIRR)** with $61,256.89 invested, +$10,277.80 net profit, and **+14.39% Alpha** over the dollar-matched SPY benchmark (+10.35% SPY XIRR). Strategy B returned **+16.02% ROI (+27.90% XIRR)** with **+18.44% Alpha**.
+
+### Attribution of Cluseau Strategy A Evolution (+21.22% -> +19.86% -> +16.78%)
+
+| Milestone / Commit | Strategy A ROI | Strategy A XIRR | Capital Deployed | Net Profit | Primary Drivers |
+|---|---|---|---|---|---|
+| **Baseline (Pre-Repair)** | ~+38.00% | N/A | ~$25,000 | ~$9,500 | 20 of 38 articles were 200-word paywall previews; entire Korean basket and foreign exchange omitted. |
+| **Full Ingestion (`16a465f`)** | **+21.22%** | +30.35% | $60,139.92 | $12,762.47 | Full post texts & chats ingested; multi-currency FX added; Korean basket & Frankfurt GDRs incorporated. Multi-security pricing collisions present. |
+| **Multi-Security Hardening (`0f07cf8`)** | **+19.86%** | +28.60% | $57,639.92 | $11,445.71 | Disentangled CUBI ($73) and OPBK ($14); removed false NECB buy on chat 'monitoring'; removed duplicate Kioxia buy. (-1.36% ROI delta) |
+| **Final Accuracy Pass (v3.6.0)** | **+16.78%** | +24.75% | $61,256.89 | $10,277.80 | Eliminated synthetic dip-buys (SK Square May 1, Hynix Mar 25/Apr 1), removed false advisory trim (SK Square May 6 which artificially locked in gains before a retrace), and re-attributed 9478.T false trigger to BARAX. (-3.08% ROI delta) |
 
 ---
 

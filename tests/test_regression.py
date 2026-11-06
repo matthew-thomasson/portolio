@@ -204,3 +204,50 @@ def test_targeted_accuracy_hardening_transaction_attribution():
     assert ("2026-11-04", "SELL") in actions, f"Missing 2026-11-04 re-entry SELL: {actions}"
     assert any(d >= "2026-10-02" and a in ("BUY", "ADD") for d, a in actions), f"Missing October re-entry: {actions}"
 
+
+def test_unsupported_transactions_excluded_and_barax_attributed():
+    """Verify that unsupported transactions identified in the final accuracy pass are excluded:
+    1. 2026-05-01 SK Square ADD: 'Will be buying more' describes future intention, not execution.
+    2. 2026-05-06 SK Square TRIM: 'Nothing wrong with paring back' is advisory commentary, not execution.
+    3. 2026-03-25 Hynix ADD: 'as people make room for Hynix' is market commentary.
+    4. 2026-04-01 Hynix ADD: 'I've held Samsung and Hynix at 5% each' is holding disclosure, not addition.
+    5. 2026-06-03 SE Holdings (9478.T) ADD: passage is BARAX mutual fund allocation, correctly attributed to BARAX.
+    """
+    settings = load_settings()
+    src = settings.get_source("cluseau")
+    events_df = pd.read_csv(src.data_dir / "trade_events.csv")
+
+    # 1. No SK Square ADD on 2026-05-01
+    sk_may1 = events_df[(events_df["ticker"] == "402340.KS") & (events_df["date"] == "2026-05-01")]
+    assert len(sk_may1) == 0, f"Found unsupported SK Square trade on 2026-05-01: {sk_may1}"
+
+    # 2. No SK Square TRIM on 2026-05-06
+    sk_may6 = events_df[(events_df["ticker"] == "402340.KS") & (events_df["date"] == "2026-05-06")]
+    assert len(sk_may6) == 0, f"Found unsupported SK Square TRIM on 2026-05-06: {sk_may6}"
+
+    # 3. No Hynix (000660.KS or HY9H.F) ADD on 2026-03-25
+    hynix_mar25 = events_df[
+        (events_df["ticker"].isin(["000660.KS", "HY9H.F"]))
+        & (events_df["date"] == "2026-03-25")
+        & (events_df["action"].isin(["BUY", "ADD"]))
+    ]
+    assert len(hynix_mar25) == 0, f"Found unsupported Hynix trade on 2026-03-25: {hynix_mar25}"
+
+    # 4. No Hynix ADD on 2026-04-01
+    hynix_apr1 = events_df[
+        (events_df["ticker"].isin(["000660.KS", "HY9H.F"]))
+        & (events_df["date"] == "2026-04-01")
+        & (events_df["action"].isin(["BUY", "ADD"]))
+    ]
+    assert len(hynix_apr1) == 0, f"Found unsupported Hynix trade on 2026-04-01: {hynix_apr1}"
+
+    # 5. On 2026-06-03, NO SE Holdings (9478.T) trade, and BARAX has a BUY trade
+    se_jun3 = events_df[(events_df["ticker"] == "9478.T") & (events_df["date"] == "2026-06-03")]
+    assert len(se_jun3) == 0, f"Found spurious 9478.T trade on 2026-06-03: {se_jun3}"
+
+    barax_jun3 = events_df[(events_df["ticker"] == "BARAX") & (events_df["date"] == "2026-06-03")]
+    assert len(barax_jun3) == 1, f"Expected BARAX BUY on 2026-06-03, got: {barax_jun3}"
+    assert barax_jun3.iloc[0]["action"] == "BUY"
+    assert "allocated 1%" in barax_jun3.iloc[0]["notes"]
+
+
