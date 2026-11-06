@@ -2,185 +2,259 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+from typing import Any
+
 import pytest
 
 from btt_sim.config import load_settings
-from btt_sim.extractor import ExtractionEngine, ExtractedCandidate
+from btt_sim.extractor import ExtractedCandidate, ExtractionEngine, unpack_substack_widgets
 
 
-def test_corpus_precision_recall_and_f1():
-    """Evaluate extraction classification quality on independently labelled ground truth corpus."""
-    settings = load_settings()
-    engine = ExtractionEngine(settings)
+def _run_production_item(engine: ExtractionEngine, item: dict[str, Any]) -> tuple[list[ExtractedCandidate], list[ExtractedCandidate]]:
+    """
+    Execute the EXACT production ExtractionEngine entrypoint (`extract_from_article` or `extract_from_chat`)
+    used by `parse_source_data()`, then apply the exact production long-security filter.
+    """
+    # Use a fresh resolver per isolated test document so cross-item state cannot leak cheats
+    fresh_engine = ExtractionEngine(engine.settings, prices=engine.prices)
+    itype = item["input_type"]
+    payload = item["payload"]
 
-    corpus_path = Path(__file__).parent / "corpus" / "labelled_ground_truth.json"
-    assert corpus_path.exists(), f"Ground truth corpus not found at {corpus_path}"
+    if itype == "article":
+        raw_cands = fresh_engine.extract_from_article(payload)
+    elif itype == "chat":
+        author_ids = set(payload.get("author_ids") or [])
+        raw_cands = fresh_engine.extract_from_chat(
+            chat_threads=payload.get("threads") or [],
+            chat_replies=payload.get("replies_map") or {},
+            author_ids=author_ids,
+        )
+    else:
+        raise ValueError(f"Unsupported input_type: {itype}")
 
-    corpus = json.loads(corpus_path.read_text(encoding="utf-8"))
-    assert len(corpus) >= 40, f"Expected at least 40 labelled excerpts, got {len(corpus)}"
+    # Apply exact production filtering for simulated long cash securities:
+    # confirmed + long instrument (equity/preferred/etf/mutual_fund) + BUY/ADD/TRIM/SELL + primary discovery layer + deduplicated per (date, ticker, action)
+    confirmed_long: list[ExtractedCandidate] = []
+    seen_keys: set[tuple[str, str, str]] = set()
+    for c in raw_cands:
+        if (
+            c.execution_status == "confirmed"
+            and c.instrument_type in ("equity", "preferred", "etf", "mutual_fund")
+            and c.action in ("BUY", "ADD", "TRIM", "SELL")
+            and not (c.action == "HOLD" and c.discovery_layer == "checkpoint_review")
+            and c.normalized_ticker not in fresh_engine.known_shorts
+        ):
+            dedup_key = (c.effective_date, c.normalized_ticker, c.action)
+            if dedup_key not in seen_keys:
+                seen_keys.add(dedup_key)
+                confirmed_long.append(c)
 
-    tp = fp = tn = fn = 0
-    failures: list[tuple[str, str]] = []
+    return confirmed_long, raw_cands
 
-    for item in corpus:
-        expected_is_trade = item["is_trade"]
-        cand = engine.classify_statement(item["text"], item["source_publication"])
-        predicted_is_trade = cand is not None
 
-        if expected_is_trade and predicted_is_trade:
-            tp += 1
-            if item.get("expected_action") and cand.action != item["expected_action"]:
-                failures.append((item["id"], f"Action mismatch: expected {item['expected_action']}, got {cand.action}"))
-            if item.get("expected_ticker") and cand.ticker != item["expected_ticker"]:
-                failures.append((item["id"], f"Ticker mismatch: expected {item['expected_ticker']}, got {cand.ticker}"))
-            if item.get("expected_market") and cand.market != item["expected_market"]:
-                failures.append((item["id"], f"Market mismatch: expected {item['expected_market']}, got {cand.market}"))
-        elif not expected_is_trade and not predicted_is_trade:
-            tn += 1
-        elif not expected_is_trade and predicted_is_trade:
+def _evaluate_split(items: list[dict[str, Any]], engine: ExtractionEngine) -> tuple[dict[str, Any], list[str]]:
+    tp = fp = fn = tn_docs = 0
+    action_correct = action_total = 0
+    ticker_correct = ticker_total = 0
+    date_correct = date_total = 0
+    sizing_correct = sizing_total = 0
+    exec_vs_idea_correct = exec_vs_idea_total = 0
+    failures: list[str] = []
+
+    for item in items:
+        iid = item["id"]
+        expected = item.get("expected_confirmed_long_trades") or []
+        pred_long, all_cands = _run_production_item(engine, item)
+
+        exec_vs_idea_total += 1
+        if bool(expected) == bool(pred_long):
+            exec_vs_idea_correct += 1
+
+        if not expected and not pred_long:
+            tn_docs += 1
+            # Also verify non-equity / non-confirmed metadata when specified
+            if item.get("expected_non_equity_actions"):
+                got_neq = {c.action for c in all_cands if c.instrument_type not in ("equity", "preferred", "etf", "mutual_fund")}
+                if not set(item["expected_non_equity_actions"]).issubset(got_neq):
+                    failures.append(f"[{iid}] Expected non-equity actions {item['expected_non_equity_actions']}, got {got_neq} (all={all_cands})")
+            continue
+
+        # Match predicted trades against expected trades by normalized_ticker + effective_date (or normalized_ticker fallback)
+        unmatched_pred = list(pred_long)
+        for exp in expected:
+            exp_sym = exp["normalized_ticker"]
+            exp_act = exp["action"]
+            exp_mkt = exp["market"]
+            exp_dt = exp["effective_date"]
+
+            match_idx = None
+            for idx, p in enumerate(unmatched_pred):
+                if p.normalized_ticker == exp_sym and p.action == exp_act:
+                    match_idx = idx
+                    break
+            if match_idx is None:
+                for idx, p in enumerate(unmatched_pred):
+                    if p.normalized_ticker == exp_sym or p.ticker == exp_sym.split(".")[0]:
+                        match_idx = idx
+                        break
+
+            if match_idx is None:
+                fn += 1
+                failures.append(f"[{iid}] FN missing expected {exp_act} {exp_sym} ({exp_dt}); predicted={[f'{x.action}:{x.normalized_ticker}@{x.effective_date}' for x in pred_long]}")
+            else:
+                p = unmatched_pred.pop(match_idx)
+                tp += 1
+
+                action_total += 1
+                if p.action == exp_act:
+                    action_correct += 1
+                else:
+                    failures.append(f"[{iid}] Action mismatch for {exp_sym}: expected {exp_act}, got {p.action}")
+
+                ticker_total += 1
+                if p.normalized_ticker == exp_sym and p.market == exp_mkt:
+                    ticker_correct += 1
+                else:
+                    failures.append(f"[{iid}] Ticker/market mismatch: expected {exp_sym} ({exp_mkt}), got {p.normalized_ticker} ({p.market})")
+
+                date_total += 1
+                if p.effective_date == exp_dt:
+                    date_correct += 1
+                else:
+                    failures.append(f"[{iid}] Effective date mismatch for {exp_sym}: expected {exp_dt}, got {p.effective_date}")
+
+                if "trim_fraction" in exp and exp["trim_fraction"] is not None:
+                    sizing_total += 1
+                    if p.trim_fraction is not None and abs(p.trim_fraction - float(exp["trim_fraction"])) <= 0.02:
+                        sizing_correct += 1
+                    else:
+                        failures.append(f"[{iid}] Trim sizing mismatch for {exp_sym}: expected {exp['trim_fraction']}, got {p.trim_fraction}")
+
+        for extra in unmatched_pred:
             fp += 1
-            failures.append((item["id"], f"False Positive: expected non-trade, got {cand.action} {cand.ticker}"))
-        elif expected_is_trade and not predicted_is_trade:
-            fn += 1
-            failures.append((item["id"], "False Negative: expected trade, got None"))
+            failures.append(f"[{iid}] FP unexpected confirmed long trade: {extra.action} {extra.normalized_ticker} ({extra.effective_date}) from '{extra.exact_text}'")
 
-    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
-    recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
-    f1 = 2 * precision * recall / (precision + recall) if (precision + recall) > 0 else 0.0
+    precision = tp / (tp + fp) if (tp + fp) > 0 else 1.0
+    recall = tp / (tp + fn) if (tp + fn) > 0 else 1.0
+    f1 = (2 * precision * recall / (precision + recall)) if (precision + recall) > 0 else 0.0
 
-    print(f"\nCorpus Evaluation Results (N={len(corpus)}):")
-    print(f"TP: {tp} | TN: {tn} | FP: {fp} | FN: {fn}")
-    print(f"Precision: {precision:.2%}")
-    print(f"Recall:    {recall:.2%}")
-    print(f"F1 Score:  {f1:.2%}")
+    metrics = {
+        "documents_count": len(items),
+        "true_positives": tp,
+        "false_positives": fp,
+        "false_negatives": fn,
+        "true_negative_documents": tn_docs,
+        "precision": round(precision, 4),
+        "recall": round(recall, 4),
+        "f1": round(f1, 4),
+        "action_accuracy": round(action_correct / action_total, 4) if action_total else 1.0,
+        "ticker_exchange_accuracy": round(ticker_correct / ticker_total, 4) if ticker_total else 1.0,
+        "effective_date_accuracy": round(date_correct / date_total, 4) if date_total else 1.0,
+        "sizing_accuracy": round(sizing_correct / sizing_total, 4) if sizing_total else 1.0,
+        "execution_vs_idea_accuracy": round(exec_vs_idea_correct / exec_vs_idea_total, 4) if exec_vs_idea_total else 1.0,
+    }
+    return metrics, failures
 
-    if failures:
-        msg = "\n".join(f"[{fid}] {reason}" for fid, reason in failures)
-        pytest.fail(f"Quality benchmark failures ({len(failures)}):\n{msg}")
 
-    assert precision >= 0.95, f"Precision {precision:.2%} is below required 95%"
-    assert recall >= 0.95, f"Recall {recall:.2%} is below required 95%"
-    assert f1 >= 0.95, f"F1 Score {f1:.2%} is below required 95%"
-
-
-def test_korean_and_international_ticker_normalization():
-    """Verify numeric and non-US tickers normalize to correct exchange suffixes."""
+def test_production_path_extraction_benchmark_and_held_out_generalization():
+    """
+    Evaluate the exact production ExtractionEngine (`extract_from_article` & `extract_from_chat`)
+    across both in-archive representative documents AND held-out unseen US & international securities.
+    """
     settings = load_settings()
     engine = ExtractionEngine(settings)
 
-    # Korean 6-digit numeric tickers
-    sym, mkt = engine._normalize_ticker_market("453340")
-    assert sym == "453340.KS" and mkt == ":kr:"
+    corpus_path = Path(__file__).parent / "corpus" / "production_eval_corpus.json"
+    assert corpus_path.exists(), f"Production evaluation corpus missing at {corpus_path}"
 
-    sym, mkt = engine._normalize_ticker_market("013030", "KQ")
-    assert sym == "013030.KQ" and mkt == ":kr:"
+    corpus: list[dict[str, Any]] = json.loads(corpus_path.read_text(encoding="utf-8"))
+    in_archive = [x for x in corpus if not x.get("is_held_out")]
+    held_out = [x for x in corpus if x.get("is_held_out")]
 
-    sym, mkt = engine._normalize_ticker_market("139130")
-    assert sym == "139130.KS" and mkt == ":kr:"
+    assert len(in_archive) >= 40, f"Expected >=40 in-archive items, got {len(in_archive)}"
+    assert len(held_out) >= 25, f"Expected >=25 held-out unseen items, got {len(held_out)}"
 
-    # Japanese 4-digit numeric & alphanumeric tickers
-    sym, mkt = engine._normalize_ticker_market("7089", "JT")
-    assert sym == "7089.T" and mkt == ":jp:"
+    # Ensure all 7 required held-out categories are represented
+    ho_cats = {x["category"] for x in held_out}
+    required_cats = {
+        "confirmed_purchase",
+        "confirmed_addition",
+        "partial_trim",
+        "full_exit",
+        "multi_trade_chat",
+        "short_or_option_exclusion",
+        "watchlist_or_conditional",
+    }
+    assert required_cats.issubset(ho_cats), f"Held-out split missing required categories: {required_cats - ho_cats}"
 
-    sym, mkt = engine._normalize_ticker_market("9220", "JP")
-    assert sym == "9220.T" and mkt == ":jp:"
+    overall_metrics, overall_failures = _evaluate_split(corpus, engine)
+    in_metrics, _ = _evaluate_split(in_archive, engine)
+    ho_metrics, ho_failures = _evaluate_split(held_out, engine)
 
-    sym, mkt = engine._normalize_ticker_market("6626")
-    assert sym == "6626.T" and mkt == ":jp:"
+    # Save machine-readable evaluation metrics for documentation synchronization
+    out_metrics_path = settings.data_dir / "extraction_eval_metrics.json"
+    out_metrics_path.parent.mkdir(parents=True, exist_ok=True)
+    out_metrics_path.write_text(
+        json.dumps(
+            {
+                "extractor_version": engine._hash_content("version_probe")[:12],
+                "evaluated_entrypoints": ["ExtractionEngine.extract_from_article", "ExtractionEngine.extract_from_chat"],
+                "overall": overall_metrics,
+                "in_archive_split": in_metrics,
+                "held_out_unseen_split": ho_metrics,
+            },
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
 
-    sym, mkt = engine._normalize_ticker_market("285A")
-    assert sym == "285A.T" and mkt == ":jp:"
+    if overall_failures:
+        pytest.fail("Production-path benchmark failures:\n" + "\n".join(overall_failures))
 
-    # Australian, Canadian, European, Hong Kong
-    sym, mkt = engine._normalize_ticker_market("CCV", "AU")
-    assert sym == "CCV.AX" and mkt == ":au:"
-
-    sym, mkt = engine._normalize_ticker_market("IFOS", "CA")
-    assert sym == "IFOS.V" and mkt == ":ca:"
-
-    sym, mkt = engine._normalize_ticker_market("ABCA", "FP")
-    assert sym == "ABCA.PA" and mkt == ":eu:"
-
-    sym, mkt = engine._normalize_ticker_market("3600", "HK")
-    assert sym == "3600.HK" and mkt == ":hk:"
+    assert overall_metrics["precision"] >= 0.95
+    assert overall_metrics["recall"] >= 0.95
+    assert ho_metrics["precision"] >= 0.95, f"Held-out precision below 95%: {ho_metrics} ({ho_failures})"
+    assert ho_metrics["recall"] >= 0.95, f"Held-out recall below 95%: {ho_metrics} ({ho_failures})"
 
 
-def test_non_trade_watchlist_and_commentary_rejection():
-    """Ensure watchlist pitches, conditional ideas, and macro opinions are never classified as trades."""
+def test_international_gdr_tse_kosdaq_and_adr_normalization():
+    """Verify general-purpose normalization across KOSPI, KOSDAQ, TSE, Frankfurt GDR, LSE-IOB, Santiago, and US ADRs."""
     settings = load_settings()
     engine = ExtractionEngine(settings)
 
-    non_trades = [
-        "Puma (PUM.DE) is on my watchlist below 32 EUR, but I have not purchased shares yet.",
-        "BABA is worth a look here given the cloud valuation, but I am waiting for earnings.",
-        "Brookfield (BN) remains on the radar if valuation improves towards 10x FCF.",
-        "If the stock drops to 6.50 I will re-enter the position.",
-        "Closer to the Comfort Systems (FIX) earnings report, I will collar my position. I haven’t put on the trade yet.",
-        "REITs remain deeply unloved as 10-year yields march towards 4.5% across global markets.",
-        "I view International General Insurance (IGIC) as an elite insurer with stellar underwriting discipline.",
-        "Matt, do you think Hyundai Green Food is still attractive at 21,000 KRW?",
-    ]
+    # Korean KOSPI vs KOSDAQ resolution
+    assert engine._normalize_ticker_market("453340") == ("453340.KS", ":kr:")
+    assert engine._normalize_ticker_market("013030", "KQ") == ("013030.KQ", ":kr:")
+    assert engine._normalize_ticker_market("139130") == ("139130.KS", ":kr:")
 
-    for stmt in non_trades:
-        cand = engine.classify_statement(stmt)
-        assert cand is None, f"Expected non-trade, but got candidate: {cand}"
+    # Japanese 4-digit, colon-suffix TYO, and alphanumeric TSE codes (e.g. Kioxia 285A)
+    assert engine._normalize_ticker_market("8399:TYO") == ("8399.T", ":jp:")
+    assert engine._normalize_ticker_market("285A") == ("285A.T", ":jp:")
+    assert engine._normalize_ticker_market("6626", "JP") == ("6626.T", ":jp:")
+
+    # Frankfurt GDR (HY9H -> HY9H.F) & London IOB GDR (SMSD LI -> SMSD.IL)
+    assert engine._normalize_ticker_market("HY9H", context="Frankfurt GDR in EUR") == ("HY9H.F", ":de:")
+    assert engine._normalize_ticker_market("SMSD", "LI") == ("SMSD.IL", ":uk:")
+
+    # Santiago Stock Exchange CLP context (ILC -> ILC.SN) vs US ADR with country flag (KB with KR -> KB)
+    assert engine._normalize_ticker_market("ILC", context="target of CLP 38,300") == ("ILC.SN", ":cl:")
+    assert engine._normalize_ticker_market("KB", "KS") == ("KB", ":kr:")
+
+    # Australia, Canada, France, Portugal, Hong Kong 4-digit zero-padding
+    assert engine._normalize_ticker_market("CCV", "AU") == ("CCV.AX", ":au:")
+    assert engine._normalize_ticker_market("IFOS", "V") == ("IFOS.V", ":ca:")
+    assert engine._normalize_ticker_market("ABCA", "FP") == ("ABCA.PA", ":fr:")
+    assert engine._normalize_ticker_market("CTT", "PL") == ("CTT.LS", ":pt:")
+    assert engine._normalize_ticker_market("700", "HKG") == ("0700.HK", ":hk:")
 
 
-def test_primary_chat_alert_extraction():
-    """Verify primary extraction from subscriber chat threads."""
-    settings = load_settings()
-    engine = ExtractionEngine(settings)
-
-    mock_chat_threads = [
-        {
-            "communityPost": {
-                "created_at": "2026-10-14T14:30:00Z",
-                "body": "Closing out the IFOS position today for a 30% loss",
-            }
-        },
-        {
-            "communityPost": {
-                "created_at": "2026-10-16T15:00:00Z",
-                "body": "GoDaddy getting close to $110... Taking a third of the position off here",
-            }
-        },
-        {
-            "communityPost": {
-                "created_at": "2026-10-30T16:00:00Z",
-                "body": "Closed remaining GDDY at $116 in Chat",
-            }
-        },
-        {
-            "communityPost": {
-                "created_at": "2026-10-30T17:00:00Z",
-                "body": "Trade Update on Kioxia (Closed)",
-            }
-        },
-        {
-            "communityPost": {
-                "created_at": "2026-07-29T13:00:00Z",
-                "body": "totally sold HRTG, totally sold WSBF, cut CBL in half",
-            }
-        },
-    ]
-
-    extracted = engine.extract_from_chat(mock_chat_threads)
-    assert len(extracted) >= 6
-
-    tickers = {c.ticker: c for c in extracted}
-    assert "IFOS" in tickers
-    assert tickers["IFOS"].action == "SELL"
-    assert tickers["IFOS"].normalized_ticker == "IFOS.V"
-    assert tickers["IFOS"].effective_date == "2026-10-14"
-
-    assert "GDDY" in tickers
-    assert "285A.T" in tickers
-    assert tickers["285A.T"].action == "SELL"
-    assert tickers["285A.T"].market == ":jp:"
-
-    assert "HRTG" in tickers
-    assert tickers["HRTG"].action == "SELL"
-    assert "WSBF" in tickers
-    assert tickers["WSBF"].action == "SELL"
-    assert "CBL" in tickers
-    assert tickers["CBL"].action == "TRIM"
+def test_cashtag_widget_unpacking_and_acronym_protection():
+    """Verify Substack CashtagToDOM and StockTickerToDOM spans unpack to explicit $TICKER tokens."""
+    raw_html = (
+        '<p>Bought <span data-component-name="CashtagToDOM" data-attrs="{&quot;symbol&quot;:&quot;TCBX&quot;}"></span> '
+        'and <span data-component-name="StockTickerToDOM" data-attrs="{&quot;symbol&quot;:&quot;NWG&quot;}"></span> '
+        'while NIM and BOK policy rates stabilized.</p>'
+    )
+    unpacked = unpack_substack_widgets(raw_html)
+    assert "$TCBX" in unpacked
+    assert "$NWG" in unpacked

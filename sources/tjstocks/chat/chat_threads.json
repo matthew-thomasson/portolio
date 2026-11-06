@@ -1,0 +1,1002 @@
+[
+  {
+    "communityPost": {
+      "paywallInfo": {
+        "body": "brevis usus beatae versus depopulo perspiciatis tener eaque clibanus audeo aggero taceo decet articulus utrum certus cupio clementia quo nisi pauci cena cinis catena complectus",
+        "mediaAttachments": [],
+        "link_metadata": null
+      },
+      "id": "74efe7f4-e479-465c-a5b1-921fc9b09db0",
+      "created_at": "2026-11-05T15:50:10.943Z",
+      "updated_at": "2026-11-05T15:50:37.695Z",
+      "user_id": 324880154,
+      "publication_id": 3537822,
+      "body": null,
+      "link_url": null,
+      "status": "deleted",
+      "type": "media",
+      "audience": "only_paid",
+      "media_assets": null,
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": false,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": "2026-11-05T15:50:37.695Z",
+      "comment_count": 0,
+      "max_comment_created_at": null,
+      "reaction_count": 0,
+      "user": {
+        "id": 324880154,
+        "name": "Sean Sarraf",
+        "handle": "seansarraf",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9373a28-573c-4b03-a21b-90acf04da21b_400x300.png",
+        "bio": null,
+        "profile_set_up_at": "2025-03-11T11:22:32.676Z",
+        "reader_installed_at": "2025-03-11T11:22:26.480Z"
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {},
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": null,
+      "most_recent_comment_created_at": null,
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null,
+      "link_metadata": null
+    },
+    "user": {
+      "id": 324880154,
+      "name": "Sean Sarraf",
+      "handle": "seansarraf",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9373a28-573c-4b03-a21b-90acf04da21b_400x300.png",
+      "bio": null,
+      "profile_set_up_at": "2025-03-11T11:22:32.676Z",
+      "reader_installed_at": "2025-03-11T11:22:26.480Z",
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": false,
+      "role": null,
+      "created_at": "2025-03-11T11:24:37.478Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": null,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "subscriber",
+        "tier": 1,
+        "accent_colors": {
+          "fg": {
+            "light": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "dark": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          },
+          "bg": {
+            "light": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            },
+            "dark": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            }
+          }
+        }
+      },
+      "subscriber": null
+    }
+  },
+  {
+    "communityPost": {
+      "paywallInfo": {
+        "body": "brevis usus beatae versus depopulo perspiciatis tener eaque clibanus audeo aggero taceo decet articulus utrum certus cupio clementia quo nisi pauci cena cinis catena complectus",
+        "mediaAttachments": [],
+        "link_metadata": null
+      },
+      "id": "bf167ca3-2f81-4767-bb5e-b855115a3259",
+      "created_at": "2026-11-05T15:40:49.812Z",
+      "updated_at": "2026-11-05T15:52:34.961Z",
+      "user_id": 159408951,
+      "publication_id": 3537822,
+      "body": null,
+      "link_url": null,
+      "status": "deleted",
+      "type": "media",
+      "audience": "only_paid",
+      "media_assets": null,
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": false,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": "2026-11-05T15:52:34.961Z",
+      "comment_count": 0,
+      "max_comment_created_at": null,
+      "reaction_count": 0,
+      "user": {
+        "id": 159408951,
+        "name": "Manny D",
+        "handle": "m778888",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c3d35f94-0bc0-44f9-a1cf-0712cec5b9f9_144x144.png",
+        "bio": "lets go!",
+        "profile_set_up_at": null,
+        "reader_installed_at": null
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {},
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": null,
+      "most_recent_comment_created_at": null,
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null,
+      "link_metadata": null
+    },
+    "user": {
+      "id": 159408951,
+      "name": "Manny D",
+      "handle": "m778888",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c3d35f94-0bc0-44f9-a1cf-0712cec5b9f9_144x144.png",
+      "bio": "lets go!",
+      "profile_set_up_at": null,
+      "reader_installed_at": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": false,
+      "role": null,
+      "created_at": "2026-09-23T17:41:33.452Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": null,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "subscriber",
+        "tier": 1,
+        "accent_colors": {
+          "fg": {
+            "light": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "dark": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          },
+          "bg": {
+            "light": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            },
+            "dark": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            }
+          }
+        }
+      },
+      "subscriber": null
+    }
+  },
+  {
+    "communityPost": {
+      "paywallInfo": {
+        "body": "tepidus accusator reiciendis tamquam deserunt caelestis avaritia temporibus asporto alienus stillicidium viriliter abduco doloremque tonsor perspiciatis suppono claro vero summopere illo aranea corroboro sperno decimus",
+        "mediaAttachments": [
+          {
+            "type": "image",
+            "url": "https://substackcdn.com/image/fetch/$s_!N5Il!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fapi%2Fv1%2Fcommunity%2Fposts%2F9b197b60-db0b-4aae-8a00-b841ed9f268c%2Fobfuscated_image%2Fdfd6e61824794464d15f1d3329d169ba",
+            "thumb_url": "https://substackcdn.com/image/fetch/$s_!N5Il!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fapi%2Fv1%2Fcommunity%2Fposts%2F9b197b60-db0b-4aae-8a00-b841ed9f268c%2Fobfuscated_image%2Fdfd6e61824794464d15f1d3329d169ba",
+            "explicit": false,
+            "height": 2796,
+            "width": 1290
+          }
+        ],
+        "link_metadata": null
+      },
+      "id": "9b197b60-db0b-4aae-8a00-b841ed9f268c",
+      "created_at": "2026-11-05T11:01:38.542Z",
+      "updated_at": "2026-11-05T11:02:41.645Z",
+      "user_id": 536346485,
+      "publication_id": 3537822,
+      "body": null,
+      "link_url": null,
+      "status": "deleted",
+      "type": "media",
+      "audience": "only_paid",
+      "media_assets": null,
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": true,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": "2026-11-05T11:02:41.645Z",
+      "comment_count": 0,
+      "max_comment_created_at": null,
+      "reaction_count": 0,
+      "user": {
+        "id": 536346485,
+        "name": "Ilya",
+        "handle": "ilya740418",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a9de5578-0f41-4817-a3b1-9a6412957eff_144x144.png",
+        "bio": null,
+        "profile_set_up_at": "2026-08-07T15:23:41.852Z",
+        "reader_installed_at": "2026-08-23T15:36:28.539Z"
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {},
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": null,
+      "most_recent_comment_created_at": null,
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null,
+      "link_metadata": null
+    },
+    "user": {
+      "id": 536346485,
+      "name": "Ilya",
+      "handle": "ilya740418",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a9de5578-0f41-4817-a3b1-9a6412957eff_144x144.png",
+      "bio": null,
+      "profile_set_up_at": "2026-08-07T15:23:41.852Z",
+      "reader_installed_at": "2026-08-23T15:36:28.539Z",
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": false,
+      "role": null,
+      "created_at": "2026-08-23T15:35:52.402Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": null,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "subscriber",
+        "tier": 1,
+        "accent_colors": {
+          "fg": {
+            "light": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "dark": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          },
+          "bg": {
+            "light": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            },
+            "dark": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            }
+          }
+        }
+      },
+      "subscriber": null
+    }
+  },
+  {
+    "communityPost": {
+      "paywallInfo": {
+        "body": "cauda stella somnus tergiversatio tres consuasor crepusculum talus cimentarius claudeo natus adiuvo crepusculum trucido eligendi antiquus cuppedia trado conitor veritas audeo acsi capillus suppellex censura maxime quod benevolentia taceo conor communis comes volup amplus comptus volutabrum vulpes attollo apud sulum solum perferendis desidero xiphias tactus vel infit temperantia qui beatae usus conspergo in adstringo cohibeo deprimo creptio denuncio arbustum carpo velit similique thermae libero uter acies conculco accedo magnam avarus animadverto triduana arbustum unus vapulus eius tot dolor acsi benevolentia deprimo apostolus libero",
+        "mediaAttachments": [],
+        "link_metadata": null
+      },
+      "id": "b7725b4e-4a84-46c5-9d9d-b0a106fdd81d",
+      "created_at": "2026-11-04T20:43:11.122Z",
+      "updated_at": "2026-11-05T15:53:02.840Z",
+      "user_id": 209193150,
+      "publication_id": 3537822,
+      "body": null,
+      "link_url": null,
+      "status": "deleted",
+      "type": "text",
+      "audience": "only_paid",
+      "media_assets": null,
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": false,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": "2026-11-05T15:53:02.840Z",
+      "comment_count": 3,
+      "max_comment_created_at": "2026-11-05T13:37:28.545Z",
+      "reaction_count": 0,
+      "user": {
+        "id": 209193150,
+        "name": "Lukman Liauw",
+        "handle": "lliauw88",
+        "photo_url": null,
+        "bio": null,
+        "profile_set_up_at": "2026-09-07T18:15:03.910Z",
+        "reader_installed_at": "2026-09-07T18:14:58.473Z"
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [
+        {
+          "id": 301052325,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+          "name": "StockTok 📈",
+          "post_id": "b7725b4e-4a84-46c5-9d9d-b0a106fdd81d"
+        },
+        {
+          "id": 209193150,
+          "photo_url": null,
+          "name": "Lukman Liauw",
+          "post_id": "b7725b4e-4a84-46c5-9d9d-b0a106fdd81d"
+        },
+        {
+          "id": 320649715,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/61d3facb-6d68-4d26-8ae8-7e32549035df_1536x2048.jpeg",
+          "name": "Vladimir",
+          "post_id": "b7725b4e-4a84-46c5-9d9d-b0a106fdd81d"
+        }
+      ],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {},
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": null,
+      "most_recent_comment_created_at": "2026-11-05T13:37:28.545Z",
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null,
+      "link_metadata": null
+    },
+    "user": {
+      "id": 209193150,
+      "name": "Lukman Liauw",
+      "handle": "lliauw88",
+      "photo_url": null,
+      "bio": null,
+      "profile_set_up_at": "2026-09-07T18:15:03.910Z",
+      "reader_installed_at": "2026-09-07T18:14:58.473Z",
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": false,
+      "role": null,
+      "created_at": "2026-09-07T18:10:47.302Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": null,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "subscriber",
+        "tier": 1,
+        "accent_colors": {
+          "fg": {
+            "light": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "dark": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            }
+          },
+          "bg": {
+            "light": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            },
+            "dark": {
+              "r": 234,
+              "g": 88,
+              "b": 12,
+              "a": 1
+            }
+          }
+        }
+      },
+      "subscriber": null
+    }
+  },
+  {
+    "communityPost": {
+      "paywallInfo": null,
+      "id": "aacf7a91-137e-4de3-83cc-b4cec090639e",
+      "created_at": "2026-10-26T14:14:30.144Z",
+      "updated_at": "2026-11-05T22:02:49.665Z",
+      "user_id": 301052325,
+      "publication_id": 3537822,
+      "body": "Main Chat - Oct/Nov\nTalk to Timothy, and others, HERE!",
+      "link_url": null,
+      "status": "published",
+      "type": "media",
+      "audience": "only_paid",
+      "media_assets": [],
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": false,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": null,
+      "comment_count": 2276,
+      "max_comment_created_at": "2026-11-05T22:02:49.509Z",
+      "reaction_count": 4,
+      "user": {
+        "id": 301052325,
+        "name": "StockTok 📈",
+        "handle": "stocktok",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+        "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+        "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+        "reader_installed_at": "2024-12-17T18:55:29.215Z"
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [
+        {
+          "id": 324880154,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c9373a28-573c-4b03-a21b-90acf04da21b_400x300.png",
+          "name": "Sean Sarraf",
+          "post_id": "aacf7a91-137e-4de3-83cc-b4cec090639e"
+        },
+        {
+          "id": 536346485,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a9de5578-0f41-4817-a3b1-9a6412957eff_144x144.png",
+          "name": "Ilya",
+          "post_id": "aacf7a91-137e-4de3-83cc-b4cec090639e"
+        },
+        {
+          "id": 152858458,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/db3a69ff-55ea-41dd-9e19-9fe980342df3_469x472.png",
+          "name": "Choogan",
+          "post_id": "aacf7a91-137e-4de3-83cc-b4cec090639e"
+        },
+        {
+          "id": 229828079,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/5d6baae1-2e0f-4162-b704-d6d47facc936_1024x1024.jpeg",
+          "name": "Matt's OnlyStocks",
+          "post_id": "aacf7a91-137e-4de3-83cc-b4cec090639e"
+        }
+      ],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {
+        "upvote": 3,
+        "smiling_face_with_open_hands": 1
+      },
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": "admin",
+      "most_recent_comment_created_at": "2026-11-05T22:02:49.509Z",
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null
+    },
+    "user": {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": true,
+      "role": "admin",
+      "created_at": "2024-12-17T02:34:13.679Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": 1000,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "bestseller",
+        "tier": 1000
+      },
+      "subscriber": null
+    },
+    "trackingParameters": {
+      "impression_id": "ce2b430a-f0d9-41a4-a423-66acd2dcbe84",
+      "item_entity_key": "cp-aacf7a91-137e-4de3-83cc-b4cec090639e",
+      "item_type": "chat",
+      "item_community_post_id": "aacf7a91-137e-4de3-83cc-b4cec090639e",
+      "item_community_comment_id": null,
+      "item_community_comment_parent_id": null,
+      "item_community_channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "item_publication_id": 3537822,
+      "item_content_user_id": 301052325,
+      "item_content_timestamp": "2026-10-26T14:14:30.144Z",
+      "item_audience": "only_paid",
+      "item_current_chat_comment_count": 2276,
+      "item_current_chat_reaction_count": 4,
+      "from_server": true
+    }
+  },
+  {
+    "communityPost": {
+      "paywallInfo": null,
+      "id": "b6b559df-480f-436e-a05d-319138fb26c9",
+      "created_at": "2025-05-15T13:49:02.744Z",
+      "updated_at": "2026-11-02T15:34:55.511Z",
+      "user_id": 301052325,
+      "publication_id": 3537822,
+      "body": "📄Important Links📄\nONLY TIM WRITES IN HERE",
+      "link_url": null,
+      "status": "published",
+      "type": "media",
+      "audience": "only_paid",
+      "media_assets": [],
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": true,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": null,
+      "comment_count": 9,
+      "max_comment_created_at": "2026-11-02T15:34:55.198Z",
+      "reaction_count": 16,
+      "user": {
+        "id": 301052325,
+        "name": "StockTok 📈",
+        "handle": "stocktok",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+        "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+        "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+        "reader_installed_at": "2024-12-17T18:55:29.215Z"
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [
+        {
+          "id": 301052325,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+          "name": "StockTok 📈",
+          "post_id": "b6b559df-480f-436e-a05d-319138fb26c9"
+        }
+      ],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {
+        "upvote": 5,
+        "chart_increasing": 2,
+        "thumbs_up": 9
+      },
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": "admin",
+      "most_recent_comment_created_at": "2026-11-02T15:34:55.198Z",
+      "user_last_viewed_timestamp": "2026-10-22T12:15:14.158Z",
+      "has_unread_comments": true,
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null
+    },
+    "user": {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": true,
+      "role": "admin",
+      "created_at": "2024-12-17T02:34:13.679Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": 1000,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "bestseller",
+        "tier": 1000
+      },
+      "subscriber": null
+    },
+    "trackingParameters": {
+      "impression_id": "ae65ba4e-acf7-4172-aa0e-2b4878e959b3",
+      "item_entity_key": "cp-b6b559df-480f-436e-a05d-319138fb26c9",
+      "item_type": "chat",
+      "item_community_post_id": "b6b559df-480f-436e-a05d-319138fb26c9",
+      "item_community_comment_id": null,
+      "item_community_comment_parent_id": null,
+      "item_community_channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "item_publication_id": 3537822,
+      "item_content_user_id": 301052325,
+      "item_content_timestamp": "2025-05-15T13:49:02.744Z",
+      "item_audience": "only_paid",
+      "item_current_chat_comment_count": 9,
+      "item_current_chat_reaction_count": 16,
+      "from_server": true
+    }
+  },
+  {
+    "communityPost": {
+      "paywallInfo": null,
+      "id": "a27b2288-ae6c-4cb6-833a-bfb84d676813",
+      "created_at": "2025-04-23T20:32:39.145Z",
+      "updated_at": "2026-10-30T18:17:16.334Z",
+      "user_id": 301052325,
+      "publication_id": 3537822,
+      "body": "⚡️ Quick Notes ⚡️\nONLY TIM WRITES IN HERE",
+      "link_url": null,
+      "status": "published",
+      "type": "media",
+      "audience": "only_paid",
+      "media_assets": [],
+      "is_locked": false,
+      "pub_moderation_status": null,
+      "trust_and_safety_status": null,
+      "is_edited": false,
+      "body_json": null,
+      "quote_post_id": null,
+      "status_updated_at": null,
+      "comment_count": 268,
+      "max_comment_created_at": "2026-10-30T18:17:16.190Z",
+      "reaction_count": 10,
+      "user": {
+        "id": 301052325,
+        "name": "StockTok 📈",
+        "handle": "stocktok",
+        "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+        "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+        "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+        "reader_installed_at": "2024-12-17T18:55:29.215Z"
+      },
+      "threadMediaUploads": [],
+      "recent_commenters": [
+        {
+          "id": 301052325,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+          "name": "StockTok 📈",
+          "post_id": "a27b2288-ae6c-4cb6-833a-bfb84d676813"
+        },
+        {
+          "id": 418005862,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/af1e0c88-1900-478a-abf3-7185662b39ba_144x144.png",
+          "name": "Michael",
+          "post_id": "a27b2288-ae6c-4cb6-833a-bfb84d676813"
+        },
+        {
+          "id": 34863335,
+          "photo_url": null,
+          "name": "James Reid",
+          "post_id": "a27b2288-ae6c-4cb6-833a-bfb84d676813"
+        },
+        {
+          "id": 40993421,
+          "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/bb7e54c1-dbad-4c67-bab7-6d6a8d7e528f_926x924.jpeg",
+          "name": "Ciro",
+          "post_id": "a27b2288-ae6c-4cb6-833a-bfb84d676813"
+        }
+      ],
+      "channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "reactions": {
+        "chart_increasing": 4,
+        "thumbs_up": 6
+      },
+      "muted": true,
+      "left_pub_chat": false,
+      "reported_by_user": false,
+      "user_pub_role": "admin",
+      "most_recent_comment_created_at": "2026-10-30T18:17:16.190Z",
+      "mediaAttachments": [],
+      "raw_body": null,
+      "mentions": null
+    },
+    "user": {
+      "id": 301052325,
+      "name": "StockTok 📈",
+      "handle": "stocktok",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/8add7fc9-8edc-4748-ba33-360428e75ee1_1206x1206.png",
+      "bio": "I find the strongest stocks while the trend is working and get defensive when it isn't. • 580K on TikTok • Wall Street Journal, Business Insider & Yahoo Finance",
+      "profile_set_up_at": "2024-12-17T02:33:28.482Z",
+      "reader_installed_at": "2024-12-17T18:55:29.215Z",
+      "status": {
+        "bestsellerTier": 1000,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "bestseller",
+          "tier": 1000
+        },
+        "subscriber": null
+      }
+    },
+    "pubRole": {
+      "membership_state": "subscribed",
+      "is_founding": true,
+      "role": "admin",
+      "created_at": "2024-12-17T02:34:13.679Z",
+      "can_post_notes_as_primary_user": false
+    },
+    "userStatus": {
+      "bestsellerTier": 1000,
+      "subscriberTier": 1,
+      "leaderboard": null,
+      "vip": false,
+      "badge": {
+        "type": "bestseller",
+        "tier": 1000
+      },
+      "subscriber": null
+    },
+    "trackingParameters": {
+      "impression_id": "cadca23d-9730-4637-b985-671e22768925",
+      "item_entity_key": "cp-a27b2288-ae6c-4cb6-833a-bfb84d676813",
+      "item_type": "chat",
+      "item_community_post_id": "a27b2288-ae6c-4cb6-833a-bfb84d676813",
+      "item_community_comment_id": null,
+      "item_community_comment_parent_id": null,
+      "item_community_channel_id": "12241214-066b-4ae0-a29d-8112a43f8462",
+      "item_publication_id": 3537822,
+      "item_content_user_id": 301052325,
+      "item_content_timestamp": "2025-04-23T20:32:39.145Z",
+      "item_audience": "only_paid",
+      "item_current_chat_comment_count": 268,
+      "item_current_chat_reaction_count": 10,
+      "from_server": true
+    }
+  }
+]

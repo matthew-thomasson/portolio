@@ -1,0 +1,58 @@
+{
+  "source_key": "cluseau",
+  "source_name": "Cluseau",
+  "is_valid": true,
+  "author_user_ids": [
+    161485272
+  ],
+  "author_handles": [
+    "chiefinspector"
+  ],
+  "posts_total_files": 38,
+  "posts_valid_count": 38,
+  "posts_newsletter_count": 38,
+  "posts_media_only_count": 0,
+  "posts_paid_count": 30,
+  "posts_paywall_truncated_count": 0,
+  "posts_empty_or_corrupt_count": 0,
+  "cashtag_widgets_count": 26,
+  "stock_ticker_widgets_count": 0,
+  "chat_threads_count": 404,
+  "chat_author_threads_count": 404,
+  "chat_threads_with_comments": 319,
+  "chat_threads_missing_replies": 0,
+  "chat_replies_total_count": 7689,
+  "chat_author_replies_count": 2855,
+  "datawrapper_csv_count": 0,
+  "datawrapper_corrupt_count": 0,
+  "anomalies": [
+    {
+      "severity": "INFO",
+      "category": "IMAGE_REVIEW_LIMITATION",
+      "item_id": "march-2026-trade-review",
+      "file_path": "api_posts\\2026-03-09__march-2026-trade-review.json",
+      "detail": "Review post 'March 2026 Trade Review' contains 12 embedded image(s) and no HTML/Datawrapper table; full holdings table may be inside an image."
+    },
+    {
+      "severity": "INFO",
+      "category": "IMAGE_REVIEW_LIMITATION",
+      "item_id": "april-2026-portfolio-review",
+      "file_path": "api_posts\\2026-04-17__april-2026-portfolio-review.json",
+      "detail": "Review post 'April 2026 Portfolio Review' contains 22 embedded image(s) and no HTML/Datawrapper table; full holdings table may be inside an image."
+    },
+    {
+      "severity": "INFO",
+      "category": "IMAGE_REVIEW_LIMITATION",
+      "item_id": "june-2026-portfolio-review",
+      "file_path": "api_posts\\2026-06-12__june-2026-portfolio-review.json",
+      "detail": "Review post 'June 2026 Portfolio Review' contains 19 embedded image(s) and no HTML/Datawrapper table; full holdings table may be inside an image."
+    },
+    {
+      "severity": "INFO",
+      "category": "IMAGE_REVIEW_LIMITATION",
+      "item_id": "september-2026-portfolio-review",
+      "file_path": "api_posts\\2026-10-05__september-2026-portfolio-review.json",
+      "detail": "Review post 'September 2026 Portfolio Review' contains 40 embedded image(s) and no HTML/Datawrapper table; full holdings table may be inside an image."
+    }
+  ]
+}

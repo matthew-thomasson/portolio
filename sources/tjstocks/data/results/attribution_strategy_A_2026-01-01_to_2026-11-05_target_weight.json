@@ -1,0 +1,72 @@
+{
+  "strategy_name": "Seed Active BUYs at T0 + Follow Trades",
+  "start_date": "2026-01-01",
+  "end_date": "2026-11-05",
+  "geographic_attribution": [
+    {
+      "region": "United States",
+      "positions_count": 13,
+      "open_positions_count": 10,
+      "capital_deployed_usd": 13000.0,
+      "realized_pnl_usd": 1215.29,
+      "unrealized_pnl_usd": 1304.13,
+      "total_pnl_usd": 2519.42,
+      "tickers": [
+        "CAKE",
+        "CNXN",
+        "FDX",
+        "FELE",
+        "HNI",
+        "MSCI",
+        "MTB",
+        "PRU",
+        "SPB",
+        "SPG",
+        "TXT",
+        "UBSI",
+        "VLO"
+      ],
+      "return_on_deployed_pct": 19.38
+    }
+  ],
+  "simulated_instruments": [
+    {
+      "instrument_type": "long_equity",
+      "positions_count": 13,
+      "capital_deployed_usd": 13000.0,
+      "total_pnl_usd": 2519.42,
+      "tickers": [
+        "CAKE",
+        "CNXN",
+        "FDX",
+        "FELE",
+        "HNI",
+        "MSCI",
+        "MTB",
+        "PRU",
+        "SPB",
+        "SPG",
+        "TXT",
+        "UBSI",
+        "VLO"
+      ]
+    }
+  ],
+  "excluded_non_equity": {
+    "total_excluded_events": 2,
+    "by_type": {
+      "short": {
+        "events_count": 2,
+        "tickers": [
+          "NFLX",
+          "NVDA"
+        ]
+      }
+    }
+  },
+  "discovery_layer_counts": {
+    "primary_table": 10,
+    "primary_article": 7
+  },
+  "date_uncertainty_disclosures": []
+}

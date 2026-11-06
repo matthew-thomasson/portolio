@@ -10,23 +10,30 @@ from .config import Settings
 
 MARKET_SUFFIX_CANDIDATES: dict[str, list[str]] = {
     "us": [""],
-    "ca": [".TO", "", ".V"],
-    "uk": [".L", ""],
-    "gb": [".L", ""],
+    "ca": [".TO", ".V", ""],
+    "uk": [".L", ".IL", ""],
+    "gb": [".L", ".IL", ""],
     "cl": ["", ".SN"],
     "au": [".AX", ""],
     "hk": [".HK", ""],
-    "de": [".DE", ""],
+    "de": [".DE", ".F", ""],
     "fr": [".PA", ""],
+    "pt": [".LS", ""],
+    "eu": [".PA", ".DE", ".LS", ".AS", ""],
     "mx": [".MX", ""],
     "br": ["", ".SA"],
-    "il": ["", ".TA"],
+    "il": ["", ".TA", ".IL"],
     "nl": [".AS", ""],
     "se": [".ST", ""],
     "no": [".OL", ""],
     "jp": [".T", ""],
     "kr": [".KS", ".KQ", ""],
 }
+
+KNOWN_EXCHANGE_SUFFIXES = (
+    ".TO", ".V", ".L", ".IL", ".SN", ".AX", ".HK", ".DE", ".F", ".PA", ".LS",
+    ".AS", ".ST", ".OL", ".MX", ".SA", ".TA", ".KS", ".KQ", ".T",
+)
 
 
 def normalize_market_code(raw: str | None) -> str:
@@ -39,11 +46,26 @@ def normalize_market_code(raw: str | None) -> str:
 def candidate_yf_symbols(symbol: str, market: str | None = None) -> list[str]:
     sym = symbol.strip().upper()
     mkt = normalize_market_code(market)
-    dash_sym = sym.replace(".", "-") if "." in sym and not any(sym.endswith(sfx) for sfx in (".TO", ".L", ".SN", ".AX", ".HK", ".DE", ".PA", ".KS", ".KQ", ".T", ".V")) else sym
+    has_exchange_sfx = any(sym.endswith(sfx) for sfx in KNOWN_EXCHANGE_SUFFIXES)
+    dash_sym = sym.replace(".", "-") if ("." in sym and not has_exchange_sfx) else sym
+
+    if has_exchange_sfx:
+        out = [sym]
+        # For Korean 6-digit symbols with .KS/.KQ, allow fallback across KOSPI/KOSDAQ if needed
+        if sym.endswith(".KS"):
+            out.append(sym[:-3] + ".KQ")
+        elif sym.endswith(".KQ"):
+            out.append(sym[:-3] + ".KS")
+        return out
+
+    # Numeric 4-digit HK tickers require 4 digits (e.g. 0100.HK, 3600.HK)
+    if mkt == "hk" and sym.isdigit() and len(sym) < 4:
+        sym = sym.zfill(4)
+        dash_sym = sym
 
     bases = [dash_sym] if dash_sym == sym else [dash_sym, sym]
     suffixes = MARKET_SUFFIX_CANDIDATES.get(mkt, [""])
-    out: list[str] = []
+    out = []
     for sfx in suffixes:
         for b in bases:
             cand = f"{b}{sfx}" if sfx and not b.endswith(sfx) else b
@@ -69,6 +91,7 @@ class PriceProvider:
             except Exception:
                 self.ticker_map = {}
         self._memory: dict[str, pd.Series] = {}
+        self._missing: set[str] = set()
 
     def save_ticker_map(self) -> None:
         self.settings.data_dir.mkdir(parents=True, exist_ok=True)
@@ -81,6 +104,8 @@ class PriceProvider:
     def _load_yf_series(self, yf_symbol: str, start: str = "2020-01-01") -> pd.Series | None:
         if yf_symbol in self._memory:
             return self._memory[yf_symbol]
+        if yf_symbol in self._missing:
+            return None
 
         cfile = self._cache_file(yf_symbol)
         if cfile.exists():
@@ -95,6 +120,7 @@ class PriceProvider:
             end_dt = (date.today() + timedelta(days=5)).isoformat()
             hist = yf.Ticker(yf_symbol).history(start=start, end=end_dt, auto_adjust=True)
             if hist is None or hist.empty or "Close" not in hist.columns:
+                self._missing.add(yf_symbol)
                 return None
             ser = hist["Close"].dropna().copy()
             ser.index = pd.to_datetime(ser.index).tz_localize(None).normalize()
@@ -155,16 +181,24 @@ class PriceProvider:
             return "KRW"
         if s.endswith(".T"):
             return "JPY"
-        if any(s.endswith(sfx) for sfx in (".PA", ".DE", ".AS", ".FR")):
+        if any(s.endswith(sfx) for sfx in (".PA", ".DE", ".F", ".AS", ".FR", ".LS")):
             return "EUR"
         if any(s.endswith(sfx) for sfx in (".TO", ".V")):
             return "CAD"
         if s.endswith(".L"):
+            # Note: LSE quotes many shares in GBp (pence, e.g. OSB.L ~450p, CGEO.L ~4000p) vs GBP
             return "GBP"
+        if s.endswith(".IL"):
+            # LSE International Order Book GDRs (e.g. KAP.IL) quote in USD
+            return "USD"
+        if s.endswith(".ST"):
+            return "SEK"
         if s.endswith(".HK"):
             return "HKD"
         if s.endswith(".AX"):
             return "AUD"
+        if s.endswith(".SN"):
+            return "CLP"
         return "USD"
 
     def get_fx_rate(
@@ -222,6 +256,18 @@ class PriceProvider:
         elif fc == "USD" and tc == "GBP":
             pair = "GBPUSD=X"
             invert = True
+        elif fc == "SEK" and tc == "USD":
+            pair = "USDSEK=X"
+            invert = True
+        elif fc == "USD" and tc == "SEK":
+            pair = "USDSEK=X"
+            invert = False
+        elif fc == "CLP" and tc == "USD":
+            pair = "USDCLP=X"
+            invert = True
+        elif fc == "USD" and tc == "CLP":
+            pair = "USDCLP=X"
+            invert = False
 
         if pair:
             ser = self._load_yf_series(pair)

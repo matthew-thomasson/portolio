@@ -1,12 +1,31 @@
 date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
-2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-02-23,DELL,BUY,8.44505229738063,118.41252899169922,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-03-16,NESR,BUY,48.520134419488606,20.610000610351562,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-05-25,DELL,UPGRADE_ADD,1.643896697387053,304.1553649902344,500.0,0.0,"DELL is still a buy Thesis scorecard after Q4 2026 In February, I argued three compounding engines were working at once, on top of an operator edge and a cash machine that few peop"
+2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-02-23,DELL,BUY,8.44505229738063,118.41252899169922,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-02-27,DELL,ADD,3.397297029697838,147.1758270263672,500.0,0.0,I added DELL to the portfolio because I see three compounding engines working at the same time:
+2026-02-27,DQ,BUY,41.45936837503787,24.1200008392334,1000.0,0.0,I bought DAQO Energy [DQ].
+2026-03-16,NESR,BUY,48.520134419488606,20.610000610351562,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-04-23,MTRN,BUY,5.463822559827881,183.0220489501953,1000.0,0.0,"Second, the independent directors are willing to block a parent-initiated buyout on valuation grounds."
+2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-07-06,SPCX,BUY,6.23363677480445,160.4199981689453,1000.0,0.0,"Four days after listing, SpaceX agreed to buy Cursor (Anysphere) for $60B in stock, a coding-assistant startup at roughly 15x its reported ARR."
+2026-07-12,MTRN,TRIM,-2.7319112799139407,246.60409545898438,673.7005100573737,173.70051005737366,Trimming on valuation during calm is what letting go early looks like in practice.
+2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-08-05,STRL,BUY,1.8655671237518667,536.030029296875,1000.0,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
-2026-08-17,OSCR,BUY,31.695721844117802,31.549999237060547,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-08-17,AR,BUY,27.472526320886033,36.400001525878906,1000.0,0.0,August Stock Pick: Everybody Is Watching The Wrong Number
+2026-08-17,LRN,BUY,11.986096084647414,83.43000030517578,1000.0,0.0,[Trade alert] August Stock Pick
+2026-08-17,LRN,SELL,-11.986096084647414,83.43000030517578,1000.0,0.0,"I closed 2 positions, $LRN and $STRT to finance this new position."
+2026-08-17,OSCR,BUY,31.695721844117802,31.549999237060547,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-09-08,CRDO,ADD,2.9806259314456036,167.75,500.0,0.0,"put the proceeds into CRDO, taking it from 4% to 6%."
+2026-09-08,DELL,TRIM,-2.691766002044936,533.1414794921875,1435.0921087770078,1094.1421087770077,Today I trimmed DELL from 11% to 8.5%
+2026-09-15,BAC,BUY,16.801075139601448,59.52000045776367,1000.0,0.0,I bought BAC shares representing 3.5% of the portfolio
+2026-09-15,DELL,TRIM,-4.575291662516767,542.7581787109375,2483.2769698189377,1903.7519698189376,trimmed a bit more DELL to finance the gap.
+2026-09-24,ILC.SN,BUY,38.51320068359375,25.96512318504835,1000.0,0.0,"I bought ILC with a CLP 38,300 target, +50% from the reference price."
+2026-09-27,DELL,TRIM,-1.5250956957417015,542.6782836914062,827.6363146302576,634.4615078052576,I also trimmed DELL to finance the remaining gap.
+2026-10-04,TSM,ADD,1.0292301617205533,485.79998779296875,500.0,0.0,rather I rebalanced the portfolio: we bought more TSM
+2026-10-14,BAC,ADD,9.729519477299618,51.38999938964844,500.0,0.0,"I added at $50.08 yesterday, taking BAC from 3.36% to 5% of the portfolio."
+2026-10-15,BAC,ADD,9.671179741227764,51.70000076293945,500.0,0.0,"I added at $50.08 this morning, taking BAC from 3.36% to 5% of the portfolio."
+2026-10-27,FTK,BUY,38.77471750681217,25.790000915527344,1000.0,0.0,I bought FTK 3.5% weight
+2026-11-03,SQM,BUY,18.618507113121435,53.709999084472656,1000.0,0.0,I bought the Series B shares on the Santiago exchange under SQM-B.
+2026-11-05,AGX,BUY,3.828337478323359,261.2099914550781,1000.0,0.0,"Three Years Of Double-Digit Comps, A 20% Pullback, And The Price Assumes 4% Growth. HOLD To BUY."

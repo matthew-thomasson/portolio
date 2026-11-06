@@ -1,39 +1,75 @@
 date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
-2025-01-15,PYPL,BUY,11.280141883034622,88.6513671875,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-02-19,ITRN,BUY,26.40398589955599,37.873069763183594,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-02-19,JD,BUY,27.20547928714305,36.757301330566406,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-02-19,JD,SELL,-27.20547928714305,36.757301330566406,1000.0,0.0,"Exit from low-margin businesses: JD has divested from non-core ventures, including community group purchasing and unprofitable international expansions, to improve overall profitab"
-2025-03-04,WFC,BUY,14.098883003000122,70.92760467529297,1000.0,0.0,One addition to USA portfolio
-2025-03-17,ARQT,BUY,60.901339546504055,16.420000076293945,1000.0,0.0,New addition to Portfolio USA
-2025-04-08,ODC,BUY,24.140619402706058,41.42395782470703,1000.0,0.0,Trade Alert: Buy ODC for Portfolio USA
-2025-04-15,ODC,UPGRADE_ADD,11.760814858508978,42.514060974121094,500.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-05-07,IBEX,BUY,39.6510716584548,25.219999313354492,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-05-27,RYAM,BUY,245.7002353372873,4.070000171661377,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-06-10,QFIN,BUY,27.40281343384293,36.49260330200195,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-06-24,NGD,BUY,110.13215951568469,9.079999923706055,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-07-11,KB,BUY,11.898191451660692,84.04638671875,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-08-06,HRTG,BUY,52.5762342761572,19.020000457763672,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-01-15,AGX,SEED_BUY,5.774712037608235,173.16880798339844,1000.0,0.0,Seeded active BUY as of 2025-01-15 (originally picked 2025-01-11)
+2025-01-15,MTRN,SEED_BUY,10.113909573290117,98.87373352050781,1000.0,0.0,Seeded active BUY as of 2025-01-15 (originally picked 2025-01-11)
+2025-01-15,PYPL,BUY,11.280141883034622,88.6513671875,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-01-21,MTRN,SELL,-10.113909573290117,103.33911895751953,1045.162504519823,45.16250451982296,Valuation—The reason I am closing my position in SUPV
+2025-02-07,DXPE,BUY,10.007004872872056,99.93000030517578,1000.0,0.0,redeploying most of that capital to $DXPE .
+2025-02-19,ITRN,BUY,26.40398589955599,37.873069763183594,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-02-19,JD,BUY,27.20547928714305,36.757301330566406,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-02-20,EQX,BUY,140.24621491398688,7.130317211151123,1000.0,0.0,Trade Alert: Buy EQX in the SVIF Canada Portfolio.
+2025-02-27,PRTH,BUY,97.08737684291772,10.300000190734863,1000.0,0.0,Trade Alert: Buy PRTH for the USA portfolio.
+2025-03-04,WFC,BUY,14.098883003000122,70.92760467529297,1000.0,0.0,Trade Alert: Buy WFC for USA portfolio.
+2025-03-17,ARQT,BUY,60.901339546504055,16.420000076293945,1000.0,0.0,Trade Alert: Buy ARQT for Portfolio USA
+2025-03-20,FINV,BUY,110.47082127653925,9.052164077758789,1000.0,0.0,Buy FINV in Portfolio USA
+2025-03-21,NWG,BUY,90.0087178090865,11.110034942626953,1000.0,0.0,Buy NWG in Portfolio USA
+2025-04-15,ODC,BUY,23.521629717017955,42.514060974121094,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-04-15,ODC,TRIM,-7.8405353984627455,42.514060974121094,333.33299999999997,0.0,"reduce shelf space, or push back harder on pricing (as they’re known to do), it could hit ODC’s top line fast."
+2025-04-18,BSVN,ADD,14.888723625227907,33.582462310791016,500.0,0.0,"I added BSVN to the portfolio on Nov 13, 2025…"
+2025-05-04,AGX,SELL,-5.774712037608235,163.96180725097656,946.8322220402155,-53.16777795978453,closing 3 of our positions that don’t have a favourable risk-reward profile anymore and also
+2025-05-07,IBEX,BUY,39.6510716584548,25.219999313354492,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-05-12,TMUS,BUY,4.279736021995293,233.65927124023438,1000.0,0.0,"I bought T-Mobile stock at $163 per share, confident its “Un-carrier” strategy and Sprint merger synergies would drive outsized growth."
+2025-05-12,TMUS,SELL,-4.279736021995293,233.65927124023438,999.9999999999999,-1.1368683772161603e-13,Close TMUS in Portfolio USA
+2025-05-27,RYAM,BUY,245.7002353372873,4.070000171661377,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-06-10,QFIN,BUY,27.40281343384293,36.49260330200195,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-06-24,NGD,BUY,110.13215951568469,9.079999923706055,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-07-11,KB,BUY,11.898191451660692,84.04638671875,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-07-20,TSM,ADD,2.122193338108182,235.6053009033203,500.0,0.0,"As a result, we increased TSM from around 2% of our portfolio to 5.9%, simultaneously bringing our average cost basis down from $196 to $169 by buying significantly around the $145"
+2025-08-06,HRTG,BUY,52.5762342761572,19.020000457763672,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2025-08-06,ITRN,SELL,-26.40398589955599,38.57925033569336,1018.6459818790881,18.64598187908814,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-09-04,TPC,BUY,16.45041856495601,60.788726806640625,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-09-17,ODC,SELL,-35.90143426121504,66.99506378173828,2405.2188781859854,905.2188781859854,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-10-06,VEON,BUY,19.394879235166535,51.560001373291016,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-11-13,BSVN,BUY,24.643650671664137,40.57840347290039,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-09-04,TPC,BUY,16.45041856495601,60.788726806640625,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-09-17,ODC,SELL,-15.68109431855521,66.99506378173828,1050.55591403906,383.88891403906007,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-10-05,TGLS,BUY,15.306111128822192,65.33338165283203,1000.0,0.0,I bought Tecnoglass ( $TGLS ).
+2025-10-06,VEON,BUY,19.394879235166535,51.560001373291016,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-10-15,KINS,BUY,68.57840821594152,14.581849098205566,1000.0,0.0,"For example, I picked up $KINS around $10, and it’s up +50% since then."
+2025-10-15,MFC.TO,BUY,32.244655867981095,31.012891069276343,1000.0,0.0,I bought Manulife because I thought it was undervalued relative to its prospects.
+2025-10-15,MU,BUY,5.215878025368033,191.72227478027344,1000.0,0.0,I bought Manulife because I thought it was undervalued relative to its prospects.
+2025-11-13,BSVN,UPGRADE_ADD,12.321825335832068,40.57840347290039,500.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-11-13,BSVN,ADD,12.321825335832068,40.57840347290039,500.0,0.0,"For a tiny bank like Bank7 ( <$2B assets), regulatory changes are less onerous, but still something to watch (e.g. increased FDIC insurance costs spread across all banks)."
+2025-12-09,FINV,SELL,-110.47082127653925,4.852210521697998,536.0276813386429,-463.9723186613571,Close FINV and QFIN
 2025-12-09,QFIN,SELL,-27.40281343384293,17.22954559326172,472.13802344204146,-527.8619765579585,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-12-16,PARR,BUY,25.673940447043336,38.95000076293945,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2025-12-16,PARR,ADD,12.836970223521668,38.95000076293945,500.0,0.0,This “Par Montana” acquisition added significant scale and extended PARR’s Rockies presence into Montana and surrounding states.
-2025-12-16,PARR,SELL,-38.510910670565,38.95000076293945,1500.0,0.0,"In October 2025, that JV closed and PARR received $100 million in cash proceeds ."
-2025-12-30,MU,BUY,3.41978425761679,292.4161071777344,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-12-16,PARR,BUY,25.673940447043336,38.95000076293945,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2025-12-30,MU,UPGRADE_ADD,1.709892128808395,292.4161071777344,500.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-01-06,JD,SELL,-27.20547928714305,28.58106803894043,777.5616545378201,-222.43834546217988,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-01-08,AXIA,BUY,97.8473555647688,10.220000267028809,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-01-28,NWG,SELL,-90.0087178090865,17.169103622436523,1545.369002986854,545.369002986854,I closed NWG.
 2026-02-03,PYPL,SELL,-11.280141883034622,41.33543014526367,466.2695168348406,-533.7304831651594,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-02-23,DELL,BUY,8.44505229738063,118.41252899169922,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-03-16,NESR,BUY,48.520134419488606,20.610000610351562,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-02-23,DELL,BUY,8.44505229738063,118.41252899169922,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-02-27,DELL,ADD,3.397297029697838,147.1758270263672,500.0,0.0,I added DELL to the portfolio because I see three compounding engines working at the same time:
+2026-02-27,DQ,BUY,41.45936837503787,24.1200008392334,1000.0,0.0,I bought DAQO Energy [DQ].
+2026-03-16,NESR,BUY,48.520134419488606,20.610000610351562,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-03-20,NGD,SELL,-110.13215951568469,9.079999923706055,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-05-25,DELL,UPGRADE_ADD,1.643896697387053,304.1553649902344,500.0,0.0,"DELL is still a buy Thesis scorecard after Q4 2026 In February, I argued three compounding engines were working at once, on top of an operator edge and a cash machine that few peop"
+2026-04-13,ATI,BUY,6.1057516635322395,163.77999877929688,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-04-13,KINS,SELL,-68.57840821594152,15.640178680419922,1072.578558116103,72.57855811610307,To finance the position I am closing PPC and KINS
+2026-05-18,DAR,BUY,16.09528380506007,62.130001068115234,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-05-26,ARQT,SELL,-60.901339546504055,21.110000610351562,1285.6273149979284,285.62731499792835,"This is a quick note that I just closed out the ARQT position, locking a 25% gain."
 2026-06-08,AXIA,SELL,-97.8473555647688,10.220000267028809,1000.0,0.0,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-06-10,SNEX,BUY,12.028869580667175,83.13333129882812,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
 2026-06-18,HRTG,SELL,-52.5762342761572,23.270000457763672,1223.4489956736682,223.44899567366815,Closed pick from 2025-01-12__historical-performance__adNaZ.csv
-2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-07-15,CSTM,BUY,34.28179627646577,29.170000076293945,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-07-19,CLS.TO,BUY,3.2503590091694066,307.65832241267987,1000.0,0.0,"Luckily for me, I got new funds last week and used them to buy MU and CLS."
+2026-07-19,MU,UPGRADE_ADD,0.5778183492028829,865.3238525390625,500.0,0.0,"Luckily for me, I got new funds last week and used them to buy MU and CLS."
 2026-08-05,STRL,BUY,1.8655671237518667,536.030029296875,1000.0,0.0,"STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up"
-2026-08-17,OSCR,BUY,31.695721844117802,31.549999237060547,1000.0,0.0,Initial pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-08-17,AR,BUY,27.472526320886033,36.400001525878906,1000.0,0.0,August Stock Pick: Everybody Is Watching The Wrong Number
+2026-08-17,LRN,BUY,11.986096084647414,83.43000030517578,1000.0,0.0,[Trade alert] August Stock Pick
+2026-08-17,OSCR,BUY,31.695721844117802,31.549999237060547,1000.0,0.0,Dated pick from 2025-01-12__historical-performance__adNaZ.csv
+2026-09-08,CRDO,ADD,2.9806259314456036,167.75,500.0,0.0,Increased CRDO from 3.95% -> 5.95%
+2026-09-08,DELL,TRIM,-3.9474458282430476,533.1414794921875,2104.547109084762,1604.547609084762,Trimmed DELL from 11% -> 8.5%
+2026-09-15,BAC,BUY,16.801075139601448,59.52000045776367,1000.0,0.0,It is BAC at 3.5% of the portfolio.
+2026-09-15,DELL,TRIM,-2.631631867977308,542.7581787109375,1428.3397197010258,1095.006553034526,trimmed a bit more DELL to finance the gap.
+2026-09-24,ILC.SN,BUY,38.51320068359375,25.96512318504835,1000.0,0.0,"I bought ILC with a CLP 38,300 target, +50% from the reference price."
+2026-09-27,DELL,TRIM,-1.7544221225288277,542.6782836914062,952.0867863241782,729.8645641021227,I also trimmed DELL to finance the remaining gap.
+2026-10-04,TSM,UPGRADE_ADD,1.0292301617205533,485.79998779296875,500.0,0.0,rather I rebalanced the portfolio: we bought more TSM
+2026-10-15,BAC,ADD,9.671179741227764,51.70000076293945,500.0,0.0,"I added at $50.08 this morning, taking BAC from 3.36% to 5% of the portfolio."
+2026-10-27,FTK,BUY,38.77471750681217,25.790000915527344,1000.0,0.0,I bought FTK 3.5% weight
+2026-11-03,SQM,BUY,18.618507113121435,53.709999084472656,1000.0,0.0,I bought the Series B shares on the Santiago exchange under SQM-B.
+2026-11-05,AGX,BUY,3.828337478323359,261.2099914550781,1000.0,0.0,"Three Years Of Double-Digit Comps, A 20% Pullback, And The Price Assumes 4% Growth. HOLD To BUY."

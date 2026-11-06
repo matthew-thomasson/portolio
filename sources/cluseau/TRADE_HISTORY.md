@@ -1,15 +1,15 @@
 # Cluseau — Complete Chronological Trade History
 
 - **Publication URL**: https://www.cluseau.com/
-- **Total Trade Signals**: 52
-- **Date Range**: 2024-11-20 to 2026-10-30
+- **Total Trade Signals**: 149
+- **Date Range**: 2023-10-19 to 2026-11-04
 
 ### Action Breakdown
 
-- **BUY**: 27
-- **SELL**: 18
-- **TRIM**: 5
-- **ADD**: 2
+- **BUY**: 59
+- **ADD**: 52
+- **TRIM**: 19
+- **SELL**: 19
 
 ---
 
@@ -17,55 +17,152 @@
 
 | Date | Ticker | Market | Action | Rating After | Ref Price | Target Weight | Sizing / Trim | Source / Post Slug | Notes |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-10-30 | **`285A.T`** | `:jp:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Trade Update on Kioxia (Closed) |
-| 2026-10-30 | **`GDDY`** | `:us:` | `SELL` | CLOSED | $116.00 | 0.0% | 100% | `chat` | Closed remaining GDDY at $116 in Chat (msg 4) |
-| 2026-10-16 | **`GDDY`** | `:us:` | `TRIM` | HOLD | $110.00 | 4.0% | 33% | `chat` | Trimmed 1/3 GDDY at $110 in Chat (msg 26) |
-| 2026-10-14 | **`IFOS`** | `:ca:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Closing out IFOS position today for a 30% loss in Chat (msg 29) |
-| 2026-10-01 | **`402340`** | `:kr:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited SK Square (402340.KS) on October 1 (+44% return) |
-| 2026-09-28 | **`ASIC`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited ASIC on September 28 (+39% return) |
-| 2026-09-21 | **`GDDY`** | `:us:` | `BUY` | BUY | — | 6.0% | — | `september-2026-portfolio-review` | GoDaddy (GDDY) added on September 21 |
-| 2026-09-15 | **`CBL`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Final CBL exit (+114% return) on September 15 |
-| 2026-09-10 | **`MOMO`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Closed MOMO for -15% in Chat (msg 60) |
-| 2026-09-03 | **`6626`** | `:jp:` | `BUY` | BUY | 2,255 JPY | 5.0% | — | `buying-the-buyback` | Semitec (6626.T) initiated in 'Buying the Buyback' at 2,255 JPY |
-| 2026-08-21 | **`EVC`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited EVC August 21 via options (+171% claimed return) |
-| 2026-08-21 | **`POWL`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited POWL August 21 via options (+136% claimed return) |
-| 2026-08-06 | **`VISN`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited VISN on August 6 (-20% return) |
-| 2026-07-29 | **`CBL`** | `:us:` | `TRIM` | HOLD | — | 2.0% | 50% | `chat` | Cut CBL by half in Chat (msg 94) |
-| 2026-07-29 | **`HRTG`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Totally sold HRTG in Chat (msg 94) |
-| 2026-07-29 | **`WSBF`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | Totally sold WSBF in Chat (msg 94) |
-| 2026-07-27 | **`AGM`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `chat` | AGM full exit (+30%) in Chat (msg 96) |
-| 2026-07-27 | **`OPY`** | `:us:` | `TRIM` | HOLD | — | 2.5% | 50% | `chat` | OPY half exit (+59%) in Chat (msg 96) |
-| 2026-07-06 | **`OPY`** | `:us:` | `TRIM` | HOLD | $117.00 | 5.0% | 33% | `chat` | Trimmed 1/3 of OPY at $117 in Chat (msg 115) |
-| 2026-07-02 | **`GMRS`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `september-2026-portfolio-review` | Exited GMRS on July 2 (+10% return) |
-| 2026-06-12 | **`CBL`** | `:us:` | `TRIM` | HOLD | — | 4.0% | 33% | `june-2026-portfolio-review` | Reduce CBL & Associates (CBL) in June review |
-| 2026-06-12 | **`GMRS`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `june-2026-portfolio-review` | New Position: GMR Solutions (GMRS) in June review |
-| 2026-06-12 | **`VISN`** | `:us:` | `ADD` | BUY | — | 8.0% | — | `june-2026-portfolio-review` | Position Increase: Vistance Networks (VISN) in June review |
-| 2026-05-26 | **`VISN`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `go-stub-yourself` | Vistance Networks (VISN) initiated in 'Go Stub Yourself' |
-| 2026-05-11 | **`453340`** | `:kr:` | `BUY` | BUY | 19,200 KRW | 5.0% | — | `boring-is-beautiful` | Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful' |
-| 2026-05-04 | **`013030`** | `:kr:` | `BUY` | BUY | 44,000 KRW | 4.0% | — | `opening-the-gates` | Hy-Lok (013030.KQ) Korea Value Basket initiated May 2026 per June review |
-| 2026-04-29 | **`139130`** | `:kr:` | `BUY` | BUY | 19,110 KRW | 5.0% | — | `opening-the-gates` | iM Financial Group (139130.KS) initiated in 'Opening the Gates' |
-| 2026-04-29 | **`402340`** | `:kr:` | `BUY` | BUY | 59,000 KRW | 8.0% | — | `opening-the-gates` | SK Square (402340.KS) initiated in 'Opening the Gates' post |
-| 2026-04-17 | **`7089`** | `:jp:` | `BUY` | BUY | 1,224 JPY | 5.0% | — | `april-2026-portfolio-review` | For Startups (7089.T) initiated in April 2026 Review Idea 3 |
-| 2026-04-17 | **`9220`** | `:jp:` | `BUY` | BUY | 1,200 JPY | 4.0% | — | `april-2026-portfolio-review` | FB Care Services (9220.T) initiated in April 2026 Review Idea 2 |
-| 2026-04-17 | **`CCV`** | `:au:` | `BUY` | BUY | A$0.28 | 3.0% | — | `april-2026-portfolio-review` | Cash Converters (CCV.AX) initiated in April 2026 Review Idea 4 |
-| 2026-04-17 | **`HRTG`** | `:us:` | `ADD` | BUY | — | 8.0% | — | `april-2026-portfolio-review` | Added to Heritage Insurance (HRTG) position in April review |
-| 2026-04-17 | **`MOMO`** | `:us:` | `BUY` | BUY | — | 6.0% | — | `april-2026-portfolio-review` | Hello Group (MOMO US) added in April 2026 Portfolio Review |
-| 2026-04-10 | **`KRNY`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `april-2026-portfolio-review` | Closed KRNY on April 10, 2026 (+25.80% return) |
-| 2026-04-10 | **`MCHB`** | `:us:` | `SELL` | CLOSED | — | 0.0% | 100% | `april-2026-portfolio-review` | Closed MCHB on April 10, 2026 (+22.98% return) |
-| 2026-03-24 | **`BMBL`** | `:us:` | `SELL` | CLOSED | $4.03 | 0.0% | 100% | `april-2026-portfolio-review` | Closed BMBL on March 24, 2026 (+17.07% return) |
-| 2026-03-09 | **`EVC`** | `:us:` | `BUY` | BUY | — | 6.0% | — | `march-2026-trade-review` | Entravision Communications (EVC) initiated in March 2026 review |
-| 2026-02-03 | **`BMBL`** | `:us:` | `BUY` | BUY | — | 4.0% | — | `february-3-2026` | Bumble (BMBL) initiated in February 2026 |
-| 2025-11-25 | **`ASIC`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `snacking-on-banking-and-insurance` | Cluseau documented pick: Ategrity Specialty Insurance (ASIC) |
-| 2025-10-15 | **`POWL`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `capital-markets-ai-and-rare-earths` | Cluseau documented pick: Powell Industries (POWL) |
-| 2025-10-09 | **`WYFI`** | `:us:` | `SELL` | CLOSED | $33.00 | 0.0% | 100% | `chat` | Closing WYFI at $33 for a 5% gain |
-| 2025-10-08 | **`HRTG`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `30-days-to-november` | Cluseau documented pick: Heritage Insurance Holdings (HRTG) |
-| 2025-10-01 | **`WYFI`** | `:us:` | `BUY` | BUY | $31.00 | 3.0% | — | `chat` | Adding speculative position in White Fiber WYFI at $31 |
-| 2025-09-10 | **`MCHB`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `dividends-discounts-diamonds-in-the` | Cluseau documented pick: Mechanics Bancorp (MCHB) |
-| 2025-08-29 | **`KRNY`** | `:us:` | `BUY` | BUY | — | 5.0% | — | `shifting-into-rates-down` | Cluseau documented pick: Kearny Financial (KRNY) |
-| 2025-08-29 | **`WSBF`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `shifting-into-rates-down` | Cluseau documented pick: Waterstone Financial (WSBF) |
-| 2025-08-14 | **`3600`** | `:hk:` | `BUY` | BUY | — | 5.0% | — | `juicing-the-market-one-repurchase` | Cluseau documented pick: Modern Dental Group (3600) |
-| 2025-08-14 | **`AGM`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `juicing-the-market-one-repurchase` | Cluseau documented pick: Farmer Mac (AGM) |
-| 2025-07-17 | **`OPY`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `betting-on-capital-markets-with-a` | Cluseau documented pick: Oppenheimer Holdings (OPY) |
-| 2025-07-11 | **`9478`** | `:jp:` | `BUY` | BUY | — | 6.0% | — | `the-value-investors-paradise` | Cluseau documented pick: SE Holdings and Incubations (9478) |
-| 2025-06-30 | **`IFOS`** | `:ca:` | `BUY` | BUY | — | 4.0% | — | `identifying-structuring-and-sizing` | Cluseau documented pick: Itafos (IFOS) |
-| 2024-11-20 | **`CBL`** | `:us:` | `BUY` | BUY | — | 8.0% | — | `its-just-more-fun-the-second-time` | Cluseau documented pick: CBL Properties (CBL) |
+| 2026-11-04 | **402340.KS** | :kr: | SELL | CLOSED | — | — | 100% | chat:0e3ab1d4 | With this in mind, I'll also be closing out the small SK Square buy from last week tonight. |
+| 2026-10-30 | **285A.T** | :jp: | SELL | CLOSED | — | — | 100% | chat:df9cea5b | Trade Update on Kioxia (Closed) |
+| 2026-10-30 | **402340.KS** | :kr: | ADD | BUY | 858000.0 | 0.2% | — | chat:e13600d2 | [Accumulation addition] Small 0.25% buy in SK Square at 858k |
+| 2026-10-30 | **GDDY** | :us: | SELL | CLOSED | — | — | 100% | chat:df9cea5b | Trade Update on GoDaddy (Closing Later Today) |
+| 2026-10-30 | **OPY** | :us: | ADD | BUY | — | — | — | chat:e13600d2 | [Accumulation addition] Dip Buying OPY |
+| 2026-10-23 | **8399.T** | :jp: | SELL | CLOSED | — | — | 100% | chat:a2e65608 | Trade update on Ryukyus 8399: I decided to let go of the last portion of Ryukyus, so now I'm fully out of Japanese banks. |
+| 2026-10-22 | **7167.T** | :jp: | SELL | CLOSED | — | — | 100% | chat:a3688c48 | Tonight I fully cut the Mebuki and Juroku positions |
+| 2026-10-22 | **7380.T** | :jp: | SELL | CLOSED | — | — | 100% | chat:a3688c48 | Tonight I fully cut the Mebuki and Juroku positions |
+| 2026-10-16 | **GDDY** | :us: | TRIM | HOLD | — | — | 33% | chat:5d1cb6bf | Taking a third of the position off here, holding the rest into earnings on the 29th. |
+| 2026-10-15 | **7167.T** | :jp: | TRIM | HOLD | — | — | 50% | chat:567e864a | cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half. |
+| 2026-10-15 | **7380.T** | :jp: | TRIM | HOLD | — | — | 50% | chat:567e864a | cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half. |
+| 2026-10-15 | **8399.T** | :jp: | TRIM | HOLD | — | — | 50% | chat:567e864a | cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half. |
+| 2026-10-14 | **IFOS.V** | :ca: | SELL | CLOSED | — | — | 100% | chat:33bbb1c9 | Closing out the IFOS position today for a 30% loss. |
+| 2026-10-12 | **402340.KS** | :kr: | ADD | BUY | — | 0.2% | — | chat:d89640ee | I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes. |
+| 2026-10-12 | **SMSD.IL** | :uk: | ADD | BUY | — | 0.2% | — | chat:d89640ee | I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes. |
+| 2026-10-01 | **402340.KS** | :kr: | TRIM | HOLD | — | — | 50% | september-2026-portfolio-review | Review removal disclosure (SK Square (402340) +44% - Exited October 1) |
+| 2026-09-28 | **ASIC** | :us: | SELL | CLOSED | — | — | 100% | september-2026-portfolio-review | Review removal disclosure (Ategrity Specialty Insurance (ASIC) +39% - Exited September 28, 2026) |
+| 2026-09-21 | **GDDY** | :us: | BUY | BUY | — | — | — | september-2026-portfolio-review | Review addition disclosure (GoDaddy (GDDY) - Added September 21) |
+| 2026-09-14 | **IESC** | :us: | BUY | BUY | — | — | — | chat:4f4e47c9 | picked up some Western Digital today and also a little IESC, in addition to Samsung Preferred. |
+| 2026-09-14 | **SMSD.IL** | :uk: | ADD | BUY | — | 0.2% | — | chat:0971d988 | [Accumulation addition] Picked up another 25 bps of Samsung Preferred (SMSD) just now. |
+| 2026-09-14 | **WDC** | :us: | BUY | BUY | — | — | — | chat:4f4e47c9 | picked up some Western Digital today and also a little IESC, in addition to Samsung Preferred. |
+| 2026-09-10 | **MOMO** | :us: | SELL | CLOSED | — | — | 100% | chat:97e0e276 | Trade update on MOMO (Closing for -15%): |
+| 2026-09-03 | **6626.T** | :jp: | BUY | BUY | — | — | — | september-2026-portfolio-review | Review addition disclosure (Semitec (6626 JT) - Added September 3) |
+| 2026-09-03 | **ABCA.PA** | :fr: | BUY | BUY | — | — | — | september-2026-portfolio-review | Review addition disclosure (ABC Arbitrage (ABCA FP) - Added September 3) |
+| 2026-09-03 | **GOOGL** | :us: | ADD | BUY | — | — | — | chat:ac1a68be | I added a little more GOOGL for the first time since July 2025. |
+| 2026-08-26 | **139130.KS** | :kr: | ADD | BUY | — | — | — | chat:0d74c88d | Steadily adding to the iM Financial Group (139130 KS) position. |
+| 2026-08-21 | **EVC** | :us: | SELL | CLOSED | — | — | 100% | chat:32f057f1 | EVC - Closing Entravision Position for +175% |
+| 2026-08-18 | **NRG** | :us: | SELL | CLOSED | — | — | 100% | chat:a8bdfea2 | One of the trades I am cutting today is NRG Energy (NRG) for a 15% loss. |
+| 2026-08-13 | **7380.T** | :jp: | BUY | BUY | — | — | — | chat:3b055e3f | [disclosed_owned_by_2026-08-13_accumulated_prior_days] Some big ATHs today in the Portfolio mostly within the financials basket, CUBI, MRX, Japanese Banks (8399 7167 7380). |
+| 2026-08-13 | **8399.T** | :jp: | BUY | BUY | — | — | — | chat:3b055e3f | [disclosed_owned_by_2026-08-13_accumulated_prior_days] Some big ATHs today in the Portfolio mostly within the financials basket, CUBI, MRX, Japanese Banks (8399 7167 7380). |
+| 2026-08-06 | **VISN** | :us: | SELL | CLOSED | 10.62 | — | 100% | chat:7e3f2223 | Trade Update on VISN: Got stopped out on Vistance (VISN) at 10.62. |
+| 2026-07-29 | **HRTG** | :us: | SELL | CLOSED | — | — | 100% | september-2026-portfolio-review | Review removal disclosure (Heritage Insurance Holdings (HRTG) +17% - Exited July 29, 2026) |
+| 2026-07-29 | **WSBF** | :us: | SELL | CLOSED | — | — | 100% | chat:9f48c701 | I've totally sold HRTG and WSBF |
+| 2026-07-27 | **AGM** | :us: | SELL | CLOSED | — | — | 100% | chat:ba9a54e0 | AGM - Full exit (+30%) Earlier today I fully exited AGM (Farmer Mac) which was featured in the Seeing Double piece from November 11, 2025. |
+| 2026-07-27 | **OPY** | :us: | TRIM | HOLD | — | — | 50% | chat:ba9a54e0 | OPY - Half exit (+59%) I trimmed another portion of OPY (Oppenheimer) which was featured in Capital Markets With A Value Twist (July 17, 202 |
+| 2026-07-16 | **HRTG** | :us: | TRIM | HOLD | 117.0 | — | 33% | sit-back-relax-and-the-enjoy-the | I have trimmed more CBL Associates (CBL US) above $50, OSB Group (OSB LN) at 550p, lightly trimmed a third of my Oppenheimer (OPY US) at $117, and fully closed Heritage Insurance ( |
+| 2026-07-16 | **NRG** | :us: | ADD | BUY | — | — | — | sit-back-relax-and-the-enjoy-the | [Accumulation addition] I also started a new position in NRG Energy (NRG US) |
+| 2026-07-16 | **OPY** | :us: | TRIM | HOLD | 117.0 | — | 33% | sit-back-relax-and-the-enjoy-the | I have trimmed more CBL Associates (CBL US) above $50, OSB Group (OSB LN) at 550p, lightly trimmed a third of my Oppenheimer (OPY US) at $117, and fully closed Heritage Insurance ( |
+| 2026-07-16 | **OSB.L** | :uk: | TRIM | HOLD | 117.0 | — | 33% | sit-back-relax-and-the-enjoy-the | I have trimmed more CBL Associates (CBL US) above $50, OSB Group (OSB LN) at 550p, lightly trimmed a third of my Oppenheimer (OPY US) at $117, and fully closed Heritage Insurance ( |
+| 2026-07-16 | **WSBF** | :us: | TRIM | HOLD | — | — | — | chat:54c12e31 | I am trimming most of my Waterstone Financial (WSBF), a member of the rates down basket from last August. |
+| 2026-07-14 | **HRTG** | :us: | TRIM | HOLD | 21.0 | 6.0% | — | chat:75bef995 | I've heavily trimmed HRTG down to just 1% (was a 6% position at $21, but here at $28 I don't have much conviction on it) |
+| 2026-07-10 | **OSB.L** | :uk: | TRIM | HOLD | 500.0 | — | — | chat:a745b7fd | I trimmed a bit of the OSB I added at 500 for a 9% profit here at 547.50 (closing auction). |
+| 2026-07-02 | **HRTG** | :us: | TRIM | HOLD | — | — | — | chat:7e2f4138 | Closed out the other half of GMRS to lock in a 25% gain, and have also trimmed HRTG down to just 1% of my Portfolio - I think it really makes sense to take profits on this name. |
+| 2026-07-02 | **MOMO** | :us: | ADD | BUY | — | — | — | chat:8e9993ea:reply:86c0ca73 | I add to my position each day below 12, the sale to BDC has just gone through, I expect a large dividend announcement shortly |
+| 2026-07-02 | **VISN** | :us: | BUY | BUY | — | 17.5% | — | chat:7e2f4138 | [Initiated via accumulation disclosure] Only position I am adding to today is VISN at the close, and will be buying back some of my DRAM short at the close to keep the Memory and Storage basket at a constant 17.5% weight |
+| 2026-06-23 | **HRTG** | :us: | TRIM | HOLD | — | — | — | chat:2d4dea79 | I didn't touch any of my positions today aside from trimming HRTG, will be back in front of my screen more next week. |
+| 2026-06-18 | **NRG** | :us: | BUY | BUY | 139.0 | 0.5% | — | chat:8e86f1af | I picked up some NRG at 0.5% weight today at 139, trading at just 14x earnings with a history of increasing dividends and share buybacks. |
+| 2026-06-15 | **139130.KS** | :kr: | ADD | BUY | — | — | — | chat:2d2d5197:reply:eb05f0e2 | [Accumulation addition] Picked up some iM Financial. |
+| 2026-06-12 | **CTT.LS** | :pt: | BUY | BUY | — | — | — | june-2026-portfolio-review | [Initiated via accumulation disclosure] Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remain convicted to them and have been adding |
+| 2026-06-03 | **9478.T** | :jp: | ADD | BUY | — | — | — | too-many-cooks-spoil-the-pot | [Accumulation addition] Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it . |
+| 2026-06-03 | **BARAX** | :us: | BUY | BUY | — | — | — | too-many-cooks-spoil-the-pot | Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it . |
+| 2026-06-01 | **MOMO** | :us: | ADD | BUY | — | — | — | chat:6fb96618:reply:8fb267fa | I've been adding to all of them. |
+| 2026-05-29 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:41c47c9f:reply:fe760b22 | I added to HRTG. |
+| 2026-05-26 | **GDOT** | :us: | BUY | BUY | — | — | — | go-stub-yourself | I’ve initiated a small tracker position in Green Dot. |
+| 2026-05-26 | **OSB.L** | :uk: | ADD | BUY | — | — | — | go-stub-yourself | Another name I have been adding to is OSB Group, an English bank specializing in “buy-to-let” (loans to landlords purchasing properties specifically to rent them out). |
+| 2026-05-12 | **OSB.L** | :uk: | ADD | BUY | — | — | — | chat:8c93104d:reply:a6dccd2c | OSB - I have been adding to this. |
+| 2026-05-11 | **139130.KS** | :kr: | BUY | BUY | — | 0.2% | — | chat:1886c385:reply:9be38d27 | [disclosed_owned_by_2026-05-11_accumulated_prior_days] So far I have Hy-Lok, iM Financial, Hyundai Green Food, all at 0.25%, building the positions slowly |
+| 2026-05-11 | **453340.KS** | :kr: | BUY | BUY | 19000.0 | — | — | boring-is-beautiful | Given the recent move up, I’ve purchased half my ideal position in the 19,000’s, and have left room to add the rest in the 18,000’s, should the rally the retrace. |
+| 2026-05-07 | **PENG** | :us: | TRIM | HOLD | 37.5 | — | — | chat:7980bb0b | Closed out the other half of the PENG position for a 7% profit at $37.50. |
+| 2026-05-06 | **013030.KQ** | :kr: | BUY | BUY | — | — | — | chat:cffb4bf4:reply:d94f8a5e | [disclosed_owned_by_2026-05-06_accumulated_prior_days] Small positions in both, waiting for Hy-lok to report first before adding more |
+| 2026-05-06 | **402340.KS** | :kr: | TRIM | HOLD | — | — | — | chat:31e59b62:reply:26b14206 | Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly. |
+| 2026-05-06 | **HY9H.F** | :de: | TRIM | HOLD | — | — | — | chat:31e59b62:reply:26b14206 | Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly. |
+| 2026-05-06 | **PENG** | :us: | TRIM | HOLD | — | — | — | chat:4a26b23d | I picked up a few MU 630 Friday puts to protect my position, and also took some profit on PENG |
+| 2026-05-05 | **PENG** | :us: | BUY | BUY | — | — | — | chat:c50d39cd | [Initiated via accumulation disclosure] I added a small, speculative starter position today in PENG (Penguin Solutions) |
+| 2026-05-01 | **402340.KS** | :kr: | ADD | BUY | — | — | — | chat:a9adbd90:reply:6b34cd3e | Will be buying more SK Square when the market opens in two days, I think getting it under 3x earnings (on a look through basis) is a decent deal |
+| 2026-04-30 | **ASIC** | :us: | BUY | BUY | 12.0 | — | — | chat:06b458ab | [Initiated via accumulation disclosure] I added to my position today, I think eventually Ategrity will trade at 12-14x, implying the mid to high 20s. |
+| 2026-04-30 | **ASIC** | :us: | ADD | BUY | — | — | — | chat:a9adbd90 | [Accumulation addition] picked up Itafos yesterday, and also heavily added to Ategrity - still not quite sure why it dropped yesterday, looks like there was a highly motivated seller. |
+| 2026-04-30 | **IFOS.V** | :ca: | ADD | BUY | — | — | — | chat:a9adbd90 | [Accumulation addition] picked up Itafos yesterday, and also heavily added to Ategrity - still not quite sure why it dropped yesterday, looks like there was a highly motivated seller. |
+| 2026-04-29 | **402340.KS** | :kr: | ADD | BUY | 828000.0 | — | — | chat:ce0c3380:reply:3c5a8e76 | Added some SK Square here at 828000 |
+| 2026-04-28 | **402340.KS** | :kr: | BUY | BUY | — | — | — | chat:ce0c3380:reply:9561e89c | Bought a bit last night as soon as trading opened |
+| 2026-04-27 | **CUBI** | :us: | ADD | BUY | — | — | — | chat:a7781d55:reply:5f5a114a | For banks I have been adding to CUBI < 74, for insurance HRTG < 28 |
+| 2026-04-27 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:a7781d55:reply:5f5a114a | For banks I have been adding to CUBI < 74, for insurance HRTG < 28 |
+| 2026-04-24 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:15c4fd05:reply:9a76a926 | added more HRTG. |
+| 2026-04-17 | **7089.T** | :jp: | BUY | BUY | — | — | — | april-2026-portfolio-review | Long 7089 JT Equity (For Startups) |
+| 2026-04-17 | **9220.T** | :jp: | BUY | BUY | — | — | — | april-2026-portfolio-review | Long 9220 JT Equity (FB Care Services) |
+| 2026-04-17 | **EVC** | :us: | ADD | BUY | — | — | — | chat:cc015068 | Added a bit of EVC today, but it's a much more speculative trade |
+| 2026-04-17 | **FB** | :us: | BUY | BUY | — | — | — | april-2026-portfolio-review | [Initiated via accumulation disclosure] I have several outstanding orders in the 1100 – 1200 range, and when blocks occasionally come online, I add to my position. |
+| 2026-04-17 | **MOMO** | :us: | BUY | BUY | — | — | — | april-2026-portfolio-review | Long MOMO US Equity |
+| 2026-04-07 | **OSB.L** | :uk: | ADD | BUY | — | — | — | chat:5e46a95c | Haven't been doing much these days other than adding to my OSB Position. |
+| 2026-04-01 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:23db65e3 | I have also added more HRTG < 26, which has a habit of trading into the 24-25 range before bouncing to 27-28, in fact, it's done this about 5 times over the last 6 months. |
+| 2026-04-01 | **HY9H.F** | :de: | ADD | BUY | — | 5.0% | — | chat:23db65e3 | [Accumulation addition] Over the past month it has been a very bumpy ride, but I've held Samsung and Hynix at 5% each, and if you are thinking of initiating a position I think it makes sense to spread you |
+| 2026-03-27 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:7341f54b:reply:fa78c4ec | [Accumulation addition] Bought some HRTG and IGIC today |
+| 2026-03-25 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:fba00233:reply:99e90681 | [Accumulation addition] No impact on SanDisk, Micron should be up if Hynix holds this move, but leading up to the list I'd guess Micron has a bit of selling as people make room for Hynix at a cheaper mult |
+| 2026-03-25 | **OSB.L** | :uk: | ADD | BUY | — | — | — | chat:fba00233:reply:38674bda | [Accumulation addition] Picked up more OSB Group |
+| 2026-03-23 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:b8eda9b3:reply:ea26a111 | I just added a bit of Hynix. |
+| 2026-03-09 | **3600.HK** | :hk: | BUY | BUY | — | — | — | march-2026-trade-review | [Initiated via accumulation disclosure] I have been steadily adding to Modern Dental Group ahead of 2025 H2 earnings. |
+| 2026-03-09 | **EVC** | :us: | BUY | BUY | — | — | — | march-2026-trade-review | New Position: Entravision (EVC US) |
+| 2026-02-17 | **KSPI** | :us: | BUY | BUY | — | — | — | chat:d9dcf5d0:reply:19d69121 | I bought some KSPI |
+| 2026-02-10 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:ec897b6c | Have been adding to AII, and also to HRTG. |
+| 2026-02-06 | **CRE.L** | :uk: | BUY | BUY | — | — | — | chat:7e7b0c31 | [Initiated via accumulation disclosure] The only names I have been adding to recently (aside from Hynix) are Conduit Insurance and IES Holdings, which I wrote about Tuesday. |
+| 2026-02-06 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:7e7b0c31 | The only names I have been adding to recently (aside from Hynix) are Conduit Insurance and IES Holdings, which I wrote about Tuesday. |
+| 2026-02-06 | **NECB** | :us: | TRIM | HOLD | — | — | — | chat:7e7b0c31 | I trimmed a good chunk of NECB today. |
+| 2026-02-05 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:33857964 | Added a bit more Hynix today. |
+| 2026-02-04 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:b9731fd3:reply:1d8261a7 | Added to PSIX and Hynix today, so happy to see that |
+| 2026-02-04 | **PSIX** | :us: | ADD | BUY | — | — | — | chat:b9731fd3:reply:1d8261a7 | Added to PSIX and Hynix today, so happy to see that |
+| 2026-02-03 | **FRSH** | :us: | SELL | CLOSED | — | — | 100% | february-3-2026 | What I feel more confident in, however, is simply steering my Portfolio clear of setups with limited upside and decent downside (had to close FRSH out today). |
+| 2026-02-02 | **285A.T** | :jp: | ADD | BUY | — | — | — | chat:8ea67403:reply:b3a3e2ea | The only names I have added to in the past few days are Hynix, and then to a lesser extent Kioxia. |
+| 2026-02-02 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:8ea67403:reply:b3a3e2ea | The only names I have added to in the past few days are Hynix, and then to a lesser extent Kioxia. |
+| 2026-01-27 | **285A.T** | :jp: | ADD | BUY | — | — | — | chat:8b7d8c25:reply:c3ad5e63 | [Accumulation addition] I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first. |
+| 2026-01-27 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:8b7d8c25:reply:c3ad5e63 | [Accumulation addition] I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first. |
+| 2026-01-23 | **CUBI** | :us: | ADD | BUY | 73.0 | — | — | chat:ca8c6edb:reply:848c72ad | [Accumulation addition] picked up some CUBI at 73 and OPBK at 14. |
+| 2026-01-23 | **OPBK** | :us: | ADD | BUY | 73.0 | — | — | chat:ca8c6edb:reply:848c72ad | [Accumulation addition] picked up some CUBI at 73 and OPBK at 14. |
+| 2026-01-20 | **CBL** | :us: | SELL | CLOSED | — | — | 100% | chat:9e05310a:reply:1e92cb6e | Closing all of them other than CBL |
+| 2026-01-16 | **WLFC** | :us: | BUY | BUY | — | 0.5% | — | chat:a7374ada | [Initiated via accumulation disclosure] The name is up huge so I am obviously late to the party, but WLFC has all the markings of a future darling and I think it might continue to move, so I added it at 0.5% weight to my |
+| 2026-01-06 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:53b35f0b | added more Hynix and Samsung as well, getting up to a 5% combined weight for them. |
+| 2026-01-06 | **PSIX** | :us: | ADD | BUY | — | — | — | chat:53b35f0b | I added a bit more PSIX on the dip. |
+| 2026-01-05 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:4c48de62 | Lastly, have been adding to some insurance and banking names such as OPY and HRTG (below 28). |
+| 2026-01-05 | **OPY** | :us: | ADD | BUY | — | — | — | chat:4c48de62 | Lastly, have been adding to some insurance and banking names such as OPY and HRTG (below 28). |
+| 2026-01-05 | **PSIX** | :us: | BUY | BUY | — | 2.0% | — | chat:4c48de62 | [Initiated via accumulation disclosure] I have been heavily adding to my PSIX (turbine) position, it is now a 2% position for me. |
+| 2026-01-05 | **SMSD.IL** | :uk: | ADD | BUY | — | — | — | chat:4c48de62 | bought more Samsung Preferred Shares (SMSD), which are trading at just 7x 2026 Consensus Earnings. |
+| 2025-12-29 | **HY9H.F** | :de: | ADD | BUY | — | — | — | chat:09890013 | I made a few purchases today related to the Double Vision article - bought more Hynix (HY9H) it's now a major position for me, and also added more Samsung via the preferred shares |
+| 2025-12-29 | **SMSD.IL** | :uk: | BUY | BUY | — | — | — | chat:09890013 | [Initiated via accumulation disclosure] I made a few purchases today related to the Double Vision article - bought more Hynix (HY9H) it's now a major position for me, and also added more Samsung via the preferred shares |
+| 2025-12-19 | **ACFN** | :us: | BUY | BUY | — | — | — | chat:8a94f69c | [Initiated via accumulation disclosure] That's not to say the year has been perfect (Chinese Fintech Options Overlay Trade, TIGR, ACFN , MSOS speculative trade, Cash Converters - I've been buying more), but most names ha |
+| 2025-12-19 | **CCV.AX** | :au: | BUY | BUY | — | — | — | chat:8a94f69c | [Initiated via accumulation disclosure] That's not to say the year has been perfect (Chinese Fintech Options Overlay Trade, TIGR, ACFN , MSOS speculative trade, Cash Converters - I've been buying more), but most names ha |
+| 2025-12-19 | **TIGR** | :us: | ADD | BUY | — | — | — | chat:8a94f69c | That's not to say the year has been perfect (Chinese Fintech Options Overlay Trade, TIGR, ACFN , MSOS speculative trade, Cash Converters - I've been buying more), but most names ha |
+| 2025-12-16 | **ALKT** | :us: | BUY | BUY | — | — | — | chat:de95a5c1 | I think ALKT and NGVC have suffered significantly recently in part due to tax loss harvesting, and I've bought a starter in both - worth keeping an eye on these closer to the new y |
+| 2025-12-10 | **244920.KS** | :kr: | BUY | BUY | — | — | — | chat:44334244 | [Initiated via accumulation disclosure] I've been steadily adding to OPY below $70, I think they are trading roughly 8x 2026 earnings, astoundingly cheap for an investment bank and wealth advisor. |
+| 2025-12-10 | **MBIN** | :us: | BUY | BUY | — | — | — | chat:44334244 | I bought a small start position in MBIN. |
+| 2025-12-10 | **OPY** | :us: | ADD | BUY | — | — | — | chat:44334244 | I've been steadily adding to OPY below $70, I think they are trading roughly 8x 2026 earnings, astoundingly cheap for an investment bank and wealth advisor. |
+| 2025-12-10 | **VBNK** | :us: | BUY | BUY | 12.9 | — | — | chat:44334244:reply:3445dd6e | VBNK earnings were pleasantly surprising, I picked up some this morning at 12.90, but I would only really be interested in buying in around 12.50. |
+| 2025-11-25 | **AII** | :us: | BUY | BUY | — | — | — | snacking-on-banking-and-insurance | [Initiated via accumulation disclosure] I’ve been adding to my AII, NECB, PRMB and IREN trades, and will provide regular updates as developments occur. |
+| 2025-11-25 | **NECB** | :us: | ADD | BUY | — | — | — | snacking-on-banking-and-insurance | I’ve been adding to my AII, NECB, PRMB and IREN trades, and will provide regular updates as developments occur. |
+| 2025-11-24 | **285A.T** | :jp: | BUY | BUY | 322.0 | 0.5% | — | chat:5ed74fe3 | Picked up Sk Hynix Global Depository Receipts (HY9H) at 0.5% weight at 322 Euros a few moments ago. |
+| 2025-11-24 | **HY9H.F** | :de: | BUY | BUY | 322.0 | 0.5% | — | chat:5ed74fe3 | Picked up Sk Hynix Global Depository Receipts (HY9H) at 0.5% weight at 322 Euros a few moments ago. |
+| 2025-11-18 | **TIGR** | :us: | BUY | BUY | — | 1.2% | — | chat:6105289e:reply:8ad13c06 | [Initiated via accumulation disclosure] I've increased TIGR to a 1.25% weight in my portfolio, always want to be careful with Chinese ADRs. |
+| 2025-11-13 | **7167.T** | :jp: | BUY | BUY | — | — | — | chat:d4961037:reply:889c61fd | [disclosed_owned_by_2025-11-13_accumulated_prior_days] Highest conviction position is IGIC, followed by basket of cheap outperforming banks (CUBI, OPBK, WSBF, OSB Group, 8399, 7167), Couple Assorted Discount to NAV Setups (Mostly 9478 |
+| 2025-11-13 | **CUBI** | :us: | BUY | BUY | — | — | — | chat:d4961037:reply:889c61fd | [disclosed_owned_by_2025-11-13_accumulated_prior_days] Highest conviction position is IGIC, followed by basket of cheap outperforming banks (CUBI, OPBK, WSBF, OSB Group, 8399, 7167), Couple Assorted Discount to NAV Setups (Mostly 9478 |
+| 2025-11-13 | **FRSH** | :us: | BUY | BUY | — | — | 25% | chat:150a9f89 | New Positions: Add $FRSH Freshworks (0.25% of NAV, Current Price $12.07, appetite up to $12.15) |
+| 2025-11-13 | **GOOGL** | :us: | BUY | BUY | — | — | — | chat:d4961037:reply:889c61fd | [disclosed_owned_by_2025-11-13_accumulated_prior_days] Highest conviction position is IGIC, followed by basket of cheap outperforming banks (CUBI, OPBK, WSBF, OSB Group, 8399, 7167), Couple Assorted Discount to NAV Setups (Mostly 9478 |
+| 2025-11-13 | **OSB.L** | :uk: | BUY | BUY | — | — | — | chat:d4961037:reply:889c61fd | [disclosed_owned_by_2025-11-13_accumulated_prior_days] Highest conviction position is IGIC, followed by basket of cheap outperforming banks (CUBI, OPBK, WSBF, OSB Group, 8399, 7167), Couple Assorted Discount to NAV Setups (Mostly 9478 |
+| 2025-11-13 | **WLAC** | :us: | SELL | CLOSED | — | — | 100% | chat:d4961037 | closing out WLAC at -7% and LEGT at -4%. |
+| 2025-11-11 | **AGM** | :us: | BUY | BUY | — | — | — | double-vision | I am long AGM and have a few bids in for AGM/A in the low 120s. |
+| 2025-10-29 | **IFOS.V** | :ca: | BUY | BUY | — | — | — | chat:6d919c6d | Bought a bit more IFOS ahead of earnings next week. |
+| 2025-10-24 | **HRTG** | :us: | ADD | BUY | — | — | — | chat:630d008f | I added a bit of HRTG since UVE gives us a glimpse, they have blowout earnings and it's likely HRTG does too. |
+| 2025-10-24 | **IGIC** | :us: | BUY | BUY | — | — | — | chat:630d008f:reply:e9e35327 | [Initiated via accumulation disclosure] Yes, I've been adding to IGIC, particularly near 22. |
+| 2025-10-17 | **HRTG** | :us: | BUY | BUY | — | — | — | chat:b581f050:reply:a56ceb34 | [Initiated via accumulation disclosure] I also added a bit to HRTG |
+| 2025-10-16 | **WSBF** | :us: | BUY | BUY | — | — | — | chat:b581f050:reply:a56ceb34 | [Initiated via accumulation disclosure] I added a bit yesterday on the dip, WSBF is primarily a mortgage originator and doesn't have exposure to the private credit events that recently rippled through the industry, with |
+| 2025-10-15 | **NECB** | :us: | BUY | BUY | — | — | — | chat:0502c780:reply:0237246f | [Initiated via accumulation disclosure] NECB is about 6x earnings and 15% upside to tangible book, OPBK is about 7.5x earnings and 10% upside to book, but I've been adding to OPBK |
+| 2025-10-15 | **OPBK** | :us: | BUY | BUY | — | — | — | chat:0502c780:reply:0237246f | [Initiated via accumulation disclosure] NECB is about 6x earnings and 15% upside to tangible book, OPBK is about 7.5x earnings and 10% upside to book, but I've been adding to OPBK |
+| 2025-10-13 | **WLAC** | :us: | ADD | BUY | — | — | — | chat:e92f0800 | Have been adding to my WLAC position recently. |
+| 2025-10-09 | **CCCX** | :us: | BUY | BUY | — | — | — | chat:36b64fc5:reply:7e224cdf | First time I bought CCCX, took a 30 cent hit on my warrants. |
+| 2025-10-09 | **CCCX** | :us: | SELL | CLOSED | 20.59 | — | 100% | chat:21aa57d2 | Just closed out CCCX at 20.59. |
+| 2025-10-09 | **WLAC** | :us: | BUY | BUY | 13.38 | — | — | chat:36b64fc5 | bought a small starter position in WLAC Willow Lane Acquisition Corp at 13.38. |
+| 2025-10-07 | **9478.T** | :jp: | BUY | BUY | — | — | — | chat:de06d731 | [Initiated via accumulation disclosure] Gotta be gentle on this one, a name I have been adding to almost every day in Japan is 9478, SE Holdings and Incubations. |
+| 2025-10-03 | **OPY** | :us: | BUY | BUY | — | — | — | chat:7726ab68 | [Initiated via accumulation disclosure] A small cap I've been adding to recently is Oppenheimer. |
+| 2025-08-29 | **CBL** | :us: | BUY | BUY | — | — | — | shifting-into-rates-down | [Initiated via accumulation disclosure] increased CMBS interest, and falling interest rates, than CBL. |
+| 2025-07-11 | **PFF** | :us: | BUY | BUY | — | — | — | the-value-investors-paradise | [Initiated via accumulation disclosure] Sehi is one of the few names I leave volume alerts on, when 100k+ shares and there is a large seller I add to my position. |
+| 2025-06-30 | **CGEO.L** | :uk: | BUY | BUY | — | — | — | identifying-structuring-and-sizing | [Initiated via accumulation disclosure] Given the geopolitical risks present, I initially sized CGEO at a small weight, and have carefully added to my position in the 1775 - 1825 range to bring it into the 0.5% - 1% rang |
+| 2023-10-19 | **BITW** | :us: | BUY | BUY | — | — | — | 45-discount-to-nav-bitw-trap-or-compelling | With the discount to NAV near the highest point in 12 months, and my desire to have crypto exposure, I own about 9,600 shares of $BITW. |

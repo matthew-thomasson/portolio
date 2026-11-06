@@ -1,30 +1,55 @@
 symbol,name,market,weight,cost_basis,latest_price,current_rating,entry_date,source_file
 CLS,CLS,:ca:,0.0584,75.08555554,330.13,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-ATI,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0333,162.1528571,179.09,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-BAC,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0562,56.64207617,51.63,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-BRK.B,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0154,405.612705,579.09,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-BSVN,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0285,41.84557756,59.63,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+ATI,ATI,:us:,0.0333,162.1528571,179.09,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+BAC,BAC,:us:,0.0562,56.64207617,51.63,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+BRK.B,BRK.B,:us:,0.0154,405.612705,579.09,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+BSVN,BSVN,:us:,0.0285,41.84557756,59.63,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 CDE,CDE,:us:,0.0341,11.30462217,14.58,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-CRDO,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:ky:,0.054400000000000004,107.5243837,136.5,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-CSTM,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:fr:,0.0302,28.980003,22.71,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-CVSA,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.019799999999999998,73.246971,124.19,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-DAR,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0375,62.45704004,52.3,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+CRDO,CRDO,:ky:,0.054400000000000004,107.5243837,136.5,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+CSTM,CSTM,:fr:,0.0302,28.980003,22.71,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+CVSA,CVSA,:us:,0.019799999999999998,73.246971,124.19,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+DAR,DAR,:us:,0.0375,62.45704004,52.3,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 DELL,DELL,:us:,0.0692,123.3111111,372.36,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 DXPE,DXPE,:us:,0.0379,93.54020711,158.38,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-EAT,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.046799999999999994,51.2256,220.44,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-FTK,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0348,25.63387092,24.72,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-IBEX,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0166,24.25147457,44.7,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-KB,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:kr:,0.0275,84.42613811,114.98,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+EAT,EAT,:us:,0.046799999999999994,51.2256,220.44,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+FTK,FTK,:us:,0.0348,25.63387092,24.72,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+IBEX,IBEX,:us:,0.0166,24.25147457,44.7,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+KB,KB,:kr:,0.0275,84.42613811,114.98,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 MU,MU,:us:,0.0634,338.3572,795.23,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-NESR,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.032,20.39785714,21.49,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-OSCR,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0467,31.430003,35.19,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-PARR,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0352,38.91263158,69.66,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+NESR,NESR,:us:,0.032,20.39785714,21.49,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+OSCR,OSCR,:us:,0.0467,31.430003,35.19,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+PARR,PARR,:us:,0.0352,38.91263158,69.66,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 POWL,POWL,:us:,0.0152,26.78005,143.1,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 RYAM,RYAM,:us:,0.0281,3.961802757,7.15,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-SNEX,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0287,83.52128405,56.83,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+SNEX,SNEX,:us:,0.0287,83.52128405,56.83,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 STRL,STRL,:us:,0.0226,76.68332267,283.66,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-TPC,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0287,60.19695008,83.13,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+TPC,TPC,:us:,0.0287,60.19695008,83.13,HOLD,,2025-01-11__svif-usa-portfolio__IOJBk.csv
 TSM,TSM,:tw:,0.06309999999999999,169.3306058,395.75,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-VEON,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:nl:,0.035699999999999996,51.32884553,79.01,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
-CCL,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0147,22.02607952,26.69,HOLD,,2025-11-29__global-portfolio-free__8zf5q.csv
-SYF,"<a href=""https://www.beatingthetide.com/subscribe"">Upgrade To Paid</a>",:us:,0.0191,49.7490621,79.62,HOLD,,2025-11-29__global-portfolio-free__8zf5q.csv
+VEON,VEON,:nl:,0.035699999999999996,51.32884553,79.01,BUY,,2025-01-11__svif-usa-portfolio__IOJBk.csv
+CCL,CCL,:us:,0.0147,22.02607952,26.69,HOLD,,2025-11-29__global-portfolio-free__8zf5q.csv
+SYF,SYF,:us:,0.0191,49.7490621,79.62,HOLD,,2025-11-29__global-portfolio-free__8zf5q.csv
+AGX,Reward Argan,:us:,,,,BUY,2025-01-11,why-the-new-loan-wont-move-the-valuation
+MTRN,Valuation. Materion,:us:,,,,BUY,2025-01-11,why-the-new-loan-wont-move-the-valuation
+PYPL,PYPL,:us:,,89.76,,BUY,2025-01-15,2025-01-12__historical-performance__adNaZ.csv
+TMUS,T-Mobile,:us:,,,,BUY,2025-01-21,argentina-investment-alert-supv-ypf
+WGS,GenDx,:us:,,,,BUY,2025-02-18,closing-wgs-and-clov
+ITRN,ITRN,:us:,,40.46,,BUY,2025-02-19,2025-01-12__historical-performance__adNaZ.csv
+JD,JD,:cn:,,39.2,,BUY,2025-02-19,2025-01-12__historical-performance__adNaZ.csv
+GPN,Global Payments,:us:,,,,BUY,2025-02-19,trade-alert-two-hidden-gems-poised
+FINV,FINV,:cn:,,,,BUY,2025-03-20,closing-rere-with-a-23-gain-and-redeploy
+NWG,NWG,:us:,,,,BUY,2025-03-21,you-cannot-win-them-all-why-i-cut
+ODC,ODC,:us:,,43.48,,BUY,2025-04-15,2025-01-12__historical-performance__adNaZ.csv
+KINS,Kingstone Companies,:us:,,,,BUY,2025-04-29,kingstone-stock-deep-dive-stock-analysis-investing
+QFIN,QFIN,:cn:,,42.08,,BUY,2025-06-10,2025-01-12__historical-performance__adNaZ.csv
+NGD,NGD,:us:,,4.89,,BUY,2025-06-24,2025-01-12__historical-performance__adNaZ.csv
+HRTG,HRTG,:us:,,19.3,,BUY,2025-08-06,2025-01-12__historical-performance__adNaZ.csv
+EPC,Elkhart Products,:us:,,,,BUY,2025-08-27,mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide
+TGLS,Tecnoglass,:us:,,,,BUY,2025-10-05,party-lessons-for-investing-process
+KT,KT Corporation,:kr:,,,,BUY,2025-10-30,kt-south-korea-deep-dive-a-telco-without-an-edge
+AXIA,AXIA,:us:,,9.47,,BUY,2026-01-08,2025-01-12__historical-performance__adNaZ.csv
+DQ,DAQO Energy,:us:,,,,BUY,2026-02-27,deep-dive-the-market-is-confusing
+SPCX,SpaceX,:us:,,,,BUY,2026-07-06,spacex-ipo-lockup-analysis
+AR,Accounts Receivable,:us:,,,,BUY,2026-08-17,august-stock-pick-everybody-is-watching
+LRN,Stride’s,:us:,,,,BUY,2026-08-17,trade-alert-august-stock-pick
+ILC.SN,S.A,:cl:,,,,BUY,2026-09-24,ilc-inversionles-la-construccion-three-engines-one-mispriced-holding
+SQM,Chile,:us:,,,,BUY,2026-11-03,sociedad-quimica-minera-sqm-lithium-buy-90-target-chile

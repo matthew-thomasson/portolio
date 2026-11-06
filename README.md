@@ -31,9 +31,9 @@ All quantitative studies, risk evaluations, and track-record reconciliations are
 
 | Newsletter / Publication | Strategy A ROI | Strategy A XIRR | Strategy B ROI | Strategy B XIRR | Matched SPY XIRR (A / B) | Win Rate (Strat A) | Worst Loss |
 |---|---|---|---|---|---|---|---|
-| **Beating The Tide** | **+16.45%** | **+23.23%** | **+7.58%** | **+15.83%** | +10.12% / +7.44% | 47.6% (10W / 9L) | `STRL` (-53.3%) |
+| **Beating The Tide** | **+20.78%** | **+31.12%** | **+13.53%** | **+34.04%** | +10.20% / +7.40% | 46.3% (19W / 18L) | `STRL` (-53.3%) |
 | **TJ Stocks** | **+21.00%** | **+30.13%** | **+21.00%** | **+30.13%** | +9.87% / +9.87% | **76.9%** (10W / 3L) | `FELE` (-10.1%) |
-| **Cluseau** | **+22.66%** | **+33.12%** | **+15.00%** | **+29.74%** | +10.26% / +8.07% | **73.1%** (19W / 7L) | `IFOS` (-30.0%) / `013030` (-26.3%) |
+| **Cluseau** | **+21.22%** | **+30.35%** | **+18.49%** | **+31.53%** | +11.12% / +10.63% | **56.1%** (32W / 25L) | `TIGR` (-64.1%) / `013030.KQ` (-24.0%) |
 
 > **Strategy Definitions**:
 > - **Strategy A**: Buy all existing active `BUY` recommendations at $T_0$ (Jan 1, 2026) + execute subsequent buys/adds/trims/sells.

@@ -1,0 +1,547 @@
+[
+  {
+    "checkpoint_id": "beatingthetide-dw-picks-2025-06-30",
+    "date": "2025-06-30",
+    "evaluation_date": "2025-06-30",
+    "title": "Datawrapper Pick Tracker Point-in-Time Verification (2025-06-30)",
+    "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+    "checkpoint_type": "TABLE_SNAPSHOT",
+    "active_count": 8,
+    "closed_count": 0,
+    "disappeared_count": 0,
+    "disclosed_positions": {
+      "PYPL": {
+        "status": "active",
+        "name": "PYPL",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15 (Open)"
+      },
+      "JD": {
+        "status": "active",
+        "name": "JD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+      },
+      "ITRN": {
+        "status": "active",
+        "name": "ITRN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+      },
+      "ODC": {
+        "status": "active",
+        "name": "ODC",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15 (Open)"
+      },
+      "IBEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+      },
+      "RYAM": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+      },
+      "QFIN": {
+        "status": "active",
+        "name": "QFIN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10 (Open)"
+      },
+      "NGD": {
+        "status": "active",
+        "name": "NGD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24 (Open)"
+      }
+    },
+    "excluded_positions": {},
+    "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+  },
+  {
+    "checkpoint_id": "beatingthetide-dw-picks-2025-12-31",
+    "date": "2025-12-31",
+    "evaluation_date": "2025-12-31",
+    "title": "Datawrapper Pick Tracker Point-in-Time Verification (2025-12-31)",
+    "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+    "checkpoint_type": "TABLE_SNAPSHOT",
+    "active_count": 12,
+    "closed_count": 3,
+    "disappeared_count": 0,
+    "disclosed_positions": {
+      "PYPL": {
+        "status": "active",
+        "name": "PYPL",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15 (Open)"
+      },
+      "JD": {
+        "status": "active",
+        "name": "JD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+      },
+      "ITRN": {
+        "status": "closed",
+        "name": "ITRN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+      },
+      "ODC": {
+        "status": "closed",
+        "name": "ODC",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+      },
+      "IBEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+      },
+      "RYAM": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+      },
+      "QFIN": {
+        "status": "closed",
+        "name": "QFIN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+      },
+      "NGD": {
+        "status": "active",
+        "name": "NGD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24 (Open)"
+      },
+      "KB": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+      },
+      "HRTG": {
+        "status": "active",
+        "name": "HRTG",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06 (Open)"
+      },
+      "TPC": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+      },
+      "VEON": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+      },
+      "BSVN": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+      },
+      "PARR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+      },
+      "MU": {
+        "status": "active",
+        "name": "MU",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+      }
+    },
+    "excluded_positions": {},
+    "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+  },
+  {
+    "checkpoint_id": "beatingthetide-dw-picks-2026-06-30",
+    "date": "2026-06-30",
+    "evaluation_date": "2026-06-30",
+    "title": "Datawrapper Pick Tracker Point-in-Time Verification (2026-06-30)",
+    "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+    "checkpoint_type": "TABLE_SNAPSHOT",
+    "active_count": 13,
+    "closed_count": 8,
+    "disappeared_count": 0,
+    "disclosed_positions": {
+      "PYPL": {
+        "status": "closed",
+        "name": "PYPL",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15, Closed 2026-02-03"
+      },
+      "JD": {
+        "status": "closed",
+        "name": "JD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2026-01-06"
+      },
+      "ITRN": {
+        "status": "closed",
+        "name": "ITRN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+      },
+      "ODC": {
+        "status": "closed",
+        "name": "ODC",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+      },
+      "IBEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+      },
+      "RYAM": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+      },
+      "QFIN": {
+        "status": "closed",
+        "name": "QFIN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+      },
+      "NGD": {
+        "status": "closed",
+        "name": "NGD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24, Closed 2026-03-20"
+      },
+      "KB": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+      },
+      "HRTG": {
+        "status": "closed",
+        "name": "HRTG",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06, Closed 2026-06-18"
+      },
+      "TPC": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+      },
+      "VEON": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+      },
+      "BSVN": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+      },
+      "PARR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+      },
+      "MU": {
+        "status": "active",
+        "name": "MU",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+      },
+      "AXIA": {
+        "status": "closed",
+        "name": "AXIA",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-01-08, Closed 2026-06-08"
+      },
+      "DELL": {
+        "status": "active",
+        "name": "DELL",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-02-23 (Open)"
+      },
+      "NESR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-03-16 (Open)"
+      },
+      "ATI": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-04-13 (Open)"
+      },
+      "DAR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-05-18 (Open)"
+      },
+      "SNEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-06-10 (Open)"
+      }
+    },
+    "excluded_positions": {},
+    "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+  },
+  {
+    "checkpoint_id": "beatingthetide-dw-picks-2026-08-17",
+    "date": "2026-08-17",
+    "evaluation_date": "2026-08-17",
+    "title": "Datawrapper Pick Tracker Point-in-Time Verification (2026-08-17)",
+    "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+    "checkpoint_type": "TABLE_SNAPSHOT",
+    "active_count": 15,
+    "closed_count": 8,
+    "disappeared_count": 0,
+    "disclosed_positions": {
+      "PYPL": {
+        "status": "closed",
+        "name": "PYPL",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15, Closed 2026-02-03"
+      },
+      "JD": {
+        "status": "closed",
+        "name": "JD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2026-01-06"
+      },
+      "ITRN": {
+        "status": "closed",
+        "name": "ITRN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+      },
+      "ODC": {
+        "status": "closed",
+        "name": "ODC",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+      },
+      "IBEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+      },
+      "RYAM": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+      },
+      "QFIN": {
+        "status": "closed",
+        "name": "QFIN",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+      },
+      "NGD": {
+        "status": "closed",
+        "name": "NGD",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24, Closed 2026-03-20"
+      },
+      "KB": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+      },
+      "HRTG": {
+        "status": "closed",
+        "name": "HRTG",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06, Closed 2026-06-18"
+      },
+      "TPC": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+      },
+      "VEON": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+      },
+      "BSVN": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+      },
+      "PARR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+      },
+      "MU": {
+        "status": "active",
+        "name": "MU",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+      },
+      "AXIA": {
+        "status": "closed",
+        "name": "AXIA",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-01-08, Closed 2026-06-08"
+      },
+      "DELL": {
+        "status": "active",
+        "name": "DELL",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-02-23 (Open)"
+      },
+      "NESR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-03-16 (Open)"
+      },
+      "ATI": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-04-13 (Open)"
+      },
+      "DAR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-05-18 (Open)"
+      },
+      "SNEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-06-10 (Open)"
+      },
+      "CSTM": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-07-15 (Open)"
+      },
+      "OSCR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-08-17 (Open)"
+      }
+    },
+    "excluded_positions": {},
+    "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+  },
+  {
+    "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+    "date": "2026-11-05",
+    "evaluation_date": "2026-11-05",
+    "title": "Portfolio Allocation Snapshot (2025-01-11__svif-usa-portfolio__IOJBk.csv)",
+    "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+    "checkpoint_type": "BASKET_SNAPSHOT",
+    "active_count": 27,
+    "closed_count": 0,
+    "disappeared_count": 0,
+    "disclosed_positions": {
+      "CLS": {
+        "status": "active",
+        "name": "CLS",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.84%)"
+      },
+      "ATI": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.33%)"
+      },
+      "BAC": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.62%)"
+      },
+      "BRK.B": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.54%)"
+      },
+      "BSVN": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.85%)"
+      },
+      "CDE": {
+        "status": "active",
+        "name": "CDE",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.41%)"
+      },
+      "CRDO": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.44%)"
+      },
+      "CSTM": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.02%)"
+      },
+      "CVSA": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.98%)"
+      },
+      "DAR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.75%)"
+      },
+      "DELL": {
+        "status": "active",
+        "name": "DELL",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.92%)"
+      },
+      "DXPE": {
+        "status": "active",
+        "name": "DXPE",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.79%)"
+      },
+      "EAT": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=4.68%)"
+      },
+      "FTK": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.48%)"
+      },
+      "IBEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.66%)"
+      },
+      "KB": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.75%)"
+      },
+      "MU": {
+        "status": "active",
+        "name": "MU",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.34%)"
+      },
+      "NESR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.20%)"
+      },
+      "OSCR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=4.67%)"
+      },
+      "PARR": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.52%)"
+      },
+      "POWL": {
+        "status": "active",
+        "name": "POWL",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.52%)"
+      },
+      "RYAM": {
+        "status": "active",
+        "name": "RYAM",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.81%)"
+      },
+      "SNEX": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.87%)"
+      },
+      "STRL": {
+        "status": "active",
+        "name": "STRL",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.26%)"
+      },
+      "TPC": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.87%)"
+      },
+      "TSM": {
+        "status": "active",
+        "name": "TSM",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.31%)"
+      },
+      "VEON": {
+        "status": "active",
+        "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+        "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.57%)"
+      }
+    },
+    "excluded_positions": {},
+    "notes": "Regional sub-portfolio allocation table (e.g. USA Portfolio) verified against simulated holdings and baseline holdings."
+  }
+]

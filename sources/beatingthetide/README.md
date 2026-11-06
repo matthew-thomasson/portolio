@@ -5,12 +5,12 @@
 - **Data Extracted**:
   - `api_posts/`: 247 full post JSONs.
   - `datawrapper/`: 48 versioned CSV datasets extracted via automated meta-refresh redirection.
-  - `data/portfolio_holdings.csv`: 35 baseline holdings with target weights.
-  - `data/trade_events.csv`: 63 chronological trade events (`BUY`, `ADD`, `TRIM`, `SELL`, `HOLD`).
+  - `data/portfolio_holdings.csv`: 54 baseline holdings with target weights.
+  - `data/trade_events.csv`: 85 chronological trade events (`BUY`, `ADD`, `TRIM`, `SELL`, `HOLD`).
 - **2026 Performance (Start: Jan 01, 2026)**:
-  - **Strategy A (Seed Active + Follow)**: **+$2,949.16** Net Profit | **+16.45% ROI** | **+23.23% XIRR** (vs SPY +10.12%, Alpha +13.11%).
-  - **Strategy B (Fresh 2026 Picks Only)**: **+$644.00** Net Profit | **+7.58% ROI** | **+15.83% XIRR** (vs SPY +7.44%, Alpha +8.39%).
+  - **Strategy A (Seed Active + Follow)**: **+$6,132.44** Net Profit | **+20.78% ROI** | **+31.12% XIRR** (vs SPY +10.20%, Alpha +20.92%).
+  - **Strategy B (Fresh 2026 Picks Only)**: **+$1,905.64** Net Profit | **+13.53% ROI** | **+34.04% XIRR** (vs SPY +7.40%, Alpha +26.64%).
 - **Risk Characteristics**:
-  - Win Rate: 47.6% (Strat A) / 33.3% (Strat B).
+  - Win Rate: 46.3% (Strat A: 19W / 18L) / 47.4% (Strat B: 9W / 10L).
   - Outliers: Steep negative drawdowns on individual picks (`STRL` -53.3%, `SNEX` -34.7%, `PYPL` -28.3%).
   - Heavy concentration on tech/cyclical multi-baggers (`DELL` +122.3%, `MU` +121.0%).

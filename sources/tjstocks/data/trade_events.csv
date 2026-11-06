@@ -1,19 +1,18 @@
-date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes
-2025-05-12,X,:us:,BUY,BUY,,,,buying-4-stocks-major-update-to-portfolio,article,high,Buying 4 Stocks - Major Update To Portfolio
-2026-01-14,FDX,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: FedEx Corporation
-2026-01-14,HNI,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: HNI Corporation
-2026-01-14,MSCI,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: MSCI Inc
-2026-01-14,MTB,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: M&T Bank
-2026-01-14,PRU,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: Prudential Financial
-2026-01-14,SPB,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: Spectrum Brands Holdings
-2026-01-14,SPG,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: Simon Property Group
-2026-01-14,TXT,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: Textron Inc
-2026-01-14,UBSI,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: United Bankshares
-2026-01-14,VLO,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF 1.0 Initial Holding: Valero Energy Corporation
-2026-07-28,CAKE,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: Cheesecake Factory
-2026-07-28,CNXN,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: PC Connection
-2026-07-28,FDX,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Removal: Cut FedEx Corporation (FDX)
-2026-07-28,FELE,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: Franklin Electric
-2026-07-28,MSCI,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Removal: Cut MSCI Inc (MSCI)
-2026-07-28,SPB,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Removal: Cut Spectrum Brands Holdings (SPB)
-2026-11-03,VLO,:us:,TRIM,HOLD,,0.05,0.5,stocktok-etf-doubles-the-s-and-p,article,medium,Valero Energy Corporation - Discretionary 50% trim assumption based on author advice 'Trim or Cut' (+28% gain)
+date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes,discovery_layer,date_uncertainty
+2026-01-14,FDX,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: FedEx Corporation (FDX),primary_table,
+2026-01-14,HNI,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: HNI Corporation (HNI),primary_table,
+2026-01-14,MSCI,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: MSCI Inc (MSCI),primary_table,
+2026-01-14,MTB,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: M&T Bank (MTB),primary_table,
+2026-01-14,PRU,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: Prudential Financial (PRU),primary_table,
+2026-01-14,SPB,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: Spectrum Brands Holdings (SPB),primary_table,
+2026-01-14,SPG,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: Simon Property Group (SPG),primary_table,
+2026-01-14,TXT,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: Textron Inc (TXT),primary_table,
+2026-01-14,UBSI,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: United Bankshares (UBSI),primary_table,
+2026-01-14,VLO,:us:,BUY,BUY,,0.1,,only-10-stocks-made-the-cut,portfolio_table,high,StockTok ETF Initial Holding: Valero Energy Corporation (VLO),primary_table,
+2026-07-28,CAKE,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: Cheesecake Factory (CAKE),primary_article,
+2026-07-28,CNXN,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: PC Connection (CNXN),primary_article,
+2026-07-28,FDX,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Rebalance Removal: FedEx (FDX),primary_article,
+2026-07-28,FELE,:us:,BUY,BUY,,0.1,,stocktok-etf-20,article,high,StockTok ETF 2.0 New Addition: Franklin Electric (FELE),primary_article,
+2026-07-28,MSCI,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Rebalance Removal: MSCI Inc (MSCI),primary_article,
+2026-07-28,SPB,:us:,SELL,CLOSED,,0.0,1.0,stocktok-etf-20,article,high,StockTok ETF 2.0 Rebalance Removal: Spectrum Brands Holdings (SPB),primary_article,
+2026-11-03,VLO,:us:,TRIM,HOLD,,0.05,0.5,stocktok-etf-doubles-the-s-and-p,article,medium,Valero - Discretionary 50% trim based on model update 'trim or cut',primary_article,

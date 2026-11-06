@@ -179,14 +179,14 @@ Why did tests pass despite missing 50% of the author's positions?
 |---|---|---|---|
 | **Articles Downloaded & Analyzed** | 38 (20 truncated) | 38 (All full-text) | +20 complete |
 | **Chat Threads Analyzed** | 2 / 404 | 404 / 404 | +402 threads |
-| **Recorded Trade Signals** | 25 | **52** | +27 signals |
-| **Unique Positions Traded** | 14 | 26 (+12 baseline) | +12 positions |
-| **Strategy A Net Profit** | +$4,679.90 | **+$4,829.21** | +$149.31 |
-| **Strategy A ROI** | +38.00% | **+22.66%** | -15.34% |
-| **Strategy A XIRR** | +51.25% | **+33.12%** | -18.13% |
-| **Strategy A Profit Factor** | 10.06 | **4.32** | -5.74 |
-| **Strategy B ROI** | +32.98% | **+15.00%** | -17.98% |
-| **Strategy B XIRR** | +68.41% | **+29.74%** | -38.67% |
-| **Strategy B Profit Factor** | 4.80 | **2.79** | -2.01 |
+| **Recorded Trade Signals** | 25 | **149** | +124 signals |
+| **Unique Positions Traded** | 14 | 57 (+12 baseline) | +43 positions |
+| **Strategy A Net Profit** | +$4,679.90 | **+$12,762.47** | +$8,082.57 |
+| **Strategy A ROI** | +38.00% | **+21.22%** | -16.78% |
+| **Strategy A XIRR** | +51.25% | **+30.35%** | -20.90% |
+| **Strategy A Profit Factor** | 10.06 | **3.89** | -6.17 |
+| **Strategy B ROI** | +32.98% | **+18.49%** | -14.49% |
+| **Strategy B XIRR** | +68.41% | **+31.53%** | -36.88% |
+| **Strategy B Profit Factor** | 4.80 | **3.12** | -1.68% |
 
 The corrected results provide a realistic, audit-verified reflection of Cluseau's trading performance—demonstrating strong positive alpha over the S&P 500 (+22.86% Strategy A Alpha / +21.67% Strategy B Alpha) while eliminating the misleading survivorship bias of the previous backtest.

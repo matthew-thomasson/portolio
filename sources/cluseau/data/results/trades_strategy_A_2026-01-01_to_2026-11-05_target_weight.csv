@@ -1,50 +1,149 @@
 date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
-2026-01-01,3600,SEED_BUY,1121.5666863709657,0.6604518034835207,740.7407407407406,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-14)
-2026-01-01,9478,SEED_BUY,352.3041114969357,2.5230727087231855,888.8888888888888,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-07-11)
-2026-01-01,AGM,SEED_BUY,6.898461529251099,171.8042755126953,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-14)
-2026-01-01,ASIC,SEED_BUY,58.78894812280093,20.15999984741211,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-25)
-2026-01-01,CBL,SEED_BUY,33.41128695414119,35.472599029541016,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2024-11-20)
-2026-01-01,HRTG,SEED_BUY,43.44520364199895,27.280000686645508,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-08)
-2026-01-01,IFOS,SEED_BUY,270.51259264533905,2.190628490887014,592.5925925925926,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-06-30)
-2026-01-01,KRNY,SEED_BUY,106.00998418331432,6.987462043762207,740.7407407407406,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-29)
-2026-01-01,MCHB,SEED_BUY,55.077137477743264,13.449151039123535,740.7407407407406,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-09-10)
-2026-01-01,OPY,SEED_BUY,16.412718603161156,72.21138763427734,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-07-17)
-2026-01-01,POWL,SEED_BUY,10.098899366447863,117.35785675048828,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-15)
-2026-01-01,WSBF,SEED_BUY,74.61115003275253,15.88482666015625,1185.1851851851852,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-08-29)
-2026-02-03,BMBL,BUY,182.89894779269517,3.240000009536743,592.5925925925926,0.0,Bumble (BMBL) initiated in February 2026
-2026-03-09,EVC,BUY,289.37096121570937,3.0717971324920654,888.8888888888888,0.0,Entravision Communications (EVC) initiated in March 2026 review
-2026-03-24,BMBL,SELL,-182.89894779269517,3.4000000953674316,621.8564399377665,29.263847345173872,"Closed BMBL on March 24, 2026 (+17.07% return)"
-2026-04-10,KRNY,SELL,-106.00998418331432,7.737208366394043,820.2213365444397,79.48059580369909,"Closed KRNY on April 10, 2026 (+25.80% return)"
-2026-04-10,MCHB,SELL,-55.077137477743264,14.348245620727539,790.2602966172384,49.51955587649775,"Closed MCHB on April 10, 2026 (+22.98% return)"
-2026-04-17,7089,BUY,96.34168925455019,7.688683336074634,740.7407407407406,0.0,For Startups (7089.T) initiated in April 2026 Review Idea 3
-2026-04-17,9220,BUY,78.17966252813305,7.5798816908342035,592.5925925925926,0.0,FB Care Services (9220.T) initiated in April 2026 Review Idea 2
-2026-04-17,CCV,BUY,2180.997963298516,0.203780311547046,444.4444444444444,0.0,Cash Converters (CCV.AX) initiated in April 2026 Review Idea 4
-2026-04-17,HRTG,ADD,18.36884689981213,27.219999313354492,500.0,0.0,Added to Heritage Insurance (HRTG) position in April review
-2026-04-17,MOMO,BUY,138.8888868192832,6.400000095367432,888.8888888888888,0.0,Hello Group (MOMO US) added in April 2026 Portfolio Review
-2026-04-29,139130,BUY,57.38752398574561,12.9076964694405,740.7407407407406,0.0,iM Financial Group (139130.KS) initiated in 'Opening the Gates'
-2026-04-29,402340,BUY,2.1046459210699804,563.1280650678996,1185.1851851851852,0.0,SK Square (402340.KS) initiated in 'Opening the Gates' post
-2026-05-04,013030,BUY,18.89786099073071,31.357654333644206,592.5925925925926,0.0,Hy-Lok (013030.KQ) Korea Value Basket initiated May 2026 per June review
-2026-05-11,453340,BUY,57.47183116887762,12.88876177555779,740.7407407407406,0.0,Hyundai Green Food (453340.KS) initiated in 'Boring Is Beautiful'
-2026-05-26,VISN,BUY,102.55475026081407,7.222880840301514,740.7407407407406,0.0,Vistance Networks (VISN) initiated in 'Go Stub Yourself'
-2026-06-12,CBL,TRIM,-11.137084514284744,49.12931442260742,547.1573268534472,152.0959935201139,Reduce CBL & Associates (CBL) in June review
-2026-06-12,GMRS,BUY,59.979005494782655,12.350000381469727,740.7407407407406,0.0,New Position: GMR Solutions (GMRS) in June review
-2026-06-12,VISN,ADD,69.27913430681356,7.217180252075195,500.0,0.0,Position Increase: Vistance Networks (VISN) in June review
-2026-07-02,GMRS,SELL,-59.979005494782655,14.520000457763672,870.895187240454,130.15444649971334,Exited GMRS on July 2 (+10% return)
-2026-07-06,OPY,TRIM,-5.470900730147518,115.26950073242188,630.6279957207466,235.56666238741332,Trimmed 1/3 of OPY at $117 in Chat (msg 115)
-2026-07-27,AGM,SELL,-6.898461529251099,207.5052490234375,1431.4669775058528,246.2817923206676,AGM full exit (+30%) in Chat (msg 96)
-2026-07-27,OPY,TRIM,-5.470908936506819,109.8289566040039,600.8642201720646,205.80229424613867,OPY half exit (+59%) in Chat (msg 96)
-2026-07-29,CBL,TRIM,-11.137101219928223,58.63884735107422,653.0667783688335,258.0048524429076,Cut CBL by half in Chat (msg 94)
-2026-07-29,HRTG,SELL,-61.814050541811085,29.84000015258789,1844.5312775997184,159.34609241453313,Totally sold HRTG in Chat (msg 94)
-2026-07-29,WSBF,SELL,-74.61115003275253,20.39185905456543,1521.4600553669245,336.2748701817393,Totally sold WSBF in Chat (msg 94)
-2026-08-06,VISN,SELL,-171.83388456762765,5.757781982421875,989.3820445330467,-251.35869620769392,Exited VISN on August 6 (-20% return)
-2026-08-21,EVC,SELL,-289.37096121570937,8.020307540893555,2320.8441023539704,1431.9552134650817,Exited EVC August 21 via options (+171% claimed return)
-2026-08-21,POWL,SELL,-10.098899366447863,197.6699981689453,1996.2494192741121,811.0642340889269,Exited POWL August 21 via options (+136% claimed return)
-2026-09-03,6626,BUY,52.20432098230783,14.189261095681706,740.7407407407406,0.0,"Semitec (6626.T) initiated in 'Buying the Buyback' at 2,255 JPY"
-2026-09-10,MOMO,SELL,-138.8888868192832,5.039999961853027,699.9999842709967,-188.88890461789208,Closed MOMO for -15% in Chat (msg 60)
-2026-09-15,CBL,SELL,-11.137101219928223,53.2599983215332,593.1619922801225,198.10006635419654,Final CBL exit (+114% return) on September 15
-2026-09-21,GDDY,BUY,8.484193159967184,104.7699966430664,888.8888888888888,0.0,GoDaddy (GDDY) added on September 21
-2026-09-28,ASIC,SELL,-58.78894812280093,26.56999969482422,1562.0223336818576,376.8371484966724,Exited ASIC on September 28 (+39% return)
-2026-10-01,402340,SELL,-2.1046459210699804,851.2426145272888,1791.564296505804,606.3791113206187,Exited SK Square (402340.KS) on October 1 (+44% return)
-2026-10-14,IFOS,SELL,-270.51259264533905,1.4138202885212339,382.4561917824603,-210.13640081013233,Closing out the IFOS position today for a 30% loss in Chat (msg 29)
-2026-10-16,GDDY,TRIM,-2.828061558591341,105.95999908447266,299.6614001591708,3.3654001591708607,Trimmed 1/3 GDDY at $110 in Chat (msg 26)
-2026-10-30,GDDY,SELL,-5.656131601375843,117.23999786376953,663.1248568625032,70.53196797361431,Closed remaining GDDY at $116 in Chat (msg 4)
+2026-01-01,244920.KS,SEED_BUY,155.4497334248311,6.432947667186304,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-10)
+2026-01-01,285A.T,SEED_BUY,10.039398088474563,24.147288541386807,242.42424242424244,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-24)
+2026-01-01,7167.T,SEED_BUY,149.81723221418002,6.674799588944423,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-13)
+2026-01-01,9478.T,SEED_BUY,396.3421254340528,2.5230727087231855,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-07)
+2026-01-01,ACFN,SEED_BUY,65.70302118629438,15.220000267028809,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-19)
+2026-01-01,AII,SEED_BUY,52.314529373489485,19.115148544311523,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-25)
+2026-01-01,ALKT,SEED_BUY,44.09171016509162,22.68000030517578,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-16)
+2026-01-01,BITW,SEED_BUY,16.406890688802886,60.95000076293945,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2023-10-19)
+2026-01-01,CBL,SEED_BUY,82.0095225238011,35.472599029541016,2909.090909090909,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-19)
+2026-01-01,CCV.AX,SEED_BUY,4765.352507169061,0.20984806443921755,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-19)
+2026-01-01,CGEO.L,SEED_BUY,0.2403058226736836,4161.364002227783,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-06-30)
+2026-01-01,CUBI,SEED_BUY,13.422818791946309,74.5,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-13)
+2026-01-01,FRSH,SEED_BUY,86.20689371678274,11.600000381469727,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-13)
+2026-01-01,GOOGL,SEED_BUY,3.179264612654226,314.53814697265625,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-13)
+2026-01-01,HRTG,SEED_BUY,36.65689057293661,27.280000686645508,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-17)
+2026-01-01,HY9H.F,SEED_BUY,0.5095214090563777,475.7881378786551,242.42424242424244,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-24)
+2026-01-01,IFOS.V,SEED_BUY,456.49000008900964,2.190628490887014,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-29)
+2026-01-01,IGIC,SEED_BUY,42.255333961388395,23.665651321411133,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-07-11)
+2026-01-01,MBIN,SEED_BUY,30.346588781287135,32.952632904052734,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-10)
+2026-01-01,NECB,SEED_BUY,45.49548783421249,21.980201721191406,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-15)
+2026-01-01,OPBK,SEED_BUY,73.47704031687647,13.60969352722168,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-15)
+2026-01-01,OPY,SEED_BUY,13.848231321417225,72.21138763427734,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-03)
+2026-01-01,OSB.L,SEED_BUY,1.1610132359485643,861.3166233053198,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-13)
+2026-01-01,SMSD.IL,SEED_BUY,0.6053994357783676,1651.802001953125,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-29)
+2026-01-01,TIGR,SEED_BUY,58.05178452299849,10.4399995803833,606.060606060606,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-11-18)
+2026-01-01,VBNK,SEED_BUY,66.89286319873096,14.949277877807617,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-12-10)
+2026-01-01,VISN,SEED_BUY,196.86780398006493,5.079550743103027,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-15)
+2026-01-01,WSBF,SEED_BUY,62.95315784013494,15.88482666015625,1000.0,0.0,Seeded active BUY as of 2026-01-01 (originally picked 2025-10-17)
+2026-01-05,HRTG,ADD,18.573551210362204,26.920000076293945,500.0,0.0,"Lastly, have been adding to some insurance and banking names such as OPY and HRTG (below 28)."
+2026-01-05,OPY,ADD,6.787688366223628,73.66278076171875,500.0,0.0,"Lastly, have been adding to some insurance and banking names such as OPY and HRTG (below 28)."
+2026-01-05,PSIX,BUY,37.14907574666559,68.5199966430664,2545.4545454545455,0.0,"[Initiated via accumulation disclosure] I have been heavily adding to my PSIX (turbine) position, it is now a 2% position for me."
+2026-01-05,SMSD.IL,UPGRADE_ADD,0.28388786651060227,1761.2587890625,500.0,0.0,"bought more Samsung Preferred Shares (SMSD), which are trading at just 7x 2026 Consensus Earnings."
+2026-01-06,HY9H.F,ADD,0.9549962690948309,523.5622548284009,500.0,0.0,"added more Hynix and Samsung as well, getting up to a 5% combined weight for them."
+2026-01-06,PSIX,ADD,7.358352059689601,67.94999694824219,500.0,0.0,I added a bit more PSIX on the dip.
+2026-01-16,WLFC,BUY,10.433559649048652,60.99199676513672,636.3636363636364,0.0,"[Initiated via accumulation disclosure] The name is up huge so I am obviously late to the party, but WLFC has all the markings of a future darling and I think it might continue to move, so I added it at 0.5% weight to my"
+2026-01-23,CUBI,UPGRADE_ADD,6.709608461134058,74.5199966430664,500.0,0.0,picked up some CUBI at 73 and OPBK at 14.
+2026-01-23,OPBK,UPGRADE_ADD,36.89687569275593,13.55128288269043,500.0,0.0,picked up some CUBI at 73 and OPBK at 14.
+2026-01-28,285A.T,UPGRADE_ADD,12.091106176931243,41.35270939510527,500.0,0.0,"I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first."
+2026-01-28,HY9H.F,UPGRADE_ADD,0.7989698899209615,625.8058110919083,500.0,0.0,"I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first."
+2026-02-02,285A.T,ADD,12.701332363698322,39.365948837702256,500.0,0.0,"The only names I have added to in the past few days are Hynix, and then to a lesser extent Kioxia."
+2026-02-02,HY9H.F,ADD,0.8072360395375241,619.3975188303739,500.0,0.0,"The only names I have added to in the past few days are Hynix, and then to a lesser extent Kioxia."
+2026-02-03,FRSH,SELL,-86.20689371678274,9.529999732971191,821.5516741012154,-178.44832589878456,"What I feel more confident in, however, is simply steering my Portfolio clear of setups with limited upside and decent downside (had to close FRSH out today)."
+2026-02-04,HY9H.F,ADD,0.8638991824097961,578.7712387981192,500.0,0.0,"Added to PSIX and Hynix today, so happy to see that"
+2026-02-04,PSIX,ADD,7.131650201785567,70.11000061035156,500.0,0.0,"Added to PSIX and Hynix today, so happy to see that"
+2026-02-05,HY9H.F,ADD,0.8811114735609148,567.4650881338603,500.0,0.0,Added a bit more Hynix today.
+2026-02-06,CRE.L,BUY,1.854736556793781,539.1601283411728,1000.0,0.0,"[Initiated via accumulation disclosure] The only names I have been adding to recently (aside from Hynix) are Conduit Insurance and IES Holdings, which I wrote about Tuesday."
+2026-02-06,HY9H.F,ADD,0.8152352463619168,613.3199002757901,500.0,0.0,"The only names I have been adding to recently (aside from Hynix) are Conduit Insurance and IES Holdings, which I wrote about Tuesday."
+2026-02-06,NECB,TRIM,-15.165147446241551,24.103235244750977,365.52911641809465,32.196116418094675,I trimmed a good chunk of NECB today.
+2026-02-10,HRTG,ADD,20.072260259445358,24.90999984741211,500.0,0.0,"Have been adding to AII, and also to HRTG."
+2026-02-17,KSPI,BUY,14.808059655222747,67.53079223632812,1000.0,0.0,I bought some KSPI
+2026-03-09,3600.HK,BUY,1482.435407001456,0.6745656473645045,1000.0,0.0,[Initiated via accumulation disclosure] I have been steadily adding to Modern Dental Group ahead of 2025 H2 earnings.
+2026-03-09,9478.T,ADD,171.8014126715247,2.9103369537244363,500.0,0.0,Adding to SE Holdings and Incubations (9478 JP)
+2026-03-09,EVC,BUY,325.5423313676731,3.0717971324920654,1000.0,0.0,New Position: Entravision (EVC US)
+2026-03-09,OSB.L,ADD,0.6599384339233886,757.6464323004475,500.0,0.0,Adding to OSB Group (OSB LN)
+2026-03-23,HY9H.F,ADD,0.7512400830132175,665.5661902310967,500.0,0.0,I just added a bit of Hynix.
+2026-03-23,VISN,UPGRADE_ADD,101.49085404775909,4.9265522956848145,500.0,0.0,Now down to 0.64x Tangible Book Value so I bought more and will buy more tonight up to 470.
+2026-03-25,HY9H.F,UPGRADE_ADD,0.7663404001633399,652.4515736002286,500.0,0.0,"No impact on SanDisk, Micron should be up if Hynix holds this move, but leading up to the list I'd guess Micron has a bit of selling as people make room for Hynix at a cheaper mult"
+2026-03-25,OSB.L,UPGRADE_ADD,0.6786764060718263,736.7281307066442,500.0,0.0,Picked up more OSB Group
+2026-03-27,HRTG,UPGRADE_ADD,19.372336704608447,25.809999465942383,500.0,0.0,Bought some HRTG and IGIC today
+2026-03-27,IGIC,UPGRADE_ADD,21.717228829773706,23.023195266723633,500.0,0.0,Bought some HRTG and IGIC today
+2026-04-01,HRTG,ADD,19.84914606587584,25.190000534057617,500.0,0.0,"I have also added more HRTG < 26, which has a habit of trading into the 24-25 range before bouncing to 27-28, in fact, it's done this about 5 times over the last 6 months."
+2026-04-01,HY9H.F,UPGRADE_ADD,0.8247882305793915,606.2162158264109,500.0,0.0,"Over the past month it has been a very bumpy ride, but I've held Samsung and Hynix at 5% each, and if you are thinking of initiating a position I think it makes sense to spread you"
+2026-04-07,OSB.L,ADD,0.7267258512380689,688.0173577810492,500.0,0.0,Haven't been doing much these days other than adding to my OSB Position.
+2026-04-17,7089.T,BUY,130.06128049364276,7.688683336074634,1000.0,0.0,Long 7089 JT Equity (For Startups)
+2026-04-17,9220.T,BUY,131.92818051622453,7.5798816908342035,1000.0,0.0,Long 9220 JT Equity (FB Care Services)
+2026-04-17,CCV.AX,UPGRADE_ADD,2453.6227087108305,0.203780311547046,500.0,0.0,Long CCV AU (Cash Converters)
+2026-04-17,EVC,ADD,143.29775224008648,3.4892382621765137,500.0,0.0,"Added a bit of EVC today, but it's a much more speculative trade"
+2026-04-17,FB,BUY,23.226517555183623,43.054237365722656,1000.0,0.0,"[Initiated via accumulation disclosure] I have several outstanding orders in the 1100 – 1200 range, and when blocks occasionally come online, I add to my position."
+2026-04-17,HRTG,ADD,18.36884689981213,27.219999313354492,500.0,0.0,I have been steadily adding to my Heritage Insurance (HRTG) position.
+2026-04-17,KSPI,ADD,6.152271921857435,81.27079010009766,500.0,0.0,I have been adding to my Kaspi (KSPI) position.
+2026-04-17,MOMO,BUY,156.2499976716936,6.400000095367432,1000.0,0.0,Long MOMO US Equity
+2026-04-24,HRTG,ADD,17.08233659652637,29.270000457763672,500.0,0.0,added more HRTG.
+2026-04-27,CUBI,ADD,6.416837933131175,77.91999816894531,500.0,0.0,"For banks I have been adding to CUBI < 74, for insurance HRTG < 28"
+2026-04-27,HRTG,ADD,16.722408240103427,29.899999618530273,500.0,0.0,"For banks I have been adding to CUBI < 74, for insurance HRTG < 28"
+2026-04-30,ASIC,BUY,52.63157894736842,19.0,1000.0,0.0,"[Initiated via accumulation disclosure] I added to my position today, I think eventually Ategrity will trade at 12-14x, implying the mid to high 20s."
+2026-04-30,VISN,ADD,68.5481693637452,7.294140815734863,500.0,0.0,"I added to my position near $3, below current Tangible Book Value of $3.15."
+2026-05-05,PENG,BUY,27.434841675415004,36.45000076293945,1000.0,0.0,"[Initiated via accumulation disclosure] I added a small, speculative starter position today in PENG (Penguin Solutions)"
+2026-05-06,013030.KQ,BUY,32.90089198521205,30.394312727128174,1000.0,0.0,"[disclosed_owned_by_2026-05-06_accumulated_prior_days] Small positions in both, waiting for Hy-lok to report first before adding more"
+2026-05-06,HY9H.F,TRIM,-2.657776750120016,1171.0515165911056,3112.393493988625,1531.586993988625,"Since April 27th, Hynix is up 10% and SK Square is up 24%, think there is nothing wrong here with paring back Square slightly."
+2026-05-06,PENG,TRIM,-9.144938080191109,38.9900016784668,356.56115109612625,23.228151096126282,"I picked up a few MU 630 Friday puts to protect my position, and also took some profit on PENG"
+2026-05-07,PENG,TRIM,-6.096628435106767,38.97999954223633,237.64657360964677,15.424462498646761,Closed out the other half of the PENG position for a 7% profit at $37.50.
+2026-05-11,139130.KS,BUY,24.16643110149122,13.166272539191125,318.1818181818182,0.0,"[disclosed_owned_by_2026-05-11_accumulated_prior_days] So far I have Hy-Lok, iM Financial, Hyundai Green Food, all at 0.25%, building the positions slowly"
+2026-05-11,453340.KS,BUY,77.5869720779848,12.88876177555779,1000.0,0.0,"I also started a new, position in Hyundai Green Food, 453340, a food distributor in Korea."
+2026-05-12,OSB.L,ADD,0.7557669943368255,661.5795658538154,500.0,0.0,OSB - I have been adding to this.
+2026-05-26,OSB.L,ADD,0.7265798465304205,688.1556134368584,500.0,0.0,"Another name I have been adding to is OSB Group, an English bank specializing in “buy-to-let” (loans to landlords purchasing properties specifically to rent them out)."
+2026-05-29,HRTG,ADD,23.06273030266666,21.68000030517578,500.0,0.0,I added to HRTG.
+2026-06-01,MOMO,ADD,81.56606699274134,6.130000114440918,500.0,0.0,I've been adding to all of them.
+2026-06-03,005935.KS,BUY,7.062323459918922,141.59645981599948,1000.0,0.0,"Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it ."
+2026-06-03,BARAX,BUY,11.848891557493005,84.39608001708984,1000.0,0.0,"Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it ."
+2026-06-12,013030.KQ,ADD,22.119242053685312,22.60475285665109,500.0,0.0,"I’ve also been steadily adding to small positions in Hyundai Green Food, iM Financial Group, and Hy-Lok."
+2026-06-12,013030.KQ,UPGRADE_ADD,22.119242053685312,22.60475285665109,500.0,0.0,"initating smaller positions in the Korea Value Basket (Hyundai Green Food, iM Financial Group, and Hy-Lok)"
+2026-06-12,139130.KS,ADD,42.86384194584217,11.664843310866596,500.0,0.0,"I’ve also been steadily adding to small positions in Hyundai Green Food, iM Financial Group, and Hy-Lok."
+2026-06-12,139130.KS,UPGRADE_ADD,42.86384194584217,11.664843310866596,500.0,0.0,"initating smaller positions in the Korea Value Basket (Hyundai Green Food, iM Financial Group, and Hy-Lok)"
+2026-06-12,402340.KS,BUY,1.1173637738459592,894.9636845286349,1000.0,0.0,"New Position: SK Square 402340 KS Equity, and Korea Value Basket: Hyundai Green Food 453340 KS Equity, iM Financial Group 139130 KS Equity, "
+2026-06-12,453340.KS,ADD,43.38573077029612,11.524526408169276,500.0,0.0,"I’ve also been steadily adding to small positions in Hyundai Green Food, iM Financial Group, and Hy-Lok."
+2026-06-12,453340.KS,UPGRADE_ADD,43.38573077029612,11.524526408169276,500.0,0.0,"initating smaller positions in the Korea Value Basket (Hyundai Green Food, iM Financial Group, and Hy-Lok)"
+2026-06-12,CBL,TRIM,-27.33648017142619,49.12931442260742,1343.0225295493703,373.32652954937043,Reduce CBL & Associates (CBL)
+2026-06-12,CCV.AX,ADD,2492.3001418176586,0.20061789172605238,500.0,0.0,"Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remain convicted to them and have been adding"
+2026-06-12,CTT.LS,BUY,144.21704154858375,6.933993301083774,1000.0,0.0,"[Initiated via accumulation disclosure] Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remain convicted to them and have been adding"
+2026-06-12,HRTG,ADD,22.2717141651684,22.450000762939453,500.0,0.0,"I’ve been adding to OSB Group in the 490p - 510p range, and Heritage Insurance in the $21 - $22 range, and I find both highly compelling at current prices."
+2026-06-12,OSB.L,ADD,0.7197611975272614,694.6748473212356,500.0,0.0,"I’ve been adding to OSB Group in the 490p - 510p range, and Heritage Insurance in the $21 - $22 range, and I find both highly compelling at current prices."
+2026-06-12,VISN,ADD,69.27913430681356,7.217180252075195,500.0,0.0,Position Increase: Vistance Networks (VISN)
+2026-06-15,139130.KS,UPGRADE_ADD,41.675869685256764,11.997350115932429,500.0,0.0,Picked up some iM Financial.
+2026-06-18,NRG,BUY,4.75193303390744,133.9167938232422,636.3636363636364,0.0,"I picked up some NRG at 0.5% weight today at 139, trading at just 14x earnings with a history of increasing dividends and share buybacks."
+2026-06-23,HRTG,TRIM,-70.67733632842814,24.950000762939453,1763.3995953168105,-69.93190468318949,"I didn't touch any of my positions today aside from trimming HRTG, will be back in front of my screen more next week."
+2026-07-02,HRTG,TRIM,-47.1182477780642,27.1200008392334,1277.8469192843083,55.625308173808435,"Closed out the other half of GMRS to lock in a 25% gain, and have also trimmed HRTG down to just 1% of my Portfolio - I think it really makes sense to take profits on this name."
+2026-07-02,MOMO,ADD,85.17887729948022,5.869999885559082,500.0,0.0,"I add to my position each day below 12, the sale to BDC has just gone through, I expect a large dividend announcement shortly"
+2026-07-02,VISN,ADD,72.1871528159761,6.926440238952637,500.0,0.0,"Only position I am adding to today is VISN at the close, and will be buying back some of my DRAM short at the close to keep the Memory and Storage basket at a constant 17.5% weight"
+2026-07-09,CBK,BUY,30.550022538659512,32.73320007324219,1000.0,0.0,"[Initiated via accumulation disclosure] Also added a bit to my ACIC short, looks like insurance is cooling off and I think the ACIC valuation is pretty misleading - commercial insurance rates have deteriorated significan"
+2026-07-10,OSB.L,TRIM,-1.8094855123714635,738.3587478934351,1336.0494572459045,2.7174572459045976,I trimmed a bit of the OSB I added at 500 for a 9% profit here at 547.50 (closing auction).
+2026-07-14,HRTG,TRIM,-31.412180891458725,27.5,863.8349745151149,49.020159700911336,"I've heavily trimmed HRTG down to just 1% (was a 6% position at $21, but here at $28 I don't have much conviction on it)"
+2026-07-16,NRG,UPGRADE_ADD,3.798631273210364,131.62635803222656,500.0,0.0,I also started a new position in NRG Energy (NRG US)
+2026-07-27,OPY,TRIM,-10.317959843820427,109.8289566040039,1133.2107639288085,383.21076392880855,"OPY - Half exit (+59%) I trimmed another portion of OPY (Oppenheimer) which was featured in Capital Markets With A Value Twist (July 17, 202"
+2026-07-29,HRTG,SELL,-62.82445601955437,29.84000015258789,1874.6817772097536,245.04970313445733,"Review removal disclosure (Heritage Insurance Holdings (HRTG) +17% - Exited July 29, 2026)"
+2026-07-29,WSBF,SELL,-62.95315784013494,20.39185905456543,1283.7319217158424,283.7319217158424,I've totally sold HRTG and WSBF
+2026-08-06,VISN,SELL,-508.3731145143589,5.757781982421875,2927.1015590984684,-72.89844090153156,Trade Update on VISN: Got stopped out on Vistance (VISN) at 10.62.
+2026-08-13,7380.T,BUY,61.88657627688909,16.158593028734728,1000.0,0.0,"[disclosed_owned_by_2026-08-13_accumulated_prior_days] Some big ATHs today in the Portfolio mostly within the financials basket, CUBI, MRX, Japanese Banks (8399 7167 7380)."
+2026-08-13,8399.T,BUY,50.59820093907197,19.763548534149546,1000.0,0.0,"[disclosed_owned_by_2026-08-13_accumulated_prior_days] Some big ATHs today in the Portfolio mostly within the financials basket, CUBI, MRX, Japanese Banks (8399 7167 7380)."
+2026-08-18,NRG,SELL,-8.550564307117803,114.98857879638672,983.2172375825872,-153.14639878104924,One of the trades I am cutting today is NRG Energy (NRG) for a 15% loss.
+2026-08-21,EVC,SELL,-468.8400836077596,8.020307540893555,3760.241658032479,2260.241658032479,EVC - Closing Entravision Position for +175%
+2026-08-26,139130.KS,ADD,39.20232662413096,12.754345036557739,500.0,0.0,Steadily adding to the iM Financial Group (139130 KS) position.
+2026-08-28,9478.T,ADD,151.44581667823937,3.3015108041068983,500.0,0.0,"One of my favorite Japan ideas, SE Holdings and Incubations 9478 JP, is selling off tonight, and I'm quickly adding to the dip."
+2026-09-03,6626.T,BUY,70.47583332611558,14.189261095681706,1000.0,0.0,Review addition disclosure (Semitec (6626 JT) - Added September 3)
+2026-09-03,ABCA.PA,BUY,164.72520760581256,6.070716282798685,1000.0,0.0,Review addition disclosure (ABC Arbitrage (ABCA FP) - Added September 3)
+2026-09-03,GOOGL,ADD,1.4608776536364654,342.260009765625,500.0,0.0,I added a little more GOOGL for the first time since July 2025.
+2026-09-10,MOMO,SELL,-322.99494196391515,5.039999961853027,1627.894495176853,-372.10550482314693,Trade update on MOMO (Closing for -15%):
+2026-09-14,IESC,BUY,3.1294008393074444,319.54998779296875,1000.0,0.0,"picked up some Western Digital today and also a little IESC, in addition to Samsung Preferred."
+2026-09-14,SMSD.IL,UPGRADE_ADD,0.15082956259426847,3315.0,500.0,0.0,"picked up some Western Digital today and also a little IESC, in addition to Samsung Preferred."
+2026-09-14,WDC,BUY,2.3422494830224796,426.94000244140625,1000.0,0.0,"picked up some Western Digital today and also a little IESC, in addition to Samsung Preferred."
+2026-09-15,CBL,SELL,-54.67304235237491,53.2599983215332,2911.886143920601,972.4912348296921,"Review removal disclosure (CBL Properties (CBL) +114% - Exited September 15, 2026)"
+2026-09-21,GDDY,BUY,9.544717304963083,104.7699966430664,1000.0,0.0,Review addition disclosure (GoDaddy (GDDY) - Added September 21)
+2026-09-28,ASIC,SELL,-52.63157894736842,26.56999969482422,1398.4210365696956,398.4210365696956,"Review removal disclosure (Ategrity Specialty Insurance (ASIC) +39% - Exited September 28, 2026)"
+2026-10-01,402340.KS,SELL,-1.1173637738459592,851.2426145272888,951.1476602267126,-48.85233977328744,Review removal disclosure (SK Square (402340) +44% - Exited October 1)
+2026-10-13,SMSD.IL,ADD,0.1524390243902439,3280.0,500.0,0.0,"I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes."
+2026-10-14,IFOS.V,SELL,-456.49000008900964,1.4138202885212339,645.3948236329016,-354.60517636709835,Closing out the IFOS position today for a 30% loss.
+2026-10-15,7167.T,TRIM,-74.90861610709001,9.917255916080862,742.8879162534686,242.88791625346857,"cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half."
+2026-10-15,7380.T,TRIM,-30.943288138444544,15.985363031027244,494.63969426671525,-5.360305733284747,"cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half."
+2026-10-15,8399.T,TRIM,-25.299100469535986,18.15684006850936,459.351721102515,-40.648278897485,"cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half."
+2026-10-16,9478.T,UPGRADE_ADD,158.45992522153682,3.155371929533407,500.0,0.0,"and SE Holdings And Incubations barreling back towards 500: picked up some more last night, earnings next week, hoping for 790+ in Tangible Boo Value and another 2-3% share repurch"
+2026-10-16,GDDY,TRIM,-3.181572434987694,105.95999908447266,337.11941229847946,3.786078965146146,"Taking a third of the position off here, holding the rest into earnings on the 29th."
+2026-10-16,VISN,BUY,172.4137874335655,5.800000190734863,1000.0,0.0,"and SE Holdings And Incubations barreling back towards 500: picked up some more last night, earnings next week, hoping for 790+ in Tangible Boo Value and another 2-3% share repurch"
+2026-10-22,7167.T,SELL,-74.90861610709001,9.343459670671779,699.9056335824299,199.9056335824299,Tonight I fully cut the Mebuki and Juroku positions
+2026-10-22,7380.T,SELL,-30.943288138444544,14.79143970876568,457.6957808907667,-42.304219109233316,Tonight I fully cut the Mebuki and Juroku positions
+2026-10-23,8399.T,SELL,-25.299100469535986,17.400027749634337,440.20505021071324,-59.79494978928676,"Trade update on Ryukyus 8399: I decided to let go of the last portion of Ryukyus, so now I'm fully out of Japanese banks."
+2026-10-30,285A.T,SELL,-34.831836629104124,85.35905254024838,2973.2125728970473,1730.7883304728048,Trade Update on Kioxia (Closed)
+2026-10-30,GDDY,SELL,-6.363144869975389,117.23999786376953,746.0150909627706,79.34842429610387,Trade Update on GoDaddy (Closing Later Today)
+2026-10-30,OPY,UPGRADE_ADD,5.800464242478098,86.19999694824219,500.0,0.0,Dip Buying OPY
+2026-10-30,VISN,ADD,76.45259983431731,6.539999961853027,500.0,0.0,"I added several hundred shares today, and will be adding more next week after the Midterm results is digested."

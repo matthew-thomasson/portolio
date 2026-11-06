@@ -1,12 +1,6 @@
-checkpoint_id,date,title,type,status,matched,discrepancies,notes
-btt-01-2026-01-02,2026-01-02,January 2026 Portfolio Snapshot,COMPLETE_SNAPSHOT,FULLY_RECONCILED,33,0,Point-in-time Datawrapper portfolio snapshot
-btt-02-2026-02-06,2026-02-06,February 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,33,0,Point-in-time Datawrapper portfolio snapshot
-btt-03-2026-03-06,2026-03-06,March 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,34,0,Point-in-time Datawrapper portfolio snapshot
-btt-04-2026-04-03,2026-04-03,April 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,31,0,Point-in-time Datawrapper portfolio snapshot
-btt-05-2026-05-08,2026-05-08,May 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,32,0,Point-in-time Datawrapper portfolio snapshot
-btt-06-2026-06-05,2026-06-05,June 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,31,0,Point-in-time Datawrapper portfolio snapshot
-btt-07-2026-07-03,2026-07-03,July 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,29,0,Point-in-time Datawrapper portfolio snapshot
-btt-08-2026-08-07,2026-08-07,August 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,30,0,Point-in-time Datawrapper portfolio snapshot
-btt-09-2026-09-04,2026-09-04,September 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,30,0,Point-in-time Datawrapper portfolio snapshot
-btt-10-2026-10-02,2026-10-02,October 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,30,0,Point-in-time Datawrapper portfolio snapshot
-btt-11-2026-11-02,2026-11-02,November 2026 Portfolio Review,COMPLETE_SNAPSHOT,FULLY_RECONCILED,31,0,Point-in-time Datawrapper portfolio snapshot
+checkpoint_id,checkpoint_date,evaluation_date,checkpoint_type,title,disclosed_active_count,disclosed_closed_count,simulated_active_count,unresolved_errors,warnings,disclosed_active_tickers,simulated_active_tickers
+beatingthetide-dw-picks-2025-06-30,2025-06-30,2025-06-30,TABLE_SNAPSHOT,Datawrapper Pick Tracker Point-in-Time Verification (2025-06-30),8,0,15,0,0,"IBEX,ITRN,JD,NGD,ODC,PYPL,QFIN,RYAM","BSVN,DXPE,FINV,GPN,IBEX,ITRN,JD,KINS,NGD,NWG,ODC,PYPL,QFIN,RYAM,WGS"
+beatingthetide-dw-picks-2025-12-31,2025-12-31,2025-12-31,TABLE_SNAPSHOT,Datawrapper Pick Tracker Point-in-Time Verification (2025-12-31),12,3,21,0,0,"BSVN,HRTG,IBEX,JD,KB,MU,NGD,PARR,PYPL,RYAM,TPC,VEON","BSVN,DXPE,EPC,GPN,HRTG,IBEX,JD,KB,KINS,KT,MU,NGD,NWG,PARR,PYPL,RYAM,TGLS,TPC,TSM,VEON,WGS"
+beatingthetide-dw-picks-2026-06-30,2026-06-30,2026-06-30,TABLE_SNAPSHOT,Datawrapper Pick Tracker Point-in-Time Verification (2026-06-30),13,8,22,0,0,"ATI,BSVN,DAR,DELL,IBEX,KB,MU,NESR,PARR,RYAM,SNEX,TPC,VEON","ATI,BSVN,DAR,DELL,DQ,DXPE,EPC,GPN,IBEX,KB,KT,MTRN,MU,NESR,PARR,RYAM,SNEX,TGLS,TPC,TSM,VEON,WGS"
+beatingthetide-dw-picks-2026-08-17,2026-08-17,2026-08-17,TABLE_SNAPSHOT,Datawrapper Pick Tracker Point-in-Time Verification (2026-08-17),15,8,27,0,0,"ATI,BSVN,CSTM,DAR,DELL,IBEX,KB,MU,NESR,OSCR,PARR,RYAM,SNEX,TPC,VEON","AR,ATI,BSVN,CSTM,DAR,DELL,DQ,DXPE,EPC,GPN,IBEX,KB,KT,MTRN,MU,NESR,OSCR,PARR,RYAM,SNEX,SPCX,STRL,TGLS,TPC,TSM,VEON,WGS"
+beatingthetide-dw-full-2026-11-05,2026-11-05,2026-11-05,BASKET_SNAPSHOT,Portfolio Allocation Snapshot (2025-01-11__svif-usa-portfolio__IOJBk.csv),27,0,33,0,0,"ATI,BAC,BRK.B,BSVN,CDE,CLS,CRDO,CSTM,CVSA,DAR,DELL,DXPE,EAT,FTK,IBEX,KB,MU,NESR,OSCR,PARR,POWL,RYAM,SNEX,STRL,TPC,TSM,VEON","AGX,AR,ATI,BAC,BSVN,CRDO,CSTM,DAR,DELL,DQ,DXPE,EPC,FTK,GPN,IBEX,ILC.SN,KB,KT,MTRN,MU,NESR,OSCR,PARR,RYAM,SNEX,SPCX,SQM,STRL,TGLS,TPC,TSM,VEON,WGS"

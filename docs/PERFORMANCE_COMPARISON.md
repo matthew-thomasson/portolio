@@ -14,21 +14,21 @@ All backtests use identical, dollar-matched cash-flow conditions:
 
 | Publication | Strategy | Capital Invested ($) | Net Profit ($) | ROI (%) | Annualized XIRR (%) | Matched SPY XIRR (%) | Alpha vs SPY (%) |
 |---|---|---|---|---|---|---|---|
-| **Beating The Tide** | **Strategy A** | $17,929.76 | +$2,949.16 | **+16.45%** | **+23.23%** | +10.12% | **+13.11%** |
-| | **Strategy B** | $8,500.00 | +$644.00 | **+7.58%** | **+15.83%** | +7.44% | **+8.39%** |
-| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** |
-| | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** |
-| **Cluseau** | **Strategy A** | $21,314.80 | +$4,829.21 | **+22.66%** | **+33.12%** | +10.26% | **+22.86%** |
-| | **Strategy B** | $11,950.62 | +$1,792.65 | **+15.00%** | **+29.74%** | +8.07% | **+21.67%** |
+| **Beating The Tide** | **Strategy A** | $29,514.79 | +$6,132.44 | **+20.78%** | **+31.12%** | +10.20% | **+20.92%** |
+| | **Strategy B** | $14,080.29 | +$1,905.64 | **+13.53%** | **+34.04%** | +7.40% | **+26.64%** |
+| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** |
+| | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** |
+| **Cluseau** | **Strategy A** | $60,139.92 | +$12,762.47 | **+21.22%** | **+30.35%** | +11.12% | **+19.23%** |
+| | **Strategy B** | $34,109.25 | +$6,306.32 | **+18.49%** | **+31.53%** | +10.63% | **+20.90%** |
 
 ---
 
 ## 2. Key Performance Observations
 
 ### Strategy A vs. Strategy B Sensitivity
-- **Beating The Tide**: Severe penalty for entering late if missing pre-existing winners. While Strategy B achieved +7.58% ROI (+15.83% XIRR), nearly the entire dollar gain was concentrated in a single ticker (`DELL` +122.3%, +$1,834.25). Without `DELL`, Strategy B was heavily underwater (-$1,190.25). In contrast, Strategy A benefited from 2025 positions (`MU` +121.0%, `VEON` +44.5%).
+- **Beating The Tide**: Benefited strongly from pre-existing 2025 positions (`MU` +121.0%, `VEON` +44.5%) and `DELL` (+283.6%). Strategy A generated +20.78% ROI (+31.12% XIRR), while Strategy B achieved +13.53% ROI (+34.04% XIRR).
 - **TJ Stocks**: Zero difference between Strategy A and Strategy B. The model **StockTok ETF** was constructed from scratch on January 14, 2026, meaning an investor starting on Jan 1 faced no legacy bagholding risk or missing past run-ups. The ETF 2.0 rebalance on July 28 properly sold `SPB`, `MSCI`, and `FDX` while adding `CAKE`, `CNXN`, and `FELE`.
-- **Cluseau**: In the original un-audited ledger, Cluseau showed an apparent +38.00% Strategy A ROI. Following the comprehensive completeness audit (which resolved 20 paywall stubs, added 27 previously omitted international positions, and closed `IFOS` on October 14 per Chat Msg #29), Strategy A returned **+22.66% ROI (+33.12% XIRR)** and Strategy B returned **+15.00% ROI (+29.74% XIRR)**. While the inclusion of underwater Korean holdings normalized headline returns, Cluseau generated substantial alpha over the S&P 500 (+22.86% Strategy A Alpha / +21.67% Strategy B Alpha), driven by extraordinary realized exits (`EVC` +161.1%, `POWL` +68.4%, `CBL` +51.3%, `SK Square` +44.1%).
+- **Cluseau**: In the original un-audited ledger, Cluseau showed an apparent +38.00% Strategy A ROI. Following the comprehensive completeness audit (which resolved 20 paywall stubs, added all international positions, Korean baskets, European GDRs, and Japanese deep value), Strategy A returned **+21.22% ROI (+30.35% XIRR)** and Strategy B returned **+18.49% ROI (+31.53% XIRR)**. Cluseau generated substantial alpha over the S&P 500 (+19.23% Strategy A Alpha / +20.90% Strategy B Alpha), driven by extraordinary realized exits (`285A.T` +184.6%, `EVC` +150.7%, `HY9H.F` +86.0%, `SMSD.IL` +32.9%, `SK Square` +18.5%).
 
 ---
 

@@ -1,0 +1,361 @@
+{
+  "strategy_name": "Seed Active BUYs at T0 + Follow Trades",
+  "start_date": "2026-01-01",
+  "end_date": "2026-11-05",
+  "geographic_attribution": [
+    {
+      "region": "Continental Europe",
+      "positions_count": 3,
+      "open_positions_count": 3,
+      "capital_deployed_usd": 7500.0,
+      "realized_pnl_usd": 1934.8,
+      "unrealized_pnl_usd": 2603.87,
+      "total_pnl_usd": 4538.67,
+      "tickers": [
+        "ABCA.PA",
+        "CTT.LS",
+        "HY9H.F"
+      ],
+      "return_on_deployed_pct": 60.52
+    },
+    {
+      "region": "Japan",
+      "positions_count": 8,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 9500.0,
+      "realized_pnl_usd": 3986.66,
+      "unrealized_pnl_usd": 423.63,
+      "total_pnl_usd": 4410.29,
+      "tickers": [
+        "285A.T",
+        "6626.T",
+        "7089.T",
+        "7167.T",
+        "7380.T",
+        "8399.T",
+        "9220.T",
+        "9478.T"
+      ],
+      "return_on_deployed_pct": 46.42
+    },
+    {
+      "region": "United States",
+      "positions_count": 34,
+      "open_positions_count": 23,
+      "capital_deployed_usd": 44000.0,
+      "realized_pnl_usd": 3172.13,
+      "unrealized_pnl_usd": -967.2,
+      "total_pnl_usd": 2204.93,
+      "tickers": [
+        "ACFN",
+        "AGM",
+        "AII",
+        "ALKT",
+        "ASIC",
+        "BARAX",
+        "BITW",
+        "CBL",
+        "CUBI",
+        "EVC",
+        "FB",
+        "FRSH",
+        "GDDY",
+        "GDOT",
+        "GOOGL",
+        "HRTG",
+        "IESC",
+        "IGIC",
+        "KSPI",
+        "MBIN",
+        "MOMO",
+        "NECB",
+        "NRG",
+        "OPBK",
+        "OPY",
+        "PENG",
+        "PFF",
+        "PSIX",
+        "TIGR",
+        "VBNK",
+        "VISN",
+        "WDC",
+        "WLFC",
+        "WSBF"
+      ],
+      "return_on_deployed_pct": 5.01
+    },
+    {
+      "region": "United Kingdom / LSE",
+      "positions_count": 4,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 7500.0,
+      "realized_pnl_usd": 3.4,
+      "unrealized_pnl_usd": 1353.5,
+      "total_pnl_usd": 1356.9,
+      "tickers": [
+        "CGEO.L",
+        "CRE.L",
+        "OSB.L",
+        "SMSD.IL"
+      ],
+      "return_on_deployed_pct": 18.09
+    },
+    {
+      "region": "South Korea",
+      "positions_count": 5,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 8000.0,
+      "realized_pnl_usd": 553.63,
+      "unrealized_pnl_usd": -32.66,
+      "total_pnl_usd": 520.97,
+      "tickers": [
+        "013030.KQ",
+        "139130.KS",
+        "244920.KS",
+        "402340.KS",
+        "453340.KS"
+      ],
+      "return_on_deployed_pct": 6.51
+    },
+    {
+      "region": "Hong Kong",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 398.08,
+      "total_pnl_usd": 398.08,
+      "tickers": [
+        "3600.HK"
+      ],
+      "return_on_deployed_pct": 39.81
+    },
+    {
+      "region": "Australia",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": -123.53,
+      "total_pnl_usd": -123.53,
+      "tickers": [
+        "CCV.AX"
+      ],
+      "return_on_deployed_pct": -12.35
+    },
+    {
+      "region": "Canada",
+      "positions_count": 1,
+      "open_positions_count": 0,
+      "capital_deployed_usd": 1500.0,
+      "realized_pnl_usd": -543.85,
+      "unrealized_pnl_usd": 0.0,
+      "total_pnl_usd": -543.85,
+      "tickers": [
+        "IFOS.V"
+      ],
+      "return_on_deployed_pct": -36.26
+    }
+  ],
+  "simulated_instruments": [
+    {
+      "instrument_type": "long_equity",
+      "positions_count": 55,
+      "capital_deployed_usd": 76500.0,
+      "total_pnl_usd": 11811.34,
+      "tickers": [
+        "013030.KQ",
+        "139130.KS",
+        "244920.KS",
+        "285A.T",
+        "3600.HK",
+        "402340.KS",
+        "453340.KS",
+        "6626.T",
+        "7089.T",
+        "7167.T",
+        "7380.T",
+        "8399.T",
+        "9220.T",
+        "9478.T",
+        "ABCA.PA",
+        "ACFN",
+        "AGM",
+        "AII",
+        "ALKT",
+        "ASIC",
+        "BITW",
+        "CBL",
+        "CCV.AX",
+        "CGEO.L",
+        "CRE.L",
+        "CTT.LS",
+        "CUBI",
+        "EVC",
+        "FB",
+        "FRSH",
+        "GDDY",
+        "GDOT",
+        "GOOGL",
+        "HRTG",
+        "HY9H.F",
+        "IESC",
+        "IFOS.V",
+        "IGIC",
+        "KSPI",
+        "MBIN",
+        "MOMO",
+        "NECB",
+        "NRG",
+        "OPBK",
+        "OPY",
+        "OSB.L",
+        "PENG",
+        "PFF",
+        "PSIX",
+        "TIGR",
+        "VBNK",
+        "VISN",
+        "WDC",
+        "WLFC",
+        "WSBF"
+      ]
+    },
+    {
+      "instrument_type": "mutual_fund",
+      "positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "total_pnl_usd": 129.44,
+      "tickers": [
+        "BARAX"
+      ]
+    },
+    {
+      "instrument_type": "preferred",
+      "positions_count": 1,
+      "capital_deployed_usd": 2500.0,
+      "total_pnl_usd": 821.68,
+      "tickers": [
+        "SMSD.IL"
+      ]
+    }
+  ],
+  "excluded_non_equity": {
+    "total_excluded_events": 70,
+    "by_type": {
+      "option_call": {
+        "events_count": 3,
+        "tickers": [
+          "ACMR",
+          "CRWV",
+          "WDC"
+        ]
+      },
+      "option_collar": {
+        "events_count": 11,
+        "tickers": [
+          "EVC",
+          "IESC",
+          "MTUM",
+          "POWL",
+          "WDC"
+        ]
+      },
+      "option_put": {
+        "events_count": 5,
+        "tickers": [
+          "FIX",
+          "GOOGL",
+          "WDC"
+        ]
+      },
+      "short": {
+        "events_count": 51,
+        "tickers": [
+          "9478.T",
+          "ACIC",
+          "AII",
+          "AJG",
+          "BKNG",
+          "BMBL",
+          "CRWV",
+          "CTAS",
+          "HPQ",
+          "HRTG",
+          "HY9H.F",
+          "IGIC",
+          "JPM",
+          "KNSL",
+          "MTUM",
+          "SLDE",
+          "SMR",
+          "UBER",
+          "UVE"
+        ]
+      }
+    }
+  },
+  "discovery_layer_counts": {
+    "primary_chat": 119,
+    "primary_article": 17,
+    "checkpoint_review": 13
+  },
+  "date_uncertainty_disclosures": [
+    {
+      "date": "2025-11-13",
+      "ticker": "7167.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "CUBI",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "OSB.L",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2026-05-06",
+      "ticker": "013030.KQ",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-05-06_accumulated_prior_days",
+      "source_slug": "chat:cffb4bf4:reply:d94f8a5e"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "139130.KS",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-05-11_accumulated_prior_days",
+      "source_slug": "chat:1886c385:reply:9be38d27"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "7380.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-08-13_accumulated_prior_days",
+      "source_slug": "chat:3b055e3f"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "8399.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-08-13_accumulated_prior_days",
+      "source_slug": "chat:3b055e3f"
+    }
+  ]
+}

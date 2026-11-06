@@ -1,0 +1,187 @@
+{
+  "strategy_name": "Seed Active BUYs at T0 + Follow Trades",
+  "start_date": "2025-06-01",
+  "end_date": "2026-11-05",
+  "geographic_attribution": [
+    {
+      "region": "United States",
+      "positions_count": 35,
+      "open_positions_count": 27,
+      "capital_deployed_usd": 37500.0,
+      "realized_pnl_usd": 4238.17,
+      "unrealized_pnl_usd": 6798.2,
+      "total_pnl_usd": 11036.37,
+      "tickers": [
+        "AGX",
+        "AR",
+        "ARQT",
+        "ATI",
+        "AXIA",
+        "BAC",
+        "BSVN",
+        "CRDO",
+        "DAR",
+        "DELL",
+        "DQ",
+        "DXPE",
+        "EQX",
+        "FTK",
+        "HRTG",
+        "IBEX",
+        "ITRN",
+        "KINS",
+        "LRN",
+        "MU",
+        "NESR",
+        "NGD",
+        "NWG",
+        "OSCR",
+        "PARR",
+        "PRTH",
+        "PYPL",
+        "RYAM",
+        "SNEX",
+        "SQM",
+        "STRL",
+        "TGLS",
+        "TPC",
+        "TSM",
+        "WFC"
+      ],
+      "return_on_deployed_pct": 29.43
+    },
+    {
+      "region": "South Korea",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 334.44,
+      "total_pnl_usd": 334.44,
+      "tickers": [
+        "KB"
+      ],
+      "return_on_deployed_pct": 33.44
+    },
+    {
+      "region": "Continental Europe",
+      "positions_count": 2,
+      "open_positions_count": 2,
+      "capital_deployed_usd": 2000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 213.25,
+      "total_pnl_usd": 213.25,
+      "tickers": [
+        "CSTM",
+        "VEON"
+      ],
+      "return_on_deployed_pct": 10.66
+    },
+    {
+      "region": "Canada",
+      "positions_count": 2,
+      "open_positions_count": 2,
+      "capital_deployed_usd": 2000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 93.26,
+      "total_pnl_usd": 93.26,
+      "tickers": [
+        "CLS.TO",
+        "MFC.TO"
+      ],
+      "return_on_deployed_pct": 4.66
+    },
+    {
+      "region": "Latin America",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": -84.53,
+      "total_pnl_usd": -84.53,
+      "tickers": [
+        "ILC.SN"
+      ],
+      "return_on_deployed_pct": -8.45
+    },
+    {
+      "region": "China / Taiwan ADR",
+      "positions_count": 3,
+      "open_positions_count": 0,
+      "capital_deployed_usd": 3000.0,
+      "realized_pnl_usd": -1013.51,
+      "unrealized_pnl_usd": 0.0,
+      "total_pnl_usd": -1013.51,
+      "tickers": [
+        "FINV",
+        "JD",
+        "QFIN"
+      ],
+      "return_on_deployed_pct": -33.78
+    }
+  ],
+  "simulated_instruments": [
+    {
+      "instrument_type": "long_equity",
+      "positions_count": 44,
+      "capital_deployed_usd": 46500.0,
+      "total_pnl_usd": 10579.28,
+      "tickers": [
+        "AGX",
+        "AR",
+        "ARQT",
+        "ATI",
+        "AXIA",
+        "BAC",
+        "BSVN",
+        "CLS.TO",
+        "CRDO",
+        "CSTM",
+        "DAR",
+        "DELL",
+        "DQ",
+        "DXPE",
+        "EQX",
+        "FINV",
+        "FTK",
+        "HRTG",
+        "IBEX",
+        "ILC.SN",
+        "ITRN",
+        "JD",
+        "KB",
+        "KINS",
+        "LRN",
+        "MFC.TO",
+        "MU",
+        "NESR",
+        "NGD",
+        "NWG",
+        "OSCR",
+        "PARR",
+        "PRTH",
+        "PYPL",
+        "QFIN",
+        "RYAM",
+        "SNEX",
+        "SQM",
+        "STRL",
+        "TGLS",
+        "TPC",
+        "TSM",
+        "VEON",
+        "WFC"
+      ]
+    }
+  ],
+  "excluded_non_equity": {
+    "total_excluded_events": 0,
+    "by_type": {}
+  },
+  "discovery_layer_counts": {
+    "primary_article": 39,
+    "primary_table": 31,
+    "primary_chat": 13
+  },
+  "date_uncertainty_disclosures": []
+}

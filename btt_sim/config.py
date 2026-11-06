@@ -33,6 +33,8 @@ class SourceConfig:
     url: str
     cookie_name: str
     cookie_val: str
+    custom_data_dir: Path | None = None
+    custom_results_dir: Path | None = None
 
     @property
     def base_dir(self) -> Path:
@@ -48,16 +50,20 @@ class SourceConfig:
         return self.base_dir / "api_posts"
 
     @property
+    def chat_dir(self) -> Path:
+        return self.base_dir / "chat"
+
+    @property
     def datawrapper_dir(self) -> Path:
         return self.base_dir / "datawrapper"
 
     @property
     def data_dir(self) -> Path:
-        return self.base_dir / "data"
+        return self.custom_data_dir or (self.base_dir / "data")
 
     @property
     def results_dir(self) -> Path:
-        return self.data_dir / "results"
+        return self.custom_results_dir or (self.data_dir / "results")
 
 
 @dataclass

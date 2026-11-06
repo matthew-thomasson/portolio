@@ -1,14 +1,14 @@
-symbol,market,company_name,cost_basis,entry_date,current_rating,weight,source_file
-PRU,:us:,Prudential Financial,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-MTB,:us:,M&T Bank,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-SPG,:us:,Simon Property Group,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-UBSI,:us:,United Bankshares,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-TXT,:us:,Textron Inc,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-HNI,:us:,HNI Corporation,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-SPB,:us:,Spectrum Brands Holdings,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-FDX,:us:,FedEx Corporation,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-MSCI,:us:,MSCI Inc,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-VLO,:us:,Valero Energy Corporation,,2026-01-14,BUY,0.1,only-10-stocks-made-the-cut
-CAKE,:us:,Cheesecake Factory,,2026-07-28,BUY,0.1,stocktok-etf-20
-CNXN,:us:,PC Connection,,2026-07-28,BUY,0.1,stocktok-etf-20
-FELE,:us:,Franklin Electric,,2026-07-28,BUY,0.1,stocktok-etf-20
+symbol,name,market,weight,cost_basis,latest_price,current_rating,entry_date,source_file
+FDX,FedEx Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+HNI,HNI Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+MSCI,MSCI Inc,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+MTB,M&T Bank,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+PRU,Prudential Financial,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+SPB,Spectrum Brands Holdings,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+SPG,Simon Property Group,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+TXT,Textron Inc,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+UBSI,United Bankshares,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+VLO,Valero Energy Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+CAKE,Cheesecake Factory,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
+CNXN,PC Connection,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
+FELE,Franklin Electric,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20

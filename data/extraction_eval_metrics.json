@@ -1,0 +1,52 @@
+{
+  "extractor_version": "c3088e250c00",
+  "evaluated_entrypoints": [
+    "ExtractionEngine.extract_from_article",
+    "ExtractionEngine.extract_from_chat"
+  ],
+  "overall": {
+    "documents_count": 72,
+    "true_positives": 78,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_negative_documents": 23,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "action_accuracy": 1.0,
+    "ticker_exchange_accuracy": 1.0,
+    "effective_date_accuracy": 1.0,
+    "sizing_accuracy": 1.0,
+    "execution_vs_idea_accuracy": 1.0
+  },
+  "in_archive_split": {
+    "documents_count": 44,
+    "true_positives": 52,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_negative_documents": 13,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "action_accuracy": 1.0,
+    "ticker_exchange_accuracy": 1.0,
+    "effective_date_accuracy": 1.0,
+    "sizing_accuracy": 1.0,
+    "execution_vs_idea_accuracy": 1.0
+  },
+  "held_out_unseen_split": {
+    "documents_count": 28,
+    "true_positives": 26,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_negative_documents": 10,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "action_accuracy": 1.0,
+    "ticker_exchange_accuracy": 1.0,
+    "effective_date_accuracy": 1.0,
+    "sizing_accuracy": 1.0,
+    "execution_vs_idea_accuracy": 1.0
+  }
+}

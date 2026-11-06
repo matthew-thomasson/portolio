@@ -1,0 +1,319 @@
+{
+  "source_key": "cluseau",
+  "display_name": "Cluseau",
+  "overall_status": "RECONCILED_WITH_WARNINGS",
+  "is_archive_valid": true,
+  "checkpoints_evaluated": 4,
+  "unresolved_errors": 0,
+  "warnings_count": 2,
+  "info_count": 3,
+  "checkpoints": [
+    {
+      "checkpoint_id": "cluseau-2026-03-09-march-2026-trade-review",
+      "date": "2026-03-09",
+      "evaluation_date": "2026-03-09",
+      "title": "March 2026 Trade Review",
+      "source_file": "2026-03-09__march-2026-trade-review.json",
+      "checkpoint_type": "PARTIAL_SNAPSHOT",
+      "active_count": 6,
+      "closed_count": 0,
+      "disappeared_count": 0,
+      "disclosed_positions": {
+        "OSB.L": {
+          "status": "active",
+          "name": "OSB Group",
+          "evidence": "Review heading active addition: 1. Adding to OSB Group (OSB LN)"
+        },
+        "9478.T": {
+          "status": "active",
+          "name": "SE",
+          "evidence": "Review heading active addition: 2. Adding to SE Holdings and Incubations (9478 JP)"
+        },
+        "3600.HK": {
+          "status": "active",
+          "name": "Modern Dental Group",
+          "evidence": "Review heading active addition: 3. Adding to Modern Dental Group (3600 HK)"
+        },
+        "KSPI": {
+          "status": "active",
+          "name": "Kaspi",
+          "evidence": "Review heading active addition: 4. Adding to Kaspi (KSPI US)"
+        },
+        "IFOS.V": {
+          "status": "active",
+          "name": "Itafos",
+          "evidence": "Review heading active addition: 5. Adding to Itafos (IFOS CN)"
+        },
+        "EVC": {
+          "status": "active",
+          "name": "Entravision",
+          "evidence": "Review heading active addition: 6. New Position: Entravision (EVC US)"
+        }
+      },
+      "excluded_positions": {
+        "UVE": "Disclosed short in review prose: A red trade denotes a position I closed, or in the case of UVE (Universal Insurance Holdings), a new short position."
+      },
+      "notes": "Prose review parsed from raw HTML (12 embedded images, 0 HTML tables). Full portfolio table is an image screenshot; prose/list disclosures verified as PARTIAL_SNAPSHOT."
+    },
+    {
+      "checkpoint_id": "cluseau-2026-04-17-april-2026-portfolio-review",
+      "date": "2026-04-17",
+      "evaluation_date": "2026-04-17",
+      "title": "April 2026 Portfolio Review",
+      "source_file": "2026-04-17__april-2026-portfolio-review.json",
+      "checkpoint_type": "PARTIAL_SNAPSHOT",
+      "active_count": 2,
+      "closed_count": 3,
+      "disappeared_count": 0,
+      "disclosed_positions": {
+        "MCHB": {
+          "status": "closed",
+          "name": "Mechanics Bancorp",
+          "evidence": "Review closed recap (2026-04-10): MCHB US (Mechanics Bancorp) - Total Return +22.98% - Closed April 10, 2026"
+        },
+        "KRNY": {
+          "status": "closed",
+          "name": "Kearny Financial",
+          "evidence": "Review closed recap (2026-04-10): KRNY US (Kearny Financial) - Total Return +25.80% - Closed April 10, 2026"
+        },
+        "BMBL": {
+          "status": "closed",
+          "name": "Bumble",
+          "evidence": "Review closed recap (2026-03-24): BMBL US (Bumble) - Total Return +17.07% - Closed Mar 24, 2026"
+        },
+        "KSPI": {
+          "status": "active",
+          "name": "Kaspi",
+          "evidence": "Review active holding statement: I have been adding to my Kaspi (KSPI) position."
+        },
+        "HRTG": {
+          "status": "active",
+          "name": "Heritage Insurance",
+          "evidence": "Review active holding statement: Lastly, I have been steadily adding to my Heritage Insurance (HRTG) position."
+        }
+      },
+      "excluded_positions": {},
+      "notes": "Prose review parsed from raw HTML (22 embedded images, 0 HTML tables). Full portfolio table is an image screenshot; prose/list disclosures verified as PARTIAL_SNAPSHOT."
+    },
+    {
+      "checkpoint_id": "cluseau-2026-06-12-june-2026-portfolio-review",
+      "date": "2026-06-12",
+      "evaluation_date": "2026-06-12",
+      "title": "June 2026 Portfolio Review",
+      "source_file": "2026-06-12__june-2026-portfolio-review.json",
+      "checkpoint_type": "PARTIAL_SNAPSHOT",
+      "active_count": 10,
+      "closed_count": 0,
+      "disappeared_count": 0,
+      "disclosed_positions": {
+        "402340.KS": {
+          "status": "active",
+          "name": "SK Square",
+          "evidence": "Review active holding statement: Subsequent to IBKR adding Korean equities, I added SK Square ."
+        },
+        "453340.KS": {
+          "status": "active",
+          "name": "Hyundai Green Food",
+          "evidence": "Review active holding statement: I’ve also been steadily adding to small positions in Hyundai Green Food, iM Financial Group, and Hy-Lok."
+        },
+        "139130.KS": {
+          "status": "active",
+          "name": "IM Financial Group",
+          "evidence": "Review active holding statement: I’ve also been steadily adding to small positions in Hyundai Green Food, iM Financial Group, and Hy-Lok."
+        },
+        "013030.KQ": {
+          "status": "active",
+          "name": "Hy-Lok",
+          "evidence": "Review active holding statement: I’ve also been steadily adding to small positions in Hyundai Green Food, iM Financial Group, and Hy-Lok."
+        },
+        "OSB.L": {
+          "status": "active",
+          "name": "OSB Group",
+          "evidence": "Review active holding statement: I’ve been adding to OSB Group in the 490p - 510p range, and Heritage Insurance in the $21 - $22 range, and I find both highly compelling at "
+        },
+        "HRTG": {
+          "status": "active",
+          "name": "Heritage Insurance",
+          "evidence": "Review active holding statement: I’ve been adding to OSB Group in the 490p - 510p range, and Heritage Insurance in the $21 - $22 range, and I find both highly compelling at "
+        },
+        "3600.HK": {
+          "status": "active",
+          "name": "Modern Dental Group",
+          "evidence": "Review active holding statement: initating smaller positions in the Korea Value Basket (Hyundai Green Food, iM Financial Group, and Hy-Lok), I have also been adding to Moder"
+        },
+        "CTT.LS": {
+          "status": "active",
+          "name": "Correios De Portugal",
+          "evidence": "Review active holding statement: Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remai"
+        },
+        "CCV.AX": {
+          "status": "active",
+          "name": "Cash Converters",
+          "evidence": "Review active holding statement: Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remai"
+        },
+        "IFOS.V": {
+          "status": "active",
+          "name": "Itafos",
+          "evidence": "Review active holding statement: Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remai"
+        }
+      },
+      "excluded_positions": {},
+      "notes": "Prose review parsed from raw HTML (19 embedded images, 0 HTML tables). Full portfolio table is an image screenshot; prose/list disclosures verified as PARTIAL_SNAPSHOT."
+    },
+    {
+      "checkpoint_id": "cluseau-2026-10-05-september-2026-portfolio-rev",
+      "date": "2026-10-05",
+      "evaluation_date": "2026-10-05",
+      "title": "September 2026 Portfolio Review",
+      "source_file": "2026-10-05__september-2026-portfolio-review.json",
+      "checkpoint_type": "PARTIAL_SNAPSHOT",
+      "active_count": 4,
+      "closed_count": 11,
+      "disappeared_count": 1,
+      "disclosed_positions": {
+        "CBL": {
+          "status": "closed",
+          "name": "CBL Properties",
+          "evidence": "Review closed recap (2026-09-15): 1. CBL Properties (CBL) +114% - Exited September 15, 2026"
+        },
+        "HRTG": {
+          "status": "closed",
+          "name": "Heritage Insurance Holdings",
+          "evidence": "Review closed recap (2026-07-29): 2. Heritage Insurance Holdings (HRTG) +17% - Exited July 29, 2026"
+        },
+        "WSBF": {
+          "status": "closed",
+          "name": "Waterstone Financial",
+          "evidence": "Review closed recap (2026-07-29): 3. Waterstone Financial (WSBF) +42% - Exited July 29, 2026"
+        },
+        "AGM": {
+          "status": "closed",
+          "name": "Farmer Mac",
+          "evidence": "Review closed recap (2026-07-27): 4. Farmer Mac (AGM and AGM/A) +30% - Exited July 27, 2026"
+        },
+        "ASIC": {
+          "status": "closed",
+          "name": "Ategrity Specialty Insurance",
+          "evidence": "Review closed recap (2026-09-28): 5. Ategrity Specialty Insurance (ASIC) +39% - Exited September 28, 2026"
+        },
+        "EVC": {
+          "status": "closed",
+          "name": "Entravision Communications",
+          "evidence": "Review closed recap (2026-08-21, via options): 6. Entravision Communications (EVC) +171% - Exited August 21 Via Options"
+        },
+        "POWL": {
+          "status": "closed",
+          "name": "Powell Industries",
+          "evidence": "Review closed recap (2026-08-21, via options): 7. Powell Industries (POWL) +136% - Exited August 21 Via Options"
+        },
+        "VISN": {
+          "status": "closed",
+          "name": "Vistance Networks",
+          "evidence": "Review closed recap (2026-08-06): 8. Vistance Networks (VISN) -20% - Exited August 6"
+        },
+        "MOMO": {
+          "status": "closed",
+          "name": "Hello Group",
+          "evidence": "Review closed recap (2026-09-10): 9. Hello Group (MOMO) -21% - Exited September 10"
+        },
+        "402340.KS": {
+          "status": "closed",
+          "name": "SK Square",
+          "evidence": "Review closed recap (2026-10-01): 10. SK Square (402340) +44% - Exited October 1"
+        },
+        "GMRS": {
+          "status": "closed",
+          "name": "Global Medical Response Solutions",
+          "evidence": "Review closed recap (2026-07-02): 11. Global Medical Response Solutions (GMRS) +10% - Exited July 2"
+        },
+        "ABCA.PA": {
+          "status": "active",
+          "name": "ABC Arbitrage",
+          "evidence": "Review addition recap: 1. ABC Arbitrage (ABCA FP) - Added September 3"
+        },
+        "6626.T": {
+          "status": "active",
+          "name": "Semitec",
+          "evidence": "Review addition recap: 2. Semitec (6626 JT) - Added September 3"
+        },
+        "244920.KS": {
+          "status": "active",
+          "name": "A Plus Asset Advisors",
+          "evidence": "Review addition recap: 3. A Plus Asset Advisors (244920 KS) - Added September 3"
+        },
+        "GDDY": {
+          "status": "active",
+          "name": "GoDaddy",
+          "evidence": "Review addition recap: 4. GoDaddy (GDDY) - Added September 21"
+        },
+        "013030.KQ": {
+          "status": "disappeared",
+          "name": "Hy-Lok",
+          "evidence": "Disclosed active in june-2026-portfolio-review (2026-06-12) but absent from both active commentary and Removals recap in september-2026-portfolio-review (2026-10-05), with zero intervening archive mentions."
+        }
+      },
+      "excluded_positions": {
+        "ACIC": "Disclosed short addition in review: 5. Short American Coastal (ACIC) - Added June 28",
+        "JPM": "Disclosed short addition in review: 6. Short J.P Morgan (JPM) - Added September 28"
+      },
+      "notes": "Prose review parsed from raw HTML (40 embedded images, 0 HTML tables). Full portfolio table is an image screenshot; prose/list disclosures verified as PARTIAL_SNAPSHOT."
+    }
+  ],
+  "discrepancies": [
+    {
+      "checkpoint_id": "cluseau-2026-03-09-march-2026-trade-review",
+      "checkpoint_date": "2026-03-09",
+      "ticker": "UVE",
+      "discrepancy_type": "EXCLUDED_INSTRUMENT",
+      "severity": "INFO",
+      "root_cause": "SHORT_OR_DERIVATIVE_EXCLUDED",
+      "evidence_summary": "Disclosed short in review prose: A red trade denotes a position I closed, or in the case of UVE (Universal Insurance Holdings), a new short position.",
+      "recommended_action": "Tracked in non_equity_events.csv outside long cash equity simulation.",
+      "is_resolved": true
+    },
+    {
+      "checkpoint_id": "cluseau-2026-10-05-september-2026-portfolio-rev",
+      "checkpoint_date": "2026-10-05",
+      "ticker": "013030.KQ",
+      "discrepancy_type": "UNEXPLAINED_DISAPPEARANCE",
+      "severity": "WARNING",
+      "root_cause": "UNEXPLAINED_DISAPPEARANCE",
+      "evidence_summary": "Disclosed active in june-2026-portfolio-review (2026-06-12) but absent from both active commentary and Removals recap in september-2026-portfolio-review (2026-10-05), with zero intervening archive mentions.",
+      "recommended_action": "Retain open in simulation until an explicit exit is disclosed; do not fabricate a sell event from silence.",
+      "is_resolved": true
+    },
+    {
+      "checkpoint_id": "cluseau-2026-10-05-september-2026-portfolio-rev",
+      "checkpoint_date": "2026-10-05",
+      "ticker": "402340.KS",
+      "discrepancy_type": "UNEXPECTED_IN_SIMULATION",
+      "severity": "WARNING",
+      "root_cause": "PARTIAL_DISCLOSURE",
+      "evidence_summary": "Checkpoint explicitly marks 402340.KS as CLOSED (Review closed recap (2026-10-01): 10. SK Square (402340) +44% - Exited October 1), but simulation still holds it open on 2026-10-05. Exit recorded 30 day(s) later on 2026-11-04.",
+      "recommended_action": "Verified partial trim/settlement difference with subsequent explicit exit.",
+      "is_resolved": true
+    },
+    {
+      "checkpoint_id": "cluseau-2026-10-05-september-2026-portfolio-rev",
+      "checkpoint_date": "2026-10-05",
+      "ticker": "ACIC",
+      "discrepancy_type": "EXCLUDED_INSTRUMENT",
+      "severity": "INFO",
+      "root_cause": "SHORT_OR_DERIVATIVE_EXCLUDED",
+      "evidence_summary": "Disclosed short addition in review: 5. Short American Coastal (ACIC) - Added June 28",
+      "recommended_action": "Tracked in non_equity_events.csv outside long cash equity simulation.",
+      "is_resolved": true
+    },
+    {
+      "checkpoint_id": "cluseau-2026-10-05-september-2026-portfolio-rev",
+      "checkpoint_date": "2026-10-05",
+      "ticker": "JPM",
+      "discrepancy_type": "EXCLUDED_INSTRUMENT",
+      "severity": "INFO",
+      "root_cause": "SHORT_OR_DERIVATIVE_EXCLUDED",
+      "evidence_summary": "Disclosed short addition in review: 6. Short J.P Morgan (JPM) - Added September 28",
+      "recommended_action": "Tracked in non_equity_events.csv outside long cash equity simulation.",
+      "is_resolved": true
+    }
+  ]
+}

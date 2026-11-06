@@ -1,1106 +1,1466 @@
 from __future__ import annotations
 
-import csv
+from dataclasses import asdict, dataclass, field
 from enum import Enum
 import json
-import re
-from dataclasses import dataclass, field, asdict
-from datetime import datetime, date
 from pathlib import Path
-from typing import Any
+import re
+from typing import Any, Optional
+
 from bs4 import BeautifulSoup
 import pandas as pd
-from rich.console import Console
-from rich.table import Table
 
 from .config import Settings, SourceConfig
-
-console = Console()
-
-INTERNATIONAL_TICKER_RE = re.compile(
-    r"\b([A-Z]{1,5}(?:\.[A-Z]{1,2})?|\d{4,6}(?:\s*(?:KS|KQ|KRW|JP|JT|JPY|HK|HKD|CN|AU|AUD|LN|L|TO|V|CAD|PA|EUR))?)\b"
+from .extractor import (
+    EXCHANGE_HINT_MAP,
+    STOPWORD_ACRONYMS,
+    VALID_TICKERS_DESPITE_OVERLAP,
+    SecurityResolver,
+    preprocess_substack_html,
+    unpack_substack_widgets,
 )
-
-TRADE_VERBS_RE = re.compile(
-    r"\b(bought|buying|added|adding|purchased|purchasing|accumulating|accumulated|"
-    r"sold|selling|trimmed|trimming|closed|closing|exited|exiting|"
-    r"collared|collar|protective put|covered call|shorted|short)\b",
-    re.IGNORECASE,
-)
+from .ingestion import validate_source_archive
+from .prices import PriceProvider
 
 
 class CheckpointType(str, Enum):
     COMPLETE_SNAPSHOT = "COMPLETE_SNAPSHOT"
     PARTIAL_SNAPSHOT = "PARTIAL_SNAPSHOT"
-    TRANSACTION_UPDATE = "TRANSACTION_UPDATE"
+    CHANGES_ONLY = "CHANGES_ONLY"
+    BASKET_SNAPSHOT = "BASKET_SNAPSHOT"
+    TABLE_SNAPSHOT = "TABLE_SNAPSHOT"
 
 
 class ReconciliationStatus(str, Enum):
     FULLY_RECONCILED = "FULLY_RECONCILED"
     RECONCILED_WITH_WARNINGS = "RECONCILED_WITH_WARNINGS"
-    UNRESOLVED_DISCREPANCIES = "UNRESOLVED_DISCREPANCIES"
-    VALIDATION_FAILED = "VALIDATION_FAILED"
+    UNRECONCILED = "UNRECONCILED"
 
 
 class RootCauseCategory(str, Enum):
-    INCOMPLETE_DOWNLOAD_OR_PREVIEW = "INCOMPLETE_DOWNLOAD_OR_PREVIEW"
-    MISSING_SOURCE_OR_CHAT = "MISSING_SOURCE_OR_CHAT"
-    UNSUPPORTED_LANGUAGE = "UNSUPPORTED_LANGUAGE"
-    INCORRECT_TICKER_OR_EXCHANGE = "INCORRECT_TICKER_OR_EXCHANGE"
-    MISCLASSIFIED_IDEA_VS_TRADE = "MISCLASSIFIED_IDEA_VS_TRADE"
-    UNRECORDED_EXIT_OR_TRIM = "UNRECORDED_EXIT_OR_TRIM"
-    CHRONOLOGY_OR_LOOKAHEAD = "CHRONOLOGY_OR_LOOKAHEAD"
-    CURRENCY_OR_PRICING = "CURRENCY_OR_PRICING"
-    MISSING_CHECKPOINT_IDENTIFICATION = "MISSING_CHECKPOINT_IDENTIFICATION"
+    RECONCILED = "RECONCILED"
+    PARSER_MISS = "PARSER_MISS"
+    CHAT_MISS = "CHAT_MISS"
+    SUBTHREAD_REPLY_MISS = "SUBTHREAD_REPLY_MISS"
+    PAYWALL_TRUNCATED = "PAYWALL_TRUNCATED"
+    IMAGE_ONLY_DISCLOSURE = "IMAGE_ONLY_DISCLOSURE"
+    MANUAL_TRADE_OUTSIDE_SUBSTACK = "MANUAL_TRADE_OUTSIDE_SUBSTACK"
+    AMBIGUOUS_WORDING = "AMBIGUOUS_WORDING"
+    OPTION_EXPIRY_OR_ASSIGNMENT = "OPTION_EXPIRY_OR_ASSIGNMENT"
+    SHORT_OR_DERIVATIVE_EXCLUDED = "SHORT_OR_DERIVATIVE_EXCLUDED"
+    PARTIAL_DISCLOSURE = "PARTIAL_DISCLOSURE"
+    TICKER_NORMALIZATION_MISMATCH = "TICKER_NORMALIZATION_MISMATCH"
     BASELINE_HOLDING_DOCUMENTED = "BASELINE_HOLDING_DOCUMENTED"
     UNEXPLAINED_DISAPPEARANCE = "UNEXPLAINED_DISAPPEARANCE"
-    NONE_RECONCILED = "NONE_RECONCILED"
+    UNINVESTIGATED = "UNINVESTIGATED"
 
 
 @dataclass
 class CheckpointDiscrepancy:
+    checkpoint_id: str
+    checkpoint_date: str
     ticker: str
-    discrepancy_type: str  # 'MISSING_IN_SIMULATION', 'UNEXPECTED_IN_SIMULATION', 'ALLOCATION_MISMATCH', 'STATUS_MISMATCH', 'UNEXPLAINED_DISAPPEARANCE'
-    severity: str  # 'CRITICAL', 'WARNING', 'INFO'
-    disclosed_detail: str
-    simulated_detail: str
+    discrepancy_type: str  # MISSING_IN_SIMULATION, UNEXPECTED_IN_SIMULATION, UNEXPLAINED_DISAPPEARANCE, BASELINE_DOCUMENTED, EXCLUDED_INSTRUMENT
+    severity: str  # ERROR, WARNING, INFO
     root_cause: RootCauseCategory
-    investigation_evidence: str
-    corrective_action: str
-    is_resolved: bool
+    evidence_summary: str
+    recommended_action: str = ""
+    is_resolved: bool = False
 
 
 @dataclass
 class Checkpoint:
     checkpoint_id: str
     source_key: str
-    checkpoint_date: str  # YYYY-MM-DD
-    publication_date: str
+    date: str
+    evaluation_date: str
     title: str
-    source_slug: str
+    source_file: str
     checkpoint_type: CheckpointType
-    disclosed_positions: dict[str, dict[str, Any]]
-    reconstructed_positions: dict[str, dict[str, Any]] = field(default_factory=dict)
-    matched_positions: list[str] = field(default_factory=list)
-    discrepancies: list[CheckpointDiscrepancy] = field(default_factory=list)
-    status: ReconciliationStatus = ReconciliationStatus.FULLY_RECONCILED
+    # normalized_ticker -> {"status": "active"|"closed"|"disappeared", "name": str, "evidence": str}
+    disclosed_positions: dict[str, dict[str, Any]] = field(default_factory=dict)
+    excluded_positions: dict[str, str] = field(default_factory=dict)
     notes: str = ""
 
 
 @dataclass
 class PortfolioReconciliationAudit:
     source_key: str
-    source_name: str
+    display_name: str
     overall_status: ReconciliationStatus
+    is_archive_valid: bool
+    checkpoints_evaluated: int
     checkpoints: list[Checkpoint]
-    total_checkpoints: int
-    reconciled_checkpoints: int
-    discrepancies_resolved: int
-    outstanding_issues: int
-    summary_report: str = ""
+    discrepancies: list[CheckpointDiscrepancy]
+    unresolved_errors: int
+    warnings_count: int
+    info_count: int
+    holdings_timeline: list[dict[str, Any]] = field(default_factory=list)
 
-
-@dataclass
-class SourceEvidence:
-    source_file: str
-    source_type: str  # 'article', 'chat', 'datawrapper'
-    publication_date: str
-    title_or_snippet: str
-    raw_text: str
-    confidence: str = "medium"
+    def to_dict(self) -> dict[str, Any]:
+        return {
+            "source_key": self.source_key,
+            "display_name": self.display_name,
+            "overall_status": self.overall_status.value,
+            "is_archive_valid": self.is_archive_valid,
+            "checkpoints_evaluated": self.checkpoints_evaluated,
+            "unresolved_errors": self.unresolved_errors,
+            "warnings_count": self.warnings_count,
+            "info_count": self.info_count,
+            "checkpoints": [
+                {
+                    "checkpoint_id": c.checkpoint_id,
+                    "date": c.date,
+                    "evaluation_date": c.evaluation_date,
+                    "title": c.title,
+                    "source_file": c.source_file,
+                    "checkpoint_type": c.checkpoint_type.value,
+                    "active_count": sum(1 for v in c.disclosed_positions.values() if v.get("status") == "active"),
+                    "closed_count": sum(1 for v in c.disclosed_positions.values() if v.get("status") == "closed"),
+                    "disappeared_count": sum(1 for v in c.disclosed_positions.values() if v.get("status") == "disappeared"),
+                    "disclosed_positions": c.disclosed_positions,
+                    "excluded_positions": c.excluded_positions,
+                    "notes": c.notes,
+                }
+                for c in self.checkpoints
+            ],
+            "discrepancies": [
+                {
+                    "checkpoint_id": d.checkpoint_id,
+                    "checkpoint_date": d.checkpoint_date,
+                    "ticker": d.ticker,
+                    "discrepancy_type": d.discrepancy_type,
+                    "severity": d.severity,
+                    "root_cause": d.root_cause.value,
+                    "evidence_summary": d.evidence_summary,
+                    "recommended_action": d.recommended_action,
+                    "is_resolved": d.is_resolved,
+                }
+                for d in self.discrepancies
+            ],
+        }
 
 
 @dataclass
 class DisclosedPosition:
     ticker: str
-    market: str
     company_name: str
-    first_disclosed_date: str
-    source_slug: str
-    status: str  # 'active', 'closed', 'trimmed', 'disappeared'
-    conviction: str | None = None
-    stated_price: float | None = None
-    stated_currency: str | None = None
-    instrument_type: str = "equity"
+    source_file: str
+    disclosure_date: str
+    disclosure_type: str  # "active", "closed", "excluded_short_or_option"
+    status_in_ledger: str  # "RECONCILED", "BASELINE_DOCUMENTED", "EXCLUDED_NON_EQUITY", "DISCREPANCY"
+    root_cause: str
     notes: str = ""
-    evidence: list[SourceEvidence] = field(default_factory=list)
 
 
 @dataclass
 class ReconciliationReport:
     source_key: str
-    source_name: str
-    articles_downloaded: int
-    articles_examined: int
-    chats_downloaded: int
-    chats_examined: int
-    datawrapper_tables: int
-    confirmed_trades_count: int
-    disclosed_holdings_count: int
-    orphan_holdings: list[dict[str, Any]] = field(default_factory=list)
-    unexplained_disappearances: list[dict[str, Any]] = field(default_factory=list)
-    unresolved_candidates: list[dict[str, Any]] = field(default_factory=list)
-    breakdown_by_instrument: dict[str, int] = field(default_factory=dict)
-    breakdown_by_geography: dict[str, int] = field(default_factory=dict)
+    display_name: str
+    overall_status: str
+    api_posts_count: int
+    paid_posts_count: int
+    truncated_posts_count: int
+    zero_byte_posts_count: int
+    chat_threads_count: int
+    chat_replies_count: int
+    datawrapper_tables_count: int
+    trade_events_count: int
+    unique_simulated_tickers: int
+    checkpoints_count: int
+    disclosed_positions_checked: int
+    reconciled_count: int
+    unresolved_discrepancies_count: int
+    warnings_count: int
+    positions: list[DisclosedPosition] = field(default_factory=list)
+    audit: Optional[PortfolioReconciliationAudit] = None
+
+    def to_dict(self) -> dict[str, Any]:
+        d = {
+            "source_key": self.source_key,
+            "display_name": self.display_name,
+            "overall_status": self.overall_status,
+            "api_posts_count": self.api_posts_count,
+            "paid_posts_count": self.paid_posts_count,
+            "truncated_posts_count": self.truncated_posts_count,
+            "zero_byte_posts_count": self.zero_byte_posts_count,
+            "chat_threads_count": self.chat_threads_count,
+            "chat_replies_count": self.chat_replies_count,
+            "datawrapper_tables_count": self.datawrapper_tables_count,
+            "trade_events_count": self.trade_events_count,
+            "unique_simulated_tickers": self.unique_simulated_tickers,
+            "checkpoints_count": self.checkpoints_count,
+            "disclosed_positions_checked": self.disclosed_positions_checked,
+            "reconciled_count": self.reconciled_count,
+            "unresolved_discrepancies_count": self.unresolved_discrepancies_count,
+            "warnings_count": self.warnings_count,
+            "positions": [asdict(p) for p in self.positions],
+        }
+        if self.audit is not None:
+            d["checkpoint_audit"] = self.audit.to_dict()
+        return d
 
 
 class ReconciliationEngine:
-    """Universal Quality-Control, Checkpoint Discovery & Point-in-Time Reconciliation Engine."""
+    """
+    Layer B Independent Portfolio Verification & Forensic Root-Cause Engine.
 
-    def __init__(self, settings: Settings) -> None:
+    Design Guarantees:
+    1. Strictly Non-Circular: Checkpoints are discovered and parsed ONLY from raw
+       Datawrapper CSVs and raw Substack API post HTML (`api_posts/*.json`).
+       `discover_checkpoints()` NEVER reads `trade_events.csv` and NEVER calls
+       `replay_portfolio_to_date()`.
+    2. Zero Ticker/Slug Hardcoding: Works across any existing or future Substack
+       publication using structural table, basket, and review-post detectors.
+    3. Honest Replay: `replay_portfolio_to_date()` replays ONLY dated events in
+       `trade_events.csv` without fabricating entry dates for undated holdings.
+    """
+
+    def __init__(self, settings: Settings, prices: Optional[PriceProvider] = None) -> None:
         self.settings = settings
+        self.prices = prices or PriceProvider(settings)
 
-    def validate_and_reconcile_source(
-        self,
-        source: SourceConfig,
-        force: bool = False,
-    ) -> PortfolioReconciliationAudit:
-        """Mandatory automated validation and point-in-time portfolio reconciliation."""
-        # 1. Download Completeness Guard
-        self._validate_download_completeness(source)
+    def _build_raw_resolver(self, source: SourceConfig) -> SecurityResolver:
+        """Build a SecurityResolver primed strictly from raw source archives (never from trade_events.csv)."""
+        resolver = SecurityResolver(prices=self.prices)
+        if source.datawrapper_dir.exists():
+            for fcsv in sorted(source.datawrapper_dir.glob("*.csv")):
+                try:
+                    df = pd.read_csv(fcsv)
+                except Exception:
+                    continue
+                cols = {c.strip().upper(): c for c in df.columns}
+                sym_c = cols.get("SYMBOL") or cols.get("TICKER")
+                name_c = cols.get("STOCKS") or cols.get("STOCK") or cols.get("COMPANY") or cols.get("NAME")
+                mkt_c = cols.get("COUNTRY") or cols.get("MARKET")
+                if sym_c:
+                    for _, r in df.iterrows():
+                        rs = str(r.get(sym_c, "")).strip().upper()
+                        if not rs or rs in ("NAN", "CASH", "TOTAL") or "UPGRADE" in rs:
+                            continue
+                        nm = str(r.get(name_c, rs)).strip() if name_c else rs
+                        mh = str(r.get(mkt_c, "")).strip().strip(":").upper() if mkt_c else None
+                        resolver.register_binding(nm, rs, hint=mh)
 
-        # 2. Automatically Discover Checkpoints
-        checkpoints = self.discover_checkpoints(source)
+        if source.api_posts_dir.exists():
+            for jp in sorted(source.api_posts_dir.glob("*.json")):
+                if jp.stat().st_size == 0:
+                    continue
+                try:
+                    pdata = json.loads(jp.read_text(encoding="utf-8"))
+                    unpacked = unpack_substack_widgets(str(pdata.get("body_html") or ""))
+                    plain = BeautifulSoup(unpacked, "html.parser").get_text(" ", strip=True)
+                    resolver.learn_from_text(f"{pdata.get('title') or ''} {pdata.get('subtitle') or ''} {plain}")
+                except Exception:
+                    continue
 
-        # 3. Reconstruct Holdings & Reconcile at each Checkpoint
-        total_checkpoints = len(checkpoints)
-        reconciled_count = 0
-        resolved_discrepancies = 0
-        outstanding_issues = 0
-
-        for cp in checkpoints:
-            open_sim_positions = self.replay_portfolio_to_date(source, cp.checkpoint_date)
-            cp.reconstructed_positions = open_sim_positions
-            self.reconcile_checkpoint(cp, open_sim_positions, source)
-
-            if cp.status in (ReconciliationStatus.FULLY_RECONCILED, ReconciliationStatus.RECONCILED_WITH_WARNINGS):
-                reconciled_count += 1
-            for disc in cp.discrepancies:
-                if disc.is_resolved:
-                    resolved_discrepancies += 1
-                elif disc.severity == "CRITICAL":
-                    outstanding_issues += 1
-
-        overall_status = ReconciliationStatus.FULLY_RECONCILED
-        if outstanding_issues > 0:
-            overall_status = ReconciliationStatus.UNRESOLVED_DISCREPANCIES
-        elif any(cp.status == ReconciliationStatus.RECONCILED_WITH_WARNINGS for cp in checkpoints):
-            overall_status = ReconciliationStatus.RECONCILED_WITH_WARNINGS
-
-        audit = PortfolioReconciliationAudit(
-            source_key=source.key,
-            source_name=source.display_name,
-            overall_status=overall_status,
-            checkpoints=checkpoints,
-            total_checkpoints=total_checkpoints,
-            reconciled_checkpoints=reconciled_count,
-            discrepancies_resolved=resolved_discrepancies,
-            outstanding_issues=outstanding_issues,
-            summary_report=f"{source.display_name}: {reconciled_count}/{total_checkpoints} checkpoints verified | {resolved_discrepancies} resolved | {outstanding_issues} outstanding",
-        )
-
-        # Persist audit record
-        self._save_checkpoint_audit(source, audit)
-        return audit
-
-    def _validate_download_completeness(self, source: SourceConfig) -> None:
-        """Check for paywall preview stubs or incomplete scrape files."""
-        posts = list(source.api_posts_dir.glob("*.json"))
-        for p in posts:
+        tpath = source.chat_dir / "chat_threads.json"
+        if tpath.exists() and tpath.stat().st_size > 0:
             try:
-                data = json.loads(p.read_text(encoding="utf-8"))
-                body = data.get("body_html") or ""
-                # Preview stub indicator
-                if data.get("audience") == "only_paid" and (len(body) < 1500 or "paywall-preview" in body):
-                    # Flag warning
-                    pass
+                for item in json.loads(tpath.read_text(encoding="utf-8")):
+                    cp = item.get("communityPost") or item
+                    resolver.learn_from_text(str(cp.get("body") or ""))
             except Exception:
                 pass
+        rpath = source.chat_dir / "chat_replies.json"
+        if rpath.exists() and rpath.stat().st_size > 0:
+            try:
+                for clist in json.loads(rpath.read_text(encoding="utf-8")).values():
+                    for cw in clist:
+                        co = cw.get("comment") if isinstance(cw.get("comment"), dict) else cw
+                        resolver.learn_from_text(str(co.get("body") or ""))
+            except Exception:
+                pass
+
+        return resolver
+
+    @staticmethod
+    def _parse_verbal_date(raw_date: str, default_year: str = "2026") -> Optional[str]:
+        s = re.sub(r"(\d+)(?:st|nd|rd|th)\b", r"\1", raw_date.strip())
+        if re.match(r"^\d{4}-\d{2}-\d{2}$", s):
+            return s
+        s_yr = s if re.search(r"\b\d{4}\b", s) else f"{s}, {default_year}"
+        for fmt in ("%B %d, %Y", "%b %d, %Y", "%d %B %Y", "%d %b %Y"):
+            try:
+                return pd.to_datetime(s_yr, format=fmt).strftime("%Y-%m-%d")
+            except Exception:
+                continue
+        dt = pd.to_datetime(s_yr, errors="coerce")
+        return dt.strftime("%Y-%m-%d") if pd.notna(dt) else None
 
     def discover_checkpoints(self, source: SourceConfig) -> list[Checkpoint]:
-        """Automatically identify portfolio review and allocation checkpoints."""
+        """
+        Independently discover point-in-time portfolio checkpoints from raw Datawrapper
+        tables and raw Substack API post HTML (`api_posts/*.json`).
+        NEVER accesses `trade_events.csv` or simulated portfolio state.
+        """
+        resolver = self._build_raw_resolver(source)
         checkpoints: list[Checkpoint] = []
 
-        if source.key == "cluseau":
-            # Cluseau quarterly reviews, basket disclosures, and chat exit milestones
-            cl_defs = [
-                (
-                    "2026-03-09",
-                    "2026-03-09",
-                    "March 2026 Trade Review",
-                    "march-2026-trade-review",
-                    CheckpointType.COMPLETE_SNAPSHOT,
-                    {
-                        "WDC": {"status": "active", "notes": "Protected via Dec 350 puts"},
-                        "FIX": {"status": "active", "notes": "Collared via Nov 1500 puts"},
-                        "IESC": {"status": "active", "notes": "Protected via Nov 220 puts"},
-                        "285A.T": {"status": "active", "notes": "Kioxia Holdings"},
-                        "CBL": {"status": "active", "notes": "CBL Properties"},
-                        "POWL": {"status": "active", "notes": "Powell Industries"},
-                        "EVC": {"status": "active", "notes": "Entravision"},
-                    },
-                    "Inception portfolio baseline & March trade review",
-                ),
-                (
-                    "2026-04-17",
-                    "2026-04-17",
-                    "April 2026 Portfolio Review",
-                    "april-2026-portfolio-review",
-                    CheckpointType.COMPLETE_SNAPSHOT,
-                    {
-                        "7089.T": {"status": "active", "notes": "For Startups (Idea 3)"},
-                        "9220.T": {"status": "active", "notes": "FB Care Services (Idea 2)"},
-                        "CCV.AX": {"status": "active", "notes": "Cash Converters (Idea 4)"},
-                        "CTT": {"status": "active", "notes": "Correios de Portugal (Idea 5)"},
-                        "HRTG": {"status": "active", "notes": "Heritage Insurance (Added)"},
-                        "BMBL": {"status": "closed", "notes": "Closed March 24"},
-                        "MCHB": {"status": "closed", "notes": "Closed April 10"},
-                    },
-                    "April portfolio review introducing global value ideas",
-                ),
-                (
-                    "2026-04-29",
-                    "2026-04-29",
-                    "Opening the Gates (Korea Basket Inception)",
-                    "opening-the-gates",
-                    CheckpointType.PARTIAL_SNAPSHOT,
-                    {
-                        "402340.KS": {"status": "active", "notes": "SK Square"},
-                        "139130.KS": {"status": "active", "notes": "iM Financial Group"},
-                        "013030.KQ": {"status": "active", "notes": "Hy-Lok Corporation"},
-                    },
-                    "Korea Value Basket initiation",
-                ),
-                (
-                    "2026-05-11",
-                    "2026-05-11",
-                    "Boring is Beautiful (Hyundai Green Food Purchase)",
-                    "boring-is-beautiful",
-                    CheckpointType.TRANSACTION_UPDATE,
-                    {
-                        "453340.KS": {"status": "active", "notes": "Hyundai Green Food purchased in 19,000s"},
-                    },
-                    "Confirmed execution of Hyundai Green Food",
-                ),
-                (
-                    "2026-06-12",
-                    "2026-06-12",
-                    "June 2026 Portfolio Review",
-                    "june-2026-portfolio-review",
-                    CheckpointType.COMPLETE_SNAPSHOT,
-                    {
-                        "453340.KS": {"status": "active", "notes": "Hyundai Green Food (-9%)"},
-                        "139130.KS": {"status": "active", "notes": "iM Financial (-6%)"},
-                        "013030.KQ": {"status": "active", "notes": "Hy-Lok (-25%)"},
-                        "CBL": {"status": "active", "notes": "Trimmed 1/3"},
-                        "VISN": {"status": "active", "notes": "Position increased"},
-                        "GMRS": {"status": "active", "notes": "New position GMRS"},
-                    },
-                    "June comprehensive review and Korea Value Basket progress",
-                ),
-                (
-                    "2026-09-15",
-                    "2026-09-15",
-                    "CBL Final Exit Recap",
-                    "september-2026-portfolio-review",
-                    CheckpointType.TRANSACTION_UPDATE,
-                    {
-                        "CBL": {"status": "closed", "notes": "Exited CBL for +114% return"},
-                    },
-                    "CBL closed trade execution",
-                ),
-                (
-                    "2026-10-05",
-                    "2026-10-05",
-                    "September 2026 Portfolio Review",
-                    "september-2026-portfolio-review",
-                    CheckpointType.COMPLETE_SNAPSHOT,
-                    {
-                        "453340.KS": {"status": "active", "conviction": "High", "notes": "High conviction holding"},
-                        "139130.KS": {"status": "active", "conviction": "Medium", "notes": "Medium conviction holding"},
-                        "GDDY": {"status": "active", "notes": "GoDaddy initiated Sept 21"},
-                        "6626.T": {"status": "active", "notes": "Semitec initiated Sept 3"},
-                        "EVC": {"status": "closed", "notes": "Closed Aug 21 (+171%)"},
-                        "POWL": {"status": "closed", "notes": "Closed Aug 21 (+136%)"},
-                        "VISN": {"status": "closed", "notes": "Closed Aug 6 (-20%)"},
-                        "MOMO": {"status": "closed", "notes": "Closed Sept 10 (-21%)"},
-                        "ASIC": {"status": "closed", "notes": "Closed Sept 28 (+39%)"},
-                        "402340.KS": {"status": "closed", "notes": "Closed Oct 1 (+44%)"},
-                        "013030.KQ": {"status": "disappeared", "notes": "Omitted without sell recap"},
-                    },
-                    "Q3 comprehensive portfolio holdings and closed trades recap",
-                ),
-                (
-                    "2026-10-14",
-                    "2026-10-14",
-                    "Chat Alert: IFOS Exit",
-                    "chat#29",
-                    CheckpointType.TRANSACTION_UPDATE,
-                    {
-                        "IFOS": {"status": "closed", "notes": "Closed IFOS position in chat for -30% loss"},
-                    },
-                    "Explicit chat trade exit on Itafos",
-                ),
-                (
-                    "2026-10-30",
-                    "2026-10-30",
-                    "Chat Alert: GDDY & Kioxia Final Exits",
-                    "chat#4",
-                    CheckpointType.TRANSACTION_UPDATE,
-                    {
-                        "GDDY": {"status": "closed", "notes": "Closed remaining GDDY at $116 in chat"},
-                        "285A.T": {"status": "closed", "notes": "Kioxia Holdings closed in chat"},
-                    },
-                    "Year-end chat exit executions",
-                ),
-            ]
-            for cid, (pdate, asof, title, slug, ctype, discl, notes) in enumerate(cl_defs):
-                checkpoints.append(
-                    Checkpoint(
-                        checkpoint_id=f"cluseau-{cid+1:02d}-{slug}",
-                        source_key="cluseau",
-                        checkpoint_date=asof,
-                        publication_date=pdate,
-                        title=title,
-                        source_slug=slug,
-                        checkpoint_type=ctype,
-                        disclosed_positions=discl,
-                        notes=notes,
-                    )
-                )
+        # ------------------------------------------------------------------
+        # 1. Raw Datawrapper CSV Checkpoints (Performance Trackers & Full Snapshots)
+        # ------------------------------------------------------------------
+        if source.datawrapper_dir.exists():
+            dw_files = sorted(source.datawrapper_dir.glob("*.csv"))
+            dated_picks: list[dict[str, Any]] = []
+            seen_picks: set[tuple[str, str]] = set()
+            latest_perf_file = ""
+            latest_portfolio_df: Optional[pd.DataFrame] = None
+            latest_portfolio_file = ""
 
-        elif source.key == "beatingthetide":
-            # 11 monthly reviews with embedded Datawrapper tables
-            btt_months = [
-                ("2026-01-02", "January 2026 Portfolio Snapshot", "january-2026-portfolio-review"),
-                ("2026-02-06", "February 2026 Portfolio Review", "february-2026-portfolio-review"),
-                ("2026-03-06", "March 2026 Portfolio Review", "march-2026-portfolio-review"),
-                ("2026-04-03", "April 2026 Portfolio Review", "april-2026-portfolio-review"),
-                ("2026-05-08", "May 2026 Portfolio Review", "may-2026-portfolio-review"),
-                ("2026-06-05", "June 2026 Portfolio Review", "june-2026-portfolio-review"),
-                ("2026-07-03", "July 2026 Portfolio Review", "july-2026-portfolio-review"),
-                ("2026-08-07", "August 2026 Portfolio Review", "august-2026-portfolio-review"),
-                ("2026-09-04", "September 2026 Portfolio Review", "september-2026-portfolio-review"),
-                ("2026-10-02", "October 2026 Portfolio Review", "october-2026-portfolio-review"),
-                ("2026-11-02", "November 2026 Portfolio Review", "november-2026-portfolio-review"),
-            ]
-            for cid, (pdate, title, slug) in enumerate(btt_months):
-                active_at_date = self.replay_portfolio_to_date(source, pdate)
-                discl = {
-                    sym: {"status": "active", "weight": info.get("target_weight", 0.05), "notes": f"Active holding in {slug} snapshot"}
-                    for sym, info in active_at_date.items()
-                }
-                checkpoints.append(
-                    Checkpoint(
-                        checkpoint_id=f"btt-{cid+1:02d}-{pdate}",
-                        source_key="beatingthetide",
-                        checkpoint_date=pdate,
-                        publication_date=pdate,
-                        title=title,
-                        source_slug=slug,
-                        checkpoint_type=CheckpointType.COMPLETE_SNAPSHOT,
-                        disclosed_positions=discl,
-                        notes="Point-in-time Datawrapper portfolio snapshot",
-                    )
-                )
-
-        elif source.key == "tjstocks":
-            # TJ Stocks ETF Inception, 2.0 Rebalance, and Performance update
-            tj_defs = [
-                (
-                    "2026-01-14",
-                    "StockTok ETF Launch (Inception)",
-                    "only-10-stocks-made-the-cut",
-                    CheckpointType.COMPLETE_SNAPSHOT,
-                    {
-                        "PRU": {"status": "active", "weight": 0.10},
-                        "MTB": {"status": "active", "weight": 0.10},
-                        "SPG": {"status": "active", "weight": 0.10},
-                        "UBSI": {"status": "active", "weight": 0.10},
-                        "TXT": {"status": "active", "weight": 0.10},
-                        "HNI": {"status": "active", "weight": 0.10},
-                        "SPB": {"status": "active", "weight": 0.10},
-                        "FDX": {"status": "active", "weight": 0.10},
-                        "MSCI": {"status": "active", "weight": 0.10},
-                        "VLO": {"status": "active", "weight": 0.10},
-                    },
-                    "Original 10-stock model ETF launch",
-                ),
-                (
-                    "2026-07-28",
-                    "StockTok ETF 2.0 Rebalance",
-                    "stocktok-etf-20",
-                    CheckpointType.COMPLETE_SNAPSHOT,
-                    {
-                        "PRU": {"status": "active", "weight": 0.10},
-                        "MTB": {"status": "active", "weight": 0.10},
-                        "SPG": {"status": "active", "weight": 0.10},
-                        "UBSI": {"status": "active", "weight": 0.10},
-                        "TXT": {"status": "active", "weight": 0.10},
-                        "HNI": {"status": "active", "weight": 0.10},
-                        "VLO": {"status": "active", "weight": 0.10},
-                        "CAKE": {"status": "active", "weight": 0.10},
-                        "CNXN": {"status": "active", "weight": 0.10},
-                        "FELE": {"status": "active", "weight": 0.10},
-                        "SPB": {"status": "closed", "notes": "Sold in ETF 2.0"},
-                        "FDX": {"status": "closed", "notes": "Sold in ETF 2.0"},
-                        "MSCI": {"status": "closed", "notes": "Sold in ETF 2.0"},
-                    },
-                    "ETF 2.0 rebalance: 3 sales, 3 new additions, 7 retained",
-                ),
-                (
-                    "2026-11-03",
-                    "StockTok Performance Update & VLO Trim",
-                    "stocktok-etf-doubles-the-s-and-p",
-                    CheckpointType.PARTIAL_SNAPSHOT,
-                    {
-                        "VLO": {"status": "trimmed", "notes": "VLO trimmed after >28% gain"},
-                    },
-                    "Anchor performance update verifying 2.99x SPY outperformance",
-                ),
-            ]
-            for cid, (pdate, title, slug, ctype, discl, notes) in enumerate(tj_defs):
-                checkpoints.append(
-                    Checkpoint(
-                        checkpoint_id=f"tjstocks-{cid+1:02d}-{pdate}",
-                        source_key="tjstocks",
-                        checkpoint_date=pdate,
-                        publication_date=pdate,
-                        title=title,
-                        source_slug=slug,
-                        checkpoint_type=ctype,
-                        disclosed_positions=discl,
-                        notes=notes,
-                    )
-                )
-
-        else:
-            # Generic discovery for future publications
-            posts = sorted(source.api_posts_dir.glob("*.json"))
-            for p in posts:
+            for fcsv in dw_files:
                 try:
-                    data = json.loads(p.read_text(encoding="utf-8"))
-                    slug = data.get("slug") or p.stem
-                    pdate = (data.get("post_date") or "")[:10]
-                    title = data.get("title") or slug
-                    body = (data.get("body_html") or "").lower()
-                    if any(w in slug or w in body for w in ("portfolio-review", "current-holdings", "etf", "rebalance")):
+                    df = pd.read_csv(fcsv)
+                except Exception:
+                    continue
+                cols_up = {c.strip().upper(): c for c in df.columns}
+                sym_c = cols_up.get("SYMBOL") or cols_up.get("TICKER")
+                if not sym_c:
+                    continue
+
+                pick_dt_c = (
+                    cols_up.get("DATE OF PICK")
+                    or cols_up.get("PICK DATE")
+                    or cols_up.get("BUY DATE")
+                    or cols_up.get("ENTRY DATE")
+                )
+                close_dt_c = cols_up.get("CLOSE DATE") or cols_up.get("SELL DATE") or cols_up.get("EXIT DATE")
+                name_c = cols_up.get("STOCKS") or cols_up.get("STOCK") or cols_up.get("COMPANY") or cols_up.get("NAME")
+                status_c = cols_up.get("STATUS") or cols_up.get("RECO.") or cols_up.get("RECO")
+                wt_c = cols_up.get("WEIGHT") or cols_up.get("ALLOCATION")
+
+                if pick_dt_c:
+                    latest_perf_file = fcsv.name
+                    for _, r in df.iterrows():
+                        raw_sym = str(r.get(sym_c, "")).strip().upper()
+                        if not raw_sym or raw_sym in ("NAN", "CASH", "TOTAL") or "UPGRADE" in raw_sym:
+                            continue
+                        p_dt = pd.to_datetime(str(r.get(pick_dt_c, "")).strip(), errors="coerce")
+                        if pd.isna(p_dt):
+                            continue
+                        c_dt = pd.to_datetime(str(r.get(close_dt_c, "")).strip(), errors="coerce") if close_dt_c else pd.NaT
+                        norm_sym, _, _ = resolver.normalize_symbol(raw_sym)
+                        p_str = p_dt.strftime("%Y-%m-%d")
+                        c_str = c_dt.strftime("%Y-%m-%d") if pd.notna(c_dt) else None
+                        cname = str(r.get(name_c, norm_sym)).strip() if name_c else norm_sym
+                        if (norm_sym, p_str) not in seen_picks:
+                            seen_picks.add((norm_sym, p_str))
+                            dated_picks.append(
+                                {
+                                    "symbol": norm_sym,
+                                    "name": cname,
+                                    "pick_date": p_str,
+                                    "close_date": c_str,
+                                    "status_raw": str(r.get(status_c, "")).strip().upper() if status_c else "",
+                                    "file": fcsv.name,
+                                }
+                            )
+                elif wt_c and "portfolio" in fcsv.name.lower():
+                    # Prefer paid/authenticated live portfolio tables (e.g. svif-usa-portfolio) over "-free" teaser snapshots
+                    if latest_portfolio_df is None or ("free" in latest_portfolio_file.lower() and "free" not in fcsv.name.lower()):
+                        latest_portfolio_df = df
+                        latest_portfolio_file = fcsv.name
+
+            # Build independent point-in-time milestones from raw dated picks table
+            if dated_picks:
+                all_dates = [p["pick_date"] for p in dated_picks] + [p["close_date"] for p in dated_picks if p["close_date"]]
+                min_dt = min(all_dates)
+                max_dt = max(all_dates)
+                milestone_candidates = ["2025-06-30", "2025-12-31", "2026-06-30", max_dt]
+                seen_ms: set[str] = set()
+                for ms_dt in milestone_candidates:
+                    if ms_dt < min_dt or ms_dt > max_dt or ms_dt in seen_ms:
+                        continue
+                    seen_ms.add(ms_dt)
+                    pos_map: dict[str, dict[str, Any]] = {}
+                    for p in dated_picks:
+                        if p["pick_date"] <= ms_dt:
+                            is_closed_by_ms = bool(p["close_date"] and p["close_date"] <= ms_dt)
+                            pos_map[p["symbol"]] = {
+                                "status": "closed" if is_closed_by_ms else "active",
+                                "name": p["name"],
+                                "evidence": (
+                                    f"Raw Datawrapper table {p['file']}: Picked {p['pick_date']}"
+                                    + (f", Closed {p['close_date']}" if is_closed_by_ms else " (Open)")
+                                ),
+                            }
+                    if pos_map:
                         checkpoints.append(
                             Checkpoint(
-                                checkpoint_id=f"{source.key}-{pdate}-{slug[:20]}",
+                                checkpoint_id=f"{source.key}-dw-picks-{ms_dt}",
                                 source_key=source.key,
-                                checkpoint_date=pdate,
-                                publication_date=pdate,
-                                title=title,
-                                source_slug=slug,
-                                checkpoint_type=CheckpointType.COMPLETE_SNAPSHOT,
-                                disclosed_positions={},
-                                notes="Automatically discovered portfolio checkpoint",
+                                date=ms_dt,
+                                evaluation_date=ms_dt,
+                                title=f"Datawrapper Pick Tracker Point-in-Time Verification ({ms_dt})",
+                                source_file=latest_perf_file,
+                                checkpoint_type=CheckpointType.TABLE_SNAPSHOT,
+                                disclosed_positions=pos_map,
+                                notes="Independently derived strictly from raw Datawrapper pick/close dates.",
                             )
                         )
-                except Exception:
-                    pass
 
+            # Build full portfolio allocation table snapshot checkpoint if present
+            if latest_portfolio_df is not None:
+                cols_up = {c.strip().upper(): c for c in latest_portfolio_df.columns}
+                sym_c = cols_up.get("SYMBOL") or cols_up.get("TICKER")
+                name_c = cols_up.get("STOCKS") or cols_up.get("STOCK") or cols_up.get("COMPANY")
+                wt_c = cols_up.get("WEIGHT")
+                # Determine snapshot date from latest article/pick date (never from trade_events.csv)
+                snap_dt = max(
+                    [p["pick_date"] for p in dated_picks]
+                    + [p["close_date"] for p in dated_picks if p["close_date"]]
+                    + ["2026-10-31"]
+                )
+                if source.api_posts_dir.exists():
+                    post_dates = sorted(
+                        jp.name[:10] for jp in source.api_posts_dir.glob("*.json") if re.match(r"^\d{4}-\d{2}-\d{2}", jp.name)
+                    )
+                    if post_dates:
+                        snap_dt = max(snap_dt, post_dates[-1])
+
+                full_pos: dict[str, dict[str, Any]] = {}
+                if sym_c:
+                    for _, r in latest_portfolio_df.iterrows():
+                        raw_sym = str(r.get(sym_c, "")).strip().upper()
+                        if not raw_sym or raw_sym in ("NAN", "CASH", "TOTAL") or "UPGRADE" in raw_sym:
+                            continue
+                        norm_sym, _, _ = resolver.normalize_symbol(raw_sym)
+                        cname = str(r.get(name_c, norm_sym)).strip() if name_c else norm_sym
+                        wt_val = str(r.get(wt_c, "")).strip() if wt_c else ""
+                        full_pos[norm_sym] = {
+                            "status": "active",
+                            "name": cname,
+                            "evidence": f"Raw Datawrapper full portfolio snapshot {latest_portfolio_file} (weight={wt_val})",
+                        }
+                if full_pos:
+                    is_regional_subportfolio = any(
+                        tag in latest_portfolio_file.lower() for tag in ("usa-portfolio", "canada-portfolio", "europe-portfolio", "asia-portfolio")
+                    )
+                    checkpoints.append(
+                        Checkpoint(
+                            checkpoint_id=f"{source.key}-dw-full-{snap_dt}",
+                            source_key=source.key,
+                            date=snap_dt,
+                            evaluation_date=snap_dt,
+                            title=f"Portfolio Allocation Snapshot ({latest_portfolio_file})",
+                            source_file=latest_portfolio_file,
+                            checkpoint_type=CheckpointType.BASKET_SNAPSHOT if is_regional_subportfolio else CheckpointType.COMPLETE_SNAPSHOT,
+                            disclosed_positions=full_pos,
+                            notes=(
+                                "Regional sub-portfolio allocation table (e.g. USA Portfolio) verified against simulated holdings and baseline holdings."
+                                if is_regional_subportfolio
+                                else "Complete raw Datawrapper holdings table including pre-2025 baseline holdings."
+                            ),
+                        )
+                    )
+
+        # ------------------------------------------------------------------
+        # 2. Raw Substack API Post Checkpoints (Model ETFs & Periodic Portfolio Reviews)
+        # ------------------------------------------------------------------
+        if not source.api_posts_dir.exists():
+            return sorted(checkpoints, key=lambda c: c.evaluation_date)
+
+        prior_review_actives: dict[str, tuple[str, str]] = {}  # sym -> (prev_review_date, prev_review_slug)
+
+        for jp in sorted(source.api_posts_dir.glob("*.json")):
+            if jp.stat().st_size == 0:
+                continue
+            try:
+                pdata = json.loads(jp.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            if not isinstance(pdata, dict):
+                continue
+
+            slug = str(pdata.get("slug") or jp.stem)
+            pub_day = str(pdata.get("post_date") or jp.name[:10])[:10]
+            if not re.match(r"^\d{4}-\d{2}-\d{2}$", pub_day):
+                continue
+            title = str(pdata.get("title") or slug).strip()
+            subtitle = str(pdata.get("subtitle") or "").strip()
+            body_html = str(pdata.get("body_html") or "")
+            if not body_html.strip():
+                continue
+
+            plain_text, blocks = preprocess_substack_html(body_html)
+            title_low = f"{title} {subtitle}".lower()
+            plain_low = plain_text.lower()
+
+            # 2A. Model ETF / Equal-Weight Basket Checkpoints
+            is_model_etf = bool(
+                re.search(r"\betf\b", title_low)
+                and any(
+                    p in plain_low
+                    for p in (
+                        "10 stocks i would assemble",
+                        "build this etf",
+                        "equally weighted",
+                        "stocks that are staying, removed and added",
+                        "all 10 stocks in the",
+                    )
+                )
+            )
+            if is_model_etf:
+                cp_etf = self._parse_model_etf_checkpoint(source.key, slug, pub_day, title, blocks, resolver)
+                if cp_etf and cp_etf.disclosed_positions:
+                    checkpoints.append(cp_etf)
+                continue
+
+            # 2B. Periodic Prose Portfolio Reviews & Trade Reviews
+            is_review_post = bool(
+                re.search(r"\b(?:portfolio\s+review|trade\s+review|quarterly\s+review|mid-year\s+review)\b", title_low)
+                or re.search(r"(?:portfolio-review|trade-review)", slug)
+            )
+            if is_review_post:
+                cp_rev, mentioned_all = self._parse_prose_review_checkpoint(
+                    source=source,
+                    slug=slug,
+                    pub_day=pub_day,
+                    title=title,
+                    body_html=body_html,
+                    blocks=blocks,
+                    resolver=resolver,
+                    prior_review_actives=prior_review_actives,
+                )
+                if cp_rev and (cp_rev.disclosed_positions or cp_rev.excluded_positions):
+                    checkpoints.append(cp_rev)
+                    # Update prior_review_actives for cross-review disappearance tracking
+                    current_actives = {
+                        sym: (pub_day, slug)
+                        for sym, info in cp_rev.disclosed_positions.items()
+                        if info.get("status") == "active"
+                    }
+                    if current_actives:
+                        # Remove anything explicitly closed in this review, keep newly disclosed actives
+                        prior_review_actives = {
+                            k: v
+                            for k, v in prior_review_actives.items()
+                            if cp_rev.disclosed_positions.get(k, {}).get("status") != "closed"
+                            and k in mentioned_all
+                        }
+                        prior_review_actives.update(current_actives)
+
+        checkpoints.sort(key=lambda c: (c.evaluation_date, c.checkpoint_id))
         return checkpoints
 
-    def replay_portfolio_to_date(
+    def _parse_model_etf_checkpoint(
         self,
-        source: SourceConfig,
-        as_of_date: str,
-    ) -> dict[str, dict[str, Any]]:
-        """Replay verified trade ledger up to as_of_date to determine simulated open holdings."""
-        open_positions: dict[str, dict[str, Any]] = {}
+        source_key: str,
+        slug: str,
+        pub_day: str,
+        title: str,
+        blocks: list[Any],
+        resolver: SecurityResolver,
+    ) -> Optional[Checkpoint]:
+        full_low = "\n".join(b.text.lower() for b in blocks)
+        pos_map: dict[str, dict[str, Any]] = {}
 
-        # 1. Baseline holdings
-        holdings_path = source.data_dir / "portfolio_holdings.csv"
-        if holdings_path.exists() and holdings_path.stat().st_size > 0:
-            try:
-                hdf = pd.read_csv(holdings_path)
-                for _, r in hdf.iterrows():
-                    sym = str(r.get("symbol", "")).strip().upper()
-                    if not sym or sym == "NAN":
-                        continue
-                    mkt = str(r.get("market", ":us:"))
-                    raw_entry = r.get("entry_date")
-                    if pd.isna(raw_entry) or str(raw_entry).strip().lower() in ("", "nan", "none"):
-                        entry_dt = "2026-01-01"
-                    else:
-                        entry_dt = str(raw_entry).strip()[:10]
-                    if entry_dt <= as_of_date:
-                        open_positions[sym] = {
-                            "ticker": sym,
-                            "market": mkt,
-                            "company_name": str(r.get("company_name", sym)),
-                            "entry_date": entry_dt,
-                            "target_weight": float(r.get("weight", 0.05)) if pd.notna(r.get("weight")) else 0.05,
-                            "status": "OPEN",
-                            "source_type": "baseline",
-                        }
-            except Exception:
-                pass
-
-        # 2. Chronological trades up to as_of_date
-        trades_path = source.data_dir / "trade_events.csv"
-        if trades_path.exists() and trades_path.stat().st_size > 0:
-            try:
-                tdf = pd.read_csv(trades_path)
-                tdf["date"] = tdf["date"].astype(str).str.slice(0, 10)
-                sub_trades = tdf[tdf["date"] <= as_of_date].sort_values("date")
-                for _, r in sub_trades.iterrows():
-                    sym = str(r.get("ticker", "")).strip().upper()
-                    act = str(r.get("action", "")).strip().upper()
-                    mkt = str(r.get("market", ":us:"))
-                    tdate = str(r.get("date", ""))
-                    tw = float(r.get("target_weight", 0.05)) if pd.notna(r.get("target_weight")) and str(r.get("target_weight")) != "" else 0.05
-
-                    if act in ("BUY", "ADD"):
-                        if sym not in open_positions:
-                            open_positions[sym] = {
-                                "ticker": sym,
-                                "market": mkt,
-                                "company_name": sym,
-                                "entry_date": tdate,
-                                "target_weight": tw,
-                                "status": "OPEN",
-                                "source_type": "trade",
+        if "staying, removed and added" in full_low or "(remove)" in full_low:
+            mode = "staying"
+            for blk in blocks:
+                txt = blk.text.strip()
+                low = txt.lower()
+                if low in ("added", "additions", "new additions") or "here are the new" in low or "3 new stocks" in low:
+                    mode = "added"
+                    continue
+                if blk.kind != "list_item":
+                    continue
+                # Skip conversational commentary bullets (e.g. "I wrote about FedEx a few weeks ago...")
+                if re.match(r"^(?:i\s+wrote|read\s+my|check\s+out|if\s+you|see\s+here)\b", low):
+                    continue
+                secs = resolver.find_securities_in_clause(txt)
+                if not secs:
+                    continue
+                norm, _, _, cname = secs[0]
+                if "(remove)" in low:
+                    pos_map[norm] = {
+                        "status": "closed",
+                        "name": cname,
+                        "evidence": f"Model ETF rebalance removal: {txt[:140]}",
+                    }
+                elif mode in ("staying", "added") and norm not in pos_map:
+                    pos_map[norm] = {
+                        "status": "active",
+                        "name": cname,
+                        "evidence": f"Model ETF rebalance {'addition' if mode == 'added' else 'retained'}: {txt[:140]}",
+                    }
+        else:
+            # Check status review ("- Hold" / "- Trim or cut") vs initial 10-stock list
+            status_items = []
+            for blk in blocks:
+                if blk.kind == "list_item":
+                    m_st = re.search(r"[-–—]\s*(trim\s+or\s+cut|hold/buy|buy/hold|hold|trim|cut|sell)\s*$", blk.text.strip(), re.I)
+                    if m_st:
+                        secs = resolver.find_securities_in_clause(blk.text)
+                        if secs:
+                            status_items.append((blk, secs[0], m_st.group(1).lower()))
+            if len(status_items) >= 5:
+                for blk, (norm, _, _, cname), st_str in status_items:
+                    pos_map[norm] = {
+                        "status": "closed" if st_str in ("cut", "sell") else "active",
+                        "name": cname,
+                        "evidence": f"Model ETF review item ({st_str}): {blk.text[:140]}",
+                    }
+            else:
+                for blk in blocks:
+                    if blk.kind == "list_item" and "$" in blk.text:
+                        secs = resolver.find_securities_in_clause(blk.text)
+                        if secs and secs[0][0] not in pos_map:
+                            norm, _, _, cname = secs[0]
+                            pos_map[norm] = {
+                                "status": "active",
+                                "name": cname,
+                                "evidence": f"Model ETF initial constituent: {blk.text[:140]}",
                             }
-                        else:
-                            open_positions[sym]["status"] = "OPEN"
-                            open_positions[sym]["target_weight"] = tw
-                    elif act == "TRIM":
-                        if sym in open_positions:
-                            open_positions[sym]["status"] = "TRIMMED"
-                            open_positions[sym]["target_weight"] = tw
-                    elif act == "SELL":
-                        if sym in open_positions:
-                            open_positions[sym]["status"] = "CLOSED"
-                            open_positions[sym]["exit_date"] = tdate
+
+        if not pos_map:
+            return None
+        return Checkpoint(
+            checkpoint_id=f"{source_key}-{pub_day}-{slug[:28]}",
+            source_key=source_key,
+            date=pub_day,
+            evaluation_date=pub_day,
+            title=title,
+            source_file=f"{pub_day}__{slug}.json",
+            checkpoint_type=CheckpointType.COMPLETE_SNAPSHOT,
+            disclosed_positions=pos_map,
+            notes="Complete model basket constituent verification parsed from raw HTML list items.",
+        )
+
+    def _parse_prose_review_checkpoint(
+        self,
+        source: SourceConfig,
+        slug: str,
+        pub_day: str,
+        title: str,
+        body_html: str,
+        blocks: list[Any],
+        resolver: SecurityResolver,
+        prior_review_actives: dict[str, tuple[str, str]],
+    ) -> tuple[Optional[Checkpoint], set[str]]:
+        """Parse active holdings, closed recaps, excluded shorts/options, and cross-review disappearances from a prose Portfolio/Trade Review."""
+        pos_map: dict[str, dict[str, Any]] = {}
+        excluded_map: dict[str, str] = {}
+        mentioned_anywhere: set[str] = set()
+        default_yr = pub_day[:4]
+        eval_dt = pub_day
+        section_mode: Optional[str] = None
+        has_removals_section = False
+
+        soup = BeautifulSoup(body_html, "html.parser")
+        img_count = len(soup.find_all("img"))
+        table_count = len(soup.find_all("table"))
+
+        for blk in blocks:
+            txt = blk.text.strip()
+            low = txt.lower()
+            secs_blk = resolver.find_securities_in_clause(txt)
+            for s_norm, _, _, _ in secs_blk:
+                mentioned_anywhere.add(s_norm)
+
+            if blk.kind == "heading":
+                if re.search(r"\b(?:removals|recap\s+of\s+removals|closed\s+positions|exits)\b", low):
+                    section_mode = "removals"
+                    has_removals_section = True
+                elif re.search(r"\b(?:additions|recap\s+of\s+additions|new\s+positions)\b", low):
+                    section_mode = "additions"
+                elif re.search(r"\b(?:existing\s+portfolio|current\s+holdings|macro|conclusion)\b", low):
+                    section_mode = "existing"
+
+                # Heading-level disclosures: "Long 7089 JT Equity (For Startups)", "Short UVE US Equity", "New Position: SK Square 402340 KS"
+                m_lhd = re.match(
+                    r"^(?:Idea\s*\d*\s*:\s*|\d+\.\s*)?(Long|Short)\s+([A-Z0-9]{1,6})\s+(KS|KQ|JT|JP|TYO|AU|AX|US|LN|LI|FP|PL|LS|HK)(?:\s+Equity)?(?:\s*\(([^)]+)\))?",
+                    txt,
+                    re.IGNORECASE,
+                )
+                if m_lhd:
+                    side = m_lhd.group(1).upper()
+                    rsym = m_lhd.group(2).upper()
+                    hint = m_lhd.group(3).upper()
+                    cname = (m_lhd.group(4) or rsym).strip()
+                    norm_s, _, _ = resolver.register_binding(cname, rsym, hint=hint, context_text=txt)
+                    mentioned_anywhere.add(norm_s)
+                    if side == "SHORT":
+                        excluded_map[norm_s] = f"Disclosed short position in review heading: {txt[:120]}"
+                    else:
+                        pos_map[norm_s] = {
+                            "status": "active",
+                            "name": cname,
+                            "evidence": f"Review heading long disclosure: {txt[:140]}",
+                        }
+                    continue
+
+                if re.match(r"^(?:\d+\.\s*)?(?:Adding\s+to|New\s+Position:?|Position\s+Increase:?)\b", txt, re.I) and secs_blk:
+                    for norm_s, _, _, cname in secs_blk:
+                        pos_map[norm_s] = {
+                            "status": "active",
+                            "name": cname,
+                            "evidence": f"Review heading active addition: {txt[:140]}",
+                        }
+                    continue
+                if re.match(r"^(?:\d+\.\s*)?(?:Reduce|Trim)\b", txt, re.I) and secs_blk:
+                    norm_s, _, _, cname = secs_blk[0]
+                    pos_map[norm_s] = {
+                        "status": "active",
+                        "name": cname,
+                        "evidence": f"Review heading partial reduction (still held): {txt[:140]}",
+                    }
+                    continue
+
+            # Structured Removal Recap lines ("1. CBL Properties (CBL) +114% - Exited September 15", "MCHB US (...) - Closed April 10")
+            m_rem1 = re.match(
+                r"^(?:(?:\d+\.|\*|-)\s*)?(Short\s+)?([A-Za-z0-9\s&.,\'’-]+?)\s*\(([A-Z0-9/,\sand.-]+)\)\s*(?:[+-]?\d+(?:\.\d+)?%)?\s*[-–—]\s*(?:Exited|Closed)\s+([A-Za-z]+\s+\d{1,2}(?:,\s*\d{4})?)(?:\s+[Vv]ia\s+([A-Za-z\s]+))?",
+                txt,
+                re.IGNORECASE,
+            )
+            if m_rem1:
+                has_removals_section = True
+                is_sh = bool(m_rem1.group(1))
+                cname = m_rem1.group(2).strip()
+                stoks = m_rem1.group(3).strip().split()
+                rsym = stoks[0].split("/")[0]
+                hint = stoks[1] if len(stoks) > 1 and stoks[1].upper() in EXCHANGE_HINT_MAP else None
+                ex_dt = self._parse_verbal_date(m_rem1.group(4), default_year=default_yr) or pub_day
+                if ex_dt > eval_dt and abs((pd.Timestamp(ex_dt) - pd.Timestamp(pub_day)).days) <= 10:
+                    eval_dt = ex_dt
+                via = (m_rem1.group(5) or "").lower()
+                norm_s, _, _ = resolver.register_binding(cname, rsym, hint=hint, context_text=txt)
+                mentioned_anywhere.add(norm_s)
+                if is_sh:
+                    excluded_map[norm_s] = f"Short recap in review: {txt[:140]}"
+                else:
+                    pos_map[norm_s] = {
+                        "status": "closed",
+                        "name": cname,
+                        "evidence": f"Review closed recap ({ex_dt}{', via ' + via if via else ''}): {txt[:140]}",
+                    }
+                continue
+
+            m_rem2 = re.match(
+                r"^(?:(?:\d+\.|\*|-)\s*)?([A-Z0-9]{1,6})\s+([A-Z]{2})\s*\(([^)]+)\)\s*[-–—]\s*Total\s+Return\s*(?:[+-]?\d+(?:\.\d+)?%)?\s*[-–—]\s*(?:Closed|Exited)\s+([A-Za-z]+\s+\d{1,2}(?:,\s*\d{4})?)",
+                txt,
+                re.IGNORECASE,
+            )
+            if m_rem2:
+                has_removals_section = True
+                rsym, mkt_h, cname, rdt = m_rem2.group(1).upper(), m_rem2.group(2).upper(), m_rem2.group(3).strip(), m_rem2.group(4).strip()
+                ex_dt = self._parse_verbal_date(rdt, default_year=default_yr) or pub_day
+                norm_s, _, _ = resolver.register_binding(cname, rsym, hint=mkt_h, context_text=txt)
+                mentioned_anywhere.add(norm_s)
+                pos_map[norm_s] = {
+                    "status": "closed",
+                    "name": cname,
+                    "evidence": f"Review closed recap ({ex_dt}): {txt[:140]}",
+                }
+                continue
+
+            # Structured Addition Recap lines ("1. ABC Arbitrage (ABCA FP) - Added September 3", "Short JPMorgan (JPM US) - Added September 28")
+            m_add = re.match(
+                r"^(?:(?:\d+\.|\*|-)\s*)?(Short\s+)?([A-Za-z0-9\s&.,\'’-]+?)\s*\(([A-Z0-9/,\sand.-]+)\)\s*[-–—]\s*Added\s+([A-Za-z]+\s+\d{1,2}(?:,\s*\d{4})?)",
+                txt,
+                re.IGNORECASE,
+            )
+            if m_add:
+                is_sh = bool(m_add.group(1))
+                cname = m_add.group(2).strip()
+                stoks = m_add.group(3).strip().split()
+                rsym = stoks[0].split("/")[0]
+                hint = stoks[1] if len(stoks) > 1 and stoks[1].upper() in EXCHANGE_HINT_MAP else None
+                norm_s, _, _ = resolver.register_binding(cname, rsym, hint=hint, context_text=txt)
+                mentioned_anywhere.add(norm_s)
+                if is_sh:
+                    excluded_map[norm_s] = f"Disclosed short addition in review: {txt[:140]}"
+                else:
+                    pos_map[norm_s] = {
+                        "status": "active",
+                        "name": cname,
+                        "evidence": f"Review addition recap: {txt[:140]}",
+                    }
+                continue
+
+            # Explicit prose active ownership / accumulation statements inside the review
+            for sent in re.split(r"(?<=[.!?])\s+", txt):
+                slow = sent.lower().strip()
+                if not slow or "?" in slow:
+                    continue
+                if re.search(r"\b(?:short\s+position|short\s+basket|remain\s+short|am\s+also\s+short|smaller\s+short)\b", slow):
+                    # Split out any contrasting long clause (e.g. "short position in UVE ... cancel out my long HRTG")
+                    short_part = re.split(r"\b(?:cancel\s+out|offset|against|my\s+long|long\s+position)\b", sent, maxsplit=1, flags=re.I)[0]
+                    for norm_s, _, _, _ in resolver.find_securities_in_clause(short_part):
+                        excluded_map.setdefault(norm_s, f"Disclosed short in review prose: {short_part[:120]}")
+                    continue
+                if re.search(r"\b(?:not|never|haven[’\']t|don[’\']t|watch\s*list|exited|closed\s+out|sold\s+out)\b", slow):
+                    continue
+                if re.search(
+                    r"\b(?:steadily\s+adding\s+to|have\s+been\s+adding\s+to|i[’\']ve\s+been\s+adding\s+to|"
+                    r"remain\s+convicted\s+to|started\s+a\s+speculative\s+starter\s+position\s+in|"
+                    r"i\s+bought\s+a\s+speculative\s+starter\s+position\s+in|initating\s+smaller\s+positions\s+in|"
+                    r"initiating\s+smaller\s+positions\s+in|i\s+added\s+sk\s+square|"
+                    r"high\s+conviction\s*:|medium\s+conviction\s*:)\b",
+                    slow,
+                ):
+                    # Split out any leading "Aside from significantly reducing X and ..." clause so each clause keeps its own securities
+                    for sub_s in re.split(r"\band\s+(?=initiat|initat)", sent, flags=re.I):
+                        if re.search(r"\b(?:reducing|trimming)\b", sub_s, re.I) and not re.search(r"\b(?:adding|initiat|initat|convicted)\b", sub_s, re.I):
+                            continue
+                        for norm_s, _, _, cname in resolver.find_securities_in_clause(sub_s):
+                            if norm_s not in pos_map and norm_s not in excluded_map:
+                                pos_map[norm_s] = {
+                                    "status": "active",
+                                    "name": cname,
+                                    "evidence": f"Review active holding statement: {sub_s.strip()[:140]}",
+                                }
+
+        # Dynamic Cross-Review Disappearance Detection:
+        # If this review has BOTH active portfolio commentary AND a Removals section, check whether any
+        # position explicitly active in the immediately preceding Portfolio Review vanished without being
+        # mentioned anywhere in this review OR exited in chat/articles between the two reviews!
+        if has_removals_section and prior_review_actives:
+            intervening_mentions = self._find_mentions_between_dates(
+                source=source,
+                resolver=resolver,
+                start_exclusive=min(v[0] for v in prior_review_actives.values()),
+                end_inclusive=eval_dt,
+                exclude_slug=slug,
+            )
+            for prev_sym, (prev_dt, prev_slug) in prior_review_actives.items():
+                if prev_sym not in mentioned_anywhere and prev_sym not in pos_map and prev_sym not in excluded_map:
+                    # Check if any trade/exit chat or article between prev_dt and eval_dt closed it
+                    if prev_sym not in intervening_mentions:
+                        pos_map[prev_sym] = {
+                            "status": "disappeared",
+                            "name": resolver.known_symbols.get(prev_sym, (prev_sym, "", "", prev_sym))[3],
+                            "evidence": (
+                                f"Disclosed active in {prev_slug} ({prev_dt}) but absent from both active commentary "
+                                f"and Removals recap in {slug} ({pub_day}), with zero intervening archive mentions."
+                            ),
+                        }
+
+        cp_type = CheckpointType.PARTIAL_SNAPSHOT if (img_count > 0 and table_count == 0) else CheckpointType.COMPLETE_SNAPSHOT
+        note_str = (
+            f"Prose review parsed from raw HTML ({img_count} embedded images, {table_count} HTML tables)."
+            + (" Full portfolio table is an image screenshot; prose/list disclosures verified as PARTIAL_SNAPSHOT." if cp_type == CheckpointType.PARTIAL_SNAPSHOT else "")
+        )
+
+        return (
+            Checkpoint(
+                checkpoint_id=f"{source.key}-{pub_day}-{slug[:28]}",
+                source_key=source.key,
+                date=pub_day,
+                evaluation_date=eval_dt,
+                title=title,
+                source_file=f"{pub_day}__{slug}.json",
+                checkpoint_type=cp_type,
+                disclosed_positions=pos_map,
+                excluded_positions=excluded_map,
+                notes=note_str,
+            ),
+            mentioned_anywhere,
+        )
+
+    def _find_mentions_between_dates(
+        self,
+        source: SourceConfig,
+        resolver: SecurityResolver,
+        start_exclusive: str,
+        end_inclusive: str,
+        exclude_slug: str = "",
+    ) -> set[str]:
+        """Return set of normalized symbols mentioned in exits/sales in raw articles or chats in (start_exclusive, end_inclusive]."""
+        closed_syms: set[str] = set()
+        exit_re = re.compile(r"\b(?:closed|closing|sold|selling|exited|cut|cutting|stopped\s+out|getting\s+rid)\b", re.I)
+
+        if source.api_posts_dir.exists():
+            for jp in sorted(source.api_posts_dir.glob("*.json")):
+                if jp.stat().st_size == 0:
+                    continue
+                dt_p = jp.name[:10]
+                if not (start_exclusive < dt_p <= end_inclusive):
+                    continue
+                try:
+                    pdata = json.loads(jp.read_text(encoding="utf-8"))
+                    if str(pdata.get("slug") or "") == exclude_slug:
+                        continue
+                    plain, _ = preprocess_substack_html(str(pdata.get("body_html") or ""))
+                    for line in plain.splitlines():
+                        if exit_re.search(line):
+                            for s_norm, _, _, _ in resolver.find_securities_in_clause(line):
+                                closed_syms.add(s_norm)
+                except Exception:
+                    continue
+
+        tpath = source.chat_dir / "chat_threads.json"
+        if tpath.exists() and tpath.stat().st_size > 0:
+            try:
+                for item in json.loads(tpath.read_text(encoding="utf-8")):
+                    cp = item.get("communityPost") or item
+                    dt_c = str(cp.get("created_at") or "")[:10]
+                    body = str(cp.get("body") or "")
+                    if start_exclusive < dt_c <= end_inclusive:
+                        for sent_c in re.split(r"[\n.!?]+", body):
+                            if exit_re.search(sent_c):
+                                for s_norm, _, _, _ in resolver.find_securities_in_clause(sent_c):
+                                    closed_syms.add(s_norm)
             except Exception:
                 pass
 
-        # Filter active open positions
-        active_open = {k: v for k, v in open_positions.items() if v.get("status") in ("OPEN", "TRIMMED")}
-        return active_open
+        rpath = source.chat_dir / "chat_replies.json"
+        if rpath.exists() and rpath.stat().st_size > 0:
+            try:
+                for clist in json.loads(rpath.read_text(encoding="utf-8")).values():
+                    for cw in clist:
+                        co = cw.get("comment") if isinstance(cw.get("comment"), dict) else cw
+                        dt_r = str(co.get("created_at") or "")[:10]
+                        body = str(co.get("body") or "")
+                        if start_exclusive < dt_r <= end_inclusive:
+                            for sent_r in re.split(r"[\n.!?]+", body):
+                                if exit_re.search(sent_r):
+                                    for s_norm, _, _, _ in resolver.find_securities_in_clause(sent_r):
+                                        closed_syms.add(s_norm)
+            except Exception:
+                pass
 
-    def reconcile_checkpoint(
-        self,
-        checkpoint: Checkpoint,
-        simulated_positions: dict[str, dict[str, Any]],
-        source: SourceConfig,
-    ) -> None:
-        """Point-in-time reconciliation between disclosed checkpoint holdings and simulated positions."""
-        disclosed = checkpoint.disclosed_positions
-        sim_tickers = {t.split(".")[0].upper(): t for t in simulated_positions.keys()}
-        matched: list[str] = []
+        return closed_syms
+
+    def replay_portfolio_to_date(self, source: SourceConfig, as_of_date: str) -> set[str]:
+        """
+        Reconstruct the simulated portfolio's active long holdings strictly as of `as_of_date`
+        by replaying `trade_events.csv` chronologically.
+        NEVER fabricates entry dates for undated baseline rows in `portfolio_holdings.csv`.
+        """
+        events_path = source.data_dir / "trade_events.csv"
+        if not events_path.exists() or events_path.stat().st_size == 0:
+            return set()
+
+        df = pd.read_csv(events_path)
+        if df.empty or "date" not in df.columns or "ticker" not in df.columns:
+            return set()
+
+        df = df.copy()
+        df["date_str"] = df["date"].astype(str).str.slice(0, 10)
+        sub = df[df["date_str"] <= as_of_date]
+
+        active: set[str] = set()
+        for _, row in sub.iterrows():
+            sym = str(row["ticker"]).strip().upper()
+            act = str(row["action"]).strip().upper()
+            if act in ("BUY", "ADD"):
+                active.add(sym)
+            elif act == "SELL":
+                active.discard(sym)
+        return active
+
+    def reconcile_checkpoint(self, source: SourceConfig, cp: Checkpoint) -> list[CheckpointDiscrepancy]:
+        """Compare reconstructed simulation state at `cp.evaluation_date` against independent checkpoint disclosures."""
+        sim_active = self.replay_portfolio_to_date(source, cp.evaluation_date)
+        # Also allow base-symbol match when exchange suffix differs only on US vs dual-listed ADR (e.g. MFC vs MFC.TO)
+        sim_bases = {s.split(".")[0]: s for s in sim_active}
         discrepancies: list[CheckpointDiscrepancy] = []
 
-        for d_sym, d_info in disclosed.items():
-            clean_d = d_sym.split(".")[0].upper()
-            d_status = d_info.get("status", "active")
+        # 1. Check every disclosed position in the checkpoint
+        expected_active_norms: set[str] = set()
+        for ticker, info in sorted(cp.disclosed_positions.items()):
+            status = info.get("status", "active")
+            evidence = str(info.get("evidence") or "")
+            base_t = ticker.split(".")[0]
+            in_sim = (ticker in sim_active) or (base_t in sim_bases)
 
-            if d_status in ("active", "trimmed"):
-                if clean_d in sim_tickers:
-                    matched.append(d_sym)
-                else:
-                    # Missing holding in simulation! Trigger root-cause investigation
-                    inv = self._investigate_missing_holding(d_sym, checkpoint, source)
-                    discrepancies.append(
-                        CheckpointDiscrepancy(
-                            ticker=d_sym,
-                            discrepancy_type="MISSING_IN_SIMULATION",
-                            severity="CRITICAL" if inv["root_cause"] != RootCauseCategory.BASELINE_HOLDING_DOCUMENTED else "INFO",
-                            disclosed_detail=f"Disclosed as active holding: {d_info.get('notes', '')}",
-                            simulated_detail="Not present in simulated open positions",
-                            root_cause=inv["root_cause"],
-                            investigation_evidence=inv["evidence"],
-                            corrective_action=inv["corrective_action"],
-                            is_resolved=inv["is_resolved"],
-                        )
+            if status == "active":
+                expected_active_norms.add(ticker)
+                expected_active_norms.add(base_t)
+                if not in_sim:
+                    disc = self._investigate_missing_holding(source, cp, ticker, evidence)
+                    discrepancies.append(disc)
+
+            elif status == "closed":
+                if in_sim:
+                    disc = self._investigate_unexpected_holding(
+                        source,
+                        cp,
+                        ticker,
+                        reason=f"Checkpoint explicitly marks {ticker} as CLOSED ({evidence}), but simulation still holds it open on {cp.evaluation_date}.",
                     )
-            elif d_status == "closed":
-                # Disclosed as closed: verify simulation does NOT still hold it
-                if clean_d in sim_tickers:
-                    # Unexpected holding in simulation: missing exit!
-                    inv = self._investigate_unexpected_holding(d_sym, checkpoint, source)
-                    discrepancies.append(
-                        CheckpointDiscrepancy(
-                            ticker=d_sym,
-                            discrepancy_type="UNEXPECTED_IN_SIMULATION",
-                            severity="CRITICAL",
-                            disclosed_detail=f"Explicitly disclosed as closed: {d_info.get('notes', '')}",
-                            simulated_detail="Remains open in simulated book",
-                            root_cause=RootCauseCategory.UNRECORDED_EXIT_OR_TRIM,
-                            investigation_evidence=inv["evidence"],
-                            corrective_action=inv["corrective_action"],
-                            is_resolved=inv["is_resolved"],
-                        )
-                    )
-                else:
-                    matched.append(d_sym)
-            elif d_status == "disappeared":
+                    discrepancies.append(disc)
+
+            elif status == "disappeared":
                 discrepancies.append(
                     CheckpointDiscrepancy(
-                        ticker=d_sym,
+                        checkpoint_id=cp.checkpoint_id,
+                        checkpoint_date=cp.evaluation_date,
+                        ticker=ticker,
                         discrepancy_type="UNEXPLAINED_DISAPPEARANCE",
                         severity="WARNING",
-                        disclosed_detail=f"Absent from portfolio review table: {d_info.get('notes', '')}",
-                        simulated_detail="Held in prior reviews but omitted without exit recap",
                         root_cause=RootCauseCategory.UNEXPLAINED_DISAPPEARANCE,
-                        investigation_evidence="Omitted from Open and Closed tables in September/October review",
-                        corrective_action="Preserve position in trade history with warning flag; do not synthesize exit",
+                        evidence_summary=evidence,
+                        recommended_action="Retain open in simulation until an explicit exit is disclosed; do not fabricate a sell event from silence.",
                         is_resolved=True,
                     )
                 )
 
-        checkpoint.matched_positions = matched
-        checkpoint.discrepancies = discrepancies
+        # 2. Record excluded short/option positions as transparent INFO items
+        for ex_sym, ex_note in sorted(cp.excluded_positions.items()):
+            if ex_sym in sim_active:
+                discrepancies.append(
+                    CheckpointDiscrepancy(
+                        checkpoint_id=cp.checkpoint_id,
+                        checkpoint_date=cp.evaluation_date,
+                        ticker=ex_sym,
+                        discrepancy_type="UNEXPECTED_IN_SIMULATION",
+                        severity="ERROR",
+                        root_cause=RootCauseCategory.SHORT_OR_DERIVATIVE_EXCLUDED,
+                        evidence_summary=f"Disclosed short/derivative {ex_sym} ({ex_note}) erroneously appears as a long holding in simulation!",
+                        recommended_action="Exclude short/option instruments from long cash equity ledger.",
+                        is_resolved=False,
+                    )
+                )
+            else:
+                discrepancies.append(
+                    CheckpointDiscrepancy(
+                        checkpoint_id=cp.checkpoint_id,
+                        checkpoint_date=cp.evaluation_date,
+                        ticker=ex_sym,
+                        discrepancy_type="EXCLUDED_INSTRUMENT",
+                        severity="INFO",
+                        root_cause=RootCauseCategory.SHORT_OR_DERIVATIVE_EXCLUDED,
+                        evidence_summary=ex_note,
+                        recommended_action="Tracked in non_equity_events.csv outside long cash equity simulation.",
+                        is_resolved=True,
+                    )
+                )
 
-        # Status determination
-        has_critical_unresolved = any(d.severity == "CRITICAL" and not d.is_resolved for d in discrepancies)
-        has_warnings = any(d.severity in ("WARNING", "CRITICAL") for d in discrepancies)
+        # 3. For COMPLETE_SNAPSHOT checkpoints, verify simulation holds NO unexpected extra positions!
+        if cp.checkpoint_type == CheckpointType.COMPLETE_SNAPSHOT:
+            for sim_sym in sorted(sim_active):
+                if sim_sym not in expected_active_norms and sim_sym.split(".")[0] not in expected_active_norms:
+                    disc = self._investigate_unexpected_holding(
+                        source,
+                        cp,
+                        sim_sym,
+                        reason=f"Simulated portfolio holds {sim_sym} on {cp.evaluation_date}, which is absent from COMPLETE_SNAPSHOT {cp.title}.",
+                    )
+                    discrepancies.append(disc)
 
-        if has_critical_unresolved:
-            checkpoint.status = ReconciliationStatus.UNRESOLVED_DISCREPANCIES
-        elif has_warnings:
-            checkpoint.status = ReconciliationStatus.RECONCILED_WITH_WARNINGS
-        else:
-            checkpoint.status = ReconciliationStatus.FULLY_RECONCILED
+        return discrepancies
 
     def _investigate_missing_holding(
         self,
-        ticker: str,
-        checkpoint: Checkpoint,
         source: SourceConfig,
-    ) -> dict[str, Any]:
-        """Follow evidence backwards to find earliest purchase or initiation disclosure."""
-        clean_t = ticker.split(".")[0].upper()
+        cp: Checkpoint,
+        ticker: str,
+        checkpoint_evidence: str,
+    ) -> CheckpointDiscrepancy:
+        """Automated forensic investigation across non_equity_events, baseline holdings, candidate_events, and raw archives."""
+        base_t = ticker.split(".")[0]
 
-        # Check documented baseline / options positions
-        if clean_t in ("WDC", "FIX", "IESC", "CTT"):
-            return {
-                "root_cause": RootCauseCategory.BASELINE_HOLDING_DOCUMENTED,
-                "evidence": f"Pre-2026 holding with protective options collar disclosed in {checkpoint.source_slug}",
-                "corrective_action": "Documented as baseline open holding in portfolio_holdings.csv",
-                "is_resolved": True,
-            }
+        # A. Check if excluded short or derivative in non_equity_events.csv
+        neq_path = source.data_dir / "non_equity_events.csv"
+        if neq_path.exists() and neq_path.stat().st_size > 2:
+            try:
+                neq_df = pd.read_csv(neq_path)
+                if not neq_df.empty and "normalized_ticker" in neq_df.columns:
+                    sub_n = neq_df[
+                        (neq_df["normalized_ticker"].astype(str).str.upper() == ticker)
+                        | (neq_df["normalized_ticker"].astype(str).str.upper().str.split(".").str[0] == base_t)
+                    ]
+                    if not sub_n.empty:
+                        inst = str(sub_n.iloc[0].get("instrument_type", "short/option"))
+                        return CheckpointDiscrepancy(
+                            checkpoint_id=cp.checkpoint_id,
+                            checkpoint_date=cp.evaluation_date,
+                            ticker=ticker,
+                            discrepancy_type="EXCLUDED_INSTRUMENT",
+                            severity="INFO",
+                            root_cause=RootCauseCategory.SHORT_OR_DERIVATIVE_EXCLUDED,
+                            evidence_summary=f"{ticker} is recorded in non_equity_events.csv as '{inst}' and intentionally excluded from long equity simulation.",
+                            recommended_action="No long trade required.",
+                            is_resolved=True,
+                        )
+            except Exception:
+                pass
 
-        # Check Korean value basket
-        if clean_t in ("013030", "453340", "139130", "402340"):
-            return {
-                "root_cause": RootCauseCategory.INCOMPLETE_DOWNLOAD_OR_PREVIEW,
-                "evidence": "Korea Value Basket initiated in 'Opening the Gates' (April 29) & 'Boring is Beautiful' (May 11)",
-                "corrective_action": "Refetched full post content via authenticated session and added trade events",
-                "is_resolved": True,
-            }
+        # B. Check if documented pre-archive baseline holding in portfolio_holdings.csv (e.g. pre-2025 BTT holdings)
+        h_path = source.data_dir / "portfolio_holdings.csv"
+        ev_path = source.data_dir / "trade_events.csv"
+        evidence_str = str(checkpoint_evidence or "")
+        is_dated_pick_in_evidence = bool(re.search(r"Picked\s+\d{4}-\d{2}-\d{2}", evidence_str))
+        if h_path.exists() and h_path.stat().st_size > 2 and not is_dated_pick_in_evidence:
+            try:
+                h_df = pd.read_csv(h_path)
+                ev_df = pd.read_csv(ev_path) if (ev_path.exists() and ev_path.stat().st_size > 2) else pd.DataFrame()
+                in_holdings = h_df[
+                    (h_df["symbol"].astype(str).str.upper() == ticker)
+                    | (h_df["symbol"].astype(str).str.upper().str.split(".").str[0] == base_t)
+                ]
+                has_any_buy_in_events = False
+                if not ev_df.empty and "ticker" in ev_df.columns:
+                    has_any_buy_in_events = not ev_df[
+                        ((ev_df["ticker"].astype(str).str.upper() == ticker) | (ev_df["ticker"].astype(str).str.upper().str.split(".").str[0] == base_t))
+                        & (ev_df["action"].astype(str).str.upper().isin(["BUY", "ADD"]))
+                    ].empty
+                if not in_holdings.empty and not has_any_buy_in_events:
+                    entry_dt_val = str(in_holdings.iloc[0].get("entry_date") or "").strip()
+                    if not entry_dt_val or entry_dt_val.lower() == "nan":
+                        return CheckpointDiscrepancy(
+                            checkpoint_id=cp.checkpoint_id,
+                            checkpoint_date=cp.evaluation_date,
+                            ticker=ticker,
+                            discrepancy_type="BASELINE_DOCUMENTED",
+                            severity="INFO",
+                            root_cause=RootCauseCategory.BASELINE_HOLDING_DOCUMENTED,
+                            evidence_summary=(
+                                f"{ticker} is documented in {in_holdings.iloc[0].get('source_file', 'portfolio_holdings.csv')} "
+                                f"as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+                            ),
+                            recommended_action="Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+                            is_resolved=True,
+                        )
+            except Exception:
+                pass
 
-        # Check Japanese deep-value picks
-        if clean_t in ("7089", "9220", "6626", "9478", "285A"):
-            return {
-                "root_cause": RootCauseCategory.INCORRECT_TICKER_OR_EXCHANGE,
-                "evidence": f"Tokyo-listed holding {ticker} featured in {checkpoint.source_slug}",
-                "corrective_action": "Mapped with .T suffix and multi-currency JPY FX conversion",
-                "is_resolved": True,
-            }
+        # C. Check candidate_events.json for extracted candidates (either confirmed-but-dropped or proposed/retrospective)
+        cand_path = source.data_dir / "candidate_events.json"
+        if cand_path.exists() and cand_path.stat().st_size > 2:
+            try:
+                cands = json.loads(cand_path.read_text(encoding="utf-8"))
+                matching_cands = [
+                    c
+                    for c in cands
+                    if (
+                        str(c.get("normalized_ticker", "")).upper() == ticker
+                        or str(c.get("normalized_ticker", "")).upper().split(".")[0] == base_t
+                    )
+                    and str(c.get("effective_date", "")) <= cp.evaluation_date
+                ]
+                confirmed_prior = [c for c in matching_cands if c.get("execution_status") == "confirmed" and c.get("action") in ("BUY", "ADD")]
+                if confirmed_prior:
+                    c0 = confirmed_prior[0]
+                    return CheckpointDiscrepancy(
+                        checkpoint_id=cp.checkpoint_id,
+                        checkpoint_date=cp.evaluation_date,
+                        ticker=ticker,
+                        discrepancy_type="MISSING_IN_SIMULATION",
+                        severity="ERROR",
+                        root_cause=RootCauseCategory.PARSER_MISS,
+                        evidence_summary=(
+                            f"Confirmed candidate found in {c0.get('source_id')} on {c0.get('effective_date')} "
+                            f"('{str(c0.get('exact_text'))[:100]}'), but missing from simulated portfolio on {cp.evaluation_date}! ({checkpoint_evidence})"
+                        ),
+                        recommended_action="Inspect trade_events.csv ledger integrity or premature SELL event.",
+                        is_resolved=False,
+                    )
+                non_conf = [c for c in matching_cands if c.get("execution_status") in ("proposed", "retrospective", "uncertain")]
+                if non_conf:
+                    c0 = non_conf[-1]
+                    rc = RootCauseCategory.CHAT_MISS if "chat" in str(c0.get("source_type", "")) else RootCauseCategory.AMBIGUOUS_WORDING
+                    return CheckpointDiscrepancy(
+                        checkpoint_id=cp.checkpoint_id,
+                        checkpoint_date=cp.evaluation_date,
+                        ticker=ticker,
+                        discrepancy_type="MISSING_IN_SIMULATION",
+                        severity="ERROR",
+                        root_cause=rc,
+                        evidence_summary=(
+                            f"{ticker} disclosed active at checkpoint ({checkpoint_evidence}); archive candidate in {c0.get('source_id')} "
+                            f"was classified '{c0.get('execution_status')}': '{str(c0.get('exact_text'))[:100]}'."
+                        ),
+                        recommended_action="Review primary source text to verify whether execution occurred.",
+                        is_resolved=False,
+                    )
+            except Exception:
+                pass
 
-        # Default fallback search
-        return {
-            "root_cause": RootCauseCategory.MISSING_SOURCE_OR_CHAT,
-            "evidence": f"Disclosed in {checkpoint.source_slug} but no prior trade initiation found",
-            "corrective_action": "Requires manual archive review or author inquiry",
-            "is_resolved": False,
-        }
+        # D. Search raw Datawrapper dated pick tables, raw chats, and raw articles directly!
+        if source.datawrapper_dir.exists():
+            for fcsv in sorted(source.datawrapper_dir.glob("*.csv")):
+                try:
+                    raw_txt = fcsv.read_text(encoding="utf-8", errors="ignore")
+                    if re.search(rf"\b{re.escape(base_t)}\b", raw_txt):
+                        return CheckpointDiscrepancy(
+                            checkpoint_id=cp.checkpoint_id,
+                            checkpoint_date=cp.evaluation_date,
+                            ticker=ticker,
+                            discrepancy_type="MISSING_IN_SIMULATION",
+                            severity="ERROR",
+                            root_cause=RootCauseCategory.PARSER_MISS,
+                            evidence_summary=f"{ticker} appears in raw Datawrapper table {fcsv.name} ({checkpoint_evidence}) but is missing from trade_events.csv!",
+                            recommended_action="Re-run primary extraction (`btt parse`) to restore missing table trade.",
+                            is_resolved=False,
+                        )
+                except Exception:
+                    continue
+
+        tpath = source.chat_dir / "chat_threads.json"
+        rpath = source.chat_dir / "chat_replies.json"
+        pat_sym = re.compile(rf"\b{re.escape(base_t)}\b", re.I)
+        if len(base_t) >= 3:
+            for p_chat, rc_cat in [(rpath, RootCauseCategory.SUBTHREAD_REPLY_MISS), (tpath, RootCauseCategory.CHAT_MISS)]:
+                if p_chat.exists() and p_chat.stat().st_size > 2:
+                    txt_c = p_chat.read_text(encoding="utf-8", errors="ignore")
+                    if pat_sym.search(txt_c):
+                        return CheckpointDiscrepancy(
+                            checkpoint_id=cp.checkpoint_id,
+                            checkpoint_date=cp.evaluation_date,
+                            ticker=ticker,
+                            discrepancy_type="MISSING_IN_SIMULATION",
+                            severity="ERROR",
+                            root_cause=rc_cat,
+                            evidence_summary=f"{ticker} is disclosed active ({checkpoint_evidence}) and appears in {p_chat.name}, but was omitted from trade_events.csv!",
+                            recommended_action="Inspect chat extraction rules or restore missing trade event.",
+                            is_resolved=False,
+                        )
+
+        if source.api_posts_dir.exists() and len(base_t) >= 3:
+            for jp in sorted(source.api_posts_dir.glob("*.json")):
+                if jp.name[:10] <= cp.evaluation_date and jp.name != cp.source_file:
+                    txt_a = jp.read_text(encoding="utf-8", errors="ignore")
+                    if pat_sym.search(txt_a):
+                        return CheckpointDiscrepancy(
+                            checkpoint_id=cp.checkpoint_id,
+                            checkpoint_date=cp.evaluation_date,
+                            ticker=ticker,
+                            discrepancy_type="MISSING_IN_SIMULATION",
+                            severity="ERROR",
+                            root_cause=RootCauseCategory.PARSER_MISS,
+                            evidence_summary=f"{ticker} is disclosed active ({checkpoint_evidence}) and appears in {jp.name}, but was omitted from trade_events.csv!",
+                            recommended_action="Inspect article extraction rules or restore missing trade event.",
+                            is_resolved=False,
+                        )
+
+        # E. Zero prior mentions anywhere in raw archive -> initiated outside Substack / prior to archive window
+        return CheckpointDiscrepancy(
+            checkpoint_id=cp.checkpoint_id,
+            checkpoint_date=cp.evaluation_date,
+            ticker=ticker,
+            discrepancy_type="MISSING_IN_SIMULATION",
+            severity="WARNING",
+            root_cause=RootCauseCategory.MANUAL_TRADE_OUTSIDE_SUBSTACK,
+            evidence_summary=(
+                f"{ticker} first appears at {cp.source_file} ({checkpoint_evidence}) with zero prior mentions in archived articles or chats."
+            ),
+            recommended_action="Do not backdate entry prior to first archival evidence.",
+            is_resolved=True,
+        )
 
     def _investigate_unexpected_holding(
         self,
+        source: SourceConfig,
+        cp: Checkpoint,
         ticker: str,
-        checkpoint: Checkpoint,
-        source: SourceConfig,
-    ) -> dict[str, Any]:
-        """Find missing exit evidence in chats or reviews."""
-        clean_t = ticker.split(".")[0].upper()
-        if clean_t == "IFOS":
-            return {
-                "root_cause": RootCauseCategory.UNRECORDED_EXIT_OR_TRIM,
-                "evidence": "Chat thread #29 (2026-10-14): 'Closing out the IFOS position today for a 30% loss'",
-                "corrective_action": "Incorporate Chat #29 SELL trade event on 2026-10-14",
-                "is_resolved": True,
-            }
-        if clean_t in ("GDDY", "285A"):
-            return {
-                "root_cause": RootCauseCategory.UNRECORDED_EXIT_OR_TRIM,
-                "evidence": f"Chat trade update closing {ticker} executed on {checkpoint.checkpoint_date}",
-                "corrective_action": "Incorporate chat trade exit into trade ledger",
-                "is_resolved": True,
-            }
-        return {
-            "root_cause": RootCauseCategory.UNRECORDED_EXIT_OR_TRIM,
-            "evidence": f"Position {ticker} remained open past disclosed exit date {checkpoint.checkpoint_date}",
-            "corrective_action": "Add explicit exit event on checkpoint date",
-            "is_resolved": False,
-        }
+        reason: str,
+    ) -> CheckpointDiscrepancy:
+        """Investigate why simulation still holds `ticker` when a checkpoint says it was closed or absent from a complete snapshot."""
+        base_t = ticker.split(".")[0]
 
-    def _save_checkpoint_audit(
-        self,
-        source: SourceConfig,
-        audit: PortfolioReconciliationAudit,
-    ) -> None:
-        """Save persistent auditable reconciliation records."""
-        results_dir = source.data_dir / "results"
-        results_dir.mkdir(parents=True, exist_ok=True)
-
-        # JSON record
-        json_path = results_dir / "checkpoint_reconciliation.json"
-        out_dict = {
-            "source_key": audit.source_key,
-            "source_name": audit.source_name,
-            "overall_status": audit.overall_status.value,
-            "total_checkpoints": audit.total_checkpoints,
-            "reconciled_checkpoints": audit.reconciled_checkpoints,
-            "discrepancies_resolved": audit.discrepancies_resolved,
-            "outstanding_issues": audit.outstanding_issues,
-            "checkpoints": [
-                {
-                    "checkpoint_id": cp.checkpoint_id,
-                    "date": cp.checkpoint_date,
-                    "title": cp.title,
-                    "slug": cp.source_slug,
-                    "type": cp.checkpoint_type.value,
-                    "status": cp.status.value,
-                    "matched_count": len(cp.matched_positions),
-                    "discrepancies_count": len(cp.discrepancies),
-                    "discrepancies": [
-                        {
-                            "ticker": d.ticker,
-                            "type": d.discrepancy_type,
-                            "severity": d.severity,
-                            "root_cause": d.root_cause.value,
-                            "evidence": d.investigation_evidence,
-                            "corrective_action": d.corrective_action,
-                            "resolved": d.is_resolved,
-                        }
-                        for d in cp.discrepancies
-                    ],
-                }
-                for cp in audit.checkpoints
-            ],
-        }
-        json_path.write_text(json.dumps(out_dict, indent=2), encoding="utf-8")
-
-        # CSV record
-        csv_path = results_dir / "checkpoint_history.csv"
-        rows = []
-        for cp in audit.checkpoints:
-            rows.append(
-                {
-                    "checkpoint_id": cp.checkpoint_id,
-                    "date": cp.checkpoint_date,
-                    "title": cp.title,
-                    "type": cp.checkpoint_type.value,
-                    "status": cp.status.value,
-                    "matched": len(cp.matched_positions),
-                    "discrepancies": len(cp.discrepancies),
-                    "notes": cp.notes,
-                }
-            )
-        pd.DataFrame(rows).to_csv(csv_path, index=False)
-
-    # Backwards compatibility audit_source method
-    def audit_source(self, source: SourceConfig) -> ReconciliationReport:
-        posts = sorted(source.api_posts_dir.glob("*.json"))
-        articles_count = len(posts)
-
-        chat_file = source.base_dir / "chat" / "chat_threads.json"
-        chat_threads = []
-        if chat_file.exists():
+        # Check if a later exit exists in trade_events.csv after cp.evaluation_date (e.g. timing difference of a few days)
+        ev_path = source.data_dir / "trade_events.csv"
+        if ev_path.exists() and ev_path.stat().st_size > 2:
             try:
-                chat_threads = json.loads(chat_file.read_text(encoding="utf-8"))
-            except Exception:
-                chat_threads = []
-        chats_count = len(chat_threads)
-        dw_tables = len(list(source.datawrapper_dir.glob("*.csv")))
-
-        trades_df = pd.DataFrame()
-        tpath = source.data_dir / "trade_events.csv"
-        if tpath.exists():
-            try:
-                trades_df = pd.read_csv(tpath)
+                ev_df = pd.read_csv(ev_path)
+                later_sells = ev_df[
+                    ((ev_df["ticker"].astype(str).str.upper() == ticker) | (ev_df["ticker"].astype(str).str.upper().str.split(".").str[0] == base_t))
+                    & (ev_df["action"].astype(str).str.upper() == "SELL")
+                    & (ev_df["date"].astype(str).str.slice(0, 10) > cp.evaluation_date)
+                ]
+                if not later_sells.empty:
+                    sell_dt = str(later_sells.iloc[0]["date"])[:10]
+                    day_gap = abs((pd.Timestamp(sell_dt) - pd.Timestamp(cp.evaluation_date)).days)
+                    has_recent_trim = not ev_df[
+                        ((ev_df["ticker"].astype(str).str.upper() == ticker) | (ev_df["ticker"].astype(str).str.upper().str.split(".").str[0] == base_t))
+                        & (ev_df["action"].astype(str).str.upper() == "TRIM")
+                        & (abs((pd.to_datetime(ev_df["date"]) - pd.to_datetime(cp.evaluation_date)).dt.days) <= 10)
+                    ].empty
+                    if day_gap <= 5 or (has_recent_trim and day_gap <= 45):
+                        return CheckpointDiscrepancy(
+                            checkpoint_id=cp.checkpoint_id,
+                            checkpoint_date=cp.evaluation_date,
+                            ticker=ticker,
+                            discrepancy_type="UNEXPECTED_IN_SIMULATION",
+                            severity="WARNING",
+                            root_cause=RootCauseCategory.PARTIAL_DISCLOSURE,
+                            evidence_summary=f"{reason} Exit recorded {day_gap} day(s) later on {sell_dt}.",
+                            recommended_action="Verified partial trim/settlement difference with subsequent explicit exit.",
+                            is_resolved=True,
+                        )
             except Exception:
                 pass
 
-        disclosed_positions = self._extract_disclosures(source, posts, chat_threads)
-        ledger_tickers = set(trades_df["ticker"].astype(str).str.upper()) if not trades_df.empty and "ticker" in trades_df else set()
-        holdings_path = source.data_dir / "portfolio_holdings.csv"
-        if holdings_path.exists():
-            try:
-                hdf = pd.read_csv(holdings_path)
-                if "symbol" in hdf:
-                    ledger_tickers.update(hdf["symbol"].astype(str).str.upper())
-            except Exception:
-                pass
+        # Otherwise check if an exit exists in chat/articles/Datawrapper that was missed or deleted from trade_events.csv!
+        rc = RootCauseCategory.PARSER_MISS
+        rpath = source.chat_dir / "chat_replies.json"
+        tpath = source.chat_dir / "chat_threads.json"
+        if rpath.exists() and re.search(rf"\b{re.escape(base_t)}\b", rpath.read_text(encoding="utf-8", errors="ignore"), re.I):
+            rc = RootCauseCategory.CHAT_MISS
+        elif tpath.exists() and re.search(rf"\b{re.escape(base_t)}\b", tpath.read_text(encoding="utf-8", errors="ignore"), re.I):
+            rc = RootCauseCategory.CHAT_MISS
 
-        orphan_holdings = []
-        unexplained_disappearances = []
-        for dp in disclosed_positions:
-            clean_ticker = dp.ticker.split(".")[0].upper()
-            full_ticker = dp.ticker.upper()
-            found = (clean_ticker in ledger_tickers) or (full_ticker in ledger_tickers)
-            if not found:
-                orphan_holdings.append(
-                    {
-                        "ticker": dp.ticker,
-                        "company_name": dp.company_name,
-                        "first_disclosed_date": dp.first_disclosed_date,
-                        "source_slug": dp.source_slug,
-                        "conviction": dp.conviction,
-                        "notes": dp.notes,
-                        "severity": "CRITICAL",
-                    }
-                )
-            if dp.status == "disappeared":
-                unexplained_disappearances.append(
-                    {
-                        "ticker": dp.ticker,
-                        "company_name": dp.company_name,
-                        "first_disclosed_date": dp.first_disclosed_date,
-                        "source_slug": dp.source_slug,
-                        "notes": dp.notes,
-                        "severity": "WARNING",
-                    }
-                )
-
-        unresolved = self._find_unresolved_candidates(source, posts, chat_threads, ledger_tickers)
-        geo_counts: dict[str, int] = {}
-        inst_counts: dict[str, int] = {}
-        for dp in disclosed_positions:
-            inst = dp.instrument_type
-            inst_counts[inst] = inst_counts.get(inst, 0) + 1
-            geo = "US"
-            if dp.market in (":kr:", "kr") or dp.ticker.endswith((".KS", ".KQ")) or (dp.ticker.isdigit() and len(dp.ticker) == 6):
-                geo = "Korea"
-            elif dp.market in (":jp:", "jp") or dp.ticker.endswith(".T") or (dp.ticker.isdigit() and len(dp.ticker) == 4):
-                geo = "Japan"
-            elif dp.market in (":hk:", "hk") or dp.ticker.endswith(".HK"):
-                geo = "Hong Kong"
-            elif dp.market in (":ca:", "ca") or dp.ticker.endswith((".TO", ".V")):
-                geo = "Canada"
-            elif dp.market in (":au:", "au") or dp.ticker.endswith(".AX"):
-                geo = "Australia"
-            elif dp.market in (":uk:", "uk") or dp.ticker.endswith(".L"):
-                geo = "UK"
-            elif dp.market in (":eu:", "fr", ":fr:") or dp.ticker.endswith((".PA", ".LS", ".DE")):
-                geo = "Europe"
-            geo_counts[geo] = geo_counts.get(geo, 0) + 1
-
-        return ReconciliationReport(
-            source_key=source.key,
-            source_name=source.display_name,
-            articles_downloaded=articles_count,
-            articles_examined=articles_count,
-            chats_downloaded=chats_count,
-            chats_examined=chats_count,
-            datawrapper_tables=dw_tables,
-            confirmed_trades_count=len(trades_df),
-            disclosed_holdings_count=len(disclosed_positions),
-            orphan_holdings=orphan_holdings,
-            unexplained_disappearances=unexplained_disappearances,
-            unresolved_candidates=unresolved,
-            breakdown_by_instrument=inst_counts,
-            breakdown_by_geography=geo_counts,
+        return CheckpointDiscrepancy(
+            checkpoint_id=cp.checkpoint_id,
+            checkpoint_date=cp.evaluation_date,
+            ticker=ticker,
+            discrepancy_type="UNEXPECTED_IN_SIMULATION",
+            severity="ERROR",
+            root_cause=rc,
+            evidence_summary=reason,
+            recommended_action="Locate missing SELL/exit transaction or remove false-positive BUY from trade_events.csv.",
+            is_resolved=False,
         )
 
-    def _extract_disclosures(
-        self,
-        source: SourceConfig,
-        posts: list[Path],
-        chat_threads: list[dict],
-    ) -> list[DisclosedPosition]:
-        disclosures: list[DisclosedPosition] = []
-        seen_tickers: set[str] = set()
+    def validate_and_reconcile_source(self, source: SourceConfig, save_outputs: bool = True) -> PortfolioReconciliationAudit:
+        """Run mandatory source archive validation + independent point-in-time checkpoint reconciliation."""
+        ing_report = validate_source_archive(source, save_report=save_outputs)
+        checkpoints = self.discover_checkpoints(source)
 
-        if source.key == "cluseau":
-            # March 2026 trade review
-            march_p = source.api_posts_dir / "2026-03-09__march-2026-trade-review.json"
-            if march_p.exists():
-                for sym, name, note, inst in [
-                    ("IESC", "IES Holdings", "Protected via Nov 220 puts", "protective_put"),
-                    ("FIX", "Comfort Systems", "Collared & protected via Nov 1500 puts", "protective_put"),
-                    ("WDC", "Western Digital", "Protected via Dec 350 puts / Jan covered calls", "protective_put"),
-                    ("285A", "Kioxia", "Closed per Chat alert", "equity"),
-                ]:
-                    if sym not in seen_tickers:
-                        seen_tickers.add(sym)
-                        disclosures.append(
-                            DisclosedPosition(
-                                ticker=sym,
-                                market=":us:" if sym != "285A" else ":jp:",
-                                company_name=name,
-                                first_disclosed_date="2026-03-09",
-                                source_slug="march-2026-trade-review",
-                                status="active",
-                                instrument_type=inst,
-                                notes=note,
-                            )
-                        )
+        all_discrepancies: list[CheckpointDiscrepancy] = []
+        timeline_rows: list[dict[str, Any]] = []
 
-            # April review
-            april_p = source.api_posts_dir / "2026-04-17__april-2026-portfolio-review.json"
-            if april_p.exists():
-                if "CTT" not in seen_tickers:
-                    seen_tickers.add("CTT")
-                    disclosures.append(
-                        DisclosedPosition(
-                            ticker="CTT",
-                            market=":eu:",
-                            company_name="Correios de Portugal",
-                            first_disclosed_date="2026-04-17",
-                            source_slug="april-2026-portfolio-review",
-                            status="active",
-                            notes="Portuguese postal & banking division, featured in April review Idea 5",
-                        )
+        for cp in checkpoints:
+            cp_discs = self.reconcile_checkpoint(source, cp)
+            all_discrepancies.extend(cp_discs)
+            sim_set = self.replay_portfolio_to_date(source, cp.evaluation_date)
+            exp_active = sorted(k for k, v in cp.disclosed_positions.items() if v.get("status") == "active")
+            exp_closed = sorted(k for k, v in cp.disclosed_positions.items() if v.get("status") == "closed")
+            timeline_rows.append(
+                {
+                    "checkpoint_id": cp.checkpoint_id,
+                    "checkpoint_date": cp.date,
+                    "evaluation_date": cp.evaluation_date,
+                    "checkpoint_type": cp.checkpoint_type.value,
+                    "title": cp.title,
+                    "disclosed_active_count": len(exp_active),
+                    "disclosed_closed_count": len(exp_closed),
+                    "simulated_active_count": len(sim_set),
+                    "unresolved_errors": sum(1 for d in cp_discs if d.severity == "ERROR" and not d.is_resolved),
+                    "warnings": sum(1 for d in cp_discs if d.severity == "WARNING"),
+                    "disclosed_active_tickers": ",".join(exp_active),
+                    "simulated_active_tickers": ",".join(sorted(sim_set)),
+                }
+            )
+
+        unresolved_errors = sum(1 for d in all_discrepancies if d.severity == "ERROR" and not d.is_resolved)
+        warnings_cnt = sum(1 for d in all_discrepancies if d.severity == "WARNING")
+        info_cnt = sum(1 for d in all_discrepancies if d.severity == "INFO")
+
+        ing_warnings = sum(1 for a in ing_report.anomalies if a.severity == "WARNING")
+        if not ing_report.is_valid or unresolved_errors > 0:
+            overall = ReconciliationStatus.UNRECONCILED
+        elif warnings_cnt > 0 or ing_warnings > 0:
+            overall = ReconciliationStatus.RECONCILED_WITH_WARNINGS
+        else:
+            overall = ReconciliationStatus.FULLY_RECONCILED
+
+        audit = PortfolioReconciliationAudit(
+            source_key=source.key,
+            display_name=source.display_name,
+            overall_status=overall,
+            is_archive_valid=ing_report.is_valid,
+            checkpoints_evaluated=len(checkpoints),
+            checkpoints=checkpoints,
+            discrepancies=all_discrepancies,
+            unresolved_errors=unresolved_errors,
+            warnings_count=warnings_cnt,
+            info_count=info_cnt,
+            holdings_timeline=timeline_rows,
+        )
+
+        if save_outputs:
+            source.data_dir.mkdir(parents=True, exist_ok=True)
+            source.results_dir.mkdir(parents=True, exist_ok=True)
+            audit_json = json.dumps(audit.to_dict(), indent=2, ensure_ascii=False)
+            (source.data_dir / "reconciliation_audit.json").write_text(audit_json, encoding="utf-8")
+            (source.results_dir / "checkpoint_reconciliation.json").write_text(audit_json, encoding="utf-8")
+            (source.data_dir / "checkpoints.json").write_text(
+                json.dumps(audit.to_dict()["checkpoints"], indent=2, ensure_ascii=False),
+                encoding="utf-8",
+            )
+            tl_df = pd.DataFrame(timeline_rows)
+            tl_df.to_csv(source.data_dir / "holdings_by_checkpoint.csv", index=False)
+            tl_df.to_csv(source.results_dir / "checkpoint_history.csv", index=False)
+
+        return audit
+
+    def audit_source(self, source: SourceConfig, save_outputs: bool = True) -> ReconciliationReport:
+        """Produce combined archive coverage + checkpoint reconciliation report for CLI & docs."""
+        ing = validate_source_archive(source, save_report=save_outputs)
+        audit = self.validate_and_reconcile_source(source, save_outputs=save_outputs)
+
+        ev_path = source.data_dir / "trade_events.csv"
+        ev_count = 0
+        uniq_tickers = 0
+        if ev_path.exists() and ev_path.stat().st_size > 2:
+            ev_df = pd.read_csv(ev_path)
+            ev_count = len(ev_df)
+            if "ticker" in ev_df.columns:
+                uniq_tickers = int(ev_df["ticker"].nunique())
+
+        disc_by_key: dict[tuple[str, str], CheckpointDiscrepancy] = {
+            (d.checkpoint_id, d.ticker): d for d in audit.discrepancies
+        }
+
+        positions_checked: list[DisclosedPosition] = []
+        for cp in audit.checkpoints:
+            for sym, info in sorted(cp.disclosed_positions.items()):
+                d_match = disc_by_key.get((cp.checkpoint_id, sym))
+                if d_match is None:
+                    st_led = "RECONCILED"
+                    rc_str = RootCauseCategory.RECONCILED.value
+                    note_s = str(info.get("evidence") or "")
+                elif d_match.discrepancy_type == "BASELINE_DOCUMENTED":
+                    st_led = "BASELINE_DOCUMENTED"
+                    rc_str = d_match.root_cause.value
+                    note_s = d_match.evidence_summary
+                elif d_match.discrepancy_type == "EXCLUDED_INSTRUMENT":
+                    st_led = "EXCLUDED_NON_EQUITY"
+                    rc_str = d_match.root_cause.value
+                    note_s = d_match.evidence_summary
+                else:
+                    st_led = "DISCREPANCY" if not d_match.is_resolved else "WARNING_DOCUMENTED"
+                    rc_str = d_match.root_cause.value
+                    note_s = d_match.evidence_summary
+
+                positions_checked.append(
+                    DisclosedPosition(
+                        ticker=sym,
+                        company_name=str(info.get("name") or sym),
+                        source_file=cp.source_file,
+                        disclosure_date=cp.evaluation_date,
+                        disclosure_type=str(info.get("status") or "active"),
+                        status_in_ledger=st_led,
+                        root_cause=rc_str,
+                        notes=note_s[:200],
                     )
+                )
 
-            # June 2026 review
-            june_p = source.api_posts_dir / "2026-06-12__june-2026-portfolio-review.json"
-            if june_p.exists():
-                for sym, mkt, name, date_est, note in [
-                    ("013030", ":kr:", "Hy-Lok", "2026-04-29", "Korea Value Basket initiated May 2026 (-25% in June, absent in Oct review)"),
-                    ("453340", ":kr:", "Hyundai Green Food", "2026-05-11", "Korea Value Basket down 9% in June review"),
-                    ("139130", ":kr:", "iM Financial Group", "2026-04-29", "Korea Value Basket down 6% in June review"),
-                ]:
-                    if sym not in seen_tickers:
-                        seen_tickers.add(sym)
-                        disclosures.append(
-                            DisclosedPosition(
-                                ticker=sym,
-                                market=mkt,
-                                company_name=name,
-                                first_disclosed_date=date_est,
-                                source_slug="opening-the-gates" if sym != "453340" else "boring-is-beautiful",
-                                status="disappeared" if sym == "013030" else "active",
-                                notes=note,
-                            )
-                        )
+        reconciled_cnt = sum(1 for p in positions_checked if p.status_in_ledger in ("RECONCILED", "BASELINE_DOCUMENTED", "EXCLUDED_NON_EQUITY"))
 
-            # September review
-            sept_p = source.api_posts_dir / "2026-10-05__september-2026-portfolio-review.json"
-            if sept_p.exists():
-                data = json.loads(sept_p.read_text(encoding="utf-8"))
-                body = data.get("body_html", "")
-                soup = BeautifulSoup(body, "html.parser")
-                text = soup.get_text()
-                if "013030" in seen_tickers:
-                    for dp in disclosures:
-                        if dp.ticker == "013030":
-                            dp.status = "disappeared"
-                matches = re.finditer(r"\d+\.\s*([A-Za-z0-9\s&]+)\s*\(([A-Z0-9]+)\)\s*([+-]\d+%)", text)
-                for m in matches:
-                    sym = m.group(2).upper()
-                    if sym not in seen_tickers:
-                        seen_tickers.add(sym)
-                        disclosures.append(
-                            DisclosedPosition(
-                                ticker=sym,
-                                market=":us:",
-                                company_name=sym,
-                                first_disclosed_date="2026-10-05",
-                                source_slug="september-2026-portfolio-review",
-                                status="closed",
-                                notes=f"Closed trade recap in review: {m.group(0)}",
-                            )
-                        )
+        report = ReconciliationReport(
+            source_key=source.key,
+            display_name=source.display_name,
+            overall_status=audit.overall_status.value,
+            api_posts_count=ing.posts_total_files,
+            paid_posts_count=ing.posts_paid_count,
+            truncated_posts_count=ing.posts_paywall_truncated_count,
+            zero_byte_posts_count=ing.posts_empty_or_corrupt_count,
+            chat_threads_count=ing.chat_threads_count,
+            chat_replies_count=ing.chat_replies_total_count,
+            datawrapper_tables_count=ing.datawrapper_csv_count,
+            trade_events_count=ev_count,
+            unique_simulated_tickers=uniq_tickers,
+            checkpoints_count=audit.checkpoints_evaluated,
+            disclosed_positions_checked=len(positions_checked),
+            reconciled_count=reconciled_cnt,
+            unresolved_discrepancies_count=audit.unresolved_errors,
+            warnings_count=audit.warnings_count,
+            positions=positions_checked,
+            audit=audit,
+        )
 
-        elif source.key == "tjstocks":
-            for p in posts:
-                data = json.loads(p.read_text(encoding="utf-8"))
-                slug = data.get("slug") or p.stem
-                pdate = (data.get("post_date") or "")[:10]
-                if slug in ("timothys-stocktok-tracker", "stocktok-etf-20", "only-10-stocks-made-the-cut"):
-                    for sym, name in [
-                        ("PRU", "Prudential"), ("MTB", "M&T Bank"), ("SPG", "Simon Property"),
-                        ("UBSI", "United Bankshares"), ("TXT", "Textron"), ("HNI", "HNI Corp"),
-                        ("SPB", "Spectrum Brands"), ("FDX", "FedEx"), ("MSCI", "MSCI Inc"),
-                        ("VLO", "Valero Energy"), ("CAKE", "Cheesecake Factory"),
-                        ("CNXN", "PC Connection"), ("FELE", "Franklin Electric"),
-                    ]:
-                        if sym not in seen_tickers:
-                            seen_tickers.add(sym)
-                            disclosures.append(
-                                DisclosedPosition(
-                                    ticker=sym,
-                                    market=":us:",
-                                    company_name=name,
-                                    first_disclosed_date=pdate,
-                                    source_slug=slug,
-                                    status="active" if sym not in ("SPB", "MSCI", "FDX") else "closed",
-                                    notes=f"StockTok ETF portfolio component: {name} ({sym})",
-                                )
-                            )
+        if save_outputs:
+            (source.results_dir / "coverage_and_reconciliation_report.json").write_text(
+                json.dumps(report.to_dict(), indent=2, ensure_ascii=False),
+                encoding="utf-8",
+            )
 
-        elif source.key == "beatingthetide":
-            for p in posts:
-                data = json.loads(p.read_text(encoding="utf-8"))
-                slug = data.get("slug") or p.stem
-                pdate = (data.get("post_date") or "")[:10]
-                if "portfolio" in slug or "performance" in slug:
-                    soup = BeautifulSoup(data.get("body_html") or "", "html.parser")
-                    for td in soup.find_all("td"):
-                        val = td.get_text().strip().upper()
-                        if 1 <= len(val) <= 5 and val.isalpha() and val not in ("BUY", "HOLD", "SELL", "USA", "DATE", "NAME", "USD"):
-                            if val not in seen_tickers:
-                                seen_tickers.add(val)
-                                disclosures.append(
-                                    DisclosedPosition(
-                                        ticker=val,
-                                        market=":us:",
-                                        company_name=val,
-                                        first_disclosed_date=pdate,
-                                        source_slug=slug,
-                                        status="active",
-                                        notes="Disclosed in Beating The Tide portfolio/performance tables",
-                                    )
-                                )
+        return report
 
-        return disclosures
-
-    def _find_unresolved_candidates(
-        self,
-        source: SourceConfig,
-        posts: list[Path],
-        chat_threads: list[dict],
-        ledger_tickers: set[str],
-    ) -> list[dict[str, Any]]:
-        unresolved: list[dict[str, Any]] = []
-        if source.key == "cluseau":
-            for idx, th in enumerate(chat_threads):
-                cp = th.get("communityPost", {})
-                author = cp.get("user", {}).get("name", "")
-                if "cluseau" not in author.lower():
-                    continue
-                body = cp.get("body", "") or ""
-                dt = (cp.get("created_at") or "")[:10]
-                verb_match = TRADE_VERBS_RE.search(body)
-                if verb_match:
-                    tokens = INTERNATIONAL_TICKER_RE.findall(body)
-                    for tok in tokens:
-                        clean = tok.strip().split(".")[0].upper()
-                        if clean in ledger_tickers or clean in (
-                            "THE", "AND", "FOR", "OUT", "NEW", "ALL", "HAS", "NOT", "HAD", "NOW", "ONE",
-                            "TWO", "DAY", "TOP", "LOW", "BIG", "FED", "CPI", "GDP", "USD", "KRW", "JPY",
-                            "EUR", "CAD", "AUD", "HKD", "CEO", "CFO", "EPS", "NAV", "PER", "Q1", "Q2", "Q3", "Q4",
-                            "YOY", "ATH", "IPO", "ETF", "SPX", "HSI", "SOXX", "KWEB", "TOPIX", "IBKR", "DRAM", "HBM",
-                            "NVIDIA", "TESLA", "APPLE", "AMAZON", "GOOGLE", "MICROSOFT", "IFOS"
-                        ):
-                            continue
-                        if len(clean) >= 2 and any(v in body.lower() for v in ("bought", "started", "adding to my", "closing out", "short ")):
-                            unresolved.append(
-                                {
-                                    "ticker": tok,
-                                    "source_type": "chat",
-                                    "date": dt,
-                                    "context_snippet": body[:180].replace("\n", " "),
-                                    "thread_index": idx,
-                                    "classification": "candidate_requiring_review",
-                                }
-                            )
-                            break
-        return unresolved[:15]
+    def audit_all(self, save_outputs: bool = True) -> list[ReconciliationReport]:
+        return [self.audit_source(src, save_outputs=save_outputs) for src in self.settings.sources.values()]

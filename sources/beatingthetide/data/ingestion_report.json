@@ -1,0 +1,31 @@
+{
+  "source_key": "beatingthetide",
+  "source_name": "Beating The Tide",
+  "is_valid": true,
+  "author_user_ids": [
+    549315,
+    84964221
+  ],
+  "author_handles": [
+    "beatingthetide",
+    "simeonmcmillan"
+  ],
+  "posts_total_files": 247,
+  "posts_valid_count": 247,
+  "posts_newsletter_count": 247,
+  "posts_media_only_count": 0,
+  "posts_paid_count": 53,
+  "posts_paywall_truncated_count": 0,
+  "posts_empty_or_corrupt_count": 0,
+  "cashtag_widgets_count": 1267,
+  "stock_ticker_widgets_count": 0,
+  "chat_threads_count": 133,
+  "chat_author_threads_count": 51,
+  "chat_threads_with_comments": 98,
+  "chat_threads_missing_replies": 0,
+  "chat_replies_total_count": 387,
+  "chat_author_replies_count": 167,
+  "datawrapper_csv_count": 48,
+  "datawrapper_corrupt_count": 0,
+  "anomalies": []
+}

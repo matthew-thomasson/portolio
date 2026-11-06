@@ -1,0 +1,305 @@
+{
+  "strategy_name": "Fresh Signals Only from T0",
+  "start_date": "2026-01-01",
+  "end_date": "2026-11-05",
+  "geographic_attribution": [
+    {
+      "region": "Continental Europe",
+      "positions_count": 3,
+      "open_positions_count": 3,
+      "capital_deployed_usd": 6500.0,
+      "realized_pnl_usd": 1413.5,
+      "unrealized_pnl_usd": 1805.52,
+      "total_pnl_usd": 3219.02,
+      "tickers": [
+        "ABCA.PA",
+        "CTT.LS",
+        "HY9H.F"
+      ],
+      "return_on_deployed_pct": 49.52
+    },
+    {
+      "region": "Japan",
+      "positions_count": 7,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 7636.36,
+      "realized_pnl_usd": 1113.27,
+      "unrealized_pnl_usd": 191.14,
+      "total_pnl_usd": 1304.41,
+      "tickers": [
+        "285A.T",
+        "6626.T",
+        "7089.T",
+        "7380.T",
+        "8399.T",
+        "9220.T",
+        "9478.T"
+      ],
+      "return_on_deployed_pct": 17.08
+    },
+    {
+      "region": "United Kingdom / LSE",
+      "positions_count": 3,
+      "open_positions_count": 3,
+      "capital_deployed_usd": 6000.0,
+      "realized_pnl_usd": 50.3,
+      "unrealized_pnl_usd": 542.14,
+      "total_pnl_usd": 592.44,
+      "tickers": [
+        "CRE.L",
+        "OSB.L",
+        "SMSD.IL"
+      ],
+      "return_on_deployed_pct": 9.87
+    },
+    {
+      "region": "United States",
+      "positions_count": 21,
+      "open_positions_count": 15,
+      "capital_deployed_usd": 31818.17,
+      "realized_pnl_usd": 2536.4,
+      "unrealized_pnl_usd": -2050.3,
+      "total_pnl_usd": 486.1,
+      "tickers": [
+        "ASIC",
+        "BARAX",
+        "CBK",
+        "CUBI",
+        "EVC",
+        "FB",
+        "GDDY",
+        "GOOGL",
+        "HRTG",
+        "IESC",
+        "IGIC",
+        "KSPI",
+        "MOMO",
+        "NRG",
+        "OPBK",
+        "OPY",
+        "PENG",
+        "PSIX",
+        "VISN",
+        "WDC",
+        "WLFC"
+      ],
+      "return_on_deployed_pct": 1.53
+    },
+    {
+      "region": "Hong Kong",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 398.08,
+      "total_pnl_usd": 398.08,
+      "tickers": [
+        "3600.HK"
+      ],
+      "return_on_deployed_pct": 39.81
+    },
+    {
+      "region": "Australia",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1500.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": -139.03,
+      "total_pnl_usd": -139.03,
+      "tickers": [
+        "CCV.AX"
+      ],
+      "return_on_deployed_pct": -9.27
+    },
+    {
+      "region": "South Korea",
+      "positions_count": 5,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 8318.18,
+      "realized_pnl_usd": -48.85,
+      "unrealized_pnl_usd": -130.66,
+      "total_pnl_usd": -179.51,
+      "tickers": [
+        "005935.KS",
+        "013030.KQ",
+        "139130.KS",
+        "402340.KS",
+        "453340.KS"
+      ],
+      "return_on_deployed_pct": -2.16
+    }
+  ],
+  "simulated_instruments": [
+    {
+      "instrument_type": "preferred",
+      "positions_count": 2,
+      "capital_deployed_usd": 3000.0,
+      "total_pnl_usd": 274.13,
+      "tickers": [
+        "005935.KS",
+        "SMSD.IL"
+      ]
+    },
+    {
+      "instrument_type": "long_equity",
+      "positions_count": 38,
+      "capital_deployed_usd": 58772.71,
+      "total_pnl_usd": 5277.94,
+      "tickers": [
+        "013030.KQ",
+        "139130.KS",
+        "285A.T",
+        "3600.HK",
+        "402340.KS",
+        "453340.KS",
+        "6626.T",
+        "7089.T",
+        "7380.T",
+        "8399.T",
+        "9220.T",
+        "9478.T",
+        "ABCA.PA",
+        "ASIC",
+        "CBK",
+        "CCV.AX",
+        "CRE.L",
+        "CTT.LS",
+        "CUBI",
+        "EVC",
+        "FB",
+        "GDDY",
+        "GOOGL",
+        "HRTG",
+        "HY9H.F",
+        "IESC",
+        "IGIC",
+        "KSPI",
+        "MOMO",
+        "NRG",
+        "OPBK",
+        "OPY",
+        "OSB.L",
+        "PENG",
+        "PSIX",
+        "VISN",
+        "WDC",
+        "WLFC"
+      ]
+    },
+    {
+      "instrument_type": "mutual_fund",
+      "positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "total_pnl_usd": 129.44,
+      "tickers": [
+        "BARAX"
+      ]
+    }
+  ],
+  "excluded_non_equity": {
+    "total_excluded_events": 38,
+    "by_type": {
+      "option_call": {
+        "events_count": 2,
+        "tickers": [
+          "ACMR",
+          "WDC"
+        ]
+      },
+      "option_collar": {
+        "events_count": 6,
+        "tickers": [
+          "EVC",
+          "IESC",
+          "POWL",
+          "WDC"
+        ]
+      },
+      "option_put": {
+        "events_count": 6,
+        "tickers": [
+          "CBL",
+          "FIX",
+          "GOOGL",
+          "WDC"
+        ]
+      },
+      "short": {
+        "events_count": 24,
+        "tickers": [
+          "ACIC",
+          "AII",
+          "CBL",
+          "HPQ",
+          "HRTG",
+          "HY9H.F",
+          "JPM",
+          "UVE"
+        ]
+      }
+    }
+  },
+  "discovery_layer_counts": {
+    "primary_chat": 122,
+    "primary_article": 37,
+    "checkpoint_review": 7
+  },
+  "date_uncertainty_disclosures": [
+    {
+      "date": "2025-11-13",
+      "ticker": "7167.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "CUBI",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "OSB.L",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2026-05-06",
+      "ticker": "013030.KQ",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-05-06_accumulated_prior_days",
+      "source_slug": "chat:cffb4bf4:reply:d94f8a5e"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "139130.KS",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-05-11_accumulated_prior_days",
+      "source_slug": "chat:1886c385:reply:9be38d27"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "7380.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-08-13_accumulated_prior_days",
+      "source_slug": "chat:3b055e3f"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "8399.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-08-13_accumulated_prior_days",
+      "source_slug": "chat:3b055e3f"
+    }
+  ]
+}

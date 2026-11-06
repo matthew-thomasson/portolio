@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "IN_CL_OT_GATES_WATCHLIST_01",
+    "is_held_out": false,
+    "category": "watchlist_or_conditional",
+    "source_publication": "cluseau",
+    "input_type": "article",
+    "payload": {
+      "slug": "opening-the-gates",
+      "post_date": "2026-04-29T12:00:00Z",
+      "title": "Opening the Gates",
+      "subtitle": "Korean Value Opportunities",
+      "body_html": "<p>Hy-Lok (013030 KS) is a leading South Korean valve manufacturer. Hy-Lok is high on my watchlist and looks compelling at 6x earnings.</p><p>iM Financial Group (139130 KS) trades at 0.35x book, though I have not pulled the trigger yet while monitoring Q1 credit trends.</p>"
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["proposed"]
+  },
+  {
+    "id": "IN_CL_SKSQ_CHAT_BUY_02",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-sksq-1",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-04-29T13:15:00Z",
+            "body": "Quick note on SK Square (402340 KS) ahead of today's writeup."
+          }
+        }
+      ],
+      "replies_map": {
+        "th-sksq-1": [
+          {
+            "comment": {
+              "id": "rep-sksq-1",
+              "user_id": 101,
+              "user": {"id": 101, "name": "Cluseau"},
+              "created_at": "2026-04-29T13:20:00Z",
+              "body": "I bought a small position in SK Square (402340 KS) last night at 828000."
+            }
+          }
+        ]
+      }
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "402340.KS", "market": ":kr:", "effective_date": "2026-04-28"}
+    ]
+  },
+  {
+    "id": "IN_CL_KR_SMALL_POS_BOTH_03",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-kr-both",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-05-04T14:00:00Z",
+            "body": "Update on Korea ideas."
+          }
+        }
+      ],
+      "replies_map": {
+        "th-kr-both": [
+          {
+            "comment": {
+              "id": "sub-q-1",
+              "user_id": 999,
+              "user": {"id": 999, "name": "Reader"},
+              "created_at": "2026-05-04T14:05:00Z",
+              "body": "Did you end up buying Hy-Lok (013030 KQ) and iM Financial (139130 KS)?"
+            }
+          },
+          {
+            "comment": {
+              "id": "auth-a-1",
+              "parent_id": "sub-q-1",
+              "user_id": 101,
+              "user": {"id": 101, "name": "Cluseau"},
+              "created_at": "2026-05-04T14:12:00Z",
+              "body": "Small positions in both."
+            }
+          }
+        ]
+      }
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "013030.KQ", "market": ":kr:", "effective_date": "2026-05-04"},
+      {"action": "BUY", "normalized_ticker": "139130.KS", "market": ":kr:", "effective_date": "2026-05-04"}
+    ]
+  },
+  {
+    "id": "IN_CL_HGF_ARTICLE_BUY_04",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "article",
+    "payload": {
+      "slug": "boring-is-beautiful",
+      "post_date": "2026-05-11T12:00:00Z",
+      "title": "Boring Is Beautiful",
+      "subtitle": "Hyundai Green Food (453340 KS)",
+      "body_html": "<h3>Hyundai Green Food (453340 KS)</h3><p>Hyundai Green Food dominates institutional catering in Korea. I’ve purchased half my ideal position in the 19,000’s and will look to add more on any dips.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "453340.KS", "market": ":kr:", "effective_date": "2026-05-11"}
+    ]
+  },
+  {
+    "id": "IN_CL_JP_BANKS_TRIM_05",
+    "is_held_out": false,
+    "category": "partial_trim",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-jp-trim",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-15T22:10:00Z",
+            "body": "Quick update on my three Japanese regional banks: Bank of the Ryukyus (8399:TYO), Mebuki Financial (7167:TYO), and Juroku Financial (7380:TYO).\n\nRather than slash the entire position right away - tonight I cut 50% of my position in each."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "8399.T", "market": ":jp:", "effective_date": "2026-10-15", "trim_fraction": 0.5},
+      {"action": "TRIM", "normalized_ticker": "7167.T", "market": ":jp:", "effective_date": "2026-10-15", "trim_fraction": 0.5},
+      {"action": "TRIM", "normalized_ticker": "7380.T", "market": ":jp:", "effective_date": "2026-10-15", "trim_fraction": 0.5}
+    ]
+  },
+  {
+    "id": "IN_CL_JP_BANKS_EXIT_06",
+    "is_held_out": false,
+    "category": "full_exit",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-jp-exit1",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-22T23:05:00Z",
+            "body": "Following up on Mebuki (7167:TYO) and Juroku (7380:TYO). Tonight I fully cut the Mebuki and Juroku positions."
+          }
+        },
+        {
+          "communityPost": {
+            "id": "th-jp-exit2",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-23T23:15:00Z",
+            "body": "Regarding Bank of the Ryukyus (8399:TYO), tonight I let go of the last portion of Ryukyus."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "7167.T", "market": ":jp:", "effective_date": "2026-10-22"},
+      {"action": "SELL", "normalized_ticker": "7380.T", "market": ":jp:", "effective_date": "2026-10-22"},
+      {"action": "SELL", "normalized_ticker": "8399.T", "market": ":jp:", "effective_date": "2026-10-23"}
+    ]
+  },
+  {
+    "id": "IN_CL_GDR_MEMORY_BASKET_07",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "article",
+    "payload": {
+      "slug": "memory-basket-update",
+      "post_date": "2026-08-12T12:00:00Z",
+      "title": "Memory Basket",
+      "subtitle": "SK Hynix, Samsung Preferred & Kioxia",
+      "body_html": "<p>I bought SK Hynix GDR (HY9H) in Frankfurt, initiated Samsung Electronics Preferred GDR (SMSD LI) in London, and started a position in Kioxia (285A) in Tokyo.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "HY9H.F", "market": ":de:", "effective_date": "2026-08-12"},
+      {"action": "BUY", "normalized_ticker": "SMSD.IL", "market": ":uk:", "effective_date": "2026-08-12"},
+      {"action": "BUY", "normalized_ticker": "285A.T", "market": ":jp:", "effective_date": "2026-08-12"}
+    ]
+  },
+  {
+    "id": "IN_CL_MOMO_CHAT_EXIT_08",
+    "is_held_out": false,
+    "category": "full_exit",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-momo-exit",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-09-10T17:54:37Z",
+            "body": "Trade update on MOMO (Closing for -15%):\n\nI've been keeping a close eye on MOMO, unfortunately the trade just isn't working."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "MOMO", "market": ":us:", "effective_date": "2026-09-10"}
+    ]
+  },
+  {
+    "id": "IN_CL_IFOS_CHAT_EXIT_09",
+    "is_held_out": false,
+    "category": "full_exit",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-ifos-exit",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-14T14:30:00Z",
+            "body": "It Phosphate (IFOS CA) update: Closing out the IFOS position today for a 30% loss."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "IFOS.V", "market": ":ca:", "effective_date": "2026-10-14"}
+    ]
+  },
+  {
+    "id": "IN_CL_GDDY_TRIM_AND_CLOSE_10",
+    "is_held_out": false,
+    "category": "multi_trade_chat",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-gddy-1",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-16T15:00:00Z",
+            "body": "GoDaddy (GDDY) getting close to $110. Taking a third of the position off here."
+          }
+        },
+        {
+          "communityPost": {
+            "id": "th-gddy-2",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-30T16:00:00Z",
+            "body": "Closed remaining GDDY at $116."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "GDDY", "market": ":us:", "effective_date": "2026-10-16", "trim_fraction": 0.3333},
+      {"action": "SELL", "normalized_ticker": "GDDY", "market": ":us:", "effective_date": "2026-10-30"}
+    ]
+  },
+  {
+    "id": "IN_CL_KIOXIA_CHAT_CLOSE_11",
+    "is_held_out": false,
+    "category": "full_exit",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-kioxia-close",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-30T17:00:00Z",
+            "body": "Trade Update on Kioxia (285A JP) (Closed)"
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "285A.T", "market": ":jp:", "effective_date": "2026-10-30"}
+    ]
+  },
+  {
+    "id": "IN_CL_MULTI_CHAT_HRTG_WSBF_CBL_12",
+    "is_held_out": false,
+    "category": "multi_trade_chat",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-multi-94",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-07-29T13:00:00Z",
+            "body": "Portfolio adjustments today: totally sold HRTG, totally sold WSBF, cut CBL in half."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "HRTG", "market": ":us:", "effective_date": "2026-07-29"},
+      {"action": "SELL", "normalized_ticker": "WSBF", "market": ":us:", "effective_date": "2026-07-29"},
+      {"action": "TRIM", "normalized_ticker": "CBL", "market": ":us:", "effective_date": "2026-07-29", "trim_fraction": 0.5}
+    ]
+  },
+  {
+    "id": "IN_CL_SHORTS_EXCLUDED_13",
+    "is_held_out": false,
+    "category": "short_or_option_exclusion",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-shorts-1",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-09-28T15:00:00Z",
+            "body": "I am also short JPM and initiated a smaller short in ACIC and UVE as insurance hedges."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_equity_actions": ["SHORT"]
+  },
+  {
+    "id": "IN_CL_OPTIONS_COLLAR_EXCLUDED_14",
+    "is_held_out": false,
+    "category": "short_or_option_exclusion",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-opt-1",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-06-15T15:00:00Z",
+            "body": "I bought January protective puts on IESC and put on a zero-cost options collar on FIX."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_equity_actions": ["HEDGE"]
+  },
+  {
+    "id": "IN_CL_ABCA_SEMITEC_ARTICLE_15",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "article",
+    "payload": {
+      "slug": "three-medium-conviction-ideas",
+      "post_date": "2026-09-03T12:00:00Z",
+      "title": "Three New Medium Conviction Positions",
+      "subtitle": "Europe & Asia Value",
+      "body_html": "<h3>Long ABCA FP Equity (ABC Arbitrage)</h3><p>I initiated a position in ABC Arbitrage at EUR 4.95.</p><h3>Long 6626 JP Equity (Semitec)</h3><p>I bought shares of Semitec (6626 JP) in Tokyo.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "ABCA.PA", "market": ":fr:", "effective_date": "2026-09-03"},
+      {"action": "BUY", "normalized_ticker": "6626.T", "market": ":jp:", "effective_date": "2026-09-03"}
+    ]
+  },
+  {
+    "id": "IN_CL_BARAX_MUTUAL_FUND_16",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-barax",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-08-05T16:00:00Z",
+            "body": "I bought a position in Baron Partners Fund (BARAX) to get discounted SpaceX exposure."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "BARAX", "market": ":us:", "effective_date": "2026-08-05"}
+    ]
+  },
+  {
+    "id": "IN_CL_GOOGL_CHAT_ADD_17",
+    "is_held_out": false,
+    "category": "confirmed_addition",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-googl",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-09-03T15:31:42Z",
+            "body": "Lastly, I added a little more GOOGL for the first time since July 2025."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "ADD", "normalized_ticker": "GOOGL", "market": ":us:", "effective_date": "2026-09-03"}
+    ]
+  },
+  {
+    "id": "IN_CL_PROCEEDS_FROM_POWL_18",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-powl-proc",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-08-26T15:00:00Z",
+            "body": "I initiated a position in NRG with some of the proceeds from POWL."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "NRG", "market": ":us:", "effective_date": "2026-08-26"}
+    ]
+  },
+  {
+    "id": "IN_CL_SKSQ_OCT_TRIM_NOV_SELL_19",
+    "is_held_out": false,
+    "category": "multi_trade_chat",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-sksq-oct",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-10-01T14:00:00Z",
+            "body": "SK Square (402340 KS) update: trimmed half of my position in SK Square after the rally."
+          }
+        },
+        {
+          "communityPost": {
+            "id": "th-sksq-nov",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-11-04T14:00:00Z",
+            "body": "SK Square (402340 KS): sold my final shares of SK Square tonight."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "402340.KS", "market": ":kr:", "effective_date": "2026-10-01", "trim_fraction": 0.5},
+      {"action": "SELL", "normalized_ticker": "402340.KS", "market": ":kr:", "effective_date": "2026-11-04"}
+    ]
+  },
+  {
+    "id": "IN_CL_SUBSCRIBER_QUESTION_REJECT_20",
+    "is_held_out": false,
+    "category": "subscriber_comment_rejection",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-sub-only",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-06-02T12:00:00Z",
+            "body": "Open thread for today's session."
+          }
+        }
+      ],
+      "replies_map": {
+        "th-sub-only": [
+          {
+            "comment": {
+              "id": "sub-buy-claim",
+              "user_id": 888,
+              "user": {"id": 888, "name": "SubscriberBob"},
+              "created_at": "2026-06-02T12:15:00Z",
+              "body": "I just bought 500 shares of NVDA and sold all my AAPL today!"
+            }
+          }
+        ]
+      }
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "IN_BTT_CASHTAG_WIDGET_SQM_21",
+    "is_held_out": false,
+    "category": "cashtag_widget_unpacking",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "sqm-lithium-pick",
+      "post_date": "2026-04-12T12:00:00Z",
+      "title": "New Stock Pick: Sociedad Quimica y Minera",
+      "subtitle": "Contrarian Lithium Leader",
+      "body_html": "<p>Today I bought <span data-component-name=\"CashtagToDOM\" data-attrs=\"{&quot;symbol&quot;:&quot;SQM&quot;}\"></span> for the Chile portfolio while LCE spot prices remain depressed near cycle lows.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "SQM", "market": ":us:", "effective_date": "2026-04-12"}
+    ]
+  },
+  {
+    "id": "IN_BTT_CASHTAG_WIDGET_TCBX_NIM_TRAP_22",
+    "is_held_out": false,
+    "category": "cashtag_widget_unpacking",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "third-coast-bancshares-pick",
+      "post_date": "2026-03-18T12:00:00Z",
+      "title": "Initiating Third Coast Bancshares",
+      "subtitle": "Texas Commercial Banking",
+      "body_html": "<p>I initiated a position in <span data-component-name=\"CashtagToDOM\" data-attrs=\"{&quot;symbol&quot;:&quot;TCBX&quot;}\"></span> as NIM expansion and TBV compounding accelerate in 2026.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "TCBX", "market": ":us:", "effective_date": "2026-03-18"}
+    ]
+  },
+  {
+    "id": "IN_BTT_HEADING_CLOSE_IAG_INIT_NGD_23",
+    "is_held_out": false,
+    "category": "multi_trade_chat",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "rotating-out-of-iamgold-into-new-gold",
+      "post_date": "2025-06-24T12:00:00Z",
+      "title": "Portfolio Rotation in Gold Miners",
+      "subtitle": "Swapping IAMGOLD for New Gold",
+      "body_html": "<h3>Execution: Closing IAG Position, Initiating NGD Position</h3><p>Today I sold out of IAMGOLD (IAG) and initiated a new position in New Gold (NGD).</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "IAG", "market": ":us:", "effective_date": "2025-06-24"},
+      {"action": "BUY", "normalized_ticker": "NGD", "market": ":us:", "effective_date": "2025-06-24"}
+    ]
+  },
+  {
+    "id": "IN_BTT_HRTG_POSTMORTEM_NO_REOPEN_24",
+    "is_held_out": false,
+    "category": "full_exit",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "heritage-insurance-hrtg-position-close-post-mortem",
+      "post_date": "2026-06-18T12:00:00Z",
+      "title": "Heritage Insurance (HRTG): Position Close & Post-Mortem",
+      "subtitle": "Locking in Gains",
+      "body_html": "<p>I closed my position in Heritage Insurance (HRTG) today. When I originally bought HRTG, P&amp;C pricing was hardening rapidly.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "HRTG", "market": ":us:", "effective_date": "2026-06-18"}
+    ]
+  },
+  {
+    "id": "IN_BTT_WEEKLY_HEADLINE_NO_FALSE_SELL_25",
+    "is_held_out": false,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "weekly-20-dxpe-earnings",
+      "post_date": "2025-03-09T12:00:00Z",
+      "title": "Weekly #20: DXPE's Earnings Shine, Market Volatility — AMPH's Post-Mortem Recap",
+      "subtitle": "Weekly Portfolio Digest",
+      "body_html": "<p>DXP Enterprises (DXPE) reported strong organic growth this week and remains in the portfolio. Last month I shared AMPH's post-mortem notes.</p>"
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "IN_BTT_RANKEDSTOCKS_FEATURE_REJECT_26",
+    "is_held_out": false,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "rankedstocks-update",
+      "post_date": "2026-02-10T12:00:00Z",
+      "title": "Platform Update",
+      "subtitle": "New Screening Metrics",
+      "body_html": "<p>I added a ROIC vs WACC spread function to RankedStocks and added 15 new European companies to the database.</p>"
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "IN_BTT_CORPORATE_BUYBACK_REJECT_27",
+    "is_held_out": false,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "synchrony-earnings-review",
+      "post_date": "2026-04-22T12:00:00Z",
+      "title": "Synchrony Q1 Review",
+      "subtitle": "Capital Return",
+      "body_html": "<p>Synchrony (SYF) share repurchases remained aggressive as management bought a large piece of land and closed 3 onshore offices to cut expenses.</p>"
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "IN_BTT_RETROSPECTIVE_2025_RECAP_28",
+    "is_held_out": false,
+    "category": "retrospective_recap",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "midyear-reflection",
+      "post_date": "2026-07-01T12:00:00Z",
+      "title": "Midyear Reflection",
+      "subtitle": "Lessons Learned",
+      "body_html": "<p>I bought DELL on 23 February 2026 and haven't touched the position since I first added it.</p>"
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["retrospective"]
+  },
+  {
+    "id": "IN_BTT_BAC_FTK_OCTOBER_BUYS_29",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "october-usa-picks",
+      "post_date": "2026-10-12T12:00:00Z",
+      "title": "Two Additions to the USA Portfolio",
+      "subtitle": "Energy Services & Money-Center Banking",
+      "body_html": "<p>Today I initiated a position in <span data-component-name=\"CashtagToDOM\" data-attrs=\"{&quot;symbol&quot;:&quot;BAC&quot;}\"></span> and bought shares of <span data-component-name=\"CashtagToDOM\" data-attrs=\"{&quot;symbol&quot;:&quot;FTK&quot;}\"></span> for the SVIF USA Portfolio.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "BAC", "market": ":us:", "effective_date": "2026-10-12"},
+      {"action": "BUY", "normalized_ticker": "FTK", "market": ":us:", "effective_date": "2026-10-12"}
+    ]
+  },
+  {
+    "id": "IN_TJ_STOCKTOK_ETF_1_INCEPTION_30",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "tjstocks",
+    "input_type": "article",
+    "payload": {
+      "slug": "stocktok-etf",
+      "post_date": "2026-01-14T12:00:00Z",
+      "title": "StockTok ETF",
+      "subtitle": "10 Equal-Weighted Picks",
+      "body_html": "<p>Here are the 10 stocks I would assemble to build this ETF, equally weighted at 10% each:</p><h3>1. Prudential Financial (PRU)</h3><p>Undervalued insurer.</p><h3>2. FedEx (FDX)</h3><p>Logistics turnaround.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "PRU", "market": ":us:", "effective_date": "2026-01-14"},
+      {"action": "BUY", "normalized_ticker": "FDX", "market": ":us:", "effective_date": "2026-01-14"}
+    ]
+  },
+  {
+    "id": "IN_TJ_STOCKTOK_ETF_2_REBALANCE_31",
+    "is_held_out": false,
+    "category": "multi_trade_chat",
+    "source_publication": "tjstocks",
+    "input_type": "article",
+    "payload": {
+      "slug": "stocktok-etf-20",
+      "post_date": "2026-07-28T12:00:00Z",
+      "title": "StockTok ETF 2.0",
+      "subtitle": "Mid-Year Rebalance",
+      "body_html": "<p>Below are the stocks that are staying, removed and added in the equally weighted ETF:</p><h2>Stocks Removed</h2><h3>Spectrum Brands (SPB)</h3><h3>MSCI Inc. (MSCI)</h3><h3>FedEx (FDX)</h3><h2>Stocks Added</h2><h3>Cheesecake Factory (CAKE)</h3><h3>PC Connection (CNXN)</h3><h3>Franklin Electric (FELE)</h3>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "SPB", "market": ":us:", "effective_date": "2026-07-28"},
+      {"action": "SELL", "normalized_ticker": "MSCI", "market": ":us:", "effective_date": "2026-07-28"},
+      {"action": "SELL", "normalized_ticker": "FDX", "market": ":us:", "effective_date": "2026-07-28"},
+      {"action": "BUY", "normalized_ticker": "CAKE", "market": ":us:", "effective_date": "2026-07-28"},
+      {"action": "BUY", "normalized_ticker": "CNXN", "market": ":us:", "effective_date": "2026-07-28"},
+      {"action": "BUY", "normalized_ticker": "FELE", "market": ":us:", "effective_date": "2026-07-28"}
+    ]
+  },
+  {
+    "id": "IN_TJ_VLO_DISCRETIONARY_TRIM_32",
+    "is_held_out": false,
+    "category": "partial_trim",
+    "source_publication": "tjstocks",
+    "input_type": "article",
+    "payload": {
+      "slug": "stocktok-etf-update-nov",
+      "post_date": "2026-11-03T12:00:00Z",
+      "title": "StockTok ETF Doubles the S&P 500 - Update on What to Buy",
+      "subtitle": "Status Review",
+      "body_html": "<p>Reviewing all 10 stocks in the equally weighted ETF:</p><h3>Valero Energy (VLO)</h3><p>I am trimming 50% of VLO here on a discretionary basis after the refining margin surge.</p><h3>Prudential Financial (PRU)</h3><p>Still holding PRU as a core dividend compounder.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "VLO", "market": ":us:", "effective_date": "2026-11-03", "trim_fraction": 0.5}
+    ]
+  },
+  {
+    "id": "IN_TJ_DEEP_DIVE_NON_EXECUTION_33",
+    "is_held_out": false,
+    "category": "watchlist_or_conditional",
+    "source_publication": "tjstocks",
+    "input_type": "article",
+    "payload": {
+      "slug": "brookfield-valuation-review",
+      "post_date": "2026-05-19T12:00:00Z",
+      "title": "Brookfield Corporation Deep Dive",
+      "subtitle": "Valuation Analysis",
+      "body_html": "<p>Brookfield (BN) remains on my watchlist if valuation improves towards 12x distributable earnings, and I have not purchased shares yet.</p>"
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["proposed", "retrospective"]
+  },
+  {
+    "id": "IN_CL_KB_ADR_WITH_KR_CONTEXT_34",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-kb-adr",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-05-20T14:00:00Z",
+            "body": "In Korea financials, I bought KB Financial ADR ($KB) in my US account today."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "KB", "market": ":us:", "effective_date": "2026-05-20"}
+    ]
+  },
+  {
+    "id": "IN_CL_BARE_6DIGIT_NON_KOREAN_REJECT_35",
+    "is_held_out": false,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-num-noise",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-06-10T14:00:00Z",
+            "body": "The company added 250000 square feet of warehouse capacity and closed 120000 square feet of older offices."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "IN_CL_NEGATED_TRIM_EXCEPT_HRTG_36",
+    "is_held_out": false,
+    "category": "partial_trim",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-aside-hrtg",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-06-22T18:00:00Z",
+            "body": "I didn't touch any of my positions today aside from trimming HRTG."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "HRTG", "market": ":us:", "effective_date": "2026-06-22"}
+    ]
+  },
+  {
+    "id": "IN_CL_OPY_TRIM_ONE_THIRD_37",
+    "is_held_out": false,
+    "category": "partial_trim",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-opy-trim",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-07-15T15:00:00Z",
+            "body": "Trimmed 1/3 of OPY at $117 today after the strong run."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "OPY", "market": ":us:", "effective_date": "2026-07-15", "trim_fraction": 0.3333}
+    ]
+  },
+  {
+    "id": "IN_CL_AGM_OPY_SPLIT_CLAUSES_38",
+    "is_held_out": false,
+    "category": "multi_trade_chat",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-agm-opy",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-07-28T16:00:00Z",
+            "body": "AGM - Full exit\nOPY - Half exit"
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "AGM", "market": ":us:", "effective_date": "2026-07-28"},
+      {"action": "TRIM", "normalized_ticker": "OPY", "market": ":us:", "effective_date": "2026-07-28", "trim_fraction": 0.5}
+    ]
+  },
+  {
+    "id": "IN_CL_RATHER_THAN_CONTRAST_39",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-rather-than",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-06-05T14:00:00Z",
+            "body": "I bought CUBI rather than WAL because CUBI trades below tangible book."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "CUBI", "market": ":us:", "effective_date": "2026-06-05"}
+    ]
+  },
+  {
+    "id": "IN_CL_HK_MODERN_DENTAL_40",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-3600-hk",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-05-25T14:00:00Z",
+            "body": "I initiated a position in Modern Dental (3600:HKG) at HKD 4.10."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "3600.HK", "market": ":hk:", "effective_date": "2026-05-25"}
+    ]
+  },
+  {
+    "id": "IN_BTT_CONDITIONAL_STOP_NOT_HIT_41",
+    "is_held_out": false,
+    "category": "watchlist_or_conditional",
+    "source_publication": "beatingthetide",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [202],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-cond-stop",
+            "user_id": 202,
+            "user": {"id": 202, "name": "George"},
+            "created_at": "2026-05-14T14:00:00Z",
+            "body": "If DAR drops below $31, I will consider closing the position, and I have a buy limit order set on CSTM at $24."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["proposed"]
+  },
+  {
+    "id": "IN_BTT_MARKETING_PROMO_SKIP_42",
+    "is_held_out": false,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "beatingthetide",
+    "input_type": "article",
+    "payload": {
+      "slug": "summer-20-off-newsletter-offer",
+      "post_date": "2026-07-04T12:00:00Z",
+      "title": "Summer Sale - 20% Off",
+      "subtitle": "Limited Offer",
+      "body_html": "<p>Subscribe today to get real-time buy/sell alerts in my portfolio, where we bought DELL and MU earlier this year!</p>"
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "IN_CL_CCV_AUSTRALIA_BUY_43",
+    "is_held_out": false,
+    "category": "confirmed_purchase",
+    "source_publication": "cluseau",
+    "input_type": "article",
+    "payload": {
+      "slug": "cash-converters-australia",
+      "post_date": "2026-06-28T12:00:00Z",
+      "title": "Cash Converters (CCV AU)",
+      "subtitle": "Australian Specialty Finance",
+      "body_html": "<h3>Long CCV AU Equity (Cash Converters)</h3><p>I bought a starter position in Cash Converters (CCV AU) at AUD 0.24.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "CCV.AX", "market": ":au:", "effective_date": "2026-06-28"}
+    ]
+  },
+  {
+    "id": "IN_CL_MACRO_ACRONYM_NOISE_44",
+    "is_held_out": false,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "cluseau",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [101],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "th-macro-noise",
+            "user_id": 101,
+            "user": {"id": 101, "name": "Cluseau"},
+            "created_at": "2026-08-18T14:00:00Z",
+            "body": "BOK rate cuts, NIM compression, and FCF yields remain the dominant themes across EM banks, so I am sitting tight and not buying anything today."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "HO_UNSEEN_PURCHASE_US_CASHTAG_45",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "old-dominion-freight-thesis",
+      "post_date": "2026-09-14T12:00:00Z",
+      "title": "LTL Compounder at a Cyclical Trough",
+      "subtitle": "New Core Position",
+      "body_html": "<p>After freight volumes stabilized in August, I initiated a position in Old Dominion Freight Line (<span data-component-name=\"CashtagToDOM\" data-attrs=\"{&quot;symbol&quot;:&quot;ODFL&quot;}\"></span>) at $178.40.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "ODFL", "market": ":us:", "effective_date": "2026-09-14"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PURCHASE_KOREA_KS_46",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "hyundai-motor-value-up",
+      "post_date": "2026-08-19T12:00:00Z",
+      "title": "Corporate Value-Up in Seoul",
+      "subtitle": "Hyundai Motor (005380 KS)",
+      "body_html": "<h3>Long 005380 KS Equity (Hyundai Motor)</h3><p>I bought shares of Hyundai Motor (005380 KS) at 245,000 Won ahead of the buyback cancellation.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "005380.KS", "market": ":kr:", "effective_date": "2026-08-19"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PURCHASE_JAPAN_TYO_47",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-jp-1",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-07-08T09:30:00Z",
+            "body": "Opened a new position in Mitsubishi Corp (8058:TYO) at 2,980 JPY during the Tokyo session."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "8058.T", "market": ":jp:", "effective_date": "2026-07-08"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PURCHASE_CANADA_EUROPE_48",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "global-software-and-luxury",
+      "post_date": "2026-09-22T12:00:00Z",
+      "title": "Two Global Quality Compounders",
+      "subtitle": "Toronto & Paris Additions",
+      "body_html": "<p>Today I started a position in Constellation Software (CSU.TO) on the pullback and bought LVMH (MC FP) in Paris.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "CSU.TO", "market": ":ca:", "effective_date": "2026-09-22"},
+      {"action": "BUY", "normalized_ticker": "MC.PA", "market": ":fr:", "effective_date": "2026-09-22"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PURCHASE_UK_HK_AU_49",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-intl-buy",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-03T10:00:00Z",
+            "body": "I initiated a position in Diageo (DGE LN) in London, bought Tencent (0700:HKG) in Hong Kong, and picked up WiseTech Global (WTC AU) in Sydney."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "DGE.L", "market": ":uk:", "effective_date": "2026-10-03"},
+      {"action": "BUY", "normalized_ticker": "0700.HK", "market": ":hk:", "effective_date": "2026-10-03"},
+      {"action": "BUY", "normalized_ticker": "WTC.AX", "market": ":au:", "effective_date": "2026-10-03"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_ADDITION_PROSE_50",
+    "is_held_out": true,
+    "category": "confirmed_addition",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "adding-to-vertex-and-mercadolibre",
+      "post_date": "2026-10-08T12:00:00Z",
+      "title": "Adding to High-Conviction Winners",
+      "subtitle": "Portfolio Update",
+      "body_html": "<p>Following the FDA label expansion, I added to my position in Vertex Pharmaceuticals ($VRTX) at $462 and bought more MercadoLibre ($MELI) on weakness.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "ADD", "normalized_ticker": "VRTX", "market": ":us:", "effective_date": "2026-10-08"},
+      {"action": "ADD", "normalized_ticker": "MELI", "market": ":us:", "effective_date": "2026-10-08"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_ADDITION_ANAPHORIC_REPLY_51",
+    "is_held_out": true,
+    "category": "confirmed_addition",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-add-rep",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-09T13:00:00Z",
+            "body": "Thoughts on Nintendo (7974:TYO) after the Switch 2 supply update."
+          }
+        }
+      ],
+      "replies_map": {
+        "ho-add-rep": [
+          {
+            "comment": {
+              "id": "ho-rep-1",
+              "user_id": 501,
+              "user": {"id": 501, "name": "Analyst"},
+              "created_at": "2026-10-09T13:25:00Z",
+              "body": "I added a bit here last night in Tokyo."
+            }
+          }
+        ]
+      }
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "ADD", "normalized_ticker": "7974.T", "market": ":jp:", "effective_date": "2026-10-08"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PARTIAL_TRIM_HALF_52",
+    "is_held_out": true,
+    "category": "partial_trim",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-trim-half",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-11T15:00:00Z",
+            "body": "Coupang ($CPNG) hit 32x forward earnings today, so I cut CPNG in half to lock in gains."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "CPNG", "market": ":us:", "effective_date": "2026-10-11", "trim_fraction": 0.5}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PARTIAL_TRIM_THIRD_53",
+    "is_held_out": true,
+    "category": "partial_trim",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-trim-third",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-13T15:00:00Z",
+            "body": "Trimmed 1/3 of TXN at $209 as industrial analog restocking looks priced in."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "TXN", "market": ":us:", "effective_date": "2026-10-13", "trim_fraction": 0.3333}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_PARTIAL_TRIM_QUARTER_54",
+    "is_held_out": true,
+    "category": "partial_trim",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "trimming-synopsys-stake",
+      "post_date": "2026-10-17T12:00:00Z",
+      "title": "EDA Valuation Discipline",
+      "subtitle": "Position Sizing Update",
+      "body_html": "<p>I trimmed 25% of SNPS today at $590 while keeping the remaining three-quarters as a long-term compounder.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "TRIM", "normalized_ticker": "SNPS", "market": ":us:", "effective_date": "2026-10-17", "trim_fraction": 0.25}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_FULL_EXIT_CHAT_UPDATE_55",
+    "is_held_out": true,
+    "category": "full_exit",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-exit-chat",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-19T16:20:00Z",
+            "body": "Trade update on ULTA (Closing for +18%):\n\nComp store traffic softened in Q3 checks, so I closed out ULTA today."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "ULTA", "market": ":us:", "effective_date": "2026-10-19"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_FULL_EXIT_KOREA_KQ_56",
+    "is_held_out": true,
+    "category": "full_exit",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-exit-kq",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-21T08:00:00Z",
+            "body": "Kakao (035720 KQ) regulatory overhang keeps worsening — sold my entire position in 035720 KQ today."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "035720.KQ", "market": ":kr:", "effective_date": "2026-10-21"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_FULL_EXIT_POSTMORTEM_57",
+    "is_held_out": true,
+    "category": "full_exit",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "sap-se-position-close-post-mortem",
+      "post_date": "2026-10-24T12:00:00Z",
+      "title": "SAP SE (SAP GR): Position Close & Post-Mortem",
+      "subtitle": "Exiting at 38x Earnings",
+      "body_html": "<p>Today I closed my position in SAP (SAP GR) after cloud ERP multiple expansion exceeded my bull case. When I bought SAP GR two years ago, sentiment was overly pessimistic.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "SAP.DE", "market": ":de:", "effective_date": "2026-10-24"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_MULTI_TRADE_CHAT_US_58",
+    "is_held_out": true,
+    "category": "multi_trade_chat",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-multi-1",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-25T15:45:00Z",
+            "body": "Afternoon trades: totally sold PAYC, cut DECK in half, and initiated a position in MNST."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "PAYC", "market": ":us:", "effective_date": "2026-10-25"},
+      {"action": "TRIM", "normalized_ticker": "DECK", "market": ":us:", "effective_date": "2026-10-25", "trim_fraction": 0.5},
+      {"action": "BUY", "normalized_ticker": "MNST", "market": ":us:", "effective_date": "2026-10-25"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_MULTI_TRADE_CHAT_INTL_59",
+    "is_held_out": true,
+    "category": "multi_trade_chat",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-multi-2",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-27T11:00:00Z",
+            "body": "Closed out Sony (6758:TYO), trimmed 50% of ASML ($ASML), and bought shares of Alimentation Couche-Tard (ATD.TO)."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "6758.T", "market": ":jp:", "effective_date": "2026-10-27"},
+      {"action": "TRIM", "normalized_ticker": "ASML", "market": ":us:", "effective_date": "2026-10-27", "trim_fraction": 0.5},
+      {"action": "BUY", "normalized_ticker": "ATD.TO", "market": ":ca:", "effective_date": "2026-10-27"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_SHORT_BASKET_EXCLUDED_60",
+    "is_held_out": true,
+    "category": "short_or_option_exclusion",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-short-1",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-28T14:00:00Z",
+            "body": "I am also short CVNA and initiated a smaller short in AFRM ahead of subprime auto delinquencies."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_equity_actions": ["SHORT"]
+  },
+  {
+    "id": "HO_UNSEEN_SHORT_HEADING_EXCLUDED_61",
+    "is_held_out": true,
+    "category": "short_or_option_exclusion",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "short-wingstop-valuation",
+      "post_date": "2026-10-29T12:00:00Z",
+      "title": "Short Idea: Extreme Restaurant Multiples",
+      "subtitle": "Hedging Consumer Discretionary",
+      "body_html": "<h3>Short WING US Equity (Wingstop)</h3><p>I shorted WING today at $340 as a valuation hedge against consumer restaurants.</p>"
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_equity_actions": ["SHORT"]
+  },
+  {
+    "id": "HO_UNSEEN_OPTION_COLLAR_EXCLUDED_62",
+    "is_held_out": true,
+    "category": "short_or_option_exclusion",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-opt-collar",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-29T16:00:00Z",
+            "body": "Bought March protective puts on AVGO and put on a zero-cost options collar on ANET ahead of earnings."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_equity_actions": ["HEDGE"]
+  },
+  {
+    "id": "HO_UNSEEN_SUBTLE_WATCHLIST_KOREA_63",
+    "is_held_out": true,
+    "category": "watchlist_or_conditional",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "korean-cosmetics-overview",
+      "post_date": "2026-10-30T12:00:00Z",
+      "title": "Korean Export Champions",
+      "subtitle": "Sector Survey",
+      "body_html": "<p>APR Corp (278470 KS) is high on my watchlist after the US retail launch, though I have not purchased shares yet and am waiting for Q3 margin clarity before buying.</p>"
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["proposed", "retrospective"]
+  },
+  {
+    "id": "HO_UNSEEN_SUBTLE_CONDITIONAL_LIMIT_64",
+    "is_held_out": true,
+    "category": "watchlist_or_conditional",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-cond-1",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-10-31T14:00:00Z",
+            "body": "If Fastenal ($FAST) pulls back below $64 I will buy a starter position, and I have a buy limit order set on ORLY at $1,080."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["proposed"]
+  },
+  {
+    "id": "HO_UNSEEN_SUBTLE_NEGATION_65",
+    "is_held_out": true,
+    "category": "watchlist_or_conditional",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-neg-1",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-11-01T14:00:00Z",
+            "body": "I have no intention of selling ($CTAS) or trimming ($ROP) despite the high multiples, and I didn't buy ($IDXX) after earnings."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["retrospective"]
+  },
+  {
+    "id": "HO_UNSEEN_RETROSPECTIVE_HISTORY_66",
+    "is_held_out": true,
+    "category": "retrospective_recap",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "lessons-from-past-cycles",
+      "post_date": "2026-11-02T12:00:00Z",
+      "title": "Lessons From Past Cycles",
+      "subtitle": "Multi-Year Compounding",
+      "body_html": "<p>Back in 2023 I bought Fair Isaac ($FICO) at $700, and in January 2025 I closed AutoZone ($AZO) too early.</p>"
+    },
+    "expected_confirmed_long_trades": [],
+    "expected_non_confirmed_statuses": ["retrospective"]
+  },
+  {
+    "id": "HO_UNSEEN_CORPORATE_ACTION_NOISE_67",
+    "is_held_out": true,
+    "category": "corporate_or_commentary_noise",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "tractor-supply-q3-notes",
+      "post_date": "2026-11-02T15:00:00Z",
+      "title": "Tractor Supply Q3 Notes",
+      "subtitle": "Store Footprint",
+      "body_html": "<p>Tractor Supply ($TSCO) added 22 stores in Q3, closed 2 branches, and share repurchases retired 1.4% of diluted shares while the CEO was buying on the open market.</p>"
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "HO_UNSEEN_SUBSCRIBER_REPLY_REJECT_68",
+    "is_held_out": true,
+    "category": "subscriber_comment_rejection",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-sub-rej",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-11-03T13:00:00Z",
+            "body": "Weekly Q&A thread is open."
+          }
+        }
+      ],
+      "replies_map": {
+        "ho-sub-rej": [
+          {
+            "comment": {
+              "id": "ho-sub-c1",
+              "user_id": 777,
+              "user": {"id": 777, "name": "ReaderJane"},
+              "created_at": "2026-11-03T13:10:00Z",
+              "body": "I bought 200 shares of ($PLTR) and sold out of ($SNOW) this morning. Do you think PLTR can double?"
+            }
+          }
+        ]
+      }
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "HO_UNSEEN_CONTRAST_RATHER_THAN_69",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-contrast",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-11-03T16:00:00Z",
+            "body": "I bought ($KLAC) rather than ($LRCX) because process control has higher gross margins."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "KLAC", "market": ":us:", "effective_date": "2026-11-03"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_STOPPED_OUT_EXIT_70",
+    "is_held_out": true,
+    "category": "full_exit",
+    "source_publication": "held_out_synthetic",
+    "input_type": "chat",
+    "payload": {
+      "author_ids": [501],
+      "threads": [
+        {
+          "communityPost": {
+            "id": "ho-stop-hit",
+            "user_id": 501,
+            "user": {"id": 501, "name": "Analyst"},
+            "created_at": "2026-11-04T15:30:00Z",
+            "body": "Got stopped out of ($CELH) at $29.50 this afternoon."
+          }
+        }
+      ],
+      "replies_map": {}
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "SELL", "normalized_ticker": "CELH", "market": ":us:", "effective_date": "2026-11-04"}
+    ]
+  },
+  {
+    "id": "HO_UNSEEN_HYPOTHETICAL_READER_ADVICE_71",
+    "is_held_out": true,
+    "category": "watchlist_or_conditional",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "index-valuation-thoughts",
+      "post_date": "2026-11-04T18:00:00Z",
+      "title": "Thoughts on Passive Flows",
+      "subtitle": "Market Structure",
+      "body_html": "<p>If you buy ($VOO) or ($QQQ) at 23x forward earnings, you shouldn't expect 15% annualized returns over the next decade, though a lot of people just buy ($VTI) every paycheck.</p>"
+    },
+    "expected_confirmed_long_trades": []
+  },
+  {
+    "id": "HO_UNSEEN_FRANKFURT_GDR_BUY_72",
+    "is_held_out": true,
+    "category": "confirmed_purchase",
+    "source_publication": "held_out_synthetic",
+    "input_type": "article",
+    "payload": {
+      "slug": "taiwan-gdr-arbitrage",
+      "post_date": "2026-11-05T10:00:00Z",
+      "title": "European GDR Discount",
+      "subtitle": "Cross-Listing Arbitrage",
+      "body_html": "<p>I initiated a position in Hon Hai Precision GDR (HHPD LI) in London to capture the discount to Taipei ordinary shares.</p>"
+    },
+    "expected_confirmed_long_trades": [
+      {"action": "BUY", "normalized_ticker": "HHPD.IL", "market": ":uk:", "effective_date": "2026-11-05"}
+    ]
+  }
+]

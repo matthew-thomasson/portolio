@@ -124,18 +124,18 @@ Following the incorporation of the `IFOS` October 14 chat exit at -30% (closing 
 
 | Publication | Strategy | Capital Invested ($) | Net Profit ($) | ROI (%) | Annualized XIRR (%) | Matched SPY XIRR (%) | Alpha vs SPY (%) | Status |
 |---|---|---|---|---|---|---|---|---|
-| **Beating The Tide** | **Strategy A** | $17,929.76 | +$2,949.16 | **+16.45%** | **+23.23%** | +10.12% | **+13.11%** | `FULLY_RECONCILED` |
-| | **Strategy B** | $8,500.00 | +$644.00 | **+7.58%** | **+15.83%** | +7.44% | **+8.39%** | `FULLY_RECONCILED` |
-| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** | `FULLY_RECONCILED` |
-| | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.25%** | `FULLY_RECONCILED` |
-| **Cluseau (Audited)** | **Strategy A** | $21,314.80 | +$4,829.21 | **+22.66%** | **+33.12%** | +10.26% | **+22.86%** | `RECONCILED_WITH_WARNINGS` |
-| | **Strategy B** | $11,950.62 | +$1,792.65 | **+15.00%** | **+29.74%** | +8.07% | **+21.67%** | `RECONCILED_WITH_WARNINGS` |
+| **Beating The Tide** | **Strategy A** | $29,514.79 | +$6,132.44 | **+20.78%** | **+31.12%** | +10.20% | **+20.92%** | `FULLY_RECONCILED` |
+| | **Strategy B** | $14,080.29 | +$1,905.64 | **+13.53%** | **+34.04%** | +7.40% | **+26.64%** | `FULLY_RECONCILED` |
+| **TJ Stocks** | **Strategy A** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** | `FULLY_RECONCILED` |
+| | **Strategy B** | $12,000.00 | +$2,519.43 | **+21.00%** | **+30.13%** | +9.87% | **+20.26%** | `FULLY_RECONCILED` |
+| **Cluseau (Audited)** | **Strategy A** | $60,139.92 | +$12,762.47 | **+21.22%** | **+30.35%** | +11.12% | **+19.23%** | `RECONCILED_WITH_WARNINGS` |
+| | **Strategy B** | $34,109.25 | +$6,306.32 | **+18.49%** | **+31.53%** | +10.63% | **+20.90%** | `RECONCILED_WITH_WARNINGS` |
 
 ---
 
 ## 7. Automated Regression Suite Verification
 
-The automated quality control framework is permanently enforced by **18 passing unit and regression tests** (`uv run pytest`):
+The automated quality control framework is permanently enforced by **20 passing unit and regression tests** (`uv run pytest`):
 - `test_korean_positions_discovered_from_source`: Verifies `013030.KQ`, `453340.KS`, and `139130.KS` discovery from authentic source text.
 - `test_checkpoint_discovery_and_reconciliation_all_sources`: Asserts all 23 checkpoints across all 3 publications are discovered and validated.
 - `test_ifos_chat_exit_and_unexpected_holding_detection`: Proves that explicitly closed positions that remain open in simulation trigger `UNEXPECTED_IN_SIMULATION` critical alerts.

@@ -1,0 +1,347 @@
+{
+  "strategy_name": "Seed Active BUYs at T0 + Follow Trades",
+  "start_date": "2026-01-01",
+  "end_date": "2026-11-05",
+  "geographic_attribution": [
+    {
+      "region": "Continental Europe",
+      "positions_count": 3,
+      "open_positions_count": 3,
+      "capital_deployed_usd": 6742.42,
+      "realized_pnl_usd": 1531.59,
+      "unrealized_pnl_usd": 1984.85,
+      "total_pnl_usd": 3516.44,
+      "tickers": [
+        "ABCA.PA",
+        "CTT.LS",
+        "HY9H.F"
+      ],
+      "return_on_deployed_pct": 52.15
+    },
+    {
+      "region": "United States",
+      "positions_count": 32,
+      "open_positions_count": 23,
+      "capital_deployed_usd": 49333.32,
+      "realized_pnl_usd": 4328.55,
+      "unrealized_pnl_usd": -1281.54,
+      "total_pnl_usd": 3047.01,
+      "tickers": [
+        "ACFN",
+        "AII",
+        "ALKT",
+        "ASIC",
+        "BARAX",
+        "BITW",
+        "CBK",
+        "CBL",
+        "CUBI",
+        "EVC",
+        "FB",
+        "FRSH",
+        "GDDY",
+        "GOOGL",
+        "HRTG",
+        "IESC",
+        "IGIC",
+        "KSPI",
+        "MBIN",
+        "MOMO",
+        "NECB",
+        "NRG",
+        "OPBK",
+        "OPY",
+        "PENG",
+        "PSIX",
+        "TIGR",
+        "VBNK",
+        "VISN",
+        "WDC",
+        "WLFC",
+        "WSBF"
+      ],
+      "return_on_deployed_pct": 6.18
+    },
+    {
+      "region": "Japan",
+      "positions_count": 8,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 9742.42,
+      "realized_pnl_usd": 2025.48,
+      "unrealized_pnl_usd": 436.95,
+      "total_pnl_usd": 2462.43,
+      "tickers": [
+        "285A.T",
+        "6626.T",
+        "7089.T",
+        "7167.T",
+        "7380.T",
+        "8399.T",
+        "9220.T",
+        "9478.T"
+      ],
+      "return_on_deployed_pct": 25.28
+    },
+    {
+      "region": "United Kingdom / LSE",
+      "positions_count": 4,
+      "open_positions_count": 4,
+      "capital_deployed_usd": 8500.0,
+      "realized_pnl_usd": 2.72,
+      "unrealized_pnl_usd": 1286.43,
+      "total_pnl_usd": 1289.15,
+      "tickers": [
+        "CGEO.L",
+        "CRE.L",
+        "OSB.L",
+        "SMSD.IL"
+      ],
+      "return_on_deployed_pct": 15.17
+    },
+    {
+      "region": "Hong Kong",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": 398.08,
+      "total_pnl_usd": 398.08,
+      "tickers": [
+        "3600.HK"
+      ],
+      "return_on_deployed_pct": 39.81
+    },
+    {
+      "region": "South Korea",
+      "positions_count": 6,
+      "open_positions_count": 5,
+      "capital_deployed_usd": 9318.18,
+      "realized_pnl_usd": -48.85,
+      "unrealized_pnl_usd": 157.59,
+      "total_pnl_usd": 108.74,
+      "tickers": [
+        "005935.KS",
+        "013030.KQ",
+        "139130.KS",
+        "244920.KS",
+        "402340.KS",
+        "453340.KS"
+      ],
+      "return_on_deployed_pct": 1.17
+    },
+    {
+      "region": "Australia",
+      "positions_count": 1,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 2000.0,
+      "realized_pnl_usd": 0.0,
+      "unrealized_pnl_usd": -213.85,
+      "total_pnl_usd": -213.85,
+      "tickers": [
+        "CCV.AX"
+      ],
+      "return_on_deployed_pct": -10.69
+    },
+    {
+      "region": "Canada",
+      "positions_count": 1,
+      "open_positions_count": 0,
+      "capital_deployed_usd": 1000.0,
+      "realized_pnl_usd": -354.61,
+      "unrealized_pnl_usd": 0.0,
+      "total_pnl_usd": -354.61,
+      "tickers": [
+        "IFOS.V"
+      ],
+      "return_on_deployed_pct": -35.46
+    }
+  ],
+  "simulated_instruments": [
+    {
+      "instrument_type": "preferred",
+      "positions_count": 2,
+      "capital_deployed_usd": 3500.0,
+      "total_pnl_usd": 674.37,
+      "tickers": [
+        "005935.KS",
+        "SMSD.IL"
+      ]
+    },
+    {
+      "instrument_type": "long_equity",
+      "positions_count": 53,
+      "capital_deployed_usd": 83136.34,
+      "total_pnl_usd": 9449.58,
+      "tickers": [
+        "013030.KQ",
+        "139130.KS",
+        "244920.KS",
+        "285A.T",
+        "3600.HK",
+        "402340.KS",
+        "453340.KS",
+        "6626.T",
+        "7089.T",
+        "7167.T",
+        "7380.T",
+        "8399.T",
+        "9220.T",
+        "9478.T",
+        "ABCA.PA",
+        "ACFN",
+        "AII",
+        "ALKT",
+        "ASIC",
+        "BITW",
+        "CBK",
+        "CBL",
+        "CCV.AX",
+        "CGEO.L",
+        "CRE.L",
+        "CTT.LS",
+        "CUBI",
+        "EVC",
+        "FB",
+        "FRSH",
+        "GDDY",
+        "GOOGL",
+        "HRTG",
+        "HY9H.F",
+        "IESC",
+        "IFOS.V",
+        "IGIC",
+        "KSPI",
+        "MBIN",
+        "MOMO",
+        "NECB",
+        "NRG",
+        "OPBK",
+        "OPY",
+        "OSB.L",
+        "PENG",
+        "PSIX",
+        "TIGR",
+        "VBNK",
+        "VISN",
+        "WDC",
+        "WLFC",
+        "WSBF"
+      ]
+    },
+    {
+      "instrument_type": "mutual_fund",
+      "positions_count": 1,
+      "capital_deployed_usd": 1000.0,
+      "total_pnl_usd": 129.44,
+      "tickers": [
+        "BARAX"
+      ]
+    }
+  ],
+  "excluded_non_equity": {
+    "total_excluded_events": 38,
+    "by_type": {
+      "option_call": {
+        "events_count": 2,
+        "tickers": [
+          "ACMR",
+          "WDC"
+        ]
+      },
+      "option_collar": {
+        "events_count": 6,
+        "tickers": [
+          "EVC",
+          "IESC",
+          "POWL",
+          "WDC"
+        ]
+      },
+      "option_put": {
+        "events_count": 6,
+        "tickers": [
+          "CBL",
+          "FIX",
+          "GOOGL",
+          "WDC"
+        ]
+      },
+      "short": {
+        "events_count": 24,
+        "tickers": [
+          "ACIC",
+          "AII",
+          "CBL",
+          "HPQ",
+          "HRTG",
+          "HY9H.F",
+          "JPM",
+          "UVE"
+        ]
+      }
+    }
+  },
+  "discovery_layer_counts": {
+    "primary_chat": 122,
+    "primary_article": 37,
+    "checkpoint_review": 7
+  },
+  "date_uncertainty_disclosures": [
+    {
+      "date": "2025-11-13",
+      "ticker": "7167.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "CUBI",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "OSB.L",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2025-11-13_accumulated_prior_days",
+      "source_slug": "chat:d4961037:reply:889c61fd"
+    },
+    {
+      "date": "2026-05-06",
+      "ticker": "013030.KQ",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-05-06_accumulated_prior_days",
+      "source_slug": "chat:cffb4bf4:reply:d94f8a5e"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "139130.KS",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-05-11_accumulated_prior_days",
+      "source_slug": "chat:1886c385:reply:9be38d27"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "7380.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-08-13_accumulated_prior_days",
+      "source_slug": "chat:3b055e3f"
+    },
+    {
+      "date": "2026-08-13",
+      "ticker": "8399.T",
+      "action": "BUY",
+      "date_uncertainty": "disclosed_owned_by_2026-08-13_accumulated_prior_days",
+      "source_slug": "chat:3b055e3f"
+    }
+  ]
+}

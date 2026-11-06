@@ -498,3 +498,133 @@ class PortfolioSimulator:
             benchmark_xirr_pct=(bench_xirr * 100.0) if bench_xirr is not None else None,
             position_summary=pd.DataFrame(summary_rows),
         )
+
+
+def classify_region(ticker: str, market: str = ":us:") -> str:
+    """Classify normalized ticker and market tag into clean geographic region for attribution."""
+    sym = ticker.strip().upper()
+    mkt = (market or ":us:").strip().strip(":").lower()
+    if sym.endswith((".KS", ".KQ")) or mkt == "kr":
+        return "South Korea"
+    if sym.endswith(".T") or mkt == "jp":
+        return "Japan"
+    if sym.endswith((".L", ".IL")) or mkt in ("uk", "gb"):
+        return "United Kingdom / LSE"
+    if sym.endswith((".TO", ".V")) or mkt == "ca":
+        return "Canada"
+    if sym.endswith((".PA", ".LS", ".DE", ".F", ".AS", ".ST", ".OL")) or mkt in ("fr", "pt", "de", "nl", "se", "eu"):
+        return "Continental Europe"
+    if sym.endswith(".HK") or mkt == "hk":
+        return "Hong Kong"
+    if sym.endswith(".AX") or mkt == "au":
+        return "Australia"
+    if mkt in ("cn", "tw"):
+        return "China / Taiwan ADR"
+    if sym.endswith((".SN", ".SA", ".MX")) or mkt in ("cl", "br", "mx", "ar"):
+        return "Latin America"
+    return "United States"
+
+
+def compute_attribution(
+    res: SimulationResult,
+    events_df: pd.DataFrame,
+    non_equity_path: Path | None = None,
+) -> dict[str, Any]:
+    """Compute geographic PnL attribution, instrument-type summary, excluded non-equity summary, and date-uncertainty summary."""
+    region_stats: dict[str, dict[str, Any]] = {}
+    inst_stats: dict[str, dict[str, Any]] = {}
+
+    for sym, pos in sorted(res.positions.items()):
+        reg = classify_region(sym, pos.market)
+        unreal = 0.0
+        if not res.position_summary.empty:
+            sub_p = res.position_summary[res.position_summary["ticker"] == sym]
+            if not sub_p.empty:
+                unreal = float(sub_p.iloc[0]["unrealized_pnl"])
+        tot_pnl = pos.realized_pnl + unreal
+
+        bucket = region_stats.setdefault(
+            reg,
+            {
+                "region": reg,
+                "positions_count": 0,
+                "open_positions_count": 0,
+                "capital_deployed_usd": 0.0,
+                "realized_pnl_usd": 0.0,
+                "unrealized_pnl_usd": 0.0,
+                "total_pnl_usd": 0.0,
+                "tickers": [],
+            },
+        )
+        bucket["positions_count"] += 1
+        if pos.shares > 1e-9:
+            bucket["open_positions_count"] += 1
+        bucket["capital_deployed_usd"] = round(bucket["capital_deployed_usd"] + pos.total_bought_usd, 2)
+        bucket["realized_pnl_usd"] = round(bucket["realized_pnl_usd"] + pos.realized_pnl, 2)
+        bucket["unrealized_pnl_usd"] = round(bucket["unrealized_pnl_usd"] + unreal, 2)
+        bucket["total_pnl_usd"] = round(bucket["total_pnl_usd"] + tot_pnl, 2)
+        bucket["tickers"].append(sym)
+
+        if sym.endswith("X") and len(sym) == 5 and "." not in sym:
+            itype = "mutual_fund"
+        elif "-" in sym or ".PR." in sym or sym in ("ACGLN", "DCOMP", "MBINL", "SMSD.IL", "005935.KS"):
+            itype = "preferred"
+        else:
+            itype = "long_equity"
+
+        ib = inst_stats.setdefault(
+            itype,
+            {"instrument_type": itype, "positions_count": 0, "capital_deployed_usd": 0.0, "total_pnl_usd": 0.0, "tickers": []},
+        )
+        ib["positions_count"] += 1
+        ib["capital_deployed_usd"] = round(ib["capital_deployed_usd"] + pos.total_bought_usd, 2)
+        ib["total_pnl_usd"] = round(ib["total_pnl_usd"] + tot_pnl, 2)
+        ib["tickers"].append(sym)
+
+    for b in region_stats.values():
+        dep = b["capital_deployed_usd"]
+        b["return_on_deployed_pct"] = round((b["total_pnl_usd"] / dep * 100.0) if dep > 0 else 0.0, 2)
+
+    excluded_summary: dict[str, Any] = {"total_excluded_events": 0, "by_type": {}}
+    if non_equity_path is not None and non_equity_path.exists() and non_equity_path.stat().st_size > 2:
+        try:
+            neq_df = pd.read_csv(non_equity_path)
+            if not neq_df.empty and "instrument_type" in neq_df.columns:
+                excluded_summary["total_excluded_events"] = int(len(neq_df))
+                for itype, grp in neq_df.groupby("instrument_type"):
+                    excluded_summary["by_type"][str(itype)] = {
+                        "events_count": int(len(grp)),
+                        "tickers": sorted(grp["normalized_ticker"].dropna().astype(str).unique().tolist()),
+                    }
+        except Exception:
+            pass
+
+    uncertainty_rows: list[dict[str, str]] = []
+    discovery_counts: dict[str, int] = {}
+    if not events_df.empty:
+        if "discovery_layer" in events_df.columns:
+            discovery_counts = {str(k): int(v) for k, v in events_df["discovery_layer"].fillna("primary_article").value_counts().to_dict().items()}
+        if "date_uncertainty" in events_df.columns:
+            unc_df = events_df[events_df["date_uncertainty"].notna() & (events_df["date_uncertainty"].astype(str).str.strip() != "")]
+            for _, r in unc_df.iterrows():
+                uncertainty_rows.append(
+                    {
+                        "date": str(r["date"]),
+                        "ticker": str(r["ticker"]),
+                        "action": str(r["action"]),
+                        "date_uncertainty": str(r["date_uncertainty"]),
+                        "source_slug": str(r.get("source_slug", "")),
+                    }
+                )
+
+    ordered_regions = sorted(region_stats.values(), key=lambda x: x["total_pnl_usd"], reverse=True)
+    return {
+        "strategy_name": res.strategy_name,
+        "start_date": res.start_date,
+        "end_date": res.end_date,
+        "geographic_attribution": ordered_regions,
+        "simulated_instruments": list(inst_stats.values()),
+        "excluded_non_equity": excluded_summary,
+        "discovery_layer_counts": discovery_counts,
+        "date_uncertainty_disclosures": uncertainty_rows,
+    }

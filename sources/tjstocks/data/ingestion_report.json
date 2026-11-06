@@ -1,0 +1,58 @@
+{
+  "source_key": "tjstocks",
+  "source_name": "TJ Stocks",
+  "is_valid": true,
+  "author_user_ids": [
+    301052325
+  ],
+  "author_handles": [
+    "stocktok"
+  ],
+  "posts_total_files": 405,
+  "posts_valid_count": 405,
+  "posts_newsletter_count": 402,
+  "posts_media_only_count": 3,
+  "posts_paid_count": 195,
+  "posts_paywall_truncated_count": 0,
+  "posts_empty_or_corrupt_count": 0,
+  "cashtag_widgets_count": 464,
+  "stock_ticker_widgets_count": 0,
+  "chat_threads_count": 7,
+  "chat_author_threads_count": 3,
+  "chat_threads_with_comments": 4,
+  "chat_threads_missing_replies": 0,
+  "chat_replies_total_count": 2516,
+  "chat_author_replies_count": 643,
+  "datawrapper_csv_count": 0,
+  "datawrapper_corrupt_count": 0,
+  "anomalies": [
+    {
+      "severity": "INFO",
+      "category": "MEDIA_ONLY_POST",
+      "item_id": "stock-review-1217",
+      "file_path": "api_posts\\2024-12-17__stock-review-1217.json",
+      "detail": "Audio/video post (podcast) 'Stock Review 12/17' has minimal HTML body (82 chars); trade details if any reside in audio/video."
+    },
+    {
+      "severity": "INFO",
+      "category": "IMAGE_REVIEW_LIMITATION",
+      "item_id": "stock-portfolio-update-week-5-of",
+      "file_path": "api_posts\\2025-07-14__stock-portfolio-update-week-5-of.json",
+      "detail": "Review post 'Stock Portfolio Update - Week 5 of the Bull Market' contains 2 embedded image(s) and no HTML/Datawrapper table; full holdings table may be inside an image."
+    },
+    {
+      "severity": "INFO",
+      "category": "IMAGE_REVIEW_LIMITATION",
+      "item_id": "important-portfolio-update",
+      "file_path": "api_posts\\2026-02-05__important-portfolio-update.json",
+      "detail": "Review post 'Important Portfolio Update' contains 3 embedded image(s) and no HTML/Datawrapper table; full holdings table may be inside an image."
+    },
+    {
+      "severity": "INFO",
+      "category": "MEDIA_ONLY_POST",
+      "item_id": "sunday-stock-pick-better-than-wall",
+      "file_path": "api_posts\\2026-07-12__sunday-stock-pick-better-than-wall.json",
+      "detail": "Audio/video post (podcast) 'Sunday Stock Pick 🩴 Better Than Wall Street's Favorite Stocks' has minimal HTML body (274 chars); trade details if any reside in audio/video."
+    }
+  ]
+}

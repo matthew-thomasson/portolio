@@ -28,3 +28,7 @@ packages = ["btt_sim"]
 dev = [
     "pytest>=8.3.0",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

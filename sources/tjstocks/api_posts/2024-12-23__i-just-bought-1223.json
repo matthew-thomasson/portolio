@@ -66,12 +66,12 @@
   "voiceoverUpload": null,
   "has_voiceover": false,
   "description": "Think this is going to get a momentum pump like XRP did...",
-  "body_html": null,
+  "body_html": "<div class=\"paywall-jump\" data-component-name=\"PaywallToDOM\"></div><p>Just bought GME at $30.87, just $5k worth. Has a volatility contraction pattern on the 4hour. Anything below $27 I will cut. I dont intend to hold this forever, but I think it will turn into a FOMO trap. It is already in an uptrend, with price action above both the 100 and 200 day SMA and EMA. Cut small losses fast, and if you find yourself in a health profit, protect those profits…it is exactly what I will be doing. Available in the chat if anyone wants to talk about it. Screen shot of position below.</p><div><hr></div><p> Not financial advice, you do what is best for you. </p>",
   "has_dynamic_content": false,
   "truncated_body_text": null,
   "wordcount": 108,
   "post_preview_limit": null,
-  "language": "en",
+  "language": null,
   "postTags": [
     {
       "id": "41ebb604-6f20-42b6-9b74-1bc183d2df27",
@@ -164,7 +164,7 @@
       }
     }
   ],
-  "reaction": null,
+  "reaction": false,
   "reaction_count": 15,
   "comment_count": 1,
   "child_comment_count": 1,
@@ -172,17 +172,27 @@
     {
       "post_id": 153540641,
       "voice_id": "en-GB-OllieMultilingualNeural",
-      "audio_url": null,
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/153540641/tts/dc5d6510-15c8-4db9-b3e7-6c04e413a00c/en-GB-OllieMultilingualNeural.mp3",
       "type": "tts",
-      "status": "paywalled"
+      "status": "completed"
     }
   ],
   "vg_wort_pixel_url": null,
   "is_geoblocked": false,
   "sponsorshipEditionBanner": null,
-  "hidden": true,
   "is_editor_preview": false,
   "hasCashtag": false,
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
   "unlockedWithIP": false,
   "unlockedWithCampaign": false,
   "themeVariables": {
@@ -243,5 +253,76 @@
     "color_theme_bg_pop_rgb": "234, 88, 12",
     "color_theme_accent_rgb": "234, 88, 12"
   },
-  "comments": []
+  "comments": [
+    {
+      "id": 82954775,
+      "body": "Can you suggest some TradingView filters to find stocks susceptible to a short squeeze?",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Can you suggest some TradingView filters to find stocks susceptible to a short squeeze?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 153540641,
+      "user_id": 2284074,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2024-12-24T19:23:49.918Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Jay Cheroske",
+      "photo_url": null,
+      "handle": "foobarburp",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "❤": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "foobarburp",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
 }

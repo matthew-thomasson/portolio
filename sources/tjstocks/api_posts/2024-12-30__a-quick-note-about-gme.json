@@ -66,12 +66,12 @@
   "voiceoverUpload": null,
   "has_voiceover": false,
   "description": "Keep an active eye 👀",
-  "body_html": null,
+  "body_html": "<div class=\"paywall-jump\" data-component-name=\"PaywallToDOM\"></div><p>There will be big winners. Small winners. And some stocks that flop. Right now GME is in the small winner category. Depending when or if anyone bought, this stock is up between 3% to 4%. Never financial advice of course….but futures did not look very good at opening yesterday, and most stocks are down pre-market. You can tighten up your stop, or if you prefer recall you can sell post market by utilizing a limit order. I dont know where, or if, any of you bought, but because of market conditions, this position needs to be managed. Do what is best for you, but consider this my warning. Wish I had better news this monday morning…but BS doesnt help anyone. And the primary goal is to protect money. Bigger runs will come along. There is still hope…but hope is a terrible strategy. </p><p>Available in the chat if you have any questions. </p>",
   "has_dynamic_content": false,
   "truncated_body_text": null,
   "wordcount": 155,
   "post_preview_limit": null,
-  "language": "en",
+  "language": null,
   "postTags": [
     {
       "id": "76aab24d-a954-4fe9-88f1-ca0242c6b073",
@@ -157,7 +157,7 @@
       }
     }
   ],
-  "reaction": null,
+  "reaction": false,
   "reaction_count": 10,
   "comment_count": 1,
   "child_comment_count": 1,
@@ -165,17 +165,27 @@
     {
       "post_id": 153800117,
       "voice_id": "en-GB-OllieMultilingualNeural",
-      "audio_url": null,
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/153800117/tts/cb6198ff-2bdb-4450-85b4-855623b150cc/en-GB-OllieMultilingualNeural.mp3",
       "type": "tts",
-      "status": "paywalled"
+      "status": "completed"
     }
   ],
   "vg_wort_pixel_url": null,
   "is_geoblocked": false,
   "sponsorshipEditionBanner": null,
-  "hidden": true,
   "is_editor_preview": false,
   "hasCashtag": false,
+  "is_saved": false,
+  "saved_at": null,
+  "is_viewed": false,
+  "read_progress": 0,
+  "max_read_progress": 0,
+  "audio_progress": 0,
+  "max_audio_progress": 0,
+  "video_progress": 0,
+  "max_video_progress": 0,
+  "restacked": false,
+  "is_ai_detection_disabled": false,
   "unlockedWithIP": false,
   "unlockedWithCampaign": false,
   "themeVariables": {
@@ -236,5 +246,110 @@
     "color_theme_bg_pop_rgb": "234, 88, 12",
     "color_theme_accent_rgb": "234, 88, 12"
   },
-  "comments": []
+  "comments": [
+    {
+      "id": 83724709,
+      "body": "Up about 3%. Thanks! A few hundred dollars. Tight stop loss set.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Up about 3%. Thanks! A few hundred dollars. Tight stop loss set."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 3537822,
+      "post_id": 153800117,
+      "user_id": 301577739,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2024-12-30T23:58:30.730Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "NOst",
+      "photo_url": null,
+      "handle": "nost",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "❤": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "nost",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "NOst",
+          "id": 7544811,
+          "base_url": "https://nost.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              },
+              "dark": {
+                "r": 234,
+                "g": 88,
+                "b": 12,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
 }

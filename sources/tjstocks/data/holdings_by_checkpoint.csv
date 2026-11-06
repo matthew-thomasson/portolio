@@ -1,0 +1,4 @@
+checkpoint_id,checkpoint_date,evaluation_date,checkpoint_type,title,disclosed_active_count,disclosed_closed_count,simulated_active_count,unresolved_errors,warnings,disclosed_active_tickers,simulated_active_tickers
+tjstocks-2026-01-14-only-10-stocks-made-the-cut,2026-01-14,2026-01-14,COMPLETE_SNAPSHOT,StockTok ETF,10,0,10,0,0,"FDX,HNI,MSCI,MTB,PRU,SPB,SPG,TXT,UBSI,VLO","FDX,HNI,MSCI,MTB,PRU,SPB,SPG,TXT,UBSI,VLO"
+tjstocks-2026-07-28-stocktok-etf-20,2026-07-28,2026-07-28,COMPLETE_SNAPSHOT,StockTok ETF 2.0,10,3,10,0,0,"CAKE,CNXN,FELE,HNI,MTB,PRU,SPG,TXT,UBSI,VLO","CAKE,CNXN,FELE,HNI,MTB,PRU,SPG,TXT,UBSI,VLO"
+tjstocks-2026-11-03-stocktok-etf-doubles-the-s-a,2026-11-03,2026-11-03,COMPLETE_SNAPSHOT,"StockTok ETF Doubles the S&P 500 - Update on What to Buy, Hold & Sell",10,0,10,0,0,"CAKE,CNXN,FELE,HNI,MTB,PRU,SPG,TXT,UBSI,VLO","CAKE,CNXN,FELE,HNI,MTB,PRU,SPG,TXT,UBSI,VLO"

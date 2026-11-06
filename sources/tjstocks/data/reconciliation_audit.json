@@ -1,0 +1,223 @@
+{
+  "source_key": "tjstocks",
+  "display_name": "TJ Stocks",
+  "overall_status": "FULLY_RECONCILED",
+  "is_archive_valid": true,
+  "checkpoints_evaluated": 3,
+  "unresolved_errors": 0,
+  "warnings_count": 0,
+  "info_count": 0,
+  "checkpoints": [
+    {
+      "checkpoint_id": "tjstocks-2026-01-14-only-10-stocks-made-the-cut",
+      "date": "2026-01-14",
+      "evaluation_date": "2026-01-14",
+      "title": "StockTok ETF",
+      "source_file": "2026-01-14__only-10-stocks-made-the-cut.json",
+      "checkpoint_type": "COMPLETE_SNAPSHOT",
+      "active_count": 10,
+      "closed_count": 0,
+      "disappeared_count": 0,
+      "disclosed_positions": {
+        "PRU": {
+          "status": "active",
+          "name": "Buy Prudential",
+          "evidence": "Model ETF initial constituent: Prudential Financial, $PRU"
+        },
+        "MTB": {
+          "status": "active",
+          "name": "M&T Bank Corporation",
+          "evidence": "Model ETF initial constituent: M&T Bank, $MTB"
+        },
+        "SPG": {
+          "status": "active",
+          "name": "Hold Simon Property Group",
+          "evidence": "Model ETF initial constituent: Simon Property Group, $SPG"
+        },
+        "UBSI": {
+          "status": "active",
+          "name": "United Bankshares",
+          "evidence": "Model ETF initial constituent: United Bankshares, $UBSI"
+        },
+        "TXT": {
+          "status": "active",
+          "name": "Textron Inc",
+          "evidence": "Model ETF initial constituent: Textron Inc, $TXT"
+        },
+        "HNI": {
+          "status": "active",
+          "name": "Hold HNI Corporation",
+          "evidence": "Model ETF initial constituent: HNI Corporation, $HNI"
+        },
+        "SPB": {
+          "status": "active",
+          "name": "Spectrum Brands Holdings",
+          "evidence": "Model ETF initial constituent: Spectrum Brands Holdings, $SPB (this is probably my least favorite on the list)"
+        },
+        "FDX": {
+          "status": "active",
+          "name": "FedEx",
+          "evidence": "Model ETF initial constituent: FedEx Corporation, $FDX"
+        },
+        "MSCI": {
+          "status": "active",
+          "name": "MSCI Inc",
+          "evidence": "Model ETF initial constituent: MSCI Inc, $MSCI"
+        },
+        "VLO": {
+          "status": "active",
+          "name": "Valero",
+          "evidence": "Model ETF initial constituent: Valero Energy Corporation, $VLO"
+        }
+      },
+      "excluded_positions": {},
+      "notes": "Complete model basket constituent verification parsed from raw HTML list items."
+    },
+    {
+      "checkpoint_id": "tjstocks-2026-07-28-stocktok-etf-20",
+      "date": "2026-07-28",
+      "evaluation_date": "2026-07-28",
+      "title": "StockTok ETF 2.0",
+      "source_file": "2026-07-28__stocktok-etf-20.json",
+      "checkpoint_type": "COMPLETE_SNAPSHOT",
+      "active_count": 10,
+      "closed_count": 3,
+      "disappeared_count": 0,
+      "disclosed_positions": {
+        "VLO": {
+          "status": "active",
+          "name": "Valero",
+          "evidence": "Model ETF rebalance retained: Valero Energy Corporation - $VLO"
+        },
+        "SPB": {
+          "status": "closed",
+          "name": "Spectrum Brands Holdings",
+          "evidence": "Model ETF rebalance removal: Spectrum Brands Holdings - $SPB (Remove)"
+        },
+        "SPG": {
+          "status": "active",
+          "name": "Hold Simon Property Group",
+          "evidence": "Model ETF rebalance retained: Simon Property Group - $SPG"
+        },
+        "UBSI": {
+          "status": "active",
+          "name": "United Bankshares",
+          "evidence": "Model ETF rebalance retained: United Bankshares - $UBSI"
+        },
+        "MTB": {
+          "status": "active",
+          "name": "M&T Bank Corporation",
+          "evidence": "Model ETF rebalance retained: M&T Bank Corporation - $MTB"
+        },
+        "MSCI": {
+          "status": "closed",
+          "name": "MSCI Inc",
+          "evidence": "Model ETF rebalance removal: MSCI Inc. - $MSCI (Remove)"
+        },
+        "FDX": {
+          "status": "closed",
+          "name": "FedEx",
+          "evidence": "Model ETF rebalance removal: FedEx Corp. - $FDX (Remove)"
+        },
+        "PRU": {
+          "status": "active",
+          "name": "Buy Prudential",
+          "evidence": "Model ETF rebalance retained: Prudential Financial - $PRU"
+        },
+        "TXT": {
+          "status": "active",
+          "name": "Textron Inc",
+          "evidence": "Model ETF rebalance retained: Textron Inc. - $TXT"
+        },
+        "HNI": {
+          "status": "active",
+          "name": "Hold HNI Corporation",
+          "evidence": "Model ETF rebalance retained: HNI Corporation - $HNI"
+        },
+        "CAKE": {
+          "status": "active",
+          "name": "Cheesecake Factory",
+          "evidence": "Model ETF rebalance retained: Cheesecake Factory - $CAKE (Added)"
+        },
+        "CNXN": {
+          "status": "active",
+          "name": "Hold PC Connection",
+          "evidence": "Model ETF rebalance retained: PC Connection - $CNXN (Added)"
+        },
+        "FELE": {
+          "status": "active",
+          "name": "Hold Franklin Electric",
+          "evidence": "Model ETF rebalance retained: Franklin Electric - $FELE (Added)"
+        }
+      },
+      "excluded_positions": {},
+      "notes": "Complete model basket constituent verification parsed from raw HTML list items."
+    },
+    {
+      "checkpoint_id": "tjstocks-2026-11-03-stocktok-etf-doubles-the-s-a",
+      "date": "2026-11-03",
+      "evaluation_date": "2026-11-03",
+      "title": "StockTok ETF Doubles the S&P 500 - Update on What to Buy, Hold & Sell",
+      "source_file": "2026-11-03__stocktok-etf-doubles-the-s-and-p.json",
+      "checkpoint_type": "COMPLETE_SNAPSHOT",
+      "active_count": 10,
+      "closed_count": 0,
+      "disappeared_count": 0,
+      "disclosed_positions": {
+        "VLO": {
+          "status": "active",
+          "name": "Valero",
+          "evidence": "Model ETF review item (trim or cut): Valero Energy Corporation, $VLO - Trim or cut"
+        },
+        "CAKE": {
+          "status": "active",
+          "name": "Cheesecake Factory",
+          "evidence": "Model ETF review item (hold): Cheesecake Factory, $CAKE - Hold"
+        },
+        "HNI": {
+          "status": "active",
+          "name": "Hold HNI Corporation",
+          "evidence": "Model ETF review item (hold): HNI Corporation, $HNI - Hold"
+        },
+        "CNXN": {
+          "status": "active",
+          "name": "Hold PC Connection",
+          "evidence": "Model ETF review item (hold): PC Connection, $CNXN - Hold"
+        },
+        "UBSI": {
+          "status": "active",
+          "name": "United Bankshares",
+          "evidence": "Model ETF review item (hold/buy): United Bankshares, $UBSI - Hold/Buy"
+        },
+        "TXT": {
+          "status": "active",
+          "name": "Textron Inc",
+          "evidence": "Model ETF review item (hold/buy): Textron Inc., $TXT - Hold/Buy"
+        },
+        "PRU": {
+          "status": "active",
+          "name": "Buy Prudential",
+          "evidence": "Model ETF review item (hold): Prudential, $PRU - Hold"
+        },
+        "SPG": {
+          "status": "active",
+          "name": "Hold Simon Property Group",
+          "evidence": "Model ETF review item (hold): Simon Property Group, $SPG - Hold"
+        },
+        "FELE": {
+          "status": "active",
+          "name": "Hold Franklin Electric",
+          "evidence": "Model ETF review item (hold): Franklin Electric, $FELE - Hold"
+        },
+        "MTB": {
+          "status": "active",
+          "name": "M&T Bank Corporation",
+          "evidence": "Model ETF review item (hold/buy): M&T Bank Corporation, $MTB - Hold/Buy"
+        }
+      },
+      "excluded_positions": {},
+      "notes": "Complete model basket constituent verification parsed from raw HTML list items."
+    }
+  ],
+  "discrepancies": []
+}

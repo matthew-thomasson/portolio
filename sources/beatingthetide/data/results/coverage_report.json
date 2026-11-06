@@ -1,16 +1,1586 @@
 {
   "source_key": "beatingthetide",
-  "source_name": "Beating The Tide",
-  "articles_downloaded": 247,
-  "articles_examined": 247,
-  "chats_downloaded": 0,
-  "chats_examined": 0,
-  "datawrapper_tables": 48,
-  "confirmed_trades_count": 63,
-  "disclosed_holdings_count": 0,
-  "orphan_holdings": [],
-  "unexplained_disappearances": [],
-  "unresolved_candidates": [],
-  "breakdown_by_instrument": {},
-  "breakdown_by_geography": {}
+  "display_name": "Beating The Tide",
+  "overall_status": "FULLY_RECONCILED",
+  "api_posts_count": 247,
+  "paid_posts_count": 53,
+  "truncated_posts_count": 0,
+  "zero_byte_posts_count": 0,
+  "chat_threads_count": 133,
+  "chat_replies_count": 387,
+  "datawrapper_tables_count": 48,
+  "trade_events_count": 85,
+  "unique_simulated_tickers": 50,
+  "checkpoints_count": 5,
+  "disclosed_positions_checked": 94,
+  "reconciled_count": 94,
+  "unresolved_discrepancies_count": 0,
+  "warnings_count": 0,
+  "positions": [
+    {
+      "ticker": "IBEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+    },
+    {
+      "ticker": "ITRN",
+      "company_name": "ITRN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+    },
+    {
+      "ticker": "JD",
+      "company_name": "JD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+    },
+    {
+      "ticker": "NGD",
+      "company_name": "NGD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24 (Open)"
+    },
+    {
+      "ticker": "ODC",
+      "company_name": "ODC",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15 (Open)"
+    },
+    {
+      "ticker": "PYPL",
+      "company_name": "PYPL",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15 (Open)"
+    },
+    {
+      "ticker": "QFIN",
+      "company_name": "QFIN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10 (Open)"
+    },
+    {
+      "ticker": "RYAM",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+    },
+    {
+      "ticker": "BSVN",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+    },
+    {
+      "ticker": "HRTG",
+      "company_name": "HRTG",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06 (Open)"
+    },
+    {
+      "ticker": "IBEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+    },
+    {
+      "ticker": "ITRN",
+      "company_name": "ITRN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+    },
+    {
+      "ticker": "JD",
+      "company_name": "JD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+    },
+    {
+      "ticker": "KB",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+    },
+    {
+      "ticker": "MU",
+      "company_name": "MU",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+    },
+    {
+      "ticker": "NGD",
+      "company_name": "NGD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24 (Open)"
+    },
+    {
+      "ticker": "ODC",
+      "company_name": "ODC",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+    },
+    {
+      "ticker": "PARR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+    },
+    {
+      "ticker": "PYPL",
+      "company_name": "PYPL",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15 (Open)"
+    },
+    {
+      "ticker": "QFIN",
+      "company_name": "QFIN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+    },
+    {
+      "ticker": "RYAM",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+    },
+    {
+      "ticker": "TPC",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+    },
+    {
+      "ticker": "VEON",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2025-12-31",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+    },
+    {
+      "ticker": "ATI",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-04-13 (Open)"
+    },
+    {
+      "ticker": "AXIA",
+      "company_name": "AXIA",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-01-08, Closed 2026-06-08"
+    },
+    {
+      "ticker": "BSVN",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+    },
+    {
+      "ticker": "DAR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-05-18 (Open)"
+    },
+    {
+      "ticker": "DELL",
+      "company_name": "DELL",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-02-23 (Open)"
+    },
+    {
+      "ticker": "HRTG",
+      "company_name": "HRTG",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06, Closed 2026-06-18"
+    },
+    {
+      "ticker": "IBEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+    },
+    {
+      "ticker": "ITRN",
+      "company_name": "ITRN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+    },
+    {
+      "ticker": "JD",
+      "company_name": "JD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2026-01-06"
+    },
+    {
+      "ticker": "KB",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+    },
+    {
+      "ticker": "MU",
+      "company_name": "MU",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+    },
+    {
+      "ticker": "NESR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-03-16 (Open)"
+    },
+    {
+      "ticker": "NGD",
+      "company_name": "NGD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24, Closed 2026-03-20"
+    },
+    {
+      "ticker": "ODC",
+      "company_name": "ODC",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+    },
+    {
+      "ticker": "PARR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+    },
+    {
+      "ticker": "PYPL",
+      "company_name": "PYPL",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15, Closed 2026-02-03"
+    },
+    {
+      "ticker": "QFIN",
+      "company_name": "QFIN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+    },
+    {
+      "ticker": "RYAM",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+    },
+    {
+      "ticker": "SNEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-06-10 (Open)"
+    },
+    {
+      "ticker": "TPC",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+    },
+    {
+      "ticker": "VEON",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-06-30",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+    },
+    {
+      "ticker": "ATI",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-04-13 (Open)"
+    },
+    {
+      "ticker": "AXIA",
+      "company_name": "AXIA",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-01-08, Closed 2026-06-08"
+    },
+    {
+      "ticker": "BSVN",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+    },
+    {
+      "ticker": "CSTM",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-07-15 (Open)"
+    },
+    {
+      "ticker": "DAR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-05-18 (Open)"
+    },
+    {
+      "ticker": "DELL",
+      "company_name": "DELL",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-02-23 (Open)"
+    },
+    {
+      "ticker": "HRTG",
+      "company_name": "HRTG",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06, Closed 2026-06-18"
+    },
+    {
+      "ticker": "IBEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+    },
+    {
+      "ticker": "ITRN",
+      "company_name": "ITRN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+    },
+    {
+      "ticker": "JD",
+      "company_name": "JD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2026-01-06"
+    },
+    {
+      "ticker": "KB",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+    },
+    {
+      "ticker": "MU",
+      "company_name": "MU",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+    },
+    {
+      "ticker": "NESR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-03-16 (Open)"
+    },
+    {
+      "ticker": "NGD",
+      "company_name": "NGD",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24, Closed 2026-03-20"
+    },
+    {
+      "ticker": "ODC",
+      "company_name": "ODC",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+    },
+    {
+      "ticker": "OSCR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-08-17 (Open)"
+    },
+    {
+      "ticker": "PARR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+    },
+    {
+      "ticker": "PYPL",
+      "company_name": "PYPL",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15, Closed 2026-02-03"
+    },
+    {
+      "ticker": "QFIN",
+      "company_name": "QFIN",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "closed",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+    },
+    {
+      "ticker": "RYAM",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+    },
+    {
+      "ticker": "SNEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-06-10 (Open)"
+    },
+    {
+      "ticker": "TPC",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+    },
+    {
+      "ticker": "VEON",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+      "disclosure_date": "2026-08-17",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+    },
+    {
+      "ticker": "ATI",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.33%)"
+    },
+    {
+      "ticker": "BAC",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.62%)"
+    },
+    {
+      "ticker": "BRK.B",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "BASELINE_DOCUMENTED",
+      "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+      "notes": "BRK.B is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+    },
+    {
+      "ticker": "BSVN",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.85%)"
+    },
+    {
+      "ticker": "CDE",
+      "company_name": "CDE",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "BASELINE_DOCUMENTED",
+      "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+      "notes": "CDE is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+    },
+    {
+      "ticker": "CLS",
+      "company_name": "CLS",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "BASELINE_DOCUMENTED",
+      "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+      "notes": "CLS is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+    },
+    {
+      "ticker": "CRDO",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.44%)"
+    },
+    {
+      "ticker": "CSTM",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.02%)"
+    },
+    {
+      "ticker": "CVSA",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "BASELINE_DOCUMENTED",
+      "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+      "notes": "CVSA is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+    },
+    {
+      "ticker": "DAR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.75%)"
+    },
+    {
+      "ticker": "DELL",
+      "company_name": "DELL",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.92%)"
+    },
+    {
+      "ticker": "DXPE",
+      "company_name": "DXPE",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.79%)"
+    },
+    {
+      "ticker": "EAT",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "BASELINE_DOCUMENTED",
+      "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+      "notes": "EAT is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+    },
+    {
+      "ticker": "FTK",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.48%)"
+    },
+    {
+      "ticker": "IBEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.66%)"
+    },
+    {
+      "ticker": "KB",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.75%)"
+    },
+    {
+      "ticker": "MU",
+      "company_name": "MU",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.34%)"
+    },
+    {
+      "ticker": "NESR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.20%)"
+    },
+    {
+      "ticker": "OSCR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=4.67%)"
+    },
+    {
+      "ticker": "PARR",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.52%)"
+    },
+    {
+      "ticker": "POWL",
+      "company_name": "POWL",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "BASELINE_DOCUMENTED",
+      "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+      "notes": "POWL is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger."
+    },
+    {
+      "ticker": "RYAM",
+      "company_name": "RYAM",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.81%)"
+    },
+    {
+      "ticker": "SNEX",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.87%)"
+    },
+    {
+      "ticker": "STRL",
+      "company_name": "STRL",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.26%)"
+    },
+    {
+      "ticker": "TPC",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.87%)"
+    },
+    {
+      "ticker": "TSM",
+      "company_name": "TSM",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.31%)"
+    },
+    {
+      "ticker": "VEON",
+      "company_name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+      "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+      "disclosure_date": "2026-11-05",
+      "disclosure_type": "active",
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.57%)"
+    }
+  ],
+  "checkpoint_audit": {
+    "source_key": "beatingthetide",
+    "display_name": "Beating The Tide",
+    "overall_status": "FULLY_RECONCILED",
+    "is_archive_valid": true,
+    "checkpoints_evaluated": 5,
+    "unresolved_errors": 0,
+    "warnings_count": 0,
+    "info_count": 6,
+    "checkpoints": [
+      {
+        "checkpoint_id": "beatingthetide-dw-picks-2025-06-30",
+        "date": "2025-06-30",
+        "evaluation_date": "2025-06-30",
+        "title": "Datawrapper Pick Tracker Point-in-Time Verification (2025-06-30)",
+        "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+        "checkpoint_type": "TABLE_SNAPSHOT",
+        "active_count": 8,
+        "closed_count": 0,
+        "disappeared_count": 0,
+        "disclosed_positions": {
+          "PYPL": {
+            "status": "active",
+            "name": "PYPL",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15 (Open)"
+          },
+          "JD": {
+            "status": "active",
+            "name": "JD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+          },
+          "ITRN": {
+            "status": "active",
+            "name": "ITRN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+          },
+          "ODC": {
+            "status": "active",
+            "name": "ODC",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15 (Open)"
+          },
+          "IBEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+          },
+          "RYAM": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+          },
+          "QFIN": {
+            "status": "active",
+            "name": "QFIN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10 (Open)"
+          },
+          "NGD": {
+            "status": "active",
+            "name": "NGD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24 (Open)"
+          }
+        },
+        "excluded_positions": {},
+        "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-picks-2025-12-31",
+        "date": "2025-12-31",
+        "evaluation_date": "2025-12-31",
+        "title": "Datawrapper Pick Tracker Point-in-Time Verification (2025-12-31)",
+        "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+        "checkpoint_type": "TABLE_SNAPSHOT",
+        "active_count": 12,
+        "closed_count": 3,
+        "disappeared_count": 0,
+        "disclosed_positions": {
+          "PYPL": {
+            "status": "active",
+            "name": "PYPL",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15 (Open)"
+          },
+          "JD": {
+            "status": "active",
+            "name": "JD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19 (Open)"
+          },
+          "ITRN": {
+            "status": "closed",
+            "name": "ITRN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+          },
+          "ODC": {
+            "status": "closed",
+            "name": "ODC",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+          },
+          "IBEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+          },
+          "RYAM": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+          },
+          "QFIN": {
+            "status": "closed",
+            "name": "QFIN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+          },
+          "NGD": {
+            "status": "active",
+            "name": "NGD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24 (Open)"
+          },
+          "KB": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+          },
+          "HRTG": {
+            "status": "active",
+            "name": "HRTG",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06 (Open)"
+          },
+          "TPC": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+          },
+          "VEON": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+          },
+          "BSVN": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+          },
+          "PARR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+          },
+          "MU": {
+            "status": "active",
+            "name": "MU",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+          }
+        },
+        "excluded_positions": {},
+        "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-picks-2026-06-30",
+        "date": "2026-06-30",
+        "evaluation_date": "2026-06-30",
+        "title": "Datawrapper Pick Tracker Point-in-Time Verification (2026-06-30)",
+        "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+        "checkpoint_type": "TABLE_SNAPSHOT",
+        "active_count": 13,
+        "closed_count": 8,
+        "disappeared_count": 0,
+        "disclosed_positions": {
+          "PYPL": {
+            "status": "closed",
+            "name": "PYPL",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15, Closed 2026-02-03"
+          },
+          "JD": {
+            "status": "closed",
+            "name": "JD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2026-01-06"
+          },
+          "ITRN": {
+            "status": "closed",
+            "name": "ITRN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+          },
+          "ODC": {
+            "status": "closed",
+            "name": "ODC",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+          },
+          "IBEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+          },
+          "RYAM": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+          },
+          "QFIN": {
+            "status": "closed",
+            "name": "QFIN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+          },
+          "NGD": {
+            "status": "closed",
+            "name": "NGD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24, Closed 2026-03-20"
+          },
+          "KB": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+          },
+          "HRTG": {
+            "status": "closed",
+            "name": "HRTG",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06, Closed 2026-06-18"
+          },
+          "TPC": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+          },
+          "VEON": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+          },
+          "BSVN": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+          },
+          "PARR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+          },
+          "MU": {
+            "status": "active",
+            "name": "MU",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+          },
+          "AXIA": {
+            "status": "closed",
+            "name": "AXIA",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-01-08, Closed 2026-06-08"
+          },
+          "DELL": {
+            "status": "active",
+            "name": "DELL",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-02-23 (Open)"
+          },
+          "NESR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-03-16 (Open)"
+          },
+          "ATI": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-04-13 (Open)"
+          },
+          "DAR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-05-18 (Open)"
+          },
+          "SNEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-06-10 (Open)"
+          }
+        },
+        "excluded_positions": {},
+        "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-picks-2026-08-17",
+        "date": "2026-08-17",
+        "evaluation_date": "2026-08-17",
+        "title": "Datawrapper Pick Tracker Point-in-Time Verification (2026-08-17)",
+        "source_file": "2026-06-15__slow-death-brand-investing-nike__Lz6Br.csv",
+        "checkpoint_type": "TABLE_SNAPSHOT",
+        "active_count": 15,
+        "closed_count": 8,
+        "disappeared_count": 0,
+        "disclosed_positions": {
+          "PYPL": {
+            "status": "closed",
+            "name": "PYPL",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-01-15, Closed 2026-02-03"
+          },
+          "JD": {
+            "status": "closed",
+            "name": "JD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2026-01-06"
+          },
+          "ITRN": {
+            "status": "closed",
+            "name": "ITRN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-02-19, Closed 2025-08-06"
+          },
+          "ODC": {
+            "status": "closed",
+            "name": "ODC",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-04-15, Closed 2025-09-17"
+          },
+          "IBEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-07 (Open)"
+          },
+          "RYAM": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-05-27 (Open)"
+          },
+          "QFIN": {
+            "status": "closed",
+            "name": "QFIN",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-10, Closed 2025-12-09"
+          },
+          "NGD": {
+            "status": "closed",
+            "name": "NGD",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-06-24, Closed 2026-03-20"
+          },
+          "KB": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-07-11 (Open)"
+          },
+          "HRTG": {
+            "status": "closed",
+            "name": "HRTG",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-08-06, Closed 2026-06-18"
+          },
+          "TPC": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-09-04 (Open)"
+          },
+          "VEON": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-10-06 (Open)"
+          },
+          "BSVN": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-11-13 (Open)"
+          },
+          "PARR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-16 (Open)"
+          },
+          "MU": {
+            "status": "active",
+            "name": "MU",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2025-12-30 (Open)"
+          },
+          "AXIA": {
+            "status": "closed",
+            "name": "AXIA",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-01-08, Closed 2026-06-08"
+          },
+          "DELL": {
+            "status": "active",
+            "name": "DELL",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-02-23 (Open)"
+          },
+          "NESR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-03-16 (Open)"
+          },
+          "ATI": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-04-13 (Open)"
+          },
+          "DAR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-05-18 (Open)"
+          },
+          "SNEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-06-10 (Open)"
+          },
+          "CSTM": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-07-15 (Open)"
+          },
+          "OSCR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper table 2025-01-12__historical-performance__adNaZ.csv: Picked 2026-08-17 (Open)"
+          }
+        },
+        "excluded_positions": {},
+        "notes": "Independently derived strictly from raw Datawrapper pick/close dates."
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "date": "2026-11-05",
+        "evaluation_date": "2026-11-05",
+        "title": "Portfolio Allocation Snapshot (2025-01-11__svif-usa-portfolio__IOJBk.csv)",
+        "source_file": "2025-01-11__svif-usa-portfolio__IOJBk.csv",
+        "checkpoint_type": "BASKET_SNAPSHOT",
+        "active_count": 27,
+        "closed_count": 0,
+        "disappeared_count": 0,
+        "disclosed_positions": {
+          "CLS": {
+            "status": "active",
+            "name": "CLS",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.84%)"
+          },
+          "ATI": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.33%)"
+          },
+          "BAC": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.62%)"
+          },
+          "BRK.B": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.54%)"
+          },
+          "BSVN": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.85%)"
+          },
+          "CDE": {
+            "status": "active",
+            "name": "CDE",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.41%)"
+          },
+          "CRDO": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=5.44%)"
+          },
+          "CSTM": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.02%)"
+          },
+          "CVSA": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.98%)"
+          },
+          "DAR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.75%)"
+          },
+          "DELL": {
+            "status": "active",
+            "name": "DELL",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.92%)"
+          },
+          "DXPE": {
+            "status": "active",
+            "name": "DXPE",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.79%)"
+          },
+          "EAT": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=4.68%)"
+          },
+          "FTK": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.48%)"
+          },
+          "IBEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.66%)"
+          },
+          "KB": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.75%)"
+          },
+          "MU": {
+            "status": "active",
+            "name": "MU",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.34%)"
+          },
+          "NESR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.20%)"
+          },
+          "OSCR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=4.67%)"
+          },
+          "PARR": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.52%)"
+          },
+          "POWL": {
+            "status": "active",
+            "name": "POWL",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=1.52%)"
+          },
+          "RYAM": {
+            "status": "active",
+            "name": "RYAM",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.81%)"
+          },
+          "SNEX": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.87%)"
+          },
+          "STRL": {
+            "status": "active",
+            "name": "STRL",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.26%)"
+          },
+          "TPC": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=2.87%)"
+          },
+          "TSM": {
+            "status": "active",
+            "name": "TSM",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=6.31%)"
+          },
+          "VEON": {
+            "status": "active",
+            "name": "<a href=\"https://www.beatingthetide.com/subscribe\">Upgrade To Paid</a>",
+            "evidence": "Raw Datawrapper full portfolio snapshot 2025-01-11__svif-usa-portfolio__IOJBk.csv (weight=3.57%)"
+          }
+        },
+        "excluded_positions": {},
+        "notes": "Regional sub-portfolio allocation table (e.g. USA Portfolio) verified against simulated holdings and baseline holdings."
+      }
+    ],
+    "discrepancies": [
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "checkpoint_date": "2026-11-05",
+        "ticker": "BRK.B",
+        "discrepancy_type": "BASELINE_DOCUMENTED",
+        "severity": "INFO",
+        "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+        "evidence_summary": "BRK.B is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger.",
+        "recommended_action": "Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+        "is_resolved": true
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "checkpoint_date": "2026-11-05",
+        "ticker": "CDE",
+        "discrepancy_type": "BASELINE_DOCUMENTED",
+        "severity": "INFO",
+        "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+        "evidence_summary": "CDE is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger.",
+        "recommended_action": "Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+        "is_resolved": true
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "checkpoint_date": "2026-11-05",
+        "ticker": "CLS",
+        "discrepancy_type": "BASELINE_DOCUMENTED",
+        "severity": "INFO",
+        "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+        "evidence_summary": "CLS is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger.",
+        "recommended_action": "Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+        "is_resolved": true
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "checkpoint_date": "2026-11-05",
+        "ticker": "CVSA",
+        "discrepancy_type": "BASELINE_DOCUMENTED",
+        "severity": "INFO",
+        "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+        "evidence_summary": "CVSA is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger.",
+        "recommended_action": "Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+        "is_resolved": true
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "checkpoint_date": "2026-11-05",
+        "ticker": "EAT",
+        "discrepancy_type": "BASELINE_DOCUMENTED",
+        "severity": "INFO",
+        "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+        "evidence_summary": "EAT is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger.",
+        "recommended_action": "Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+        "is_resolved": true
+      },
+      {
+        "checkpoint_id": "beatingthetide-dw-full-2026-11-05",
+        "checkpoint_date": "2026-11-05",
+        "ticker": "POWL",
+        "discrepancy_type": "BASELINE_DOCUMENTED",
+        "severity": "INFO",
+        "root_cause": "BASELINE_HOLDING_DOCUMENTED",
+        "evidence_summary": "POWL is documented in 2025-01-11__svif-usa-portfolio__IOJBk.csv as a legacy baseline position initiated prior to the dated 2025-2026 pick ledger.",
+        "recommended_action": "Documented pre-window baseline holding; not fabricated as a 2025-2026 fresh pick.",
+        "is_resolved": true
+      }
+    ]
+  }
 }
