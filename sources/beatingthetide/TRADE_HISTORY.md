@@ -1,13 +1,13 @@
 # Beating The Tide — Complete Chronological Trade History
 
 - **Publication URL**: https://beatingthetide.substack.com/
-- **Total Trade Signals**: 80
+- **Total Trade Signals**: 79
 - **Date Range**: 2025-01-15 to 2026-11-05
 
 ### Action Breakdown
 
 - **BUY**: 43
-- **ADD**: 10
+- **ADD**: 9
 - **TRIM**: 10
 - **SELL**: 16
 
@@ -71,17 +71,17 @@
 | 2025-10-05 | **TGLS** | :us: | BUY | BUY | — | — | — | party-lessons-for-investing-process | I bought Tecnoglass ( $TGLS ). |
 | 2025-09-17 | **ODC** | :us: | SELL | CLOSED | 68.28 | — | 100% | 2025-01-12__historical-performance__adNaZ.csv | Closed pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-09-04 | **TPC** | :us: | BUY | BUY | 60.12 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
-| 2025-08-27 | **ERO** | :us: | BUY | BUY | — | — | — | mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide | Similarly, they bought Elkhart Products (EPC) , a copper fittings maker, to consolidate more of the copper value chain. |
 | 2025-08-27 | **EPC** | :us: | BUY | BUY | — | — | — | mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide | Similarly, they bought Elkhart Products (EPC) , a copper fittings maker, to consolidate more of the copper value chain. |
-| 2025-08-06 | **ITRN** | :us: | SELL | CLOSED | 40.18 | — | 100% | 2025-01-12__historical-performance__adNaZ.csv | Closed pick from 2025-01-12__historical-performance__adNaZ.csv |
+| 2025-08-27 | **ERO** | :us: | BUY | BUY | — | — | — | mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide | Similarly, they bought Elkhart Products (EPC) , a copper fittings maker, to consolidate more of the copper value chain. |
 | 2025-08-06 | **HRTG** | :us: | BUY | BUY | 19.30 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
+| 2025-08-06 | **ITRN** | :us: | SELL | CLOSED | 40.18 | — | 100% | 2025-01-12__historical-performance__adNaZ.csv | Closed pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-07-20 | **TSM** | :tw: | ADD | BUY | — | 2.0% | — | tsm-q2-2025-earnings-fundamental-analysis | As a result, we increased TSM from around 2% of our portfolio to 5.9%, simultaneously bringing our average cost basis... |
 | 2025-07-11 | **KB** | :kr: | BUY | BUY | 84.42 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-06-24 | **NGD** | :us: | BUY | BUY | 4.89 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-06-10 | **QFIN** | :cn: | BUY | BUY | 42.08 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-05-27 | **RYAM** | :us: | BUY | BUY | 3.96 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-05-12 | **TMUS** | :us: | SELL | CLOSED | — | — | 100% | t-mobile-stock-analysis-why-i-locked-in-47-percent-gain | Close TMUS in Portfolio USA |
-| 2025-05-12 | **TMUS** | :us: | ADD | BUY | 163.00 | — | — | t-mobile-stock-analysis-why-i-locked-in-47-percent-gain | [Accumulation addition] I bought T-Mobile stock at $163 per share, confident its “Un-carrier” strategy and Sprint mer... |
+| 2025-05-12 | **TMUS** | :us: | BUY | BUY | 163.00 | — | — | t-mobile-stock-analysis-why-i-locked-in-47-percent-gain | I bought T-Mobile stock at $163 per share, confident its “Un-carrier” strategy and Sprint merger synergies would driv... |
 | 2025-05-07 | **IBEX** | :us: | BUY | BUY | 24.25 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-04-29 | **KINS** | :us: | BUY | BUY | — | — | — | kingstone-stock-deep-dive-stock-analysis-investing | That’s when I first bought Kingstone Companies ( $KINS ) stock at ~$10—a contrarian deep-dive pick premised on a New ... |
 | 2025-04-18 | **BSVN** | :us: | ADD | BUY | — | — | — | weekly-stock-performance-tracker | I added BSVN to the portfolio on Nov 13, 2025… |
@@ -90,10 +90,9 @@
 | 2025-03-21 | **NWG** | :us: | BUY | BUY | — | — | — | you-cannot-win-them-all-why-i-cut | Buy NWG in Portfolio USA |
 | 2025-03-20 | **FINV** | :cn: | BUY | BUY | — | — | — | closing-rere-with-a-23-gain-and-redeploy | Buy FINV in Portfolio USA |
 | 2025-03-09 | **CLS** | :ca: | SELL | CLOSED | 28.00 | 1.2% | 100% | dxpes-earnings-shine-but | I closed my position at $28—a painful 50% loss (keep in mind that it was just ~1.2% of the portfolio, so portfolio-wi... |
+| 2025-02-19 | **ITRN** | :us: | BUY | BUY | 40.46 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-02-19 | **GPN** | :us: | BUY | BUY | — | — | — | trade-alert-two-hidden-gems-poised | Additionally, JD has initiated dividend payments, aligning itself with global tech giants that emphasize shareholder ... |
 | 2025-02-19 | **JD** | :cn: | BUY | BUY | 39.20 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
-| 2025-02-19 | **ITRN** | :us: | BUY | BUY | 40.46 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |
 | 2025-02-18 | **WGS** | :us: | BUY | BUY | — | — | — | closing-wgs-and-clov | On December 9, 2024, I recommended buying GenDx ( $WGS ) . |
 | 2025-02-07 | **DXPE** | :us: | BUY | BUY | — | — | — | dxp-enterprises-dxpe-a-hidden-mro | redeploying most of that capital to $DXPE . |
-| 2025-01-21 | **TMUS** | :us: | BUY | BUY | — | — | — | argentina-investment-alert-supv-ypf | initiated in June 2020 , involved migrating its technological infrastructure to the cloud and improving its digital c... |
 | 2025-01-15 | **PYPL** | :us: | BUY | BUY | 89.76 | — | — | 2025-01-12__historical-performance__adNaZ.csv | Dated pick from 2025-01-12__historical-performance__adNaZ.csv |

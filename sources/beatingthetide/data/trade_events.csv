@@ -1,6 +1,5 @@
 date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,source_slug,source_type,confidence,notes,discovery_layer,date_uncertainty
 2025-01-15,PYPL,:us:,BUY,BUY,89.76,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Dated pick from 2025-01-12__historical-performance__adNaZ.csv,primary_table,
-2025-01-21,TMUS,:us:,BUY,BUY,,,,argentina-investment-alert-supv-ypf,article,high,"initiated in June 2020 , involved migrating its technological infrastructure to the cloud and improving its digital channels, such as its mobile banking application.",primary_article,
 2025-02-07,DXPE,:us:,BUY,BUY,,,,dxp-enterprises-dxpe-a-hidden-mro,article,high,redeploying most of that capital to $DXPE .,primary_article,
 2025-02-18,WGS,:us:,BUY,BUY,,,,closing-wgs-and-clov,article,high,"On December 9, 2024, I recommended buying GenDx ( $WGS ) .",primary_article,
 2025-02-19,GPN,:us:,BUY,BUY,,,,trade-alert-two-hidden-gems-poised,article,high,"Additionally, JD has initiated dividend payments, aligning itself with global tech giants that emphasize shareholder returns.",primary_article,
@@ -14,7 +13,7 @@ date,ticker,market,action,rating_after,ref_price,target_weight,trim_fraction,sou
 2025-04-18,BSVN,:us:,ADD,BUY,,,,weekly-stock-performance-tracker,article,high,"I added BSVN to the portfolio on Nov 13, 2025…",primary_article,
 2025-04-29,KINS,:us:,BUY,BUY,,,,kingstone-stock-deep-dive-stock-analysis-investing,article,high,That’s when I first bought Kingstone Companies ( $KINS ) stock at ~$10—a contrarian deep-dive pick premised on a New York insurer’s turnaround.,primary_article,
 2025-05-07,IBEX,:us:,BUY,BUY,24.25,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Dated pick from 2025-01-12__historical-performance__adNaZ.csv,primary_table,
-2025-05-12,TMUS,:us:,ADD,BUY,163.0,,,t-mobile-stock-analysis-why-i-locked-in-47-percent-gain,article,high,"[Accumulation addition] I bought T-Mobile stock at $163 per share, confident its “Un-carrier” strategy and Sprint merger synergies would drive outsized growth.",primary_article,
+2025-05-12,TMUS,:us:,BUY,BUY,163.0,,,t-mobile-stock-analysis-why-i-locked-in-47-percent-gain,article,high,"I bought T-Mobile stock at $163 per share, confident its “Un-carrier” strategy and Sprint merger synergies would drive outsized growth.",primary_article,
 2025-05-12,TMUS,:us:,SELL,CLOSED,,,1.0,t-mobile-stock-analysis-why-i-locked-in-47-percent-gain,article,high,Close TMUS in Portfolio USA,primary_article,
 2025-05-27,RYAM,:us:,BUY,BUY,3.96,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Dated pick from 2025-01-12__historical-performance__adNaZ.csv,primary_table,
 2025-06-10,QFIN,:cn:,BUY,BUY,42.08,,,2025-01-12__historical-performance__adNaZ.csv,performance_table,high,Dated pick from 2025-01-12__historical-performance__adNaZ.csv,primary_table,

@@ -29,7 +29,6 @@ VEON,VEON,:nl:,0.035699999999999996,51.32884553,79.01,BUY,,2025-01-11__svif-usa-
 CCL,CCL,:us:,0.0147,22.02607952,26.69,HOLD,,2025-11-29__global-portfolio-free__8zf5q.csv
 SYF,SYF,:us:,0.0191,49.7490621,79.62,HOLD,,2025-11-29__global-portfolio-free__8zf5q.csv
 PYPL,PYPL,:us:,,89.76,,BUY,2025-01-15,2025-01-12__historical-performance__adNaZ.csv
-TMUS,T-Mobile,:us:,,,,BUY,2025-01-21,argentina-investment-alert-supv-ypf
 WGS,GenDx,:us:,,,,BUY,2025-02-18,closing-wgs-and-clov
 ITRN,ITRN,:us:,,40.46,,BUY,2025-02-19,2025-01-12__historical-performance__adNaZ.csv
 JD,JD,:cn:,,39.2,,BUY,2025-02-19,2025-01-12__historical-performance__adNaZ.csv
@@ -38,6 +37,7 @@ FINV,FINV,:cn:,,,,BUY,2025-03-20,closing-rere-with-a-23-gain-and-redeploy
 NWG,NWG,:us:,,,,BUY,2025-03-21,you-cannot-win-them-all-why-i-cut
 ODC,ODC,:us:,,43.48,,BUY,2025-04-15,2025-01-12__historical-performance__adNaZ.csv
 KINS,Kingstone Companies,:us:,,,,BUY,2025-04-29,kingstone-stock-deep-dive-stock-analysis-investing
+TMUS,T-Mobile,:us:,,163.0,,BUY,2025-05-12,t-mobile-stock-analysis-why-i-locked-in-47-percent-gain
 QFIN,QFIN,:cn:,,42.08,,BUY,2025-06-10,2025-01-12__historical-performance__adNaZ.csv
 NGD,NGD,:us:,,4.89,,BUY,2025-06-24,2025-01-12__historical-performance__adNaZ.csv
 HRTG,HRTG,:us:,,19.3,,BUY,2025-08-06,2025-01-12__historical-performance__adNaZ.csv

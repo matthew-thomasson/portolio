@@ -17,7 +17,7 @@ from .config import Settings, SourceConfig
 from .ingestion import discover_publication_authors
 from .prices import PriceProvider
 
-EXTRACTOR_VERSION = "3.6.0"
+EXTRACTOR_VERSION = "3.7.0"
 
 # Financial / accounting / macro / English tokens that must NEVER be mistaken for bare stock tickers
 STOPWORD_ACRONYMS: set[str] = {
@@ -282,7 +282,8 @@ GENERIC_ALIAS_WORDS: set[str] = {
     "argentina", "argentine", "chile", "chilean", "brazil", "brazilian", "taiwan", "taiwanese",
     "energy", "power", "electric", "electrical", "solar", "oil", "gas", "gold", "silver", "lithium", "mining",
     "metals", "steel", "tech", "technology", "technologies", "software", "cloud", "data", "digital", "cyber",
-    "systems", "solutions", "services", "network", "networks", "media", "communications", "telecom", "health",
+    "systems", "solutions", "services", "network", "networks", "media", "communications", "telecom", "mobile",
+    "cellular", "wireless", "device", "devices", "application", "applications", "platform", "platforms", "health",
     "healthcare", "medical", "pharma", "pharmaceuticals", "biotech", "biosciences", "therapeutics", "semiconductor",
     "semiconductors", "infrastructure", "facilities", "equipment", "rentals", "food", "foods", "retail", "consumer",
     "brands", "properties", "property", "realty", "reit", "industrial", "industrials", "aerospace", "defense",

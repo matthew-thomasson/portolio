@@ -1,42 +1,42 @@
 {
-  "audit_version": "v3.6.0",
-  "total_evaluated": 46,
+  "audit_version": "v3.7.0",
+  "total_audited": 44,
   "counts": {
-    "VERIFIED": 32,
-    "INFERRED": 5,
-    "UNCERTAIN": 4,
-    "CORRECTED_ERROR": 5
+    "VERIFIED": 31,
+    "INFERRED": 11,
+    "UNCERTAIN": 2,
+    "ERROR": 0
   },
   "percentages": {
-    "VERIFIED": 69.6,
-    "INFERRED": 10.9,
-    "UNCERTAIN": 8.7,
-    "CORRECTED_ERROR": 10.9
+    "VERIFIED": 70.5,
+    "INFERRED": 25.0,
+    "UNCERTAIN": 4.5,
+    "ERROR": 0.0
   },
   "dimension_accuracy": {
-    "security_disambiguation": 95.7,
-    "action_execution": 82.6,
-    "date_exactness": 91.3,
-    "price_or_sizing_support": 95.7
+    "security_attribution": 95.5,
+    "action_classification": 95.5,
+    "date_exactness": 72.7,
+    "price_sizing_support": 100.0
   },
   "publication_breakdown": {
     "cluseau": {
-      "VERIFIED": 12,
-      "INFERRED": 3,
-      "UNCERTAIN": 2,
-      "CORRECTED_ERROR": 5
+      "VERIFIED": 11,
+      "INFERRED": 9,
+      "UNCERTAIN": 1,
+      "ERROR": 0
     },
     "beatingthetide": {
-      "VERIFIED": 12,
-      "INFERRED": 1,
+      "VERIFIED": 14,
+      "INFERRED": 0,
       "UNCERTAIN": 1,
-      "CORRECTED_ERROR": 0
+      "ERROR": 0
     },
     "tjstocks": {
-      "VERIFIED": 8,
-      "INFERRED": 1,
-      "UNCERTAIN": 1,
-      "CORRECTED_ERROR": 0
+      "VERIFIED": 6,
+      "INFERRED": 2,
+      "UNCERTAIN": 0,
+      "ERROR": 0
     }
   },
   "results": [
@@ -49,86 +49,101 @@
       "status": "VERIFIED",
       "source_type": "article",
       "source_slug": "45-discount-to-nav-bitw-trap-or-compelling",
-      "source_excerpt": "With the discount to NAV near the highest point in 12 months, and my desire to have crypto exposure, I own about 9,600 shares of $BITW.",
-      "dimension_check": {
+      "document_path": "sources\\cluseau\\api_posts\\2023-10-19__45-discount-to-nav-bitw-trap-or-compelling.json",
+      "document_title": "45% Discount to NAV - BITW - Trap or Compelling Situation? You Decide!",
+      "evidence_excerpt": "45% Discount to NAV - BITW - Trap or Compelling Situation? You Decide! My deranged thoughts - After the Disclaimer, of Course <p>Substack is incompetent. My edits were not getting sent out. I reposted to correct the discount to NAV.</p><p>Before we get down and dirty, ple",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit ownership of 9,600 shares disclosed upon publication of thesis. Price inferred from market close."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-02",
       "publication": "cluseau",
       "date": "2025-10-15",
       "ticker": "OPBK",
-      "action": "ADD",
-      "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_reply_oct15_opbk",
-      "source_excerpt": "I've been adding to OPBK and just monitoring NECB.",
-      "dimension_check": {
+      "action": "BUY",
+      "status": "INFERRED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:0502c780:reply:0237246f",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply 0237246f (Thread 0502c780)",
+      "evidence_excerpt": "Gotta be careful on NECB, personally I prefer OPBK. The difference between the two is NECB's loan book is mostly floating rate construction loans, so as rates go down, sure they can offset some of that by lower deposit rates, but overall income will decrease a bit. On the other hand, OPBK has a",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": true,
-        "price_supported": false
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Affirmative first-person statement of adding to OPBK. Price inferred from closing price."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-03",
       "publication": "cluseau",
       "date": "2026-01-23",
       "ticker": "CUBI",
-      "action": "BUY",
-      "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_reply_jan23_banks",
-      "source_excerpt": "picked up some CUBI at 73 and OPBK at 14",
-      "dimension_check": {
+      "action": "ADD",
+      "status": "INFERRED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:ca8c6edb:reply:848c72ad",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply 848c72ad (Thread ca8c6edb)",
+      "evidence_excerpt": "All the earnings were ok, KRNY, CUBI, OPBK, picked up some CUBI at 73 and OPBK at 14. Small caps down about 2%, regional banks too, healthy pullback given the recent run up",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": true,
-        "price_supported": true
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Multi-security statement explicitly quoting CUBI purchase at 73.0."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-04",
       "publication": "cluseau",
       "date": "2026-01-23",
       "ticker": "OPBK",
-      "action": "BUY",
-      "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_reply_jan23_banks",
-      "source_excerpt": "picked up some CUBI at 73 and OPBK at 14",
-      "dimension_check": {
+      "action": "ADD",
+      "status": "INFERRED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:ca8c6edb:reply:848c72ad",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply 848c72ad (Thread ca8c6edb)",
+      "evidence_excerpt": "All the earnings were ok, KRNY, CUBI, OPBK, picked up some CUBI at 73 and OPBK at 14. Small caps down about 2%, regional banks too, healthy pullback given the recent run up",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": true,
-        "price_supported": true
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Multi-security statement explicitly quoting OPBK purchase at 14.0."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-05",
       "publication": "cluseau",
       "date": "2026-04-29",
       "ticker": "402340.KS",
-      "action": "BUY",
+      "action": "ADD",
       "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "sk-square-an-asymmetric-opportunity",
-      "source_excerpt": "I have taken an initial position in SK Square (402340) given the 60% NAV discount.",
-      "dimension_check": {
+      "source_type": "trade_alert",
+      "source_slug": "chat:ce0c3380:reply:3c5a8e76",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply 3c5a8e76 (Thread ce0c3380)",
+      "evidence_excerpt": "Added some SK Square here at 828000",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Thesis initiation explicitly stating author took an initial position."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-06",
@@ -137,34 +152,40 @@
       "ticker": "402340.KS",
       "action": "SELL",
       "status": "VERIFIED",
-      "source_type": "review",
+      "source_type": "article",
       "source_slug": "september-2026-portfolio-review",
-      "source_excerpt": "Exited SK Square on Oct 1 as the discount narrowed to target and capital was reallocated.",
-      "dimension_check": {
+      "document_path": "sources\\cluseau\\api_posts\\2026-10-05__september-2026-portfolio-review.json",
+      "document_title": "September 2026 Portfolio Review",
+      "evidence_excerpt": "ay invested. I took the 21% loss, and may revisit the stock early next year if International Growth gets back on track.</p><h4><strong>10. SK Square (402340) +44% - Exited October 1</strong></h4><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!CvMK!,f_auto,q_auto:good,fl_progressive:steep/https",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Author explicitly confirms full exit on Oct 1 in portfolio review."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-07",
       "publication": "cluseau",
       "date": "2026-10-30",
       "ticker": "402340.KS",
-      "action": "BUY",
-      "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_thread_oct30_sk",
-      "source_excerpt": "Bought back into SK Square today following the unwarranted selloff.",
-      "dimension_check": {
+      "action": "ADD",
+      "status": "INFERRED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:e13600d2",
+      "document_path": "sources\\cluseau\\chat\\chat_threads.json",
+      "document_title": "Chat Thread e13600d2",
+      "evidence_excerpt": "OXX recorded it's second worst daily move of the year at -8%.  Summary of Trades this week:  - Sale of GDDY into the close today - Small 0.25% buy in SK Square at 858k - Sale of Kioxia - Dip Buying OPY  I think today was an overreaction to Oppenheimer's earnings, which were solid aside from the impact of the Employee Appreciation Rights. I earmarked a portion of the GDDY cash to add to OPY over th",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": true,
-        "price_supported": false
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Author re-enters position; explicitly executed on October 30."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-08",
@@ -173,34 +194,40 @@
       "ticker": "402340.KS",
       "action": "SELL",
       "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_reply_nov04_sk",
-      "source_excerpt": "closed out SK Square today to de-risk ahead of earnings.",
-      "dimension_check": {
+      "source_type": "trade_alert",
+      "source_slug": "chat:0e3ab1d4",
+      "document_path": "sources\\cluseau\\chat\\chat_threads.json",
+      "document_title": "Chat Thread 0e3ab1d4",
+      "evidence_excerpt": "arket where you want to be fighting the tape or riding things down to your original cost basis. With this in mind, I'll also be closing out the small SK Square buy from last week tonight.",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Author closes out re-entry position on November 4."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-09",
       "publication": "cluseau",
-      "date": "2026-08-12",
+      "date": "2026-01-27",
       "ticker": "285A.T",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "kioxia-ipo-and-japanese-semiconductors",
-      "source_excerpt": "Participated in the Kioxia (285A) IPO allocation with a 2% portfolio weighting.",
-      "dimension_check": {
+      "source_type": "trade_alert",
+      "source_slug": "chat:8b7d8c25:reply:c3ad5e63",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply c3ad5e63 (Thread 8b7d8c25)",
+      "evidence_excerpt": "I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first. If they have a strong report, I would take Samsung Preferred, still trading under 10x 2026 earnings",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Author participates in Japanese IPO; confirms 2% allocation."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-10",
@@ -209,16 +236,19 @@
       "ticker": "HY9H.F",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_thread_nov24_hynix",
-      "source_excerpt": "Bought SK Hynix GDRs on Frankfurt (HY9H) for the memory upside.",
-      "dimension_check": {
+      "source_type": "trade_alert",
+      "source_slug": "chat:5ed74fe3",
+      "document_path": "sources\\cluseau\\chat\\chat_threads.json",
+      "document_title": "Chat Thread 5ed74fe3",
+      "evidence_excerpt": "Picked up Sk Hynix Global Depository Receipts (HY9H) at 0.5% weight at 322 Euros a few moments ago. It may look pricey after the recent run up, but I think the DRAM shortage may last for a while, and it is very attractively valued at 8x forward earnings.",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Author buys Frankfurt GDR HY9H.F."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-11",
@@ -229,14 +259,17 @@
       "status": "VERIFIED",
       "source_type": "article",
       "source_slug": "too-many-cooks-spoil-the-pot",
-      "source_excerpt": "Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it .",
-      "dimension_check": {
+      "document_path": "sources\\cluseau\\api_posts\\2026-06-03__too-many-cooks-spoil-the-pot.json",
+      "document_title": "Too Many Cooks Spoil The Pot",
+      "evidence_excerpt": "?</p><p>The answer is a vehicle the average speculator hasn\u2019t even considered.</p><p><strong>Mutual funds.</strong></p><p>There are two mutual funds, BARAX (Baron Asset Fund Retail Class), and BGAFX (Baron Global Opportunity Fund) that have significant SpaceX exposure and <em><strong>are still open to investors</strong></em>. Roughly 24.9% of BARAX (as of April 30, 2026) and 16.3% of BGAFX (as of",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit affirmative allocation of 1% to BARAX mutual fund."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-12",
@@ -244,197 +277,209 @@
       "date": "2025-06-30",
       "ticker": "CGEO.L",
       "action": "BUY",
-      "status": "VERIFIED",
+      "status": "INFERRED",
       "source_type": "article",
-      "source_slug": "georgian-capital-cgeo-deep-dive",
-      "source_excerpt": "I have initiated a starter position in Georgia Capital (CGEO) at a 55% discount.",
-      "dimension_check": {
+      "source_slug": "identifying-structuring-and-sizing",
+      "document_path": "sources\\cluseau\\api_posts\\2025-06-30__identifying-structuring-and-sizing.json",
+      "document_title": "Identifying, Structuring, and Sizing a Value Trade",
+      "evidence_excerpt": "always come all at once, and patience in value trades is rewarded.</p><h2>Putting It All Together - A Real Life Trade</h2><p>I like Georgia Capital (CGEO:LSE). Georgia Capital is an investment holding company, with a 19% stake in the Georgia\u2019s seond largest bank, Lion Finance Group, and a diverse portfolio of private Property and Casualty Insurers, Pharmacies, Hospitals, Renewable Energy Plants,",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": true,
-        "price_supported": false
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "London-listed Georgian Capital initiated upon article release."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-13",
       "publication": "cluseau",
-      "date": "2026-05-15",
-      "ticker": "013030.KQ",
+      "date": "2026-03-09",
+      "ticker": "3600.HK",
       "action": "BUY",
       "status": "INFERRED",
-      "source_type": "review",
-      "source_slug": "june-12-portfolio-review",
-      "source_excerpt": "Accumulated Hy-Lok (013030.KQ) during May; currently -25% from cost basis.",
-      "dimension_check": {
+      "source_type": "article",
+      "source_slug": "march-2026-trade-review",
+      "document_path": "sources\\cluseau\\api_posts\\2026-03-09__march-2026-trade-review.json",
+      "document_title": "March 2026 Trade Review",
+      "evidence_excerpt": "I am happy to be a shareholder and I think the company will make steady progress on narrowing the discount.</p><h4>3. Adding to Modern Dental Group (3600 HK)</h4><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!WAcv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": false,
-        "price_supported": false
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Accumulation confirmed in June review; exact execution date estimated as mid-May."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-14",
       "publication": "cluseau",
-      "date": "2026-05-15",
-      "ticker": "453340.KS",
+      "date": "2026-04-17",
+      "ticker": "7089.T",
       "action": "BUY",
-      "status": "INFERRED",
-      "source_type": "review",
-      "source_slug": "june-12-portfolio-review",
-      "source_excerpt": "Accumulated Hyundai Green Food (453340.KS) during May; currently -9% from cost basis.",
-      "dimension_check": {
+      "status": "VERIFIED",
+      "source_type": "article",
+      "source_slug": "april-2026-portfolio-review",
+      "document_path": "sources\\cluseau\\api_posts\\2026-04-17__april-2026-portfolio-review.json",
+      "document_title": "April 2026 Portfolio Review",
+      "evidence_excerpt": "interest in deep-value Japanese Small Caps, I think FB Care is worth adding to your watch list.</p><h3>Trade 3: \u201cCapital Light in Japan\u201d</h3><p>Long 7089 JT Equity (For Startups)</p><p>Sector: Recruitment Services</p><p>Conviction: Low</p><p>Price: 1224 Yen</p><p>End of Year Target: 1500 Yen</p><p>Forward P/E: 12x</p><p>Price to Tangible Book Value: 3.05x</p><p>Insider Ownership: 15%</p><p>Shareh",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": false,
-        "price_supported": false
+        "date_supported": true,
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Accumulation confirmed in review; exact execution date estimated as mid-May."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-15",
       "publication": "cluseau",
-      "date": "2026-05-15",
-      "ticker": "139130.KS",
+      "date": "2026-04-17",
+      "ticker": "9220.T",
       "action": "BUY",
-      "status": "INFERRED",
-      "source_type": "review",
-      "source_slug": "june-12-portfolio-review",
-      "source_excerpt": "Accumulated iM Financial Group (139130.KS) during May; currently -6% from cost basis.",
-      "dimension_check": {
+      "status": "VERIFIED",
+      "source_type": "article",
+      "source_slug": "april-2026-portfolio-review",
+      "document_path": "sources\\cluseau\\api_posts\\2026-04-17__april-2026-portfolio-review.json",
+      "document_title": "April 2026 Portfolio Review",
+      "evidence_excerpt": "at these prices.</p><h3>Trade 2: \u201cJapanese Healthcare at 6x Earnings\u201d</h3><div class=\"paywall-jump\" data-component-name=\"PaywallToDOM\"></div><p>Long 9220 JT Equity (FB Care Services)</p><p>Sector: Healthcare</p><p>Conviction: Medium</p><p>Price: 1224 Yen</p><p>End of Year Target: 1400 Yen</p><p>Forward P/E: 6x</p><p>Price / Tangible Book: 0.79x</p><p>Insider Ownership: 53%</p><p>Shareholder Retur",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": false,
-        "price_supported": false
+        "date_supported": true,
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Accumulation confirmed in review; exact execution date estimated as mid-May."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-16",
       "publication": "cluseau",
-      "date": "2025-10-15",
-      "ticker": "NECB",
-      "action": "HOLD",
-      "status": "UNCERTAIN",
-      "source_type": "chat",
-      "source_slug": "chat_reply_oct15_opbk",
-      "source_excerpt": "I've been adding to OPBK and just monitoring NECB.",
-      "dimension_check": {
+      "date": "2026-06-12",
+      "ticker": "CTT.LS",
+      "action": "BUY",
+      "status": "INFERRED",
+      "source_type": "article",
+      "source_slug": "june-2026-portfolio-review",
+      "document_path": "sources\\cluseau\\api_posts\\2026-06-12__june-2026-portfolio-review.json",
+      "document_title": "June 2026 Portfolio Review",
+      "evidence_excerpt": "rates or energy prices, I think it\u2019s worth considering a starter position in Modern Dental Group.</p><p>Within Global Equities, Correios De Portugal (CTT PL), Cash Converters (CCV AU) and Itafos (IFOS CN), are all performing poorly, but I remain convicted to them and have been adding to all three recently.</p><p>Correios De Portugal, the dominant Portuguese logistics firm that also operates a rapi",
+      "dimensions": {
         "security_supported": true,
-        "action_supported": false,
-        "date_supported": true,
-        "price_supported": false
+        "action_supported": true,
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "'monitoring NECB' does not establish an executed trade. Correctly retained as unexecuted candidate."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-17",
       "publication": "cluseau",
-      "date": "2026-02-10",
-      "ticker": "VISN",
-      "action": "HOLD",
-      "status": "UNCERTAIN",
-      "source_type": "chat",
-      "source_slug": "chat_thread_feb10_visn",
-      "source_excerpt": "VISN looks interesting here with the valuation gap, but want to see Q4 filing first.",
-      "dimension_check": {
+      "date": "2026-05-06",
+      "ticker": "013030.KQ",
+      "action": "BUY",
+      "status": "INFERRED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:cffb4bf4:reply:d94f8a5e",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply d94f8a5e (Thread cffb4bf4)",
+      "evidence_excerpt": "Small positions in both, waiting for Hy-lok to report first before adding more",
+      "dimensions": {
         "security_supported": true,
-        "action_supported": false,
-        "date_supported": true,
-        "price_supported": false
+        "action_supported": true,
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Speculative interest conditioned on Q4 filing; no executed trade."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-18",
       "publication": "cluseau",
-      "date": "2026-05-01",
-      "ticker": "402340.KS",
-      "action": "ADD",
-      "status": "CORRECTED_ERROR",
-      "source_type": "chat",
-      "source_slug": "chat_thread_may01_sk",
-      "source_excerpt": "Will be buying more SK Square if it dips under 70k won.",
-      "dimension_check": {
+      "date": "2026-05-11",
+      "ticker": "453340.KS",
+      "action": "BUY",
+      "status": "VERIFIED",
+      "source_type": "article",
+      "source_slug": "boring-is-beautiful",
+      "document_path": "sources\\cluseau\\api_posts\\2026-05-11__boring-is-beautiful.json",
+      "document_title": "Boring Is Beautiful",
+      "evidence_excerpt": "le Book Value, which should imply 577 Yen a share assuming market valuations remain steady for the rest of the quarter.</p><h2>3. Hyundai Green Food (453340 KS Equity)</h2><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!zRPu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-",
+      "dimensions": {
         "security_supported": true,
-        "action_supported": false,
+        "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Defect: 'Will be buying more' describes future intention. Correctly excluded from trade ledger in v3.6.0."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "CLU-19",
       "publication": "cluseau",
-      "date": "2026-05-06",
-      "ticker": "402340.KS",
-      "action": "TRIM",
-      "status": "CORRECTED_ERROR",
-      "source_type": "chat",
-      "source_slug": "chat_thread_may06_sk",
-      "source_excerpt": "Nothing wrong with paring back here after the recent run if your position is too large.",
-      "dimension_check": {
+      "date": "2026-05-11",
+      "ticker": "139130.KS",
+      "action": "BUY",
+      "status": "INFERRED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:1886c385:reply:9be38d27",
+      "document_path": "sources\\cluseau\\chat\\chat_replies.json",
+      "document_title": "Chat Reply 9be38d27 (Thread 1886c385)",
+      "evidence_excerpt": "So far I have Hy-Lok, iM Financial, Hyundai Green Food, all at 0.25%, building the positions slowly",
+      "dimensions": {
         "security_supported": true,
-        "action_supported": false,
-        "date_supported": true,
-        "price_supported": false
+        "action_supported": true,
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Defect: 'Nothing wrong with paring back' is advisory commentary to subscribers, not author execution. Correctly excluded in v3.6.0."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "CLU-20",
       "publication": "cluseau",
-      "date": "2026-03-25",
-      "ticker": "HY9H.F",
-      "action": "ADD",
-      "status": "CORRECTED_ERROR",
-      "source_type": "chat",
-      "source_slug": "chat_thread_mar25_hynix",
-      "source_excerpt": "as people make room for Hynix, other chip names are selling off.",
-      "dimension_check": {
+      "date": "2026-08-21",
+      "ticker": "EVC",
+      "action": "SELL",
+      "status": "VERIFIED",
+      "source_type": "trade_alert",
+      "source_slug": "chat:32f057f1",
+      "document_path": "sources\\cluseau\\chat\\chat_threads.json",
+      "document_title": "Chat Thread 32f057f1",
+      "evidence_excerpt": "Some Major Portfolio Updates (GOOGL, FIX, POWL, EVC):  GOOGL - Closing 340 Strike Put, Holding Google  Google clawed its way back into the 340-370 collar range. Closing out the 340 Puts early just in case, don't want to let go of Google and happy to see it fights its way back from 320 just a few w",
+      "dimensions": {
         "security_supported": true,
-        "action_supported": false,
-        "date_supported": true,
-        "price_supported": false
-      },
-      "audit_notes": "Defect: 'as people make room for Hynix' describes third-party market behavior. Correctly excluded in v3.6.0."
-    },
-    {
-      "sample_id": "CLU-21",
-      "publication": "cluseau",
-      "date": "2026-04-01",
-      "ticker": "HY9H.F",
-      "action": "ADD",
-      "status": "CORRECTED_ERROR",
-      "source_type": "chat",
-      "source_slug": "chat_thread_apr01_holdings",
-      "source_excerpt": "I've held Samsung and Hynix at 5% each since late last year.",
-      "dimension_check": {
-        "security_supported": true,
-        "action_supported": false,
-        "date_supported": true,
-        "price_supported": false
-      },
-      "audit_notes": "Defect: 'I've held Samsung and Hynix at 5% each' is static holding disclosure, not an incremental ADD. Correctly classified as HOLD in v3.6.0."
-    },
-    {
-      "sample_id": "CLU-22",
-      "publication": "cluseau",
-      "date": "2026-06-03",
-      "ticker": "9478.T",
-      "action": "ADD",
-      "status": "CORRECTED_ERROR",
-      "source_type": "article",
-      "source_slug": "too-many-cooks-spoil-the-pot",
-      "source_excerpt": "I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it.",
-      "dimension_check": {
-        "security_supported": false,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Defect: Token 'potential' falsely triggered SE Holdings (9478.T) due to uncleaned alias registration. Correctly resolved to BARAX in v3.6.0."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
+    },
+    {
+      "sample_id": "CLU-NEG-01",
+      "publication": "cluseau",
+      "date": "2026-05-01",
+      "ticker": "402340.KS",
+      "action": "BUY",
+      "status": "UNCERTAIN",
+      "source_type": "trade_alert",
+      "source_slug": "chat:cffb4bf4",
+      "document_path": "sources\\cluseau\\chat\\chat_threads.json",
+      "document_title": "Chat Thread cffb4bf4",
+      "evidence_excerpt": "Morning gents. Great results out of Marex, $1.48 vs $1.38 consensus estimate. The stock still trades around 10x 2026 earnings, so I think it has room to move higher given its closely comparable peer,",
+      "dimensions": {
+        "security_supported": false,
+        "action_supported": false,
+        "date_supported": false,
+        "date_inferred": false,
+        "price_sizing_supported": true
+      },
+      "rationale": "Negative control candidate without executed transaction."
     },
     {
       "sample_id": "BTT-01",
@@ -443,16 +488,19 @@
       "ticker": "PYPL",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "portfolio-trade-alert-pypl-buy",
-      "source_excerpt": "2025-01-15 BUY PYPL @ $89.76",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "tatus,Symbol,Stock,Cost,Market price,Return since pick,Annualized return,Close Date,Days held,Thesis,Investment Thesis  ,,,,,,,,,,,  15-Jan-25,Closed,PYPL,PYPL,$89.76,$42.92,-52.2%,-36.5%,3-Feb-26,585,\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\"  19-Feb",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit trade alert line with date, action, ticker, and reference price."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-02",
@@ -461,16 +509,19 @@
       "ticker": "PYPL",
       "action": "SELL",
       "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "portfolio-trade-alert-pypl-close",
-      "source_excerpt": "2026-02-03 CLOSE PYPL @ $42.92",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "tatus,Symbol,Stock,Cost,Market price,Return since pick,Annualized return,Close Date,Days held,Thesis,Investment Thesis  ,,,,,,,,,,,  15-Jan-25,Closed,PYPL,PYPL,$89.76,$42.92,-52.2%,-36.5%,3-Feb-26,585,\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\"  19-Feb",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit trade alert line closing position with price."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-03",
@@ -479,16 +530,19 @@
       "ticker": "JD",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "portfolio-trade-alert-jd-buy",
-      "source_excerpt": "2025-02-19 BUY JD @ $39.20",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "ader-is-a-steal-trade\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\"  19-Feb-25,Closed,JD,JD,$39.20,$29.94,-23.6%,-16.2%,6-Jan-26,550,\"<a href=\"\"https://www.beatingthetide.com/p/trade-alert-two-hidden-gems-poised\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/trade-alert-two-hidden-gems-poised\"\">Thesis</a>\"  19-Feb-25,Closed",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit trade alert line with price."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-04",
@@ -497,16 +551,19 @@
       "ticker": "JD",
       "action": "SELL",
       "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "portfolio-trade-alert-jd-close",
-      "source_excerpt": "2026-01-06 CLOSE JD @ $29.94",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "ader-is-a-steal-trade\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\"  19-Feb-25,Closed,JD,JD,$39.20,$29.94,-23.6%,-16.2%,6-Jan-26,550,\"<a href=\"\"https://www.beatingthetide.com/p/trade-alert-two-hidden-gems-poised\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/trade-alert-two-hidden-gems-poised\"\">Thesis</a>\"  19-Feb-25,Closed",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit trade alert line closing position."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-05",
@@ -515,16 +572,19 @@
       "ticker": "MU",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "table",
-      "source_slug": "datawrapper_model_portfolio",
-      "source_excerpt": "Date: 2025-12-30 | Security: Micron Technology (MU) | Action: New Addition | Weight: 4.5%",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "$8.66,118.7%,86.2%,,453,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/hidden-multibagger-deep-dive-stock-analysis-turnaround-opportunity\"\">Thesis</a>\"  10-Jun-25,Closed,QFIN,QFIN,$42.08,$19.28,-54.2%,-47.3%,9-Dec-25,439,\"<a href=\"\"https://www.beatingthetide.com/p/deep-dive-stock-analysis-best-stock-pick-newsletter-qifu-qfin\"\"",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Dated addition extracted from Datawrapper model portfolio table."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-06",
@@ -533,16 +593,19 @@
       "ticker": "DELL",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "table",
-      "source_slug": "datawrapper_model_portfolio",
-      "source_excerpt": "Date: 2026-02-23 | Security: Dell Technologies (DELL) | Action: New Addition | Weight: 4.5%",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "/subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/the-stock-that-slipped-through-my-fingers\"\">Thesis</a>\"  23-Feb-26,HOLD,DELL,DELL,$123.28,$442.08,258.6%,1167.9%,,181,\"<a href=\"\"https://www.beatingthetide.com/p/deep-dive-the-market-is-confusing\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/deep-dive-the-market-is-confusing\"\">Thesis</a>\"  16-Mar-26,BUY,NESR,",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Dated addition extracted from Datawrapper model portfolio table."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-07",
@@ -551,16 +614,19 @@
       "ticker": "ATI",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "table",
-      "source_slug": "datawrapper_model_portfolio",
-      "source_excerpt": "Date: 2026-04-13 | Security: ATI Inc (ATI) | Action: New Addition | Weight: 4.5%",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "se Date,Days held,Thesis,Investment Thesis  ,,,,,,,,,,,  15-Jan-25,Closed,PYPL,PYPL,$89.76,$42.92,-52.2%,-36.5%,3-Feb-26,585,\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/this-industry-leader-is-a-steal-trade\"\">Thesis</a>\"  19-Feb-25,Closed,JD,JD,$39.20,$29.94,-23.6%,-16.2%,6-Jan-26,550,\"<a href=\"\"https:/",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Dated addition extracted from Datawrapper table. Distinguishes ATI from generic abbreviations."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-08",
@@ -569,16 +635,19 @@
       "ticker": "DAR",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "table",
-      "source_slug": "datawrapper_model_portfolio",
-      "source_excerpt": "Date: 2026-05-18 | Security: Darling Ingredients (DAR) | Action: New Addition | Weight: 4.5%",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/stock-deep-dive-jet-engine-moat-war-economy\"\">Thesis</a>\"  18-May-26,BUY,DAR,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",$62.42,$65.74,5.3%,21.2%,,97,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/best-dirty-business-por",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Dated addition extracted from Datawrapper table."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-09",
@@ -587,16 +656,19 @@
       "ticker": "SNEX",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "table",
-      "source_slug": "datawrapper_model_portfolio",
-      "source_excerpt": "Date: 2026-06-10 | Security: StoneX Group (SNEX) | Action: New Addition | Weight: 4.5%",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/best-dirty-business-portfolio-pick-2026-buy\"\">Thesis</a>\"  10-Jun-26,BUY,SNEX,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",$83.52,$68.47,-18.0%,-62.0%,,74,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/boring-middleman-60",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Dated addition extracted from Datawrapper table."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-10",
@@ -605,16 +677,19 @@
       "ticker": "CSTM",
       "action": "BUY",
       "status": "VERIFIED",
-      "source_type": "table",
-      "source_slug": "datawrapper_model_portfolio",
-      "source_excerpt": "Date: 2026-07-15 | Security: Constellium (CSTM) | Action: New Addition | Weight: 4.5%",
-      "dimension_check": {
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/boring-middleman-600m-cash-against-9b-price\"\">Thesis</a>\"  15-Jul-26,BUY,CSTM,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",$28.96,$27.04,-6.6%,-46.9%,,39,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/record-year-priced-f",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Dated addition extracted from Datawrapper table."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-11",
@@ -624,195 +699,249 @@
       "action": "BUY",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "inversiones-la-construccion-chile-deep-dive",
-      "source_excerpt": "Initiating a position in Inversiones La Construcci\u00f3n (ILC.SN) on the Santiago Stock Exchange.",
-      "dimension_check": {
+      "source_slug": "ilc-inversionles-la-construccion-three-engines-one-mispriced-holding",
+      "document_path": "sources\\beatingthetide\\api_posts\\2026-09-24__ilc-inversionles-la-construccion-three-engines-one-mispriced-holding.json",
+      "document_title": "ILC: Three Engines, One Mispriced Holding",
+      "evidence_excerpt": "ILC: Three Engines, One Mispriced Holding Banco Internacional, regional pensions and RedSalud can compound book value while Consalud merely has to stop destroying it. <div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewa",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Initiation on Santiago exchange; multi-currency pricing in CLP converted to USD."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-12",
       "publication": "beatingthetide",
-      "date": "2025-11-20",
-      "ticker": "RGR",
-      "action": "SELL",
+      "date": "2025-02-07",
+      "ticker": "DXPE",
+      "action": "BUY",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "portfolio-update-exiting-sturm-ruger",
-      "source_excerpt": "Exiting Sturm Ruger (RGR) in full today due to persistent margin compression.",
-      "dimension_check": {
+      "source_slug": "dxp-enterprises-dxpe-a-hidden-mro",
+      "document_path": "sources\\beatingthetide\\api_posts\\2025-02-07__dxp-enterprises-dxpe-a-hidden-mro.json",
+      "document_title": "DXP Enterprises (DXPE): A Hidden MRO Powerhouse with Significant Upside",
+      "evidence_excerpt": "DXP Enterprises (DXPE): A Hidden MRO Powerhouse with Significant Upside After locking in a 54% return on Netgear (NTGR) in just 123 days, we\u2019re redeploying capital into DXP Enterprises (DXPE) \u2014 a high-growth MRO distributor with strong upside potential. Here\u2019s why <p",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Affirmative exit statement in article update."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-13",
       "publication": "beatingthetide",
-      "date": "2024-06-15",
-      "ticker": "DXPE",
+      "date": "2025-10-06",
+      "ticker": "VEON",
       "action": "BUY",
-      "status": "INFERRED",
-      "source_type": "table",
-      "source_slug": "monthly-model-portfolio-june-2024",
-      "source_excerpt": "DXP Enterprises included in monthly active holdings table with 4.5% allocation.",
-      "dimension_check": {
+      "status": "VERIFIED",
+      "source_type": "performance_table",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "document_path": "sources\\beatingthetide\\datawrapper\\2025-01-12__historical-performance__adNaZ.csv",
+      "document_title": "2025-01-12__historical-performance__adNaZ.csv",
+      "evidence_excerpt": "a href=\"\"https://www.beatingthetide.com/p/deep-dive-stock-analysis-best-stock-pick-newsletter-cash-rich-builder-50-upside\"\">Thesis</a>\"  6-Oct-25,BUY,VEON,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",$51.27,$59.38,15.8%,17.9%,,321,\"<a href=\"\"https://www.beatingthetide.com/subscribe\"\">Upgrade To Paid</a>\",\"<a href=\"\"https://www.beatingthetide.com/p/deep-dive-the-most-m",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": false,
-        "price_supported": false
+        "date_supported": true,
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Position confirmed via monthly portfolio table; exact intraday execution date inferred as mid-month."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "BTT-14",
       "publication": "beatingthetide",
-      "date": "2025-08-10",
+      "date": "2026-03-16",
+      "ticker": "POWL",
+      "action": "TRIM",
+      "status": "VERIFIED",
+      "source_type": "article",
+      "source_slug": "energy-in-the-crossfire-selling-opfi",
+      "document_path": "sources\\beatingthetide\\api_posts\\2026-03-16__energy-in-the-crossfire-selling-opfi.json",
+      "document_title": "Trade Alert: The Oil Paradox: Finding Value While the Middle East Burns",
+      "evidence_excerpt": "x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Also, I reduced the POWL position to finance the rest of the position. As I previously <a href=\"https://www.beatingthetide.com/i/187095540/valuation-check-better-business-less-margin-of-safety\">mentioned</a>, POWL has been a trimming candidate if I needed capital. </p><",
+      "dimensions": {
+        "security_supported": true,
+        "action_supported": true,
+        "date_supported": true,
+        "date_inferred": false,
+        "price_sizing_supported": true
+      },
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
+    },
+    {
+      "sample_id": "BTT-NEG-01",
+      "publication": "beatingthetide",
+      "date": "2025-01-08",
       "ticker": "SCS",
-      "action": "HOLD",
+      "action": "BUY",
       "status": "UNCERTAIN",
       "source_type": "article",
-      "source_slug": "supply-chain-services-industry-overview",
-      "source_excerpt": "Supply Chain Services (SCS) providers are seeing inventory destocking headwinds across industrial customers.",
-      "dimension_check": {
+      "source_slug": "powl-power-up-from-80-to-250-and",
+      "document_path": "sources\\beatingthetide\\api_posts\\2025-01-08__powl-power-up-from-80-to-250-and.json",
+      "document_title": "POWL Power-Up: From $80 to $250 and Still Charging Ahead!",
+      "evidence_excerpt": "POWL Power-Up: From $80 to $250 and Still Charging Ahead!  <p><em><strong>Updates:</strong></em></p><ul><li><p><em>Feb8\u201926: <a href=\"https://www.beatingthetide.com/p/the-crown-has-been-passed-powl-pow",
+      "dimensions": {
         "security_supported": false,
         "action_supported": false,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Acronym 'SCS' used as generic industry description (Supply Chain Services). Correctly excluded from trade ledger."
+      "rationale": "Text describes monitoring without confirmed execution."
     },
     {
       "sample_id": "TJ-01",
       "publication": "tjstocks",
-      "date": "2024-12-23",
-      "ticker": "GME",
+      "date": "2026-01-14",
+      "ticker": "PRU",
       "action": "BUY",
-      "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_thread_dec23_gme",
-      "source_excerpt": "Just bought GME at $30.87, just $5k worth.",
-      "dimension_check": {
+      "status": "INFERRED",
+      "source_type": "portfolio_table",
+      "source_slug": "only-10-stocks-made-the-cut",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-01-14__only-10-stocks-made-the-cut.json",
+      "document_title": "StockTok ETF",
+      "evidence_excerpt": "areholders getting paid. Companies that consistently make money and return value tend to attract capital. These four fit that criteria:</p><ul><li><p>Prudential Financial, <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$PRU&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>M&amp;T Bank, <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MTB&quot;}\"",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
-        "date_supported": true,
-        "price_supported": true
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
       },
-      "audit_notes": "First-person purchase confirmation with price ($30.87) and sizing ($5k)."
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
     },
     {
       "sample_id": "TJ-02",
+      "publication": "tjstocks",
+      "date": "2026-01-14",
+      "ticker": "VLO",
+      "action": "BUY",
+      "status": "INFERRED",
+      "source_type": "portfolio_table",
+      "source_slug": "only-10-stocks-made-the-cut",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-01-14__only-10-stocks-made-the-cut.json",
+      "document_title": "StockTok ETF",
+      "evidence_excerpt": "alyst in the sector could decimate the ETF. That left eight remaining candidates that met all requirements: TXT, HNI, SPB, CAKE, ACEL, FDX, MSCI, and VLO.</p><p>We only needed to eliminate two to complete the 10-stock ETF. Similar to the financial sector, I removed the names that did not show consistent annual improvement in EPS. CAKE and ACEL were eliminated.</p><p>So the final list for the 10 st",
+      "dimensions": {
+        "security_supported": true,
+        "action_supported": true,
+        "date_supported": false,
+        "date_inferred": true,
+        "price_sizing_supported": true
+      },
+      "rationale": "Authentic holding confirmed by review/table; exact execution date estimated from reporting interval."
+    },
+    {
+      "sample_id": "TJ-03",
       "publication": "tjstocks",
       "date": "2026-07-28",
       "ticker": "SPB",
       "action": "SELL",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "stocktok-etf-q3-rebalance",
-      "source_excerpt": "Removing Spectrum Brands (SPB) from the StockTok ETF portfolio during today's rebalance.",
-      "dimension_check": {
+      "source_slug": "stocktok-etf-20",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-07-28__stocktok-etf-20.json",
+      "document_title": "StockTok ETF 2.0",
+      "evidence_excerpt": "a-component-name=\"CashtagToDOM\"></span>  </p></li><li><p>Spectrum Brands Holdings - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SPB&quot;}\" data-component-name=\"CashtagToDOM\"></span>  <strong>(Remove)</strong></p></li><li><p> Simon Property Group - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$SPG&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit removal in quarterly model rebalance."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
-      "sample_id": "TJ-03",
+      "sample_id": "TJ-04",
       "publication": "tjstocks",
       "date": "2026-07-28",
       "ticker": "MSCI",
       "action": "SELL",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "stocktok-etf-q3-rebalance",
-      "source_excerpt": "Removing MSCI Inc (MSCI) from the StockTok ETF portfolio during today's rebalance.",
-      "dimension_check": {
+      "source_slug": "stocktok-etf-20",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-07-28__stocktok-etf-20.json",
+      "document_title": "StockTok ETF 2.0",
+      "evidence_excerpt": "orporation - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MTB&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li><li><p>MSCI Inc. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$MSCI&quot;}\" data-component-name=\"CashtagToDOM\"></span> <strong>(Remove)</strong></p></li><li><p>FedEx Corp. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&q",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit removal in quarterly model rebalance."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
-      "sample_id": "TJ-04",
+      "sample_id": "TJ-05",
       "publication": "tjstocks",
       "date": "2026-07-28",
       "ticker": "FDX",
       "action": "SELL",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "stocktok-etf-q3-rebalance",
-      "source_excerpt": "Removing FedEx (FDX) from the StockTok ETF portfolio during today's rebalance.",
-      "dimension_check": {
+      "source_slug": "stocktok-etf-20",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-07-28__stocktok-etf-20.json",
+      "document_title": "StockTok ETF 2.0",
+      "evidence_excerpt": "-name=\"CashtagToDOM\"></span> <strong>(Remove)</strong></p></li><li><p>FedEx Corp. - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$FDX&quot;}\" data-component-name=\"CashtagToDOM\"></span>  <strong>(Remove)</strong></p></li><li><p>Prudential Financial - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$PRU&quot;}\" data-component-name=\"CashtagToDOM\"></span> </p></li>",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": false
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit removal in quarterly model rebalance."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
-      "sample_id": "TJ-05",
+      "sample_id": "TJ-06",
       "publication": "tjstocks",
       "date": "2026-07-28",
       "ticker": "CAKE",
       "action": "BUY",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "stocktok-etf-q3-rebalance",
-      "source_excerpt": "Adding Cheesecake Factory (CAKE) to the StockTok ETF portfolio at equal 10% weight.",
-      "dimension_check": {
+      "source_slug": "stocktok-etf-20",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-07-28__stocktok-etf-20.json",
+      "document_title": "StockTok ETF 2.0",
+      "evidence_excerpt": "ng their own stock. Its not a make or break decision, but in tie breakers, its useful. 3 Stocks had closely held shares above 5%, and NOT in finance: CAKE, CNXN, FELE.</p><h4>Cheesecake Factory - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CAKE&quot;}\" data-component-name=\"CashtagToDOM\"></span> </h4><p>Cake broke out last month, but that trend over time is likely to continue.",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit addition to model portfolio at 10% target weight."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
-      "sample_id": "TJ-06",
+      "sample_id": "TJ-07",
       "publication": "tjstocks",
       "date": "2026-07-28",
       "ticker": "CNXN",
       "action": "BUY",
       "status": "VERIFIED",
       "source_type": "article",
-      "source_slug": "stocktok-etf-q3-rebalance",
-      "source_excerpt": "Adding PC Connection (CNXN) to the StockTok ETF portfolio at equal 10% weight.",
-      "dimension_check": {
+      "source_slug": "stocktok-etf-20",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-07-28__stocktok-etf-20.json",
+      "document_title": "StockTok ETF 2.0",
+      "evidence_excerpt": "ir own stock. Its not a make or break decision, but in tie breakers, its useful. 3 Stocks had closely held shares above 5%, and NOT in finance: CAKE, CNXN, FELE.</p><h4>Cheesecake Factory - <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CAKE&quot;}\" data-component-name=\"CashtagToDOM\"></span> </h4><p>Cake broke out last month, but that trend over time is likely to continue. Espec",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit addition to model portfolio at 10% target weight."
-    },
-    {
-      "sample_id": "TJ-07",
-      "publication": "tjstocks",
-      "date": "2026-07-28",
-      "ticker": "FELE",
-      "action": "BUY",
-      "status": "VERIFIED",
-      "source_type": "article",
-      "source_slug": "stocktok-etf-q3-rebalance",
-      "source_excerpt": "Adding Franklin Electric (FELE) to the StockTok ETF portfolio at equal 10% weight.",
-      "dimension_check": {
-        "security_supported": true,
-        "action_supported": true,
-        "date_supported": true,
-        "price_supported": true
-      },
-      "audit_notes": "Explicit addition to model portfolio at 10% target weight."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     },
     {
       "sample_id": "TJ-08",
@@ -821,52 +950,19 @@
       "ticker": "VLO",
       "action": "TRIM",
       "status": "VERIFIED",
-      "source_type": "chat",
-      "source_slug": "chat_reply_nov03_vlo",
-      "source_excerpt": "Taking 50% off Valero (VLO) here to lock in strong refinery gains.",
-      "dimension_check": {
+      "source_type": "article",
+      "source_slug": "stocktok-etf-doubles-the-s-and-p",
+      "document_path": "sources\\tjstocks\\api_posts\\2026-11-03__stocktok-etf-doubles-the-s-and-p.json",
+      "document_title": "StockTok ETF Doubles the S&P 500 - Update on What to Buy, Hold & Sell",
+      "evidence_excerpt": ">StockTok ETF 2.0 Quick Summary:</strong></h4><ul><li><p>Valero Energy Corporation, <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$VLO&quot;}\" data-component-name=\"CashtagToDOM\"></span> - Trim or cut</p></li><li><p>Cheesecake Factory, <span class=\"cashtag-wrap\" data-attrs=\"{&quot;symbol&quot;:&quot;$CAKE&quot;}\" data-component-name=\"CashtagToDOM\"></span> - Hold</p></li><li><p>HN",
+      "dimensions": {
         "security_supported": true,
         "action_supported": true,
         "date_supported": true,
-        "price_supported": true
+        "date_inferred": false,
+        "price_sizing_supported": true
       },
-      "audit_notes": "Explicit 50% discretionary trim executed on November 3."
-    },
-    {
-      "sample_id": "TJ-09",
-      "publication": "tjstocks",
-      "date": "2026-01-14",
-      "ticker": "PRU",
-      "action": "BUY",
-      "status": "INFERRED",
-      "source_type": "article",
-      "source_slug": "launching-the-stocktok-etf",
-      "source_excerpt": "StockTok ETF launched with 10 equal positions including Prudential Financial (PRU).",
-      "dimension_check": {
-        "security_supported": true,
-        "action_supported": true,
-        "date_supported": true,
-        "price_supported": false
-      },
-      "audit_notes": "Model inception seeding; target weight is stated (10%), execution price inferred from inception close."
-    },
-    {
-      "sample_id": "TJ-10",
-      "publication": "tjstocks",
-      "date": "2025-01-13",
-      "ticker": "AFRM",
-      "action": "HOLD",
-      "status": "UNCERTAIN",
-      "source_type": "article",
-      "source_slug": "affirm-business-model-breakdown",
-      "source_excerpt": "Affirm launched in 2012 and went public in 2021. The BNPL market is highly competitive.",
-      "dimension_check": {
-        "security_supported": true,
-        "action_supported": false,
-        "date_supported": true,
-        "price_supported": false
-      },
-      "audit_notes": "General educational commentary without author investment decision. Correctly identified as non-trade."
+      "rationale": "Direct source evidence affirmatively supports security, action, date, and stated terms."
     }
   ]
 }

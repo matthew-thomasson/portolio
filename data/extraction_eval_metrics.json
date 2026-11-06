@@ -1,5 +1,5 @@
 {
-  "extractor_version": "92656c6ca1b1",
+  "extractor_version": "2c07b03d4129",
   "evaluated_entrypoints": [
     "ExtractionEngine.extract_from_article",
     "ExtractionEngine.extract_from_chat"
