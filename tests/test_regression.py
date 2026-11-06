@@ -30,9 +30,13 @@ def test_cluseau_no_retrospective_buy_contamination_and_no_acronym_pollution():
 
     # 3. SK Square (402340.KS) entered in late April 2026, not January
     sk_sq_buys = events_df[(events_df["ticker"] == "402340.KS") & (events_df["action"] == "BUY")]
-    assert len(sk_sq_buys) == 1
+    assert len(sk_sq_buys) in (1, 2)
     assert sk_sq_buys.iloc[0]["date"] in ("2026-04-28", "2026-04-29")
     assert sk_sq_buys.iloc[0]["market"] == ":kr:"
+    # Verify October 1 exit and genuine re-entry lifecycle
+    sk_sq_sells = events_df[(events_df["ticker"] == "402340.KS") & (events_df["action"] == "SELL")]
+    assert any(sk_sq_sells["date"] == "2026-10-01"), "Expected October 1 review exit for SK Square"
+    assert sk_sq_sells.iloc[-1]["date"] == "2026-11-04", "Expected final November 4 exit for SK Square"
 
     # 4. WYFI exited in Oct 2025 and NOT active as of 2026-01-01
     prices = PriceProvider(settings)
@@ -151,3 +155,52 @@ def test_multi_currency_fx_conversions_krw_jpy_eur_clp():
     clp_usd = prices.get_price("ILC.SN", "2026-09-24", market=":cl:", in_usd=True)
     assert clp_px is not None and clp_px > 1000.0
     assert clp_usd is not None and 1.0 < clp_usd < 60.0
+
+
+def test_targeted_accuracy_hardening_transaction_attribution():
+    """Harden extraction and lifecycle accuracy across the 5 verified defect cases:
+    1. NECB / OPBK: 'adding to OPBK and monitoring NECB' assigns ADD to OPBK only, NO BUY/ADD to NECB.
+    2. SE Holdings / PFF: Volume commentary on Sehi does NOT produce spurious PFF trades.
+    3. HY9H / Kioxia: SK Hynix Frankfurt buy on 2025-11-24 does NOT create a fake Kioxia 285A.T buy.
+    4. CUBI / OPBK: Multi-security pricing assigns 73 to CUBI and 14 to OPBK distinctly.
+    5. SK Square: Reconstructs genuine re-entry lifecycle (April entry, Oct 1 exit, Oct 30 re-entry, Nov 4 exit).
+    """
+    settings = load_settings()
+    src = settings.get_source("cluseau")
+    events_df = pd.read_csv(src.data_dir / "trade_events.csv")
+
+    # 1. NECB / OPBK
+    # On 2025-10-15, chat reply: "I've been adding to OPBK and just monitoring NECB"
+    necb_events = events_df[(events_df["ticker"] == "NECB") & (events_df["date"] == "2025-10-15")]
+    assert len(necb_events) == 0, f"Expected no trade for NECB on 2025-10-15, got: {necb_events}"
+    opbk_oct15 = events_df[(events_df["ticker"] == "OPBK") & (events_df["date"] == "2025-10-15")]
+    assert len(opbk_oct15) >= 1
+    assert opbk_oct15.iloc[0]["action"] in ("BUY", "ADD")
+
+    # 2. SE Holdings / PFF
+    # Verify PFF (iShares Preferred & Income Securities ETF) never hallucinated in Cluseau ledger
+    pff_events = events_df[events_df["ticker"] == "PFF"]
+    assert len(pff_events) == 0, f"Spurious PFF trades found: {pff_events}"
+
+    # 3. HY9H / Kioxia
+    # 2025-11-24 SK Hynix GDR purchase should not generate any 285A.T trade
+    kioxia_nov24 = events_df[(events_df["ticker"] == "285A.T") & (events_df["date"] == "2025-11-24")]
+    assert len(kioxia_nov24) == 0, f"Hallucinated Kioxia purchase on 2025-11-24: {kioxia_nov24}"
+
+    # 4. CUBI / OPBK
+    # "picked up some CUBI at 73 and OPBK at 14"
+    cubi_buy = events_df[(events_df["ticker"] == "CUBI") & (events_df["date"] == "2026-01-23")]
+    assert not cubi_buy.empty
+    assert cubi_buy.iloc[0]["ref_price"] == pytest.approx(73.0)
+
+    opbk_buy = events_df[(events_df["ticker"] == "OPBK") & (events_df["date"] == "2026-01-23")]
+    assert not opbk_buy.empty
+    assert opbk_buy.iloc[0]["ref_price"] == pytest.approx(14.0)
+
+    # 5. SK Square complete lifecycle
+    sk_events = events_df[events_df["ticker"] == "402340.KS"].sort_values("date")
+    actions = list(zip(sk_events["date"], sk_events["action"]))
+    assert ("2026-10-01", "SELL") in actions, f"Missing 2026-10-01 review exit: {actions}"
+    assert ("2026-11-04", "SELL") in actions, f"Missing 2026-11-04 re-entry SELL: {actions}"
+    assert any(d >= "2026-10-02" and a in ("BUY", "ADD") for d, a in actions), f"Missing October re-entry: {actions}"
+

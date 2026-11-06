@@ -1,14 +1,14 @@
 symbol,name,market,weight,cost_basis,latest_price,current_rating,entry_date,source_file
 FDX,FedEx Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
-HNI,HNI Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+HNI,Hold HNI Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
 MSCI,MSCI Inc,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
-MTB,M&T Bank,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+MTB,Hold M&T Bank Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
 PRU,Prudential Financial,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
 SPB,Spectrum Brands Holdings,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
-SPG,Simon Property Group,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
-TXT,Textron Inc,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
-UBSI,United Bankshares,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+SPG,Hold Simon Property Group,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+TXT,Buy Textron Inc,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
+UBSI,Hold United Bankshares,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
 VLO,Valero Energy Corporation,:us:,0.1,,,BUY,2026-01-14,only-10-stocks-made-the-cut
-CAKE,Cheesecake Factory,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
-CNXN,PC Connection,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
-FELE,Franklin Electric,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
+CAKE,FELE. Cheesecake Factory,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
+CNXN,Hold PC Connection,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20
+FELE,Franklin Electric Co,:us:,0.1,,,BUY,2026-07-28,stocktok-etf-20

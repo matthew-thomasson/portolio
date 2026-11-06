@@ -373,7 +373,7 @@
     "publication_date": "2025-06-17",
     "effective_date": "2025-06-16",
     "date_uncertainty": null,
-    "company_name": "RTX Corporation",
+    "company_name": "Raytheon",
     "ticker": "RTX",
     "normalized_ticker": "RTX",
     "exchange": "US",
@@ -849,7 +849,7 @@
     "publication_date": "2025-12-07",
     "effective_date": "2025-12-07",
     "date_uncertainty": null,
-    "company_name": "Netflix",
+    "company_name": "No. Netflix",
     "ticker": "NFLX",
     "normalized_ticker": "NFLX",
     "exchange": "US",
@@ -905,7 +905,7 @@
     "publication_date": "2026-01-14",
     "effective_date": "2026-01-14",
     "date_uncertainty": null,
-    "company_name": "M&T Bank",
+    "company_name": "Hold M&T Bank Corporation",
     "ticker": "MTB",
     "normalized_ticker": "MTB",
     "exchange": "US",
@@ -920,7 +920,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF Initial Holding: M&T Bank (MTB)",
+    "notes": "StockTok ETF Initial Holding: Hold M&T Bank Corporation (MTB)",
     "unresolved_fields": []
   },
   {
@@ -933,7 +933,7 @@
     "publication_date": "2026-01-14",
     "effective_date": "2026-01-14",
     "date_uncertainty": null,
-    "company_name": "Simon Property Group",
+    "company_name": "Hold Simon Property Group",
     "ticker": "SPG",
     "normalized_ticker": "SPG",
     "exchange": "US",
@@ -948,7 +948,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF Initial Holding: Simon Property Group (SPG)",
+    "notes": "StockTok ETF Initial Holding: Hold Simon Property Group (SPG)",
     "unresolved_fields": []
   },
   {
@@ -961,7 +961,7 @@
     "publication_date": "2026-01-14",
     "effective_date": "2026-01-14",
     "date_uncertainty": null,
-    "company_name": "United Bankshares",
+    "company_name": "Hold United Bankshares",
     "ticker": "UBSI",
     "normalized_ticker": "UBSI",
     "exchange": "US",
@@ -976,7 +976,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF Initial Holding: United Bankshares (UBSI)",
+    "notes": "StockTok ETF Initial Holding: Hold United Bankshares (UBSI)",
     "unresolved_fields": []
   },
   {
@@ -989,7 +989,7 @@
     "publication_date": "2026-01-14",
     "effective_date": "2026-01-14",
     "date_uncertainty": null,
-    "company_name": "Textron Inc",
+    "company_name": "Buy Textron Inc",
     "ticker": "TXT",
     "normalized_ticker": "TXT",
     "exchange": "US",
@@ -1004,7 +1004,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF Initial Holding: Textron Inc (TXT)",
+    "notes": "StockTok ETF Initial Holding: Buy Textron Inc (TXT)",
     "unresolved_fields": []
   },
   {
@@ -1017,7 +1017,7 @@
     "publication_date": "2026-01-14",
     "effective_date": "2026-01-14",
     "date_uncertainty": null,
-    "company_name": "HNI Corporation",
+    "company_name": "Hold HNI Corporation",
     "ticker": "HNI",
     "normalized_ticker": "HNI",
     "exchange": "US",
@@ -1032,7 +1032,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF Initial Holding: HNI Corporation (HNI)",
+    "notes": "StockTok ETF Initial Holding: Hold HNI Corporation (HNI)",
     "unresolved_fields": []
   },
   {
@@ -1353,7 +1353,7 @@
     "publication_date": "2026-05-05",
     "effective_date": "2026-05-05",
     "date_uncertainty": null,
-    "company_name": "Specific Entry Point Analysis",
+    "company_name": "Mark Minervini’s Specific Entry Point Analysis",
     "ticker": "SEPA",
     "normalized_ticker": "SEPA",
     "exchange": "US",
@@ -1521,7 +1521,7 @@
     "publication_date": "2026-06-01",
     "effective_date": "2026-06-01",
     "date_uncertainty": null,
-    "company_name": "Textron Inc",
+    "company_name": "Buy Textron Inc",
     "ticker": "TXT",
     "normalized_ticker": "TXT",
     "exchange": "US",
@@ -1745,7 +1745,7 @@
     "publication_date": "2026-07-28",
     "effective_date": "2026-07-28",
     "date_uncertainty": null,
-    "company_name": "FedEx",
+    "company_name": "FedEx Corporation",
     "ticker": "FDX",
     "normalized_ticker": "FDX",
     "exchange": "US",
@@ -1760,7 +1760,7 @@
     "position_sizing": 0.0,
     "trim_fraction": 1.0,
     "confidence": "high",
-    "notes": "StockTok ETF 2.0 Rebalance Removal: FedEx (FDX)",
+    "notes": "StockTok ETF 2.0 Rebalance Removal: FedEx Corporation (FDX)",
     "unresolved_fields": []
   },
   {
@@ -1829,7 +1829,7 @@
     "publication_date": "2026-07-28",
     "effective_date": "2026-07-28",
     "date_uncertainty": null,
-    "company_name": "FedEx",
+    "company_name": "FedEx Corporation",
     "ticker": "FDX",
     "normalized_ticker": "FDX",
     "exchange": "US",
@@ -1844,7 +1844,7 @@
     "position_sizing": 0.0,
     "trim_fraction": 1.0,
     "confidence": "high",
-    "notes": "StockTok ETF 2.0 Rebalance Removal: FedEx (FDX)",
+    "notes": "StockTok ETF 2.0 Rebalance Removal: FedEx Corporation (FDX)",
     "unresolved_fields": []
   },
   {
@@ -1885,7 +1885,7 @@
     "publication_date": "2026-07-28",
     "effective_date": "2026-07-28",
     "date_uncertainty": null,
-    "company_name": "Cheesecake Factory",
+    "company_name": "FELE. Cheesecake Factory",
     "ticker": "CAKE",
     "normalized_ticker": "CAKE",
     "exchange": "US",
@@ -1900,7 +1900,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF 2.0 New Addition: Cheesecake Factory (CAKE)",
+    "notes": "StockTok ETF 2.0 New Addition: FELE. Cheesecake Factory (CAKE)",
     "unresolved_fields": []
   },
   {
@@ -1913,7 +1913,7 @@
     "publication_date": "2026-07-28",
     "effective_date": "2026-07-28",
     "date_uncertainty": null,
-    "company_name": "PC Connection",
+    "company_name": "Hold PC Connection",
     "ticker": "CNXN",
     "normalized_ticker": "CNXN",
     "exchange": "US",
@@ -1928,7 +1928,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF 2.0 New Addition: PC Connection (CNXN)",
+    "notes": "StockTok ETF 2.0 New Addition: Hold PC Connection (CNXN)",
     "unresolved_fields": []
   },
   {
@@ -1941,7 +1941,7 @@
     "publication_date": "2026-07-28",
     "effective_date": "2026-07-28",
     "date_uncertainty": null,
-    "company_name": "Franklin Electric",
+    "company_name": "Franklin Electric Co",
     "ticker": "FELE",
     "normalized_ticker": "FELE",
     "exchange": "US",
@@ -1956,7 +1956,7 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "StockTok ETF 2.0 New Addition: Franklin Electric (FELE)",
+    "notes": "StockTok ETF 2.0 New Addition: Franklin Electric Co (FELE)",
     "unresolved_fields": []
   },
   {
@@ -1997,7 +1997,7 @@
     "publication_date": "2026-08-19",
     "effective_date": "2026-08-19",
     "date_uncertainty": null,
-    "company_name": "HNI Corporation",
+    "company_name": "Hold HNI Corporation",
     "ticker": "HNI",
     "normalized_ticker": "HNI",
     "exchange": "US",
@@ -2053,7 +2053,7 @@
     "publication_date": "2026-09-10",
     "effective_date": "2026-09-10",
     "date_uncertainty": null,
-    "company_name": "Palantir",
+    "company_name": "Palantir’s",
     "ticker": "PLTR",
     "normalized_ticker": "PLTR",
     "exchange": "US",
@@ -2137,7 +2137,7 @@
     "publication_date": "2026-09-16",
     "effective_date": "2026-09-16",
     "date_uncertainty": null,
-    "company_name": "Palantir",
+    "company_name": "Palantir’s",
     "ticker": "PLTR",
     "normalized_ticker": "PLTR",
     "exchange": "US",
@@ -2268,35 +2268,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0082-2026-10-02-XMTR-ADD",
-    "source_id": "3-midweek-mover-winner-stocks-im",
-    "source_type": "article",
-    "location": "paragraph:0:c0@char:0",
-    "char_offset": 0,
-    "exact_text": "Xometry, $XMTR is now up more than 45% since our initial entry and we’ve added to the position three times as the trend continued higher.",
-    "publication_date": "2026-10-02",
-    "effective_date": "2026-10-02",
-    "date_uncertainty": null,
-    "company_name": "Xometry",
-    "ticker": "XMTR",
-    "normalized_ticker": "XMTR",
-    "exchange": "US",
-    "market": ":us:",
-    "instrument_type": "equity",
-    "action": "ADD",
-    "execution_status": "confirmed",
-    "discovery_layer": "primary_article",
-    "portfolio_book": "personal_swing",
-    "stated_price": null,
-    "stated_currency": null,
-    "position_sizing": null,
-    "trim_fraction": null,
-    "confidence": "high",
-    "notes": "Xometry, $XMTR is now up more than 45% since our initial entry and we’ve added to the position three times as the trend continued higher.",
-    "unresolved_fields": []
-  },
-  {
-    "event_id": "tjstocks-0083-2026-10-03-XMTR-BUY",
+    "event_id": "tjstocks-0082-2026-10-03-XMTR-BUY",
     "source_id": "what-im-buying-when-im-selling-and",
     "source_type": "article",
     "location": "paragraph:6:c0@char:1710",
@@ -2324,7 +2296,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0084-2026-10-08-CWCO-HOLD",
+    "event_id": "tjstocks-0083-2026-10-08-CWCO-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2352,7 +2324,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0085-2026-10-08-SHMD-HOLD",
+    "event_id": "tjstocks-0084-2026-10-08-SHMD-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2380,7 +2352,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0086-2026-10-08-WULF-HOLD",
+    "event_id": "tjstocks-0085-2026-10-08-WULF-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2408,7 +2380,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0087-2026-10-08-PAAS-HOLD",
+    "event_id": "tjstocks-0086-2026-10-08-PAAS-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "heading:5@char:534",
@@ -2436,7 +2408,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0088-2026-10-08-PAAS-HOLD",
+    "event_id": "tjstocks-0087-2026-10-08-PAAS-HOLD",
     "source_id": "i-ranked-27-stocks-these-3-came-out",
     "source_type": "article",
     "location": "paragraph:7:c5@char:981",
@@ -2464,7 +2436,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0089-2026-10-16-NFT-HOLD",
+    "event_id": "tjstocks-0088-2026-10-16-NFT-HOLD",
     "source_id": "the-stock-market-is-still-bullish",
     "source_type": "article",
     "location": "list_item:12:c0@char:1889",
@@ -2492,7 +2464,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0090-2026-10-20-DG-BUY",
+    "event_id": "tjstocks-0089-2026-10-20-DG-BUY",
     "source_id": "lets-pretend-the-stock-market-is",
     "source_type": "article",
     "location": "paragraph:9:c2@char:1145",
@@ -2520,7 +2492,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0091-2026-10-30-HNGE-SELL",
+    "event_id": "tjstocks-0090-2026-10-30-HNGE-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:3:c2@char:223",
@@ -2548,7 +2520,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0092-2026-10-30-TWLO-SELL",
+    "event_id": "tjstocks-0091-2026-10-30-TWLO-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:3:c2@char:223",
@@ -2576,7 +2548,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0093-2026-10-30-HNGE-SELL",
+    "event_id": "tjstocks-0092-2026-10-30-HNGE-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:4:c1@char:663",
@@ -2604,7 +2576,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0094-2026-10-30-TWLO-SELL",
+    "event_id": "tjstocks-0093-2026-10-30-TWLO-SELL",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:4:c1@char:663",
@@ -2632,7 +2604,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0095-2026-10-30-INTC-HOLD",
+    "event_id": "tjstocks-0094-2026-10-30-INTC-HOLD",
     "source_id": "is-this-the-warning-sign-weve-been",
     "source_type": "article",
     "location": "list_item:6:c0@char:1202",
@@ -2641,7 +2613,7 @@
     "publication_date": "2026-10-30",
     "effective_date": "2026-10-30",
     "date_uncertainty": null,
-    "company_name": "Intel",
+    "company_name": "Intel Corporation",
     "ticker": "INTC",
     "normalized_ticker": "INTC",
     "exchange": "US",
@@ -2660,7 +2632,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0096-2026-11-03-VLO-TRIM",
+    "event_id": "tjstocks-0095-2026-11-03-VLO-TRIM",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:5@char:1143",
@@ -2669,7 +2641,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "Valero",
+    "company_name": "Valero Energy Corporation",
     "ticker": "VLO",
     "normalized_ticker": "VLO",
     "exchange": "US",
@@ -2684,11 +2656,11 @@
     "position_sizing": 0.05,
     "trim_fraction": 0.5,
     "confidence": "medium",
-    "notes": "Valero - Discretionary 50% trim based on model update 'trim or cut'",
+    "notes": "Valero Energy Corporation - Discretionary 50% trim based on model update 'trim or cut'",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0097-2026-11-03-CAKE-HOLD",
+    "event_id": "tjstocks-0096-2026-11-03-CAKE-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:6@char:1189",
@@ -2697,7 +2669,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "Cheesecake Factory",
+    "company_name": "FELE. Cheesecake Factory",
     "ticker": "CAKE",
     "normalized_ticker": "CAKE",
     "exchange": "US",
@@ -2712,11 +2684,11 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "Cheesecake Factory - Retained in model portfolio (hold)",
+    "notes": "FELE. Cheesecake Factory - Retained in model portfolio (hold)",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0098-2026-11-03-HNI-HOLD",
+    "event_id": "tjstocks-0097-2026-11-03-HNI-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:7@char:1222",
@@ -2744,7 +2716,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0099-2026-11-03-CNXN-HOLD",
+    "event_id": "tjstocks-0098-2026-11-03-CNXN-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:8@char:1251",
@@ -2772,7 +2744,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0100-2026-11-03-UBSI-HOLD",
+    "event_id": "tjstocks-0099-2026-11-03-UBSI-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:9@char:1279",
@@ -2781,7 +2753,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "United Bankshares",
+    "company_name": "Hold United Bankshares",
     "ticker": "UBSI",
     "normalized_ticker": "UBSI",
     "exchange": "US",
@@ -2796,11 +2768,11 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "United Bankshares - Retained in model portfolio (hold/buy)",
+    "notes": "Hold United Bankshares - Retained in model portfolio (hold/buy)",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0101-2026-11-03-TXT-HOLD",
+    "event_id": "tjstocks-0100-2026-11-03-TXT-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:10@char:1315",
@@ -2809,7 +2781,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "Textron Inc",
+    "company_name": "Buy Textron Inc",
     "ticker": "TXT",
     "normalized_ticker": "TXT",
     "exchange": "US",
@@ -2824,11 +2796,11 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "Textron Inc - Retained in model portfolio (hold/buy)",
+    "notes": "Buy Textron Inc - Retained in model portfolio (hold/buy)",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0102-2026-11-03-PRU-HOLD",
+    "event_id": "tjstocks-0101-2026-11-03-PRU-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:11@char:1345",
@@ -2837,7 +2809,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "Buy Prudential",
+    "company_name": "Prudential Financial",
     "ticker": "PRU",
     "normalized_ticker": "PRU",
     "exchange": "US",
@@ -2852,11 +2824,11 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "Buy Prudential - Retained in model portfolio (hold)",
+    "notes": "Prudential Financial - Retained in model portfolio (hold)",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0103-2026-11-03-SPG-HOLD",
+    "event_id": "tjstocks-0102-2026-11-03-SPG-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:12@char:1369",
@@ -2884,7 +2856,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0104-2026-11-03-FELE-HOLD",
+    "event_id": "tjstocks-0103-2026-11-03-FELE-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:13@char:1403",
@@ -2893,7 +2865,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "Hold Franklin Electric",
+    "company_name": "Franklin Electric Co",
     "ticker": "FELE",
     "normalized_ticker": "FELE",
     "exchange": "US",
@@ -2908,11 +2880,11 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "Hold Franklin Electric - Retained in model portfolio (hold)",
+    "notes": "Franklin Electric Co - Retained in model portfolio (hold)",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0105-2026-11-03-MTB-HOLD",
+    "event_id": "tjstocks-0104-2026-11-03-MTB-HOLD",
     "source_id": "stocktok-etf-doubles-the-s-and-p",
     "source_type": "article",
     "location": "list_item:14@char:1435",
@@ -2921,7 +2893,7 @@
     "publication_date": "2026-11-03",
     "effective_date": "2026-11-03",
     "date_uncertainty": null,
-    "company_name": "M&T Bank Corporation",
+    "company_name": "Hold M&T Bank Corporation",
     "ticker": "MTB",
     "normalized_ticker": "MTB",
     "exchange": "US",
@@ -2936,11 +2908,11 @@
     "position_sizing": 0.1,
     "trim_fraction": null,
     "confidence": "high",
-    "notes": "M&T Bank Corporation - Retained in model portfolio (hold/buy)",
+    "notes": "Hold M&T Bank Corporation - Retained in model portfolio (hold/buy)",
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0106-2025-04-30-GRND-SELL",
+    "event_id": "tjstocks-0105-2025-04-30-GRND-SELL",
     "source_id": "chat:a27b2288:reply:c6dde053",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c6dde053-5643-4a14-bb85-f2aa80d50e26:clause:1",
@@ -2968,7 +2940,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0107-2025-04-30-EHC-SELL",
+    "event_id": "tjstocks-0106-2025-04-30-EHC-SELL",
     "source_id": "chat:a27b2288:reply:c6dde053",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c6dde053-5643-4a14-bb85-f2aa80d50e26:clause:1",
@@ -2996,7 +2968,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0108-2025-05-12-LRN-SELL",
+    "event_id": "tjstocks-0107-2025-05-12-LRN-SELL",
     "source_id": "chat:a27b2288:reply:b2b3bc9b",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b2b3bc9b-b48b-4764-92eb-06f03b7fe47e:clause:0",
@@ -3024,7 +2996,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0109-2025-05-21-RELY-SELL",
+    "event_id": "tjstocks-0108-2025-05-21-RELY-SELL",
     "source_id": "chat:a27b2288:reply:55a1dbd0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:55a1dbd0-33db-41fc-9fa6-a6fa5531fe58:clause:0",
@@ -3033,7 +3005,7 @@
     "publication_date": "2025-05-21",
     "effective_date": "2025-05-21",
     "date_uncertainty": null,
-    "company_name": "Remitly",
+    "company_name": "EPS. Remitly",
     "ticker": "RELY",
     "normalized_ticker": "RELY",
     "exchange": "US",
@@ -3052,7 +3024,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0110-2025-05-22-GRND-SELL",
+    "event_id": "tjstocks-0109-2025-05-22-GRND-SELL",
     "source_id": "chat:a27b2288:reply:afb526d5",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:afb526d5-2cce-4247-a76e-1067e653f3c7:clause:0",
@@ -3080,7 +3052,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0111-2025-06-10-GE-SELL",
+    "event_id": "tjstocks-0110-2025-06-10-GE-SELL",
     "source_id": "chat:a27b2288:reply:e0ad05be",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:e0ad05be-ac04-497b-b1c2-76d6e88ffa5f:clause:0",
@@ -3108,7 +3080,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0112-2025-06-16-TTMI-BUY",
+    "event_id": "tjstocks-0111-2025-06-16-TTMI-BUY",
     "source_id": "chat:a27b2288:reply:a31aeb0c",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a31aeb0c-f004-47d5-a0bd-7726eb725425:clause:1",
@@ -3136,7 +3108,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0113-2025-06-16-RTX-BUY",
+    "event_id": "tjstocks-0112-2025-06-16-RTX-BUY",
     "source_id": "chat:a27b2288:reply:a31aeb0c",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a31aeb0c-f004-47d5-a0bd-7726eb725425:clause:1",
@@ -3145,7 +3117,7 @@
     "publication_date": "2025-06-16",
     "effective_date": "2025-06-16",
     "date_uncertainty": null,
-    "company_name": "RTX Corporation",
+    "company_name": "Raytheon",
     "ticker": "RTX",
     "normalized_ticker": "RTX",
     "exchange": "US",
@@ -3164,7 +3136,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0114-2025-06-27-DASH-ADD",
+    "event_id": "tjstocks-0113-2025-06-27-DASH-ADD",
     "source_id": "chat:a27b2288:reply:897e4575",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:897e4575-c3af-477d-9206-2fab51f8433a:clause:0",
@@ -3192,7 +3164,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0115-2025-07-14-RBLX-ADD",
+    "event_id": "tjstocks-0114-2025-07-14-RBLX-ADD",
     "source_id": "chat:a27b2288:reply:a9834e1d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a9834e1d-440e-4c7a-9f20-be0253a5c33d:clause:1",
@@ -3220,7 +3192,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0116-2025-07-16-RBLX-SELL",
+    "event_id": "tjstocks-0115-2025-07-16-RBLX-SELL",
     "source_id": "chat:a27b2288:reply:0bff687b",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:0bff687b-c86a-4dd9-bc4a-514f8a65e6a6:clause:2",
@@ -3248,7 +3220,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0117-2025-07-17-RGTI-BUY",
+    "event_id": "tjstocks-0116-2025-07-17-RGTI-BUY",
     "source_id": "chat:a27b2288:reply:2ad67fdf",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:2ad67fdf-1b6e-44c0-861e-a63c3bff1501:clause:1",
@@ -3276,7 +3248,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0118-2025-07-28-ILF-SELL",
+    "event_id": "tjstocks-0117-2025-07-28-ILF-SELL",
     "source_id": "chat:a27b2288:reply:aa151f44",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:aa151f44-0039-48a2-9294-45bb6dbf6369:clause:0",
@@ -3304,7 +3276,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0119-2025-08-13-EBAY-SELL",
+    "event_id": "tjstocks-0118-2025-08-13-EBAY-SELL",
     "source_id": "chat:a27b2288:reply:3296125d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:3296125d-5c1c-4eeb-a91b-f0e43b1bf116:clause:0",
@@ -3332,7 +3304,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0120-2025-09-05-AFRM-BUY",
+    "event_id": "tjstocks-0119-2025-09-05-AFRM-BUY",
     "source_id": "chat:a27b2288:reply:69243fe3",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:69243fe3-ac28-4d3b-abaa-cdec1f9291d7:clause:1",
@@ -3360,7 +3332,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0121-2025-09-10-UI-BUY",
+    "event_id": "tjstocks-0120-2025-09-10-UI-BUY",
     "source_id": "chat:a27b2288:reply:c4d4f7e3",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c4d4f7e3-dcf1-4b8b-99f0-d28b4494ea3d:clause:2",
@@ -3388,7 +3360,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0122-2025-09-10-BABA-BUY",
+    "event_id": "tjstocks-0121-2025-09-10-BABA-BUY",
     "source_id": "chat:a27b2288:reply:c4d4f7e3",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:c4d4f7e3-dcf1-4b8b-99f0-d28b4494ea3d:clause:2",
@@ -3407,7 +3379,7 @@
     "execution_status": "confirmed",
     "discovery_layer": "primary_chat",
     "portfolio_book": "personal_swing",
-    "stated_price": 606.03,
+    "stated_price": 145.2,
     "stated_currency": "USD",
     "position_sizing": null,
     "trim_fraction": null,
@@ -3416,7 +3388,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0123-2025-09-17-RGTI-ADD",
+    "event_id": "tjstocks-0122-2025-09-17-RGTI-ADD",
     "source_id": "chat:a27b2288:reply:a2e2f0a8",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a2e2f0a8-f6f5-4833-b4de-be237f46358f:clause:0",
@@ -3425,7 +3397,7 @@
     "publication_date": "2025-09-17",
     "effective_date": "2025-09-17",
     "date_uncertainty": null,
-    "company_name": "RGTI",
+    "company_name": "Rigetti",
     "ticker": "RGTI",
     "normalized_ticker": "RGTI",
     "exchange": "US",
@@ -3444,7 +3416,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0124-2025-09-18-HII-ADD",
+    "event_id": "tjstocks-0123-2025-09-18-HII-ADD",
     "source_id": "chat:a27b2288:reply:b5a4474e",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b5a4474e-accc-487e-bde2-d196dfd92ab1:clause:0",
@@ -3453,7 +3425,7 @@
     "publication_date": "2025-09-18",
     "effective_date": "2025-09-18",
     "date_uncertainty": null,
-    "company_name": "Huntington Ingalls",
+    "company_name": "VICR Huntington Ingalls",
     "ticker": "HII",
     "normalized_ticker": "HII",
     "exchange": "US",
@@ -3472,7 +3444,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0125-2025-09-23-KTOS-ADD",
+    "event_id": "tjstocks-0124-2025-09-23-KTOS-ADD",
     "source_id": "chat:a27b2288:reply:9dc97fe1",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:9dc97fe1-08ac-4e1a-a550-1317acb6c68a:clause:0",
@@ -3500,7 +3472,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0126-2025-09-24-BABA-ADD",
+    "event_id": "tjstocks-0125-2025-09-24-BABA-ADD",
     "source_id": "chat:a27b2288:reply:feadeb39",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:feadeb39-65e0-4950-9297-d5e9e80b86e1:clause:0",
@@ -3528,7 +3500,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0127-2025-10-08-TMC-SELL",
+    "event_id": "tjstocks-0126-2025-10-08-TMC-SELL",
     "source_id": "chat:a27b2288:reply:51994cad",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:51994cad-70b5-4816-ab9b-186b58275de9:clause:0",
@@ -3556,7 +3528,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0128-2025-10-21-NVTS-SELL",
+    "event_id": "tjstocks-0127-2025-10-21-NVTS-SELL",
     "source_id": "chat:a27b2288:reply:1e5a6f31",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:1e5a6f31-a531-43a1-a5bc-18595a28581f:clause:1",
@@ -3584,7 +3556,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0129-2025-10-29-HII-SELL",
+    "event_id": "tjstocks-0128-2025-10-29-HII-SELL",
     "source_id": "chat:a27b2288:reply:a758b1e1",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a758b1e1-0d98-4bc8-bf34-7f10d2f9ffc4:clause:0",
@@ -3593,7 +3565,7 @@
     "publication_date": "2025-10-29",
     "effective_date": "2025-10-29",
     "date_uncertainty": null,
-    "company_name": "Huntington Ingalls",
+    "company_name": "VICR Huntington Ingalls",
     "ticker": "HII",
     "normalized_ticker": "HII",
     "exchange": "US",
@@ -3612,7 +3584,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0130-2026-01-05-ERO-ADD",
+    "event_id": "tjstocks-0129-2026-01-05-ERO-ADD",
     "source_id": "chat:a27b2288:reply:def6aca0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:def6aca0-98e6-4016-875c-dc75cd239c96:clause:1",
@@ -3640,7 +3612,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0131-2026-01-05-AMKR-ADD",
+    "event_id": "tjstocks-0130-2026-01-05-AMKR-ADD",
     "source_id": "chat:a27b2288:reply:def6aca0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:def6aca0-98e6-4016-875c-dc75cd239c96:clause:1",
@@ -3668,7 +3640,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0132-2026-01-13-KTOS-BUY",
+    "event_id": "tjstocks-0131-2026-01-13-KTOS-BUY",
     "source_id": "chat:a27b2288:reply:ab506b60",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:ab506b60-afb3-4ce9-8d1e-9c70931c3eea:clause:0",
@@ -3696,7 +3668,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0133-2026-01-13-KTOS-BUY",
+    "event_id": "tjstocks-0132-2026-01-13-KTOS-BUY",
     "source_id": "chat:a27b2288:reply:bd1eda48",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:bd1eda48-55c6-44ab-a833-11829e4a40cc:clause:1",
@@ -3724,7 +3696,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0134-2026-01-15-NVMI-ADD",
+    "event_id": "tjstocks-0133-2026-01-15-NVMI-ADD",
     "source_id": "chat:a27b2288:reply:a0611e40",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:a0611e40-7997-4f61-b81b-2881f1b4fd40:clause:0",
@@ -3752,7 +3724,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0135-2026-01-27-PAAS-BUY",
+    "event_id": "tjstocks-0134-2026-01-27-PAAS-BUY",
     "source_id": "chat:a27b2288:reply:f98f1ff4",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f98f1ff4-1b73-492a-bece-6ce4650935e2:clause:2",
@@ -3780,7 +3752,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0136-2026-01-29-PL-SELL",
+    "event_id": "tjstocks-0135-2026-01-29-PL-SELL",
     "source_id": "chat:a27b2288:reply:14800bbc",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:14800bbc-fb4e-4c51-98e4-27affba7519e:clause:0",
@@ -3808,7 +3780,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0137-2026-01-30-FDX-HOLD",
+    "event_id": "tjstocks-0136-2026-01-30-FDX-HOLD",
     "source_id": "chat:a27b2288:reply:84406a0c",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:84406a0c-9034-40c4-a78a-7ab370421ff0:clause:3",
@@ -3817,7 +3789,7 @@
     "publication_date": "2026-01-30",
     "effective_date": "2026-01-30",
     "date_uncertainty": null,
-    "company_name": "FedEx",
+    "company_name": "FedEx Corporation",
     "ticker": "FDX",
     "normalized_ticker": "FDX",
     "exchange": "US",
@@ -3836,7 +3808,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0138-2026-01-30-COMP-SELL",
+    "event_id": "tjstocks-0137-2026-01-30-COMP-SELL",
     "source_id": "chat:a27b2288:reply:78683ac0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:78683ac0-131b-4e9a-bf55-15fa8a106991:clause:0",
@@ -3864,7 +3836,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0139-2026-01-30-NVMI-SELL",
+    "event_id": "tjstocks-0138-2026-01-30-NVMI-SELL",
     "source_id": "chat:a27b2288:reply:b4558e8d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b4558e8d-fe61-479b-b812-6fbb82112dcd:clause:0",
@@ -3892,7 +3864,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0140-2026-01-30-AMKR-SELL",
+    "event_id": "tjstocks-0139-2026-01-30-AMKR-SELL",
     "source_id": "chat:a27b2288:reply:f756f401",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:f756f401-0e2c-4cac-9eab-ea1c3c86370d:clause:0",
@@ -3920,7 +3892,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0141-2026-01-30-ERO-SELL",
+    "event_id": "tjstocks-0140-2026-01-30-ERO-SELL",
     "source_id": "chat:a27b2288:reply:91d0d93d",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:91d0d93d-8439-4f37-a877-1debb14e3913:clause:0",
@@ -3948,7 +3920,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0142-2026-02-02-SPG-BUY",
+    "event_id": "tjstocks-0141-2026-02-02-SPG-BUY",
     "source_id": "chat:a27b2288:reply:d1a1ca7b",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:d1a1ca7b-0a87-4b56-b254-fe5d1adacb2c:clause:0",
@@ -3976,7 +3948,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0143-2026-02-06-FDX-ADD",
+    "event_id": "tjstocks-0142-2026-02-06-FDX-ADD",
     "source_id": "chat:a27b2288:reply:ab7d3f97",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:ab7d3f97-ea17-44df-a44a-5f3438f0d8f8:clause:0",
@@ -3985,7 +3957,7 @@
     "publication_date": "2026-02-06",
     "effective_date": "2026-02-06",
     "date_uncertainty": null,
-    "company_name": "FedEx",
+    "company_name": "FedEx Corporation",
     "ticker": "FDX",
     "normalized_ticker": "FDX",
     "exchange": "US",
@@ -4004,7 +3976,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0144-2026-04-14-CATY-ADD",
+    "event_id": "tjstocks-0143-2026-04-14-CATY-ADD",
     "source_id": "chat:a27b2288:reply:bd8062e6",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:bd8062e6-9b33-41b5-8a50-d63e2f41f096:clause:0",
@@ -4032,7 +4004,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0145-2026-04-14-BFST-ADD",
+    "event_id": "tjstocks-0144-2026-04-14-BFST-ADD",
     "source_id": "chat:a27b2288:reply:bd8062e6",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:bd8062e6-9b33-41b5-8a50-d63e2f41f096:clause:0",
@@ -4060,7 +4032,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0146-2026-05-26-LUNR-SELL",
+    "event_id": "tjstocks-0145-2026-05-26-LUNR-SELL",
     "source_id": "chat:a27b2288:reply:ae96fdf0",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:ae96fdf0-d7c9-47e3-bd35-8d77fc5b4dff:clause:0",
@@ -4088,7 +4060,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0147-2026-06-01-TXT-SELL",
+    "event_id": "tjstocks-0146-2026-06-01-TXT-SELL",
     "source_id": "chat:a27b2288:reply:5dac00b4",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:5dac00b4-23bd-481b-9b4e-e82bdb38c418:clause:0",
@@ -4097,7 +4069,7 @@
     "publication_date": "2026-06-01",
     "effective_date": "2026-06-01",
     "date_uncertainty": null,
-    "company_name": "Textron Inc",
+    "company_name": "Buy Textron Inc",
     "ticker": "TXT",
     "normalized_ticker": "TXT",
     "exchange": "US",
@@ -4116,7 +4088,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0148-2026-06-25-EVC-BUY",
+    "event_id": "tjstocks-0147-2026-06-25-EVC-BUY",
     "source_id": "chat:a27b2288:reply:0d059460",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:0d059460-aba0-4329-abe6-d88b33ace46b:clause:1",
@@ -4144,7 +4116,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0149-2026-06-26-APLD-SELL",
+    "event_id": "tjstocks-0148-2026-06-26-APLD-SELL",
     "source_id": "chat:a27b2288:reply:7dca16a8",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:7dca16a8-cd99-42e6-bc28-aeca0e880f25:clause:0",
@@ -4172,7 +4144,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0150-2026-07-17-XMTR-ADD",
+    "event_id": "tjstocks-0149-2026-07-17-XMTR-ADD",
     "source_id": "chat:a27b2288:reply:b93d4489",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b93d4489-90e5-4486-9e1b-d5d092e48dd2:clause:0",
@@ -4200,7 +4172,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0151-2026-08-04-SPG-ADD",
+    "event_id": "tjstocks-0150-2026-08-04-SPG-ADD",
     "source_id": "chat:a27b2288:reply:6d11ae71",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:6d11ae71-c597-4aaf-84a0-8463adef398b:clause:1",
@@ -4228,7 +4200,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0152-2026-08-04-XMTR-ADD",
+    "event_id": "tjstocks-0151-2026-08-04-XMTR-ADD",
     "source_id": "chat:a27b2288:reply:6d11ae71",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:6d11ae71-c597-4aaf-84a0-8463adef398b:clause:1",
@@ -4256,7 +4228,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0153-2026-08-04-CNO-BUY",
+    "event_id": "tjstocks-0152-2026-08-04-CNO-BUY",
     "source_id": "chat:a27b2288:reply:6d11ae71",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:6d11ae71-c597-4aaf-84a0-8463adef398b:clause:3",
@@ -4284,7 +4256,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0154-2026-08-11-EVC-SELL",
+    "event_id": "tjstocks-0153-2026-08-11-EVC-SELL",
     "source_id": "chat:a27b2288:reply:deafc135",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:deafc135-f53a-4026-9a13-c0eefacb880a:clause:0",
@@ -4312,7 +4284,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0155-2026-08-19-RIOT-BUY",
+    "event_id": "tjstocks-0154-2026-08-19-RIOT-BUY",
     "source_id": "chat:a27b2288:reply:053239d2",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:053239d2-e08e-4d7c-995e-e0d855f41e6d:clause:5",
@@ -4340,7 +4312,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0156-2026-08-27-WSFS-SELL",
+    "event_id": "tjstocks-0155-2026-08-27-WSFS-SELL",
     "source_id": "chat:a27b2288:reply:77098c07",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:77098c07-1729-4a70-b013-224b8afcb540:clause:0",
@@ -4368,7 +4340,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0157-2026-08-27-SPG-SELL",
+    "event_id": "tjstocks-0156-2026-08-27-SPG-SELL",
     "source_id": "chat:a27b2288:reply:77098c07",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:77098c07-1729-4a70-b013-224b8afcb540:clause:0",
@@ -4396,7 +4368,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0158-2026-08-27-CATY-SELL",
+    "event_id": "tjstocks-0157-2026-08-27-CATY-SELL",
     "source_id": "chat:a27b2288:reply:22a50048",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:22a50048-c7a7-4c2c-8b32-42af71f9a1cb:clause:0",
@@ -4424,7 +4396,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0159-2026-09-01-RIOT-SELL",
+    "event_id": "tjstocks-0158-2026-09-01-RIOT-SELL",
     "source_id": "chat:a27b2288:reply:7b53db2e",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:7b53db2e-be38-4154-8379-e2f1c2672766:clause:0",
@@ -4452,7 +4424,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0160-2026-09-02-TE-SELL",
+    "event_id": "tjstocks-0159-2026-09-02-TE-SELL",
     "source_id": "chat:a27b2288:reply:d9942f18",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:d9942f18-247a-490d-84ae-9ca11ef22ee9:clause:0",
@@ -4480,7 +4452,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0161-2026-09-02-CXDO-SELL",
+    "event_id": "tjstocks-0160-2026-09-02-CXDO-SELL",
     "source_id": "chat:a27b2288:reply:b417322e",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:b417322e-675d-4044-a34b-b01af13977ac:clause:0",
@@ -4508,7 +4480,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0162-2026-09-14-HNGE-BUY",
+    "event_id": "tjstocks-0161-2026-09-14-HNGE-BUY",
     "source_id": "chat:a27b2288:reply:24195abe",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:24195abe-388d-4080-ad3e-6e8beb263be0:clause:0",
@@ -4536,7 +4508,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0163-2026-09-23-TWLO-BUY",
+    "event_id": "tjstocks-0162-2026-09-23-TWLO-BUY",
     "source_id": "chat:a27b2288:reply:16ea07c7",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:16ea07c7-49ea-460f-9f25-33a55ae1807a:clause:0",
@@ -4564,7 +4536,7 @@
     "unresolved_fields": []
   },
   {
-    "event_id": "tjstocks-0164-2026-09-23-APPS-BUY",
+    "event_id": "tjstocks-0163-2026-09-23-APPS-BUY",
     "source_id": "chat:a27b2288:reply:16ea07c7",
     "source_type": "chat_reply",
     "location": "thread:a27b2288-ae6c-4cb6-833a-bfb84d676813:reply:16ea07c7-49ea-460f-9f25-33a55ae1807a:clause:0",

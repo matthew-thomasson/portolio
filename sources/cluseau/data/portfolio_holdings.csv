@@ -1,39 +1,38 @@
 symbol,name,market,weight,cost_basis,latest_price,current_rating,entry_date,source_file
 BITW,BITW,:us:,,,,BUY,2023-10-19,45-discount-to-nav-bitw-trap-or-compelling
 CGEO.L,Georgia Capital,:uk:,,,,BUY,2025-06-30,identifying-structuring-and-sizing
-PFF,Income Securities ETF,:us:,,,,BUY,2025-07-11,the-value-investors-paradise
+VIE,Variable Interest Entity,:us:,,,,BUY,2025-07-11,the-value-investors-paradise
 CBL,CBL Properties,:us:,,,,BUY,2025-08-29,shifting-into-rates-down
 OPY,Oppenheimer,:us:,,,,BUY,2025-10-03,chat:7726ab68
 9478.T,Incubations,:jp:,,,,BUY,2025-10-07,chat:de06d731
 CCCX,CCCX,:us:,,,,BUY,2025-10-09,chat:36b64fc5:reply:7e224cdf
-WLAC,Honestly the Boost Run,:us:,,13.38,,BUY,2025-10-09,chat:36b64fc5
-NECB,Long Northeast Community Bancorp,:us:,,,,BUY,2025-10-15,chat:0502c780:reply:0237246f
-OPBK,ALL,:us:,,,,BUY,2025-10-15,chat:0502c780:reply:0237246f
+WLAC,Willow Lane Acquisition Corp,:us:,,13.38,,BUY,2025-10-09,chat:36b64fc5
+OPBK,OP Bancorp,:us:,,,,BUY,2025-10-15,chat:0502c780:reply:0237246f
 WSBF,Waterstone Financial,:us:,,,,BUY,2025-10-16,chat:b581f050:reply:a56ceb34
-HRTG,Heritage,:us:,,,,BUY,2025-10-17,chat:b581f050:reply:a56ceb34
-IGIC,International General Insurance,:us:,,,,BUY,2025-10-24,chat:630d008f:reply:e9e35327
+HRTG,Long Heritage Insurance,:us:,,,,BUY,2025-10-17,chat:b581f050:reply:a56ceb34
+IGIC,Insurance LONG International General Insurance Holdings,:us:,,,,BUY,2025-10-24,chat:630d008f:reply:e9e35327
 IFOS.V,Itafos,:ca:,,,,BUY,2025-10-29,chat:6d919c6d
 AGM,Farmer Mac,:us:,,,,BUY,2025-11-11,double-vision
-7167.T,QQQM,:jp:,,,,BUY,2025-11-13,chat:d4961037:reply:889c61fd
-CUBI,Customers,:us:,,,,BUY,2025-11-13,chat:d4961037:reply:889c61fd
+7167.T,Mebuki Financial,:jp:,,,,BUY,2025-11-13,chat:d4961037:reply:889c61fd
+CUBI,LONG Customer's Bancorp,:us:,,,,BUY,2025-11-13,chat:d4961037:reply:889c61fd
 FRSH,Freshdesk,:us:,,,,BUY,2025-11-13,chat:150a9f89
 GOOGL,Google,:us:,,,,BUY,2025-11-13,chat:d4961037:reply:889c61fd
 OSB.L,OSB Group,:uk:,,,,BUY,2025-11-13,chat:d4961037:reply:889c61fd
-TIGR,Tiger,:us:,0.0125,,,BUY,2025-11-18,chat:6105289e:reply:8ad13c06
-285A.T,Hynix,:jp:,0.005,322.0,,BUY,2025-11-24,chat:5ed74fe3
+TIGR,Up Fintech,:us:,0.0125,,,BUY,2025-11-18,chat:6105289e:reply:8ad13c06
 HY9H.F,Hynix Global Depository Receipts,:de:,0.005,322.0,,BUY,2025-11-24,chat:5ed74fe3
-AII,Long American Integrity Insurance,:us:,,,,BUY,2025-11-25,snacking-on-banking-and-insurance
+AII,Financials Long American Integrity Insurance,:us:,,,,BUY,2025-11-25,snacking-on-banking-and-insurance
+NECB,Financials Long Northeast Community Bancorp,:us:,,,,BUY,2025-11-25,snacking-on-banking-and-insurance
 244920.KS,Plus Asset Advisor,:kr:,,,,BUY,2025-12-10,chat:44334244
 MBIN,Merchants Bancorp of Indiana,:us:,,,,BUY,2025-12-10,chat:44334244
 VBNK,Versabank,:us:,,12.9,,BUY,2025-12-10,chat:44334244:reply:3445dd6e
-ALKT,Alkami Technologies,:us:,,,,BUY,2025-12-16,chat:de95a5c1
-ACFN,Acorn Energy,:us:,,,,BUY,2025-12-19,chat:8a94f69c
+ACFN,Real Life Trade Acorn Energy,:us:,,,,BUY,2025-12-19,chat:8a94f69c
 CCV.AX,Cash Converters,:au:,,,,BUY,2025-12-19,chat:8a94f69c
 SMSD.IL,Long Samsung Electronics Preferred,:uk:,,,,BUY,2025-12-29,chat:09890013
 PSIX,Power Solutions International,:us:,0.02,,,BUY,2026-01-05,chat:4c48de62
 WLFC,Willis Air Lease Finance,:us:,0.005,,,BUY,2026-01-16,chat:a7374ada
+285A.T,Kioxia,:jp:,,,,BUY,2026-01-27,chat:8b7d8c25:reply:c3ad5e63
 CRE.L,Conduit Insurance Holdings,:uk:,,,,BUY,2026-02-06,chat:7e7b0c31
-KSPI,Kazakh Fintech,:us:,,,,BUY,2026-02-17,chat:d9dcf5d0:reply:19d69121
+KSPI,Kaspi,:us:,,,,BUY,2026-02-17,chat:d9dcf5d0:reply:19d69121
 3600.HK,Modern Dental Group,:hk:,,,,BUY,2026-03-09,march-2026-trade-review
 EVC,Entravision,:us:,,,,BUY,2026-03-09,march-2026-trade-review
 7089.T,For Startups,:jp:,,,,BUY,2026-04-17,april-2026-portfolio-review
@@ -44,15 +43,15 @@ MOMO,MOMO,:us:,,,,BUY,2026-04-17,april-2026-portfolio-review
 ASIC,Ategrity Specialty Insurance,:us:,,12.0,,BUY,2026-04-30,chat:06b458ab
 PENG,Penguin Solutions,:us:,,,,BUY,2026-05-05,chat:c50d39cd
 013030.KQ,Hy-Lok,:kr:,,,,BUY,2026-05-06,chat:cffb4bf4:reply:d94f8a5e
-453340.KS,Hyundai Green Food,:kr:,,19000.0,,BUY,2026-05-11,boring-is-beautiful
+453340.KS,JPY Hyundai Green Food,:kr:,,19000.0,,BUY,2026-05-11,boring-is-beautiful
 139130.KS,IM Financial Group,:kr:,0.0025,,,BUY,2026-05-11,chat:1886c385:reply:9be38d27
 GDOT,Green Dot Corporation,:us:,,,,BUY,2026-05-26,go-stub-yourself
 BARAX,Baron Asset Fund Retail Class,:us:,,,,BUY,2026-06-03,too-many-cooks-spoil-the-pot
 CTT.LS,Correios De Portugal,:pt:,,,,BUY,2026-06-12,june-2026-portfolio-review
 NRG,NRG Energy,:us:,0.005,139.0,,BUY,2026-06-18,chat:8e86f1af
-VISN,Vistance,:us:,0.175,,,BUY,2026-07-02,chat:7e2f4138
-7380.T,Juroku,:jp:,,,,BUY,2026-08-13,chat:3b055e3f
-8399.T,Ryukyus,:jp:,,,,BUY,2026-08-13,chat:3b055e3f
+VISN,Tangible Book Value. Vistance Networks,:us:,0.175,,,BUY,2026-07-02,chat:7e2f4138
+7380.T,Juroku Financial Group,:jp:,,,,BUY,2026-08-13,chat:3b055e3f
+8399.T,Bank of the Ryukyus,:jp:,,,,BUY,2026-08-13,chat:3b055e3f
 6626.T,Semitec,:jp:,,,,BUY,2026-09-03,september-2026-portfolio-review
 ABCA.PA,ABC Arbitrage,:fr:,,,,BUY,2026-09-03,september-2026-portfolio-review
 IESC,IES Holdings,:us:,,,,BUY,2026-09-14,chat:4f4e47c9

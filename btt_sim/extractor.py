@@ -17,7 +17,7 @@ from .config import Settings, SourceConfig
 from .ingestion import discover_publication_authors
 from .prices import PriceProvider
 
-EXTRACTOR_VERSION = "3.4.0"
+EXTRACTOR_VERSION = "3.5.0"
 
 # Financial / accounting / macro / English tokens that must NEVER be mistaken for bare stock tickers
 STOPWORD_ACRONYMS: set[str] = {
@@ -301,6 +301,8 @@ GENERIC_ALIAS_WORDS: set[str] = {
     "series", "santiago", "exchange", "class", "common", "ordinary", "sponsored",
     "supply", "chain", "chains", "demand", "services", "service", "systems", "system", "solutions", "network", "networks",
     "thought", "thoughts", "weekly", "monthly", "growing", "extreme", "comparable", "sales", "example", "current", "special", "feature",
+    "income", "securities", "ishares", "depository", "receipts", "deposit", "deposits", "rate", "rates", "interest",
+    "credit", "debt", "loan", "loans", "notes", "yield", "treasury", "holding", "holdings", "equity", "equities", "group",
 }
 
 NON_COMPANY_START_TOKENS: set[str] = {
@@ -485,7 +487,9 @@ class SecurityResolver:
             prev = self.known_symbols.get(base_sym)
             if prev is None or (prev[1] == ":us:" and mkt != ":us:"):
                 self.known_symbols[base_sym] = (norm_sym, mkt, exch, clean_disp or norm_sym)
-        self.known_symbols[norm_sym] = (norm_sym, mkt, exch, clean_disp or norm_sym)
+        prev_norm = self.known_symbols.get(norm_sym)
+        if prev_norm is None or not prev_norm[3] or prev_norm[3] == norm_sym or (clean_disp and len(clean_disp) > len(prev_norm[3]) and prev_norm[3] in clean_disp):
+            self.known_symbols[norm_sym] = (norm_sym, mkt, exch, clean_disp or norm_sym)
 
         # Reject sentence fragments pretending to be company names
         raw_words = re.findall(r"[A-Za-z0-9&\'’-]+", clean_disp)
@@ -517,9 +521,15 @@ class SecurityResolver:
                         is_valid_full = True
 
             if is_valid_full:
-                self.alias_map[alias] = (norm_sym, mkt, exch, clean_disp)
+                if alias not in GENERIC_ALIAS_WORDS:
+                    self.alias_map[alias] = (norm_sym, mkt, exch, clean_disp)
                 # Register distinctive non-generic proper-noun single word only on concise company names (<=3 tokens)
-                if len(tokens) <= 3:
+                # NEVER register single sub-tokens if company is an ETF, fund, trust, index, notes, or generic basket
+                is_basket_or_fund = any(
+                    t in ("etf", "fund", "funds", "trust", "index", "notes", "preferred", "income", "receipts", "securities")
+                    for t in tokens
+                )
+                if len(tokens) <= 3 and not is_basket_or_fund:
                     for tok in tokens:
                         if (
                             len(tok) >= 6
@@ -528,7 +538,8 @@ class SecurityResolver:
                             and tok.upper() not in STOPWORD_ACRONYMS
                             and not tok.isdigit()
                         ):
-                            self.alias_map.setdefault(tok, (norm_sym, mkt, exch, clean_disp))
+                            if tok not in self.alias_map:
+                                self.alias_map[tok] = (norm_sym, mkt, exch, clean_disp)
                             break
         return norm_sym, mkt, exch
 
@@ -624,21 +635,26 @@ class SecurityResolver:
                 continue
             self.register_binding(cname, raw_sym, hint=ex_hint, context_text=win)
 
-        # Pattern 4: Company Name - 8399 / Company Name, 453340 (explicit numeric international listing)
+        # Pattern 4: Company Name - 8399 / Company Name, 453340 KS (explicit numeric international listing)
         p4 = re.compile(
-            r"\b([A-Z][A-Za-z0-9&.\'’-]+(?:\s+(?:of|the|[A-Z][A-Za-z0-9&.\'’-]+)){0,4})\s*(?:[-–—]|,)\s*(\d{4}|\d{6}|\d{3}[ACDEFHIJLNOPQRSTUVWY])\b"
+            r"\b([A-Z][A-Za-z0-9&.\'’-]+(?:\s+(?:of|the|[A-Z][A-Za-z0-9&.\'’-]+)){0,4})\s*(?:[-–—]|\s*:\s*|,\s*(?=\d{6}\s+(?:KS|KQ)\b))\s*(\d{4}|\d{6}|\d{3}[ACDEFHIJLNOPQRSTUVWY])(?:\s+(KS|KQ))?\b"
         )
         for m in p4.finditer(text):
             cname = m.group(1).strip()
             code = m.group(2).strip()
+            ex_hint = m.group(3)
+            # Skip if cname is an established company name that must never be bound to another ticker from prose lists
+            cname_clean = _clean_company_alias(cname)
+            if cname_clean in ("hynix", "samsung", "micron", "google", "western digital", "godaddy", "cbl", "powell"):
+                continue
             win = text[max(0, m.start() - 200): min(len(text), m.end() + 200)]
             if len(code) == 4 and code.isdigit() and not self._is_valid_4digit_stock_code(code, win, False):
                 continue
-            if len(code) == 6 and code.isdigit() and not re.search(
+            if len(code) == 6 and code.isdigit() and not ex_hint and not re.search(
                 r"\b(?:korea|korean|kospi|kosdaq|krx|won|krw|ks|kq)\b", win, re.I
             ):
                 continue
-            self.register_binding(cname, code, context_text=win)
+            self.register_binding(cname, code, hint=ex_hint, context_text=win)
 
     def find_securities_in_clause(self, clause: str, fallback_context: str = "") -> list[tuple[str, str, str, str]]:
         """Extract ordered list of (normalized_ticker, market, exchange, company_name) mentioned in a clause."""
@@ -798,7 +814,7 @@ class SecurityResolver:
         clause_clean = f" {_clean_company_alias(clause)} "
         if len(clause_clean) > 3:
             for alias in sorted(self.alias_map.keys(), key=len, reverse=True):
-                if len(alias) < 4:
+                if len(alias) < 4 or alias in GENERIC_ALIAS_WORDS:
                     continue
                 if f" {alias} " in clause_clean:
                     norm, mkt, exch, cname = self.alias_map[alias]
@@ -1061,7 +1077,7 @@ class ExtractionEngine:
             # - "significantly reducing CBL and initating smaller positions in..."
             # - "added a bit to HRTG, the stock trades wildly... peers like HCI..."
             sub_parts = re.split(
-                r"(?:,\s*but\s+|,\s*(?=the\s+(?:stock|only|company)\b)|,\s*|\s+and\s+|\s+to\s+(?=make\s+room\s+for\b)|\s*;\s*|\s+[-–—]\s+(?=tonight\s+i\b))(?=(?:(?:i|we)\s+(?:am|are|have|will\s+be|bought|added|trimmed|closed|sold|cut)\b|the\s+(?:stock|only)\b|totally\s+|am\s+also\s+(?:looking|short)\b|continue\s+to\s+remain|[A-Z][a-z]+\s+will\s+continue\s+|redeploying\b|make\s+room\s+for\b|put\s+the\s+proceeds\s+into\b|initiat(?:e|ing|ed)\b|initating\b|(?:buy|bought|buying|add|added|adding|increased|increasing|picked\s+up|start|started|starting|trimmed|trimming|cut|cutting|reduce|reduced|reducing|close|closed|closing|sell|sold|selling|exit|exited|exiting|shorted|shorting))\b)",
+                r"(?:,\s*but\s+|,\s*(?=the\s+(?:stock|only|company)\b)|,\s*|\s+and\s+|\s+to\s+(?=make\s+room\s+for\b)|\s*;\s*|\s+[-–—]\s+(?=tonight\s+i\b))(?=(?:(?:i|we)(?:\s+(?:am|are|have|will\s+be|bought|added|trimmed|closed|sold|cut)|[’\']ve(?:\s+been)?)\b|the\s+(?:stock|only)\b|totally\s+|am\s+also\s+(?:looking|short)\b|continue\s+to\s+remain|[A-Z][a-z]+\s+will\s+continue\s+|redeploying\b|make\s+room\s+for\b|put\s+the\s+proceeds\s+into\b|initiat(?:e|ing|ed)\b|initating\b|(?:buy|bought|buying|add|added|adding|increased|increasing|picked\s+up|start|started|starting|trimmed|trimming|cut|cutting|reduce|reduced|reducing|close|closed|closing|sell|sold|selling|exit|exited|exiting|shorted|shorting))\b)",
                 line,
                 flags=re.IGNORECASE,
             )
@@ -1670,8 +1686,38 @@ class ExtractionEngine:
         if act == "SELL":
             trim_f = 1.0
 
-        results: list[ExtractedCandidate] = []
+        # Locate each security within raw clause
+        sec_spans: list[tuple[int, int, str, str, str, str]] = []
         for norm, mkt, exch, cname in secs:
+            base_sym = norm.split(".")[0]
+            m_pos = re.search(r"\b" + re.escape(base_sym) + r"\b", raw) or (
+                re.search(r"\b" + re.escape(cname) + r"\b", raw, re.I) if cname else None
+            )
+            start_pos = m_pos.start() if m_pos else raw.find(base_sym)
+            end_pos = m_pos.end() if m_pos else (start_pos + len(base_sym) if start_pos != -1 else len(raw))
+            sec_spans.append((start_pos, end_pos, norm, mkt, exch, cname))
+
+        sec_spans.sort(key=lambda x: x[0] if x[0] != -1 else 999999)
+
+        results: list[ExtractedCandidate] = []
+        for i, (sp_start, sp_end, norm, mkt, exch, cname) in enumerate(sec_spans):
+            base_sym = norm.split(".")[0]
+
+            # 1. Action-Security Association Check:
+            # If multiple securities are in the clause, ensure this security is not in a non-trade / monitoring context
+            if len(sec_spans) > 1 and sp_start != -1:
+                prev_bound = sec_spans[i - 1][1] if i > 0 and sec_spans[i - 1][1] <= sp_start else 0
+                next_bound = sec_spans[i + 1][0] if i + 1 < len(sec_spans) and sec_spans[i + 1][0] > sp_end else len(raw)
+                local_seg = raw[prev_bound:next_bound]
+
+                if re.search(
+                    r"\b(?:just\s+monitoring|monitoring|careful\s+on|watching|waiting\s+on|staying\s+away\s+from|avoiding|prefer\s+[A-Za-z0-9&.\'’-]+\s+over)\s+"
+                    + re.escape(base_sym) + r"\b",
+                    local_seg,
+                    re.I,
+                ):
+                    continue
+
             inst = self._detect_instrument_type(raw, norm)
             final_act = act
             if inst == "short":
@@ -1679,7 +1725,16 @@ class ExtractionEngine:
             elif inst in ("option_call", "option_put", "option_collar", "option_spread"):
                 final_act = "HEDGE"
 
-            px, curr = self._extract_price_and_currency(raw, market=mkt)
+            # 2. Targeted Price Association:
+            if len(sec_spans) > 1 and sp_start != -1:
+                next_bound = sec_spans[i + 1][0] if i + 1 < len(sec_spans) and sec_spans[i + 1][0] > sp_end else len(raw)
+                sec_sub = raw[sp_start:next_bound]
+                px, curr = self._extract_price_and_currency(sec_sub, market=mkt)
+                if px is None:
+                    pre_sub = raw[max(0, sp_start - 35):sp_end]
+                    px, curr = self._extract_price_and_currency(pre_sub, market=mkt)
+            else:
+                px, curr = self._extract_price_and_currency(raw, market=mkt)
             unresolved: list[str] = []
             if date_uncert:
                 unresolved.append("exact_initial_fill_date")
@@ -2764,14 +2819,6 @@ class ExtractionEngine:
                 if already_captured:
                     continue
 
-                if act == "SELL":
-                    has_later_primary_sell = any(
-                        p_dt > dt and p_act == "SELL" for (p_dt, p_act) in prim_list
-                    )
-                    if has_later_primary_sell:
-                        c.action = "TRIM"
-                        c.trim_fraction = 0.50
-                        act = "TRIM"
 
             # Suppress duplicate article BUY/SELL restatement when Datawrapper primary_table or chat alert already recorded the trade within ±14 days
             if c.discovery_layer == "primary_article" and act == "BUY":

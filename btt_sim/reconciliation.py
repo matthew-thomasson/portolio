@@ -1264,12 +1264,7 @@ class ReconciliationEngine:
                 if not later_sells.empty:
                     sell_dt = str(later_sells.iloc[0]["date"])[:10]
                     day_gap = abs((pd.Timestamp(sell_dt) - pd.Timestamp(cp.evaluation_date)).days)
-                    has_recent_trim = not ev_df[
-                        ((ev_df["ticker"].astype(str).str.upper() == ticker) | (ev_df["ticker"].astype(str).str.upper().str.split(".").str[0] == base_t))
-                        & (ev_df["action"].astype(str).str.upper() == "TRIM")
-                        & (abs((pd.to_datetime(ev_df["date"]) - pd.to_datetime(cp.evaluation_date)).dt.days) <= 10)
-                    ].empty
-                    if day_gap <= 5 or (has_recent_trim and day_gap <= 45):
+                    if day_gap <= 5:
                         return CheckpointDiscrepancy(
                             checkpoint_id=cp.checkpoint_id,
                             checkpoint_date=cp.evaluation_date,
@@ -1278,7 +1273,7 @@ class ReconciliationEngine:
                             severity="WARNING",
                             root_cause=RootCauseCategory.PARTIAL_DISCLOSURE,
                             evidence_summary=f"{reason} Exit recorded {day_gap} day(s) later on {sell_dt}.",
-                            recommended_action="Verified partial trim/settlement difference with subsequent explicit exit.",
+                            recommended_action="Verified settlement timing difference with subsequent explicit exit.",
                             is_resolved=True,
                         )
             except Exception:

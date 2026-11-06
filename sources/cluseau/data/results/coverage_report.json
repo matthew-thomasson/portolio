@@ -9,17 +9,17 @@
   "chat_threads_count": 404,
   "chat_replies_count": 7689,
   "datawrapper_tables_count": 0,
-  "trade_events_count": 149,
-  "unique_simulated_tickers": 59,
+  "trade_events_count": 146,
+  "unique_simulated_tickers": 58,
   "checkpoints_count": 4,
   "disclosed_positions_checked": 37,
-  "reconciled_count": 35,
+  "reconciled_count": 36,
   "unresolved_discrepancies_count": 0,
-  "warnings_count": 2,
+  "warnings_count": 1,
   "positions": [
     {
       "ticker": "3600.HK",
-      "company_name": "Modern Dental Group",
+      "company_name": "HK Small Caps. Modern Dental Group",
       "source_file": "2026-03-09__march-2026-trade-review.json",
       "disclosure_date": "2026-03-09",
       "disclosure_type": "active",
@@ -29,7 +29,7 @@
     },
     {
       "ticker": "9478.T",
-      "company_name": "SE",
+      "company_name": "Incubations",
       "source_file": "2026-03-09__march-2026-trade-review.json",
       "disclosure_date": "2026-03-09",
       "disclosure_type": "active",
@@ -149,7 +149,7 @@
     },
     {
       "ticker": "3600.HK",
-      "company_name": "Modern Dental Group",
+      "company_name": "HK Small Caps. Modern Dental Group",
       "source_file": "2026-06-12__june-2026-portfolio-review.json",
       "disclosure_date": "2026-06-12",
       "disclosure_type": "active",
@@ -253,9 +253,9 @@
       "source_file": "2026-10-05__september-2026-portfolio-review.json",
       "disclosure_date": "2026-10-05",
       "disclosure_type": "closed",
-      "status_in_ledger": "WARNING_DOCUMENTED",
-      "root_cause": "PARTIAL_DISCLOSURE",
-      "notes": "Checkpoint explicitly marks 402340.KS as CLOSED (Review closed recap (2026-10-01): 10. SK Square (402340) +44% - Exited October 1), but simulation still holds it open on 2026-10-05. Exit recorded 30 d"
+      "status_in_ledger": "RECONCILED",
+      "root_cause": "RECONCILED",
+      "notes": "Review closed recap (2026-10-01): 10. SK Square (402340) +44% - Exited October 1"
     },
     {
       "ticker": "6626.T",
@@ -395,7 +395,7 @@
     "is_archive_valid": true,
     "checkpoints_evaluated": 4,
     "unresolved_errors": 0,
-    "warnings_count": 2,
+    "warnings_count": 1,
     "info_count": 3,
     "checkpoints": [
       {
@@ -416,12 +416,12 @@
           },
           "9478.T": {
             "status": "active",
-            "name": "SE",
+            "name": "Incubations",
             "evidence": "Review heading active addition: 2. Adding to SE Holdings and Incubations (9478 JP)"
           },
           "3600.HK": {
             "status": "active",
-            "name": "Modern Dental Group",
+            "name": "HK Small Caps. Modern Dental Group",
             "evidence": "Review heading active addition: 3. Adding to Modern Dental Group (3600 HK)"
           },
           "KSPI": {
@@ -528,7 +528,7 @@
           },
           "3600.HK": {
             "status": "active",
-            "name": "Modern Dental Group",
+            "name": "HK Small Caps. Modern Dental Group",
             "evidence": "Review active holding statement: initating smaller positions in the Korea Value Basket (Hyundai Green Food, iM Financial Group, and Hy-Lok), I have also been adding to Moder"
           },
           "CTT.LS": {
@@ -670,17 +670,6 @@
         "root_cause": "UNEXPLAINED_DISAPPEARANCE",
         "evidence_summary": "Disclosed active in june-2026-portfolio-review (2026-06-12) but absent from both active commentary and Removals recap in september-2026-portfolio-review (2026-10-05), with zero intervening archive mentions.",
         "recommended_action": "Retain open in simulation until an explicit exit is disclosed; do not fabricate a sell event from silence.",
-        "is_resolved": true
-      },
-      {
-        "checkpoint_id": "cluseau-2026-10-05-september-2026-portfolio-rev",
-        "checkpoint_date": "2026-10-05",
-        "ticker": "402340.KS",
-        "discrepancy_type": "UNEXPECTED_IN_SIMULATION",
-        "severity": "WARNING",
-        "root_cause": "PARTIAL_DISCLOSURE",
-        "evidence_summary": "Checkpoint explicitly marks 402340.KS as CLOSED (Review closed recap (2026-10-01): 10. SK Square (402340) +44% - Exited October 1), but simulation still holds it open on 2026-10-05. Exit recorded 30 day(s) later on 2026-11-04.",
-        "recommended_action": "Verified partial trim/settlement difference with subsequent explicit exit.",
         "is_resolved": true
       },
       {

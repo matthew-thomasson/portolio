@@ -5,12 +5,12 @@
   "geographic_attribution": [
     {
       "region": "United States",
-      "positions_count": 35,
-      "open_positions_count": 28,
-      "capital_deployed_usd": 36500.0,
+      "positions_count": 34,
+      "open_positions_count": 27,
+      "capital_deployed_usd": 35000.0,
       "realized_pnl_usd": 3369.2,
-      "unrealized_pnl_usd": 2397.83,
-      "total_pnl_usd": 5767.03,
+      "unrealized_pnl_usd": 2386.01,
+      "total_pnl_usd": 5755.21,
       "tickers": [
         "AGX",
         "AR",
@@ -45,10 +45,9 @@
         "STRL",
         "TGLS",
         "TPC",
-        "TSM",
         "WGS"
       ],
-      "return_on_deployed_pct": 15.8
+      "return_on_deployed_pct": 16.44
     },
     {
       "region": "South Korea",
@@ -80,16 +79,17 @@
     },
     {
       "region": "China / Taiwan ADR",
-      "positions_count": 1,
-      "open_positions_count": 0,
-      "capital_deployed_usd": 1000.0,
+      "positions_count": 2,
+      "open_positions_count": 1,
+      "capital_deployed_usd": 2500.0,
       "realized_pnl_usd": 2.37,
-      "unrealized_pnl_usd": 0.0,
-      "total_pnl_usd": 2.37,
+      "unrealized_pnl_usd": 11.82,
+      "total_pnl_usd": 14.19,
       "tickers": [
-        "JD"
+        "JD",
+        "TSM"
       ],
-      "return_on_deployed_pct": 0.24
+      "return_on_deployed_pct": 0.57
     },
     {
       "region": "Latin America",

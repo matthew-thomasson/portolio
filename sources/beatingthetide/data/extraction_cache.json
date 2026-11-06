@@ -1,10 +1,10 @@
 {
-  "_version": "3.4.0",
+  "_version": "3.5.0",
   "items": {
-    "623bfbccefec0d9b662282eb4737ad302cd6e7f13f272c1904d0952cebb69bc5": [],
-    "2668575c613842669edb00387dbd093818308cbb934dfb55582b6ab5acc26000": [],
-    "660c8c22f5dd9fab0ae34a091f8dcc67449e83bf468e12be03ddb62462dd2e05": [],
-    "f48a29506a22c99705be43b3a77bc74be273e8c9332a1170112217d70fa423cf": [
+    "3556c5af357abb9e37b869fe42bf9658de841adaaf1cd9288d7f93751691514c": [],
+    "87e00f30ee8188b72181b9183e96f9a3f2ec6691469057b17e59387e2c2747c4": [],
+    "be99f68dca0e96c707f768796f72e1f8e1bdc38fc981568f451698de8fd9d96d": [],
+    "cf843ebc31adefe6022012c36b70c73eaf1a4237ada724f810590d9612cefdef": [
       {
         "event_id": "",
         "source_id": "why-the-new-loan-wont-move-the-valuation",
@@ -62,8 +62,8 @@
         "unresolved_fields": []
       }
     ],
-    "59c46f7a47301178a465c7b0ab2be916b03b3479b29c7da4d29d2e27b2bd4d1f": [],
-    "a8fad81fbd2c888afeb1380858e5c1da798195da50c489878701b00bd2655c23": [
+    "6c9e17be37445284b978f1be4377d25b7b272ab4b3007bfb51c0021e06d6cdeb": [],
+    "59ac1dbff2c9fe2abd7c4fac5351b6ae4d842d2ac78ed840d2dfda1ebb8c9c93": [
       {
         "event_id": "",
         "source_id": "this-industry-leader-is-a-steal-trade",
@@ -261,8 +261,8 @@
         "unresolved_fields": []
       }
     ],
-    "c96c0fd23c4a5565ed9157b5acecdf8aa48a10638fb1cdf14196f9ad2b774ef4": [],
-    "28686b64abace032304ee8e6aa0bfe9c5517b774d47bb0639682cdd997174c61": [
+    "e155e95887e54cecb400a346bdbb055bdbe7484be2605c6e0c44466ef0860f07": [],
+    "37d679589a77019be3eab7a180a78f2d79b7df7ed967403927cdc611ddee5e28": [
       {
         "event_id": "",
         "source_id": "argentina-investment-alert-supv-ypf",
@@ -357,7 +357,7 @@
         "publication_date": "2025-01-21",
         "effective_date": "2025-01-21",
         "date_uncertainty": null,
-        "company_name": "Grupo Supervielle S.A",
+        "company_name": "Overview of Grupo Supervielle",
         "ticker": "SUPV",
         "normalized_ticker": "SUPV",
         "exchange": "US",
@@ -385,7 +385,7 @@
         "publication_date": "2025-01-21",
         "effective_date": "2025-01-21",
         "date_uncertainty": null,
-        "company_name": "Grupo Supervielle S.A",
+        "company_name": "Overview of Grupo Supervielle",
         "ticker": "SUPV",
         "normalized_ticker": "SUPV",
         "exchange": "US",
@@ -497,7 +497,7 @@
         "publication_date": "2025-01-21",
         "effective_date": "2025-01-21",
         "date_uncertainty": null,
-        "company_name": "Grupo Supervielle S.A",
+        "company_name": "Overview of Grupo Supervielle",
         "ticker": "SUPV",
         "normalized_ticker": "SUPV",
         "exchange": "US",
@@ -544,9 +544,9 @@
         "unresolved_fields": []
       }
     ],
-    "a95bfb39c63e2e56b76dcdf1bbf37e55010d7aaa8ea5213d85f8e291b5ed6d66": [],
-    "c47cee69abea9c2e2432c463d8b03e22156a43aee1c615fa23490f939c7a8ef5": [],
-    "a4b19f5f1a23dfbb03aa68babc15c14bf09984b7d63aea9544806264129871c7": [
+    "e97ef5a73302d68d9843c4df7de11fb443c11470d633260b0f13f07bec45c98c": [],
+    "6352e206e8bce8516f1746c0744e77cef497998112d273e20b74b6570dc9fbaf": [],
+    "d7b751ce5f05f6a8788ee4c151f00f40dd1535d1a9ee6c733e1dc1e1f711e715": [
       {
         "event_id": "",
         "source_id": "trade-alert-two-closing-trades-to",
@@ -576,37 +576,9 @@
         "unresolved_fields": []
       }
     ],
-    "9959a095a234fc10c441246595a4b3105ae18e7c9fd18462b254782aa639942f": [],
-    "ca792d4b38a5c45fa52951360dfcf15ed841f013df7f25dd4754476dd0935516": [],
-    "b90f98eb5a3fd9455685e2658d0cdc94353c279785a60122d211fb8bdf8736f7": [
-      {
-        "event_id": "",
-        "source_id": "trade-alert-ffh-reallocation",
-        "source_type": "article",
-        "location": "paragraph:1:c0@char:245",
-        "char_offset": 245,
-        "exact_text": "Trade Alert: Close FFH position and reallocate 2.0% of the portfolio to (TSX: QSR) $QSR .",
-        "publication_date": "2025-02-04",
-        "effective_date": "2025-02-04",
-        "date_uncertainty": null,
-        "company_name": "QSR",
-        "ticker": "QSR",
-        "normalized_ticker": "QSR",
-        "exchange": "US",
-        "market": ":us:",
-        "instrument_type": "equity",
-        "action": "SELL",
-        "execution_status": "confirmed",
-        "discovery_layer": "primary_article",
-        "portfolio_book": "primary",
-        "stated_price": null,
-        "stated_currency": null,
-        "position_sizing": 0.02,
-        "trim_fraction": 1.0,
-        "confidence": "high",
-        "notes": "Trade Alert: Close FFH position and reallocate 2.0% of the portfolio to (TSX: QSR) $QSR .",
-        "unresolved_fields": []
-      },
+    "003e351b9e508bdab2c248618af57ad2412c7d48535d83da08f1c644e2b79134": [],
+    "84d5626ccf89f3d201f970f7285576f443104c43b5bfcf276bb65bbcb4917288": [],
+    "4a5dd1325e2b6ff7a1eb575108eadafd587e02e7f4c715beb5674337675acc4e": [
       {
         "event_id": "",
         "source_id": "trade-alert-ffh-reallocation",
@@ -634,9 +606,37 @@
         "confidence": "high",
         "notes": "Trade Alert: Close FFH position and reallocate 2.0% of the portfolio to (TSX: QSR) $QSR .",
         "unresolved_fields": []
+      },
+      {
+        "event_id": "",
+        "source_id": "trade-alert-ffh-reallocation",
+        "source_type": "article",
+        "location": "paragraph:1:c0@char:245",
+        "char_offset": 245,
+        "exact_text": "Trade Alert: Close FFH position and reallocate 2.0% of the portfolio to (TSX: QSR) $QSR .",
+        "publication_date": "2025-02-04",
+        "effective_date": "2025-02-04",
+        "date_uncertainty": null,
+        "company_name": "QSR",
+        "ticker": "QSR",
+        "normalized_ticker": "QSR",
+        "exchange": "US",
+        "market": ":us:",
+        "instrument_type": "equity",
+        "action": "SELL",
+        "execution_status": "confirmed",
+        "discovery_layer": "primary_article",
+        "portfolio_book": "primary",
+        "stated_price": null,
+        "stated_currency": null,
+        "position_sizing": 0.02,
+        "trim_fraction": 1.0,
+        "confidence": "high",
+        "notes": "Trade Alert: Close FFH position and reallocate 2.0% of the portfolio to (TSX: QSR) $QSR .",
+        "unresolved_fields": []
       }
     ],
-    "b0eadefab0e38b8df3379f4711f6ebbb8a546d6f5dbef85fb700e8a563a4bb87": [
+    "7f835da8c5d2418d5fafbc2fbaaa3f40255110c3871dace499bd2fcf2d378903": [
       {
         "event_id": "",
         "source_id": "closing-another-two-positions-national-bank-mho-homes",
@@ -666,7 +666,7 @@
         "unresolved_fields": []
       }
     ],
-    "e5ee6e7eb86f5f94308456992bca98373322a2b0a2addc4422d6a090505cb65e": [
+    "1db4630c346db537265d41a9e0dc8d2f0f71115a89f7cd2a22ad0eb4438e73e5": [
       {
         "event_id": "",
         "source_id": "dxp-enterprises-dxpe-a-hidden-mro",
@@ -705,7 +705,7 @@
         "publication_date": "2025-02-07",
         "effective_date": "2025-02-07",
         "date_uncertainty": null,
-        "company_name": "DXP Enterprises",
+        "company_name": "Thought Of The Week DXP Enterprises",
         "ticker": "DXPE",
         "normalized_ticker": "DXPE",
         "exchange": "US",
@@ -789,7 +789,7 @@
         "publication_date": "2025-02-07",
         "effective_date": "2025-02-07",
         "date_uncertainty": null,
-        "company_name": "DXP Enterprises",
+        "company_name": "Thought Of The Week DXP Enterprises",
         "ticker": "DXPE",
         "normalized_ticker": "DXPE",
         "exchange": "US",
@@ -836,7 +836,7 @@
         "unresolved_fields": []
       }
     ],
-    "6a8a2ca492046f284157c1d64c6b51606eb3bbc95c8946d72f3a3b5a9787f8d7": [
+    "d044d962084985736496b41ebf93e6b1615a982c5f93fc063fdf55521a9587c3": [
       {
         "event_id": "",
         "source_id": "the-fast-and-slow-investor",
@@ -894,7 +894,7 @@
         "unresolved_fields": []
       }
     ],
-    "f86f5581021315e9969aa54bfaa2ab197dff2b10538fc071ededcd0c016298ea": [
+    "54d03cd0122ec3199cecfbe994532687a26af4a9a17a6b8d60ac29d712262c64": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-one-more-position",
@@ -924,7 +924,7 @@
         "unresolved_fields": []
       }
     ],
-    "770dc99798b1d4a4116fcdcc8d761c105368af64df5878c0641ccd9f698a8762": [
+    "3a9192fd95cf03432412d0638e308e224e2cc35a290f97391210a67c396db825": [
       {
         "event_id": "",
         "source_id": "the-tariff-trap",
@@ -954,7 +954,7 @@
         "unresolved_fields": []
       }
     ],
-    "5b06e0e1b07b66c1606e43a8bd4dbc94e85ae37f2ee80d867bbb5defbb8b4003": [
+    "57204eeb51761c3095985d0cec0159e1fda255529e0b6e4b6a328bcc9868793a": [
       {
         "event_id": "",
         "source_id": "closing-wgs-and-clov",
@@ -1124,7 +1124,7 @@
         "unresolved_fields": []
       }
     ],
-    "74cd627c9eaa74152563070e1813614a79abcfacae67e486845f610c9665326a": [
+    "29f5af28e786994552cbb367ae62101e6c531f502b6a833e2cb649c7697db8dc": [
       {
         "event_id": "",
         "source_id": "trade-alert-two-hidden-gems-poised",
@@ -1210,8 +1210,8 @@
         "unresolved_fields": []
       }
     ],
-    "b07de6f7b6adb98f211be679878b07876ac7dd3ed20c9dedc2b5589141eef030": [],
-    "fc8d7afb57af49bbb652ec0f57116d9514d8dd414517e1ac2f2d9f432af951ee": [
+    "43add45e436db17b999d24e916f5e97b1b5254583b09dcb6334ad702c17274d9": [],
+    "2dbb21a6c6b3a34898e6c5f4daef4c9ee0c2322af32742987b2073f94d381f77": [
       {
         "event_id": "",
         "source_id": "the-future-is-nuclear-smr",
@@ -1241,8 +1241,8 @@
         "unresolved_fields": []
       }
     ],
-    "f353926cd4be3f23d2d3a4c574cba49c6c8cd7c3ecda41c152adcb7a065e3983": [],
-    "be237339576ac5691d29a21abb7685492642128ca132c3d321caf0a750440685": [
+    "4f55604f13a490cb3a35c1fb5d04df3147de6a1df6f7be1097ceeadd53ff2365": [],
+    "e38b2e93a0e6dbb3a83fecea371b53ffed0e2093c33b6467b5586e1fb44909c6": [
       {
         "event_id": "",
         "source_id": "emotions-the-big-no-no",
@@ -1272,8 +1272,8 @@
         "unresolved_fields": []
       }
     ],
-    "57f07e8a9e8563dba2addb01d511ad5378707bb7337746fbb8894db7fdece875": [],
-    "e6ef4d1ec64ef457a2bb9aa6acbd38ccbb264ea4f4b0914f5c55c5e51ce56771": [
+    "d8442209661bab637405069d453d63bf38e8d887f20927c3e1c0782961047f90": [],
+    "7cac174a079cff48d1f27b8d572aadf889a5f37b7f40d1266bcee855d02a5ba3": [
       {
         "event_id": "",
         "source_id": "closing-amph",
@@ -1303,7 +1303,7 @@
         "unresolved_fields": []
       }
     ],
-    "8889c22fb6c13fa955f4c8685fc31c956948a982f22b5ae3544fe55e2122f7f8": [
+    "5b6c1185afc02b81a1cf891492591cb036d01ca6c1960798b444104860ce5fbb": [
       {
         "event_id": "",
         "source_id": "dxpes-earnings-shine-but",
@@ -1314,7 +1314,7 @@
         "publication_date": "2025-03-09",
         "effective_date": "2025-03-09",
         "date_uncertainty": null,
-        "company_name": "DXP Enterprises",
+        "company_name": "Thought Of The Week DXP Enterprises",
         "ticker": "DXPE",
         "normalized_ticker": "DXPE",
         "exchange": "US",
@@ -1361,7 +1361,7 @@
         "unresolved_fields": []
       }
     ],
-    "a2276bd01b0372a7b8e9de07d2d7064e77a21a80955f364b3b2b761ead19d270": [
+    "1bdb9a3e644e593059cf0df5a1e4a25b7bc4be9feded0ba160d4968e2dae7d79": [
       {
         "event_id": "",
         "source_id": "closing-rgti",
@@ -1391,7 +1391,7 @@
         "unresolved_fields": []
       }
     ],
-    "2bacb4e955f6774e27fa59d70dfc154c009bac33d7e516e7ec0f00e3848e1dc9": [
+    "c0c616e6eb3af10da0fd1b6eccd2c8dd675807de64974338ee2954fa26cf99df": [
       {
         "event_id": "",
         "source_id": "fortrea-ftre-an-attractive-post-spin",
@@ -1430,7 +1430,7 @@
         "publication_date": "2025-03-12",
         "effective_date": "2025-03-12",
         "date_uncertainty": null,
-        "company_name": "Labcorp",
+        "company_name": "An Attractive Post-Spin-Off Opportunity From Labcorp",
         "ticker": "LH",
         "normalized_ticker": "LH",
         "exchange": "US",
@@ -1477,10 +1477,10 @@
         "unresolved_fields": []
       }
     ],
-    "9f15dfca5addbb810f976930f984dc80214e56ab6c4914886ac44d4f9af5ab8d": [],
-    "6c8a3901e1aeb6afa1931402da6f126cf05adc9cfe270a734f83b4114e6ba561": [],
-    "43bd4959657b5cb156327076a6dc61ca54e48c1b8c510657c1773f89dadd91fa": [],
-    "7c4e6b698f28f9c0197d97a18ad0b81afef0fc85444b05683b73a68d662e20ee": [
+    "d44aa30378236132a84ad13def31dea7e7144c41c1e46aedbc0e38b6c169f9d2": [],
+    "c7fce826b4ca5ce6b7d2440c47bdb97e17b0fe42a4fda452fd4222380d20bf0d": [],
+    "5f5a02392a9ef28f207b7d07226202b4824ff01476053af0a5f5d5938ca80340": [],
+    "db7a77ca17f3fa76da09afe33feb01892e96fa23260f9422348d325e9beb6ff1": [
       {
         "event_id": "",
         "source_id": "tsmc-stock-why-this-semiconductor",
@@ -1659,7 +1659,7 @@
         "publication_date": "2025-03-18",
         "effective_date": "2025-03-18",
         "date_uncertainty": null,
-        "company_name": "AMD",
+        "company_name": "Add the AMD",
         "ticker": "AMD",
         "normalized_ticker": "AMD",
         "exchange": "US",
@@ -2070,7 +2070,7 @@
         "unresolved_fields": []
       }
     ],
-    "ca4fa10cdf9227d9bee76ea977ef603823b27babfe007c8e319f081245f11ebd": [
+    "a67f506d1acd9283d11b9e1da1689dee82e001277880a37f7130380e51a19a46": [
       {
         "event_id": "",
         "source_id": "closing-rere-with-a-23-gain-and-redeploy",
@@ -2128,7 +2128,7 @@
         "unresolved_fields": []
       }
     ],
-    "9ecd7f3205c491cab9687026bc0b78d5a7e00b91e71b43eec37604c9e065d7ec": [
+    "0586534d0ab683e51bb74fd9fcac4c11f25d477f59c79467b4ea32949f061bbe": [
       {
         "event_id": "",
         "source_id": "you-cannot-win-them-all-why-i-cut",
@@ -2186,7 +2186,7 @@
         "unresolved_fields": []
       }
     ],
-    "ee788b2dc14d8d5ef1f3825f4db5bc8ff3286cf0694db2f53c0ff7456f8f91fd": [
+    "3c1f732d8d11df348cb604e113a6bf41c5cfffcc828cbdbc3dfd2648be8543e1": [
       {
         "event_id": "",
         "source_id": "stop-believing-the-stories",
@@ -2228,8 +2228,8 @@
         "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "HOLD",
         "execution_status": "retrospective",
@@ -2244,8 +2244,8 @@
         "unresolved_fields": []
       }
     ],
-    "31530df5c9bac3dfb7c0e9c39e5872a5e2424f66cf1c3a79a24b15fb0a7b6c37": [],
-    "d74619ff345629ca88f59edbee20681d4bf6d04f8fdd67e3a5e5bee1b89b6d83": [
+    "baaf24f70cde71aaf6ca4d5046b9358f1536d79a1a5f0923362acb0253419bb7": [],
+    "a3c7d6afdaef62f539baed5c7f3b0fd1a5b00322502c4dfe386668ead92b2fd0": [
       {
         "event_id": "",
         "source_id": "george-atuan-celestica-the-most-important-ai-stock",
@@ -2256,7 +2256,7 @@
         "publication_date": "2025-04-03",
         "effective_date": "2025-04-03",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -2312,7 +2312,7 @@
         "publication_date": "2025-04-03",
         "effective_date": "2025-04-03",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -2340,7 +2340,7 @@
         "publication_date": "2025-04-03",
         "effective_date": "2025-04-03",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -2452,7 +2452,7 @@
         "publication_date": "2025-04-03",
         "effective_date": "2025-04-03",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -2508,7 +2508,7 @@
         "publication_date": "2025-04-03",
         "effective_date": "2025-04-03",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -2527,9 +2527,9 @@
         "unresolved_fields": []
       }
     ],
-    "af58ef3d44d37101112a9f2788b9619d70bd23ff0220f493d6b5bd4965e8b0bd": [],
-    "f829a4919c78bb55b861d6e29c82b906faaed5831463f59b3770d49f53685cf3": [],
-    "484ea6bddd9fb0f69698d067964fe8055ad37b1134f3796d837b52061e1181f5": [
+    "8a15a786a6039f1e59e58e613d83965eac1260ac18d8c03b1d49c55c249ed1e2": [],
+    "2eeef1674911ad9c217d32a5faca9952a93a6bba3d8037f85541754e8ad26430": [],
+    "24667a2842415ef133229ea0daf353fa2b0712ff36542afd608cc30599112d86": [
       {
         "event_id": "",
         "source_id": "george-atuan-the-only-investing-rule",
@@ -2540,7 +2540,7 @@
         "publication_date": "2025-04-14",
         "effective_date": "2025-04-14",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -2559,7 +2559,7 @@
         "unresolved_fields": []
       }
     ],
-    "ad30a3f089c7e16ec9edfac56ea6b9636e989fd259e313ac00949be231c651da": [
+    "18aed3e03718b0398ef15820364e4fd73df58db4847249092f44d94f1048e487": [
       {
         "event_id": "",
         "source_id": "george-atuan-the-dirt-on-a-quiet-compounder-hiding",
@@ -2570,10 +2570,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2598,10 +2598,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2654,10 +2654,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2682,10 +2682,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2710,10 +2710,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2738,10 +2738,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2766,10 +2766,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2794,10 +2794,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2822,10 +2822,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2906,10 +2906,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Common Stock",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2934,10 +2934,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Common Stock",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -2962,10 +2962,10 @@
         "publication_date": "2025-04-15",
         "effective_date": "2025-04-15",
         "date_uncertainty": null,
-        "company_name": "Common Stock",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "TRIM",
@@ -2981,7 +2981,7 @@
         "unresolved_fields": []
       }
     ],
-    "4f3f6e0057a9394439881a4aaaa40b12dc44ccecdbac652b33ab36554d7eb84e": [
+    "f7d817993f98b11f6ae3ed9032e40c6b33c5e284c1731f601a7f5185763d2fa6": [
       {
         "event_id": "",
         "source_id": "weekly-stock-performance-tracker",
@@ -2992,10 +2992,10 @@
         "publication_date": "2025-04-18",
         "effective_date": "2025-04-18",
         "date_uncertainty": null,
-        "company_name": "Carnival",
+        "company_name": "Carnival Corporation",
         "ticker": "CCL",
         "normalized_ticker": "CCL",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -3020,7 +3020,7 @@
         "publication_date": "2025-04-18",
         "effective_date": "2025-04-18",
         "date_uncertainty": null,
-        "company_name": "Bank7",
+        "company_name": "Bank7 Corp",
         "ticker": "BSVN",
         "normalized_ticker": "BSVN",
         "exchange": "US",
@@ -3039,7 +3039,7 @@
         "unresolved_fields": []
       }
     ],
-    "d1d5edd868a1ebc329016d22a7f4e2df3577b834e988a12c6e7e7a5a9e9a7d18": [
+    "9cc93c30308facb3c58d0a45d317f5b733b8655f91b25f339d4a20b97102eae6": [
       {
         "event_id": "",
         "source_id": "what-market-efficiency-really-means",
@@ -3050,7 +3050,7 @@
         "publication_date": "2025-04-20",
         "effective_date": "2025-04-20",
         "date_uncertainty": null,
-        "company_name": "Take Daqo New Energy",
+        "company_name": "Daqo Energy",
         "ticker": "DQ",
         "normalized_ticker": "DQ",
         "exchange": "US",
@@ -3125,8 +3125,8 @@
         "unresolved_fields": []
       }
     ],
-    "f62c67032cb1723c8c6bdf2aa4e68ce3008d23db0f48cd553a51b76fcc782ba1": [],
-    "8e82dddc8ec62f87c1fc26b1737a99dac8e4d0fed704b658e1a5412bd3ef8cea": [
+    "62917a33a229f0c26db5ad2bb2eee974784b4b2477c9423aa97a41235e9933e7": [],
+    "02dc6a7480169518ed88990a34cbd7875fcf79689c54c87076fdb29327c89bce": [
       {
         "event_id": "",
         "source_id": "start-here-beating-the-tide-essential",
@@ -3156,8 +3156,8 @@
         "unresolved_fields": []
       }
     ],
-    "a9f4f67f52e5f55e1a46920f918cb6f05031ea1e87d9a84e19469ef0bcb413fc": [],
-    "fe42e57318e1efddc145cf34e0c6af19e9f4de598955e1cc6e81371163c4703e": [
+    "b9b4018408df03608a28b24620afa56d5cbdd5e1d1740ebde56f93eb2c4f7f48": [],
+    "a0821d1788a77290a74d7f690a7a9863f1f945543fd9bd9708a31fa2834d782d": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-zeta-buying-undervalued-stock",
@@ -3243,9 +3243,9 @@
         "unresolved_fields": []
       }
     ],
-    "cf40171b31099e657666fd23163a193ae09f46fef417c0ee636a01d7951d1150": [],
-    "1b558235736ecb846e04586627e25605c6d83ac2629fa94d07540ff16fb1e40d": [],
-    "ab8259083d28c9d440e00493ddc195a5384726c7c8a8544c088c66de7f35d524": [
+    "6895cd28d9893b34ac4301d1e69e005de26869fe3f9fddf8c0f49614ce66af71": [],
+    "e00853d9855eedbe7be52208220b9919bc19dada16ede6ad54318795f2511da2": [],
+    "02455084244a42e999eb07efa756aa59661aa3fec354904a7a167ce81df2a321": [
       {
         "event_id": "",
         "source_id": "kingstone-stock-deep-dive-stock-analysis-investing",
@@ -3555,7 +3555,7 @@
         "unresolved_fields": []
       }
     ],
-    "a3f84d729f75c3bea7008e1ee19958a56285116fc326cc7185a0775510c72c6e": [
+    "209c1c0778c3d2841c1130b03c4ffc618130e152f55e950b5f8c98298d1a6686": [
       {
         "event_id": "",
         "source_id": "buffetts-greatest-lesson",
@@ -3585,7 +3585,7 @@
         "unresolved_fields": []
       }
     ],
-    "a25a7d4b677fcbd79759797c9e0f4a81d6bed22ae695ed2613ab11e29982a73d": [
+    "521e5dcd30815bc08fba054396b3b940287ddfbdf36f2c35c355efcfe2250a7e": [
       {
         "event_id": "",
         "source_id": "undervalued-ai-bpo-stock-deep-dive",
@@ -3596,7 +3596,7 @@
         "publication_date": "2025-05-07",
         "effective_date": "2025-05-07",
         "date_uncertainty": null,
-        "company_name": "IBEX",
+        "company_name": "BUY TLDR IBEX Limited",
         "ticker": "IBEX",
         "normalized_ticker": "IBEX",
         "exchange": "US",
@@ -3624,7 +3624,7 @@
         "publication_date": "2025-05-07",
         "effective_date": "2025-05-07",
         "date_uncertainty": null,
-        "company_name": "IBEX",
+        "company_name": "BUY TLDR IBEX Limited",
         "ticker": "IBEX",
         "normalized_ticker": "IBEX",
         "exchange": "US",
@@ -3652,7 +3652,7 @@
         "publication_date": "2025-05-07",
         "effective_date": "2025-05-07",
         "date_uncertainty": null,
-        "company_name": "IBEX",
+        "company_name": "BUY TLDR IBEX Limited",
         "ticker": "IBEX",
         "normalized_ticker": "IBEX",
         "exchange": "US",
@@ -3736,7 +3736,7 @@
         "publication_date": "2025-05-07",
         "effective_date": "2025-05-07",
         "date_uncertainty": null,
-        "company_name": "IBEX",
+        "company_name": "BUY TLDR IBEX Limited",
         "ticker": "IBEX",
         "normalized_ticker": "IBEX",
         "exchange": "US",
@@ -3783,7 +3783,7 @@
         "unresolved_fields": []
       }
     ],
-    "1c23745fba2d22f8691dd9f715ce32d86f8ded9706383aaa88a1d018392ecd15": [
+    "24e78f8330d264cff06efa8fc3a1a3b952ee4bc94e26bae06b9c374dac2a97c1": [
       {
         "event_id": "",
         "source_id": "connecting-the-dots-stock-investing",
@@ -3813,7 +3813,7 @@
         "unresolved_fields": []
       }
     ],
-    "63818254c52431219d0d5e4d1348c6dffbf3283979e89eb1885d3f1e284b91af": [
+    "fb3409e2ca092442e7addcd70de4492793382442b9b8c81e4a0976479c9bb75a": [
       {
         "event_id": "",
         "source_id": "t-mobile-stock-analysis-why-i-locked-in-47-percent-gain",
@@ -4039,7 +4039,7 @@
         "unresolved_fields": []
       }
     ],
-    "754dada2afae8daf3502ec0fe3fcbe1846fa967772b7904141208ef8f975a871": [
+    "dab62b3e0d25c937b77b68e681a41d63b3a64ebf60b47b0fccdad28a0fcfb92d": [
       {
         "event_id": "",
         "source_id": "royal-caribbean-stock-analysis-2025-rcl-valuation-earnings-outlook",
@@ -4349,8 +4349,8 @@
         "unresolved_fields": []
       }
     ],
-    "525535f2cc3963e99aa2a4125f5a148fe60130ba629b2e117a54c66131795281": [],
-    "7af052bf3bba1ed1ab011254a7225753955e98cc700ac40a48d75ca750a3b0bb": [
+    "db5e55ef00645cd86c80f79e0d2e814b81086c8a082e6a83d49310ab9cf136c6": [],
+    "4e51e50c3fa6e196ee95f2b52b59d12ccab1a6d58afffe1ca3cd09c187f42833": [
       {
         "event_id": "",
         "source_id": "united-rentals-uri-stock-sold-new-investment-idea",
@@ -4380,7 +4380,7 @@
         "unresolved_fields": []
       }
     ],
-    "a153df21e43a52e2562a3e814faf7a3628852bee3dae58d03c1afd02a3742279": [
+    "4097f2031347a23f3c2268aeb0b2dfad2ce46bf815dbe1cedfa53df56e12bddc": [
       {
         "event_id": "",
         "source_id": "united-rentals-uri-deep-dive-stock-sold-thesis-played-out",
@@ -5418,9 +5418,9 @@
         "unresolved_fields": []
       }
     ],
-    "abf5fcb3fdc3bbc11a71fb2d22fc85bd4179debc38c0309786fbda6c2a589629": [],
-    "3e6af8d62258a15c66a5bc8c26ae46a192db63bfc9b1a0fb3d3143a44263f2c0": [],
-    "4364c305a33b3d6dbeb01670d2c5056b7f17012091f99ebd23295b82a35cffff": [
+    "041b299f6f1c8c63b36aef7b31f67a9d8f815e13244422711dfb531b92bbbc2a": [],
+    "4c4b4f171505ec28ede06764ffbe1d6c3f4bd93be8309f469e3c12454e5bb4ba": [],
+    "32474b23e8a38f7fb36cddf169b7a0d51a7fe70f543f2c39cdecb9a9e111b808": [
       {
         "event_id": "",
         "source_id": "warren-buffett-investing-lessons-beating-the-sp-500",
@@ -5562,7 +5562,7 @@
         "unresolved_fields": []
       }
     ],
-    "3760a221b25b7a80f8aee7e732875ef767807fcbf43400f6842ad56ffbb2a054": [
+    "e1d289a9400a4b944533ab734878d7bc2bedaa4895bf2962730252f6fd532a7d": [
       {
         "event_id": "",
         "source_id": "hidden-multibagger-deep-dive-stock-analysis-turnaround-opportunity",
@@ -5601,7 +5601,7 @@
         "publication_date": "2025-05-27",
         "effective_date": "2025-05-27",
         "date_uncertainty": null,
-        "company_name": "Rayonier Advanced Materials",
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
         "ticker": "RYAM",
         "normalized_ticker": "RYAM",
         "exchange": "NYSE",
@@ -5629,7 +5629,7 @@
         "publication_date": "2025-05-27",
         "effective_date": "2025-05-27",
         "date_uncertainty": null,
-        "company_name": "Rayonier Advanced Materials",
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
         "ticker": "RYAM",
         "normalized_ticker": "RYAM",
         "exchange": "NYSE",
@@ -5685,7 +5685,7 @@
         "publication_date": "2025-05-27",
         "effective_date": "2025-05-27",
         "date_uncertainty": null,
-        "company_name": "Rayonier Advanced Materials",
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
         "ticker": "RYAM",
         "normalized_ticker": "RYAM",
         "exchange": "NYSE",
@@ -5769,7 +5769,7 @@
         "publication_date": "2025-05-27",
         "effective_date": "2025-05-27",
         "date_uncertainty": null,
-        "company_name": "Rayonier Advanced Materials",
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
         "ticker": "RYAM",
         "normalized_ticker": "RYAM",
         "exchange": "NYSE",
@@ -5788,7 +5788,7 @@
         "unresolved_fields": []
       }
     ],
-    "46b9f29b75e38bfdb6c9e0424ec324dbb363166648490ad3f3743b232488d63b": [
+    "b17a3cdd8d223cc65f497529083c81f2a82df50a38761c4c755f68890c323e15": [
       {
         "event_id": "",
         "source_id": "closing-position-tcbx-stock-analysis",
@@ -5802,7 +5802,7 @@
         "company_name": "My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -5827,10 +5827,10 @@
         "publication_date": "2025-05-28",
         "effective_date": "2025-05-28",
         "date_uncertainty": null,
-        "company_name": "Third Coast Bancshares",
+        "company_name": "Just Closed My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -5855,10 +5855,10 @@
         "publication_date": "2025-05-28",
         "effective_date": "2025-05-28",
         "date_uncertainty": null,
-        "company_name": "Third Coast Bancshares",
+        "company_name": "Just Closed My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -5883,10 +5883,10 @@
         "publication_date": "2025-05-28",
         "effective_date": "2025-05-28",
         "date_uncertainty": null,
-        "company_name": "Third Coast Bancshares",
+        "company_name": "Just Closed My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -5911,10 +5911,10 @@
         "publication_date": "2025-05-28",
         "effective_date": "2025-05-28",
         "date_uncertainty": null,
-        "company_name": "Third Coast Bancshares",
+        "company_name": "Just Closed My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -5939,10 +5939,10 @@
         "publication_date": "2025-05-28",
         "effective_date": "2025-05-28",
         "date_uncertainty": null,
-        "company_name": "Third Coast Bancshares",
+        "company_name": "Just Closed My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "BUY",
@@ -5958,7 +5958,7 @@
         "unresolved_fields": []
       }
     ],
-    "c7ffd479962b2c72f71c7403edf0c9c2baa3ed7ec84d791f4eb94b0f834c24ae": [
+    "dd093ab5a23e9b7dc06eaace17c6138772e73607b6d3a8687c88ef87f7d58c04": [
       {
         "event_id": "",
         "source_id": "avoid-bad-investments-bs-detector",
@@ -5969,10 +5969,10 @@
         "publication_date": "2025-06-01",
         "effective_date": "2025-06-01",
         "date_uncertainty": null,
-        "company_name": "Third Coast Bancshares",
+        "company_name": "Just Closed My Third Coast Bancshares",
         "ticker": "TCBX",
         "normalized_ticker": "TCBX",
-        "exchange": "NASDAQ",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -6016,7 +6016,7 @@
         "unresolved_fields": []
       }
     ],
-    "059fbc770d997397f50d5446c35df4af642ead2e01acb4139f2ea0db384ca919": [
+    "ed3f72d5f8c6b2778c2c46802f00e2ca1e5ed64e9f5dd97bb5ea45d9ba721493": [
       {
         "event_id": "",
         "source_id": "stride-lrn-stock-deep-dive-upside-2025",
@@ -6030,7 +6030,7 @@
         "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6086,7 +6086,7 @@
         "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6142,7 +6142,7 @@
         "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6170,7 +6170,7 @@
         "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6198,7 +6198,7 @@
         "company_name": "Stride’s",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6226,7 +6226,7 @@
         "company_name": "Stride’s",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6282,7 +6282,7 @@
         "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6310,7 +6310,7 @@
         "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -6326,10 +6326,10 @@
         "unresolved_fields": []
       }
     ],
-    "f3b794671767f7d29e275e8e8c2dfe285df494d6c256574671bee5fd4195c72c": [],
-    "6c9461f60bf3db436f7d7d065a7b042fa0629e07183ee1f17de1da10efb092e2": [],
-    "506a46296175c9b4f0e20d5f9bf68fbf6a213a3ed698a7e12e2cc5b313a40670": [],
-    "87c3969a081ffaefe7309ec8d3e2952de1dec33033d68a74dc7e0efa14d05288": [
+    "5b75a774f49b09e89b74d44877517b84d8ea58d19a727b69e77ad9f542b5a031": [],
+    "e5916b2b56d39e1c4d4bbbcee614dc7c8373e3ffb28f77a7fe4b91bb5a3a516d": [],
+    "fd94ef3b9e1471f2cf73d0570f0193d8a8f6bb0f4d9eef3316328cc225d86359": [],
+    "d76502a68ff4806f1005995153cb5f804284ef4146f0f569240df08fbf9c78d0": [
       {
         "event_id": "",
         "source_id": "100-year-fund-building-generational-wealth-legacy",
@@ -6359,7 +6359,7 @@
         "unresolved_fields": []
       }
     ],
-    "e84a31d10a467163cf24af7174fa7b340a4d9342bce21af5f12328ab624034f3": [
+    "b3173a448376f375f6dee0805892f184d4f5645ef247f7b74f76590987d22347": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-qifu-qfin",
@@ -6510,7 +6510,7 @@
         "publication_date": "2025-06-10",
         "effective_date": "2025-06-10",
         "date_uncertainty": null,
-        "company_name": "QFIN",
+        "company_name": "Qifu Technology",
         "ticker": "QFIN",
         "normalized_ticker": "QFIN",
         "exchange": "US-ADR",
@@ -6557,7 +6557,7 @@
         "unresolved_fields": []
       }
     ],
-    "1e2aef19585a480fc93a7456849c5b15085297e73a13675673c947634f448161": [
+    "3c3b3f5c6924a5d40f9ce1510a365ef96d15e38815a5167c9e3a5f815118e5cf": [
       {
         "event_id": "",
         "source_id": "when-sell-stock-closing-positions-beating-tide",
@@ -6587,7 +6587,7 @@
         "unresolved_fields": []
       }
     ],
-    "535c76ab76a2b2f3ecf95e5ebff4e71d17517b45f27397e3e857653aa439c923": [
+    "0a8f5b8c66e876be9e92c8ab1dbd076b1ed9aaffb26c2a31987505b8fe7826a7": [
       {
         "event_id": "",
         "source_id": "best-stock-investing-book",
@@ -6617,9 +6617,9 @@
         "unresolved_fields": []
       }
     ],
-    "a9f573b1b063286a411bd404a3cd8483eedea08e975f1c7661d7bd42e1327970": [],
-    "83406c21a43d10f7358121715676fdfef3e703951d71a2e1da539c1d66ce89f8": [],
-    "b3e75f4ce2c61fa27b313d72e70095a993b3281c3cacff0dd1003cb67c202708": [
+    "0eaeedc621e1056b19042ddc2d9312b5b269d847538648d15c22d2aba14cc22d": [],
+    "f739bd51bd55bc14098512e907c9d4bac769583a682c34801f95eac662f8e61c": [],
+    "559e7bf679144d48909b7b5e0ad985e04b15b4ca4c4ba5e2fa1616cf59101ffb": [
       {
         "event_id": "",
         "source_id": "argan-agx-deep-dive-stock-analysis-2025",
@@ -6677,7 +6677,7 @@
         "unresolved_fields": []
       }
     ],
-    "ef1175e559c9fcc832eb3945d4a7e7740de69e58a8012728b749198d77b1b9a6": [
+    "df835e82d4df251dcdbbbf55a864a80ab65a9f62bcfbcc1419e657e4371a6fc0": [
       {
         "event_id": "",
         "source_id": "rotating-out-of-iamgold-iag-into-better-gold-stock",
@@ -6800,10 +6800,10 @@
         "publication_date": "2025-06-24",
         "effective_date": "2025-06-24",
         "date_uncertainty": null,
-        "company_name": "IAMGOLD Corporation",
+        "company_name": "Why I’m Rotating Out of IAMGOLD",
         "ticker": "IAG",
         "normalized_ticker": "IAG",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -6847,7 +6847,7 @@
         "unresolved_fields": []
       }
     ],
-    "b99c0d64eac694bf223f0c11d5c457a0abe71fcd080c6ad19b6dfcb01cedd34f": [
+    "94dd6cd0cd18f661a5da2d65f34c53d7800526a4a691c3d08510f876de51df5e": [
       {
         "event_id": "",
         "source_id": "interview-nexstar-media-group-broadcastings",
@@ -6961,8 +6961,8 @@
         "unresolved_fields": []
       }
     ],
-    "fb1fbcb398da6f8a8a59e20744a81d8ec4a545d416148b9b6d3a7e8e8ecc97f8": [],
-    "63b747b16a74f2b7229e8a835e669899d24a21407eff94d5a037e1364e6fec4d": [
+    "b327407a42eeba386bdaee515d38fa729c10e32f2397d98d0d553f003cf4d4cd": [],
+    "2204f4d0d6eb564db0e25d823481070585bf288b0f584c50dd8bc988b72447f7": [
       {
         "event_id": "",
         "source_id": "frequently-asked-questions-faqs",
@@ -6992,7 +6992,7 @@
         "unresolved_fields": []
       }
     ],
-    "20016910bf18ba403834c1347cb591333c6bbca0cf46061b813e5da3a8570925": [
+    "836c0184145c20bd1b815e0a5e3783a43c41b168eb7be837bd4c6de4ea590eae": [
       {
         "event_id": "",
         "source_id": "stock-picker-performance-h1-2025-review",
@@ -7022,7 +7022,7 @@
         "unresolved_fields": []
       }
     ],
-    "44e3168f1fbdf75f5b5986f77d6a4c336e1818c84ad3064c73749141a66a1c8d": [
+    "e9ec8d73746e1c3650f92ccbdcfac7e95c72cd5a9ddfb5e024c2db7866f91c37": [
       {
         "event_id": "",
         "source_id": "trade-alert-replacing-a-finance-stock",
@@ -7108,7 +7108,7 @@
         "unresolved_fields": []
       }
     ],
-    "826887a523e71d32091280478b278903d47c5d50d55c1d1a19a58f3128c4afc3": [
+    "d81178bd01f6a19e4b8d49ec2c2585926bc6b18217bd3ea9f01d352119afaacd": [
       {
         "event_id": "",
         "source_id": "deep-dive-cheapest-asia-bank-stock-dividend-upside",
@@ -7119,7 +7119,7 @@
         "publication_date": "2025-07-11",
         "effective_date": "2025-07-11",
         "date_uncertainty": null,
-        "company_name": "KB Financial Group",
+        "company_name": "Buy KB Financial Group",
         "ticker": "KB",
         "normalized_ticker": "KB",
         "exchange": "NYSE",
@@ -7138,7 +7138,7 @@
         "unresolved_fields": []
       }
     ],
-    "a4b9ebddeb0361fdaa206c3e405c79a5e8b853b47847c6c408db3a8f0c7385de": [
+    "12ef261ff7604f365fe515af0fbe07928c23f370bf8bc6dc7e5ef6d2437f2c4a": [
       {
         "event_id": "",
         "source_id": "kraft-heinz-khc-breakup-split-3g-strategy-cost-cutting-fallout",
@@ -7168,22 +7168,22 @@
         "unresolved_fields": []
       }
     ],
-    "81ec986832bd629725d01cd50a00a6ff4dea26ed2cf7e120172d9067f3ec1ee6": [
+    "08fade8b6d2158e29f485e449ec35168269209a76937a232c210f3c124385099": [
       {
         "event_id": "",
         "source_id": "tsm-q2-2025-earnings-fundamental-analysis",
         "source_type": "article",
-        "location": "paragraph:11:c1@char:845",
+        "location": "paragraph:11:c2@char:845",
         "char_offset": 845,
         "exact_text": "On March 13, I sent a trade alert to paid subscribers explaining that I was increasing our position in TSM every week.",
         "publication_date": "2025-07-20",
         "effective_date": "2025-07-20",
         "date_uncertainty": null,
-        "company_name": "TSMC",
+        "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "HOLD",
         "execution_status": "retrospective",
@@ -7207,11 +7207,11 @@
         "publication_date": "2025-07-20",
         "effective_date": "2025-07-20",
         "date_uncertainty": null,
-        "company_name": "TSMC",
+        "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "ADD",
         "execution_status": "confirmed",
@@ -7254,7 +7254,7 @@
         "unresolved_fields": []
       }
     ],
-    "5e1433a52526a6aa90df682cff2092027c8349ce8a4566c24a92ce40e1111650": [
+    "117d2b36f7f5b2ba609678798fb9aff224babee35d0f6fb7bf739974490eeeb4": [
       {
         "event_id": "",
         "source_id": "opfi-stock-deep-dive-fintech-lending-stock-analysis",
@@ -7396,9 +7396,9 @@
         "unresolved_fields": []
       }
     ],
-    "510d3fed097c5cc64cac67584d5b6c9633d8ca15ce0967d69d53ae300a11e1b6": [],
-    "95feeb53df25eda4b2b038ff29367f9baaf4b8496e49b1bc9c87f37159e330b1": [],
-    "2bbf10c9905b129ae348aa54502eb79a0196c9f3db1d7a27ffd9698a16071a7e": [
+    "19c4ae5f7c4ea872cc621c40bafb467a3a7d5eb2d05aa713326875cddfc912ac": [],
+    "ae2077bc6eaf59e78ec9c774f3851540945180df9674937e6cacb903e34fd69b": [],
+    "19d4bf4bbd8d9a1dbcc031904f530eaa4c635812420e04bf48f5492c3ea3c880": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-undervalued-insurance-stock-insider-buying",
@@ -7437,7 +7437,7 @@
         "publication_date": "2025-08-06",
         "effective_date": "2025-08-06",
         "date_uncertainty": null,
-        "company_name": "Control Ltd",
+        "company_name": "Ituran",
         "ticker": "ITRN",
         "normalized_ticker": "ITRN",
         "exchange": "US",
@@ -7773,7 +7773,7 @@
         "publication_date": "2025-08-06",
         "effective_date": "2025-08-06",
         "date_uncertainty": null,
-        "company_name": "Kingstone",
+        "company_name": "Kingstone Companies",
         "ticker": "KINS",
         "normalized_ticker": "KINS",
         "exchange": "US",
@@ -7848,8 +7848,8 @@
         "unresolved_fields": []
       }
     ],
-    "6e51817aeadc4b22a24bbf2b7a1e23eaceee977c6ee9b22bdb257650011a069a": [],
-    "ba1a3f9c6b0e81409cdb95c07f33cecbd262eddadfbcacc68b95fbf520773296": [
+    "74800696a4b24f04012c93033b89333fcdee2c4a379d317061030fa8323272c9": [],
+    "631fadb34e4a4ea16a0b8f47875d2aa941d0eef905a608b37669092ee9dc0f12": [
       {
         "event_id": "",
         "source_id": "deep-dive-general-motors-gm-stock-analysis-best-stock-pick-newsletter",
@@ -8131,9 +8131,9 @@
         "unresolved_fields": []
       }
     ],
-    "6ce3a9d4e9a6ac52e6630991543451a0ec15c6cb78fbf8356cee2c2698af5dd0": [],
-    "28cc1b7ebacf4a4f9b0df6d1ff14cd2df046aa4d87047d356ad467f0a6c10dea": [],
-    "b974961620000c34b88962b6cb8f238b4675b3118dadcccd34ae391c53668a74": [
+    "9c7c049bc3df0e0dbb90791babe42825eb0ac9f09f05ea6792e6b7b692b58a34": [],
+    "9a3df6faa6f46e9dab96adcef240ae2418ffc6c2b563fcb59710e785300124f7": [],
+    "a0058e8d3fd819456fafddb5320f9a91165b0216afb0dba5883440ddb9d389f0": [
       {
         "event_id": "",
         "source_id": "why-street-repairs-finished-principal-agent-kins-kingstone",
@@ -8191,8 +8191,8 @@
         "unresolved_fields": []
       }
     ],
-    "7102c50e363e96dfbf59d5e25fad2ce8c408370304a2a17fe5ff388cbcbf7f5f": [],
-    "e07e61a05245c718ebaa86f69362a1954bf0cbb8327c5faf01580e545e05189b": [
+    "5521b2f42bfeda8e579f653c535a010f12d342b2715e6b6cecc23932e0d22051": [],
+    "62f6a2ad682ab4bdb31504a7e33534c0dffe9ddf7afa164d8d0a1073c3b91f14": [
       {
         "event_id": "",
         "source_id": "rise-fall-walls-investing-moats",
@@ -8250,7 +8250,7 @@
         "unresolved_fields": []
       }
     ],
-    "9d56d167014d2028829680d3fd73dc837f49fb554aa9b82c9611d7210c3b1b89": [
+    "6467083d435df5ba226bbe0b610cbc7897f31c25d9eeb851697efb35d813678b": [
       {
         "event_id": "",
         "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
@@ -8373,7 +8373,7 @@
         "publication_date": "2025-08-27",
         "effective_date": "2025-08-27",
         "date_uncertainty": null,
-        "company_name": "Mueller Industries",
+        "company_name": "Nutshell Mueller Industries",
         "ticker": "MLI",
         "normalized_ticker": "MLI",
         "exchange": "US",
@@ -8451,7 +8451,7 @@
         "event_id": "",
         "source_id": "mueller-industries-mli-deep-dive-stock-analysis-beating-the-tide",
         "source_type": "article",
-        "location": "paragraph:87:c4@char:19655",
+        "location": "paragraph:87:c5@char:19655",
         "char_offset": 19655,
         "exact_text": "The company rolled out an investor presentation in 2024 and seems to be opening up a bit. (They even added a role focusing on industry/investor relations in 2025.) This could help close the valuation gap if more folks catch on to the story.",
         "publication_date": "2025-08-27",
@@ -8532,9 +8532,9 @@
         "unresolved_fields": []
       }
     ],
-    "e6b8b153ecd295b797c8376e37736665e1924346fe406a338ad0beaf1c256a6b": [],
-    "43e5249ffe5bb84c2a9e9a89f3b67f4b605bb4ac408067159132b34101047aaf": [],
-    "5dd9d4d5056ff836d4b7af9c8eeeb766088344e890f3513d9e1ea51bf1a1bcc7": [
+    "d0938ee79197162283b708472a15cf819f0a84b6bd626ba5fde3183601eda7da": [],
+    "9b4bd5a1ee98a47fceb032761ee3f73d6a2d06c23c15ac0dd0e510f477efe292": [],
+    "968733bf9ec678d42b7aeae2b338914592e739fe2bfffd554a9a4dbd8d414ea9": [
       {
         "event_id": "",
         "source_id": "opportunity-cost-investing-portfolio-buffett-unh-risk-reward",
@@ -8545,7 +8545,7 @@
         "publication_date": "2025-08-31",
         "effective_date": "2025-08-31",
         "date_uncertainty": null,
-        "company_name": "Mueller Industries",
+        "company_name": "Nutshell Mueller Industries",
         "ticker": "MLI",
         "normalized_ticker": "MLI",
         "exchange": "US",
@@ -8704,7 +8704,7 @@
         "unresolved_fields": []
       }
     ],
-    "e4017ea33eebae4aaf0389cfefde95764533164311b3d963146aa5dcf90027fa": [
+    "f8201df96285d82825ccd02fd1357743d51ee063f73d8c5ca95944eb40375ef6": [
       {
         "event_id": "",
         "source_id": "roic-vs-roe-investing-metric-stock-analysis",
@@ -8734,7 +8734,7 @@
         "unresolved_fields": []
       }
     ],
-    "c312c4331691cc421d306795d6084702bdaf7f8b4b54bcced9273aef8cfae8bd": [
+    "4ea693fc210fad7c417b0b99610f168fbe97f3f00fd87e32a17916c6a0aba67a": [
       {
         "event_id": "",
         "source_id": "trade-alert-new-position-added-to",
@@ -8764,8 +8764,8 @@
         "unresolved_fields": []
       }
     ],
-    "c19a70d6e08518cc0b75124db7fa2486c4b2d2065a05ed407683c5c7d9e9ad05": [],
-    "337fa04814d45548a9f343d8e890c770bb4d4712fa41fb43e91f8767f15dcc70": [
+    "6013cd0dc47b7ba5411d0a7851b833554465e010be38805deed55d479124bbef": [],
+    "ccf78ff5842b72a2f46a8aa03097010fd6db451e031235f254c58bcc02a07d35": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-cash-rich-builder-50-upside",
@@ -8991,8 +8991,8 @@
         "unresolved_fields": []
       }
     ],
-    "5736ada871053c0b5e38adb3fdd94c918a56b9af452da4d40728530184f28a8d": [],
-    "a5648ea62ab6614c92d0ac4797cd12ccf509ff57ecc9a925e55b6af86d634ae4": [
+    "166c7a0a212920f3fc0b56869f8f48003c89c73e77aa24a48858c54ea389c091": [],
+    "75e67df4b4309ca592a48eee70eccc997f348349833e24aa55054d2f68800a54": [
       {
         "event_id": "",
         "source_id": "oil-dri-odc-57-percent-record-quarter-why-closing-position",
@@ -9006,7 +9006,7 @@
         "company_name": "Oil-Dri",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -9031,10 +9031,10 @@
         "publication_date": "2025-09-17",
         "effective_date": "2025-09-17",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -9059,10 +9059,10 @@
         "publication_date": "2025-09-17",
         "effective_date": "2025-09-17",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -9118,7 +9118,7 @@
         "company_name": "Oil-Dri",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -9143,10 +9143,10 @@
         "publication_date": "2025-09-17",
         "effective_date": "2025-09-17",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -9171,10 +9171,10 @@
         "publication_date": "2025-09-17",
         "effective_date": "2025-09-17",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri Corporation of America",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -9218,7 +9218,7 @@
         "unresolved_fields": []
       }
     ],
-    "1168c786dfbc74f7435ad7832c1d89259c3c5ee7a100b4f9b01b6397f3611ca6": [
+    "158a570a3e3105e147cce4046ddc5bc5d76fd3e51854fb97cf3d99163fe725b1": [
       {
         "event_id": "",
         "source_id": "5-whys-investing-celestica-cls-update",
@@ -9229,10 +9229,10 @@
         "publication_date": "2025-09-21",
         "effective_date": "2025-09-21",
         "date_uncertainty": null,
-        "company_name": "Oil-Dri",
+        "company_name": "Earnings Miss Oil-Dri Corporation of America",
         "ticker": "ODC",
         "normalized_ticker": "ODC",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -9276,8 +9276,8 @@
         "unresolved_fields": []
       }
     ],
-    "d9dcf34971b4684442a4b5adae9dd168e414d8fc65d96b2a420108c77c4e5a9f": [],
-    "f2d5615d6db6ce0883aca14ac642a52cbf240d15b3f908ad3644e6eb191bd063": [
+    "48e235b8200522025672ea8af1375d40470d556a79394fd634dd9ba051f7538d": [],
+    "7f6852c2ada9c025fa32be87fadc7f01ca92685c2bb27f37b8fbd55802ed6ee0": [
       {
         "event_id": "",
         "source_id": "ai-love-triangle-openai-nvidia-oracle-10gw-capex",
@@ -9288,7 +9288,7 @@
         "publication_date": "2025-09-28",
         "effective_date": "2025-09-28",
         "date_uncertainty": null,
-        "company_name": "CLS",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -9307,7 +9307,7 @@
         "unresolved_fields": []
       }
     ],
-    "6976a8c49909f83ab0354b4b19062a39398b00377aa2d1059ba9442c7745ec0b": [
+    "e32685dea8d98dfec70d62d76e9af353ee93c0ffd71dc99401028ce8ec4698a9": [
       {
         "event_id": "",
         "source_id": "free-cash-flow-yield-stock-investing-guide",
@@ -9402,7 +9402,7 @@
         "publication_date": "2025-10-01",
         "effective_date": "2025-10-01",
         "date_uncertainty": null,
-        "company_name": "Take Exxon Mobil",
+        "company_name": "ExxonMobil",
         "ticker": "XOM",
         "normalized_ticker": "XOM",
         "exchange": "US",
@@ -9421,7 +9421,7 @@
         "unresolved_fields": []
       }
     ],
-    "9f6619a2972a2a1ad1ef654ab816a6a444190551ab1041a225e47825a9db58a3": [
+    "6f9902468efe8a8528467097d7cfeb69b10a13133bc9ab037c0042e321f6f123": [
       {
         "event_id": "",
         "source_id": "party-lessons-for-investing-process",
@@ -9460,7 +9460,7 @@
         "publication_date": "2025-10-05",
         "effective_date": "2025-10-05",
         "date_uncertainty": null,
-        "company_name": "Kingstone",
+        "company_name": "Kingstone Companies",
         "ticker": "KINS",
         "normalized_ticker": "KINS",
         "exchange": "US",
@@ -9479,7 +9479,7 @@
         "unresolved_fields": []
       }
     ],
-    "23801a22f219fc483133f54ccb2bfd104229ad5a81273184640b1fcf409ded47": [
+    "be448a5c45de0b5d66f468b4aed22dc0dcc90e66799f9079277f25e4de75eda4": [
       {
         "event_id": "",
         "source_id": "em-telco-trade-alert-hidden-assets-upside",
@@ -9509,7 +9509,7 @@
         "unresolved_fields": []
       }
     ],
-    "b0f4727dde1167e0ea92edf51315f38a9d3923d6889543858b05b29eca313d55": [
+    "38844b404f5c8c4cae84def5ef6560de1edb7efcc18cb439fc796f55dde4f746": [
       {
         "event_id": "",
         "source_id": "deep-dive-the-most-mispriced-telecom",
@@ -9763,8 +9763,8 @@
         "unresolved_fields": []
       }
     ],
-    "f827e51115fdc6dbee1ee33804adcbff4c35f6c99b4b9ffc85de73a87f1a98ee": [],
-    "afcfacd5002ae224724e7639f5d03bb65432d272104d82afd45da91c8cddc111": [
+    "74062424eb7301f3d3c7db9b9ddc2d6e1261fbba43afee1a8bbe3a73c2de5c84": [],
+    "21aaeb0b9f88f8b237ed8a8d3eab8c4d4773e8b48a37b9a44cb65dd15f986d09": [
       {
         "event_id": "",
         "source_id": "manulife-mfc-deep-dive-stock-analysis-beating-the-tide",
@@ -9775,7 +9775,7 @@
         "publication_date": "2025-10-15",
         "effective_date": "2025-10-15",
         "date_uncertainty": null,
-        "company_name": "Kingstone",
+        "company_name": "Kingstone Companies",
         "ticker": "KINS",
         "normalized_ticker": "KINS",
         "exchange": "US",
@@ -10186,8 +10186,8 @@
         "unresolved_fields": []
       }
     ],
-    "25f65f7748b88e5e2ae6eb5498c6e78a97a92ab75eeb0202540df15a85c5540e": [],
-    "d69db35c05757880a95b1722921dc2e68dc1edadb694c6129688a593f1e83af7": [
+    "95fce1db7052cae16e99a3e5dbccfbed82352eda78b95806c18ae1eec17aa0cf": [],
+    "c8952444b8dfc34accf815273d437226056cb4f93facc76b2b234c551861522d": [
       {
         "event_id": "",
         "source_id": "tsmc-valuation-upgrade-argentina-market-reset-tsm",
@@ -10254,7 +10254,7 @@
         "publication_date": "2025-10-19",
         "effective_date": "2025-10-19",
         "date_uncertainty": null,
-        "company_name": "Grupo Supervielle S.A",
+        "company_name": "Overview of Grupo Supervielle",
         "ticker": "SUPV",
         "normalized_ticker": "SUPV",
         "exchange": "US",
@@ -10273,7 +10273,7 @@
         "unresolved_fields": []
       }
     ],
-    "7630d3b8ccf0a40e1d5f8600742107619da8696d24a89c2da1c0e23ba67183fe": [
+    "8102108dd07165cd653cb8e628da1bdbc4f35d5543acebfbc491ec365af6f79f": [
       {
         "event_id": "",
         "source_id": "how-to-read-10-k-and-proxy-statements",
@@ -10359,9 +10359,9 @@
         "unresolved_fields": []
       }
     ],
-    "91ecc53ee51c7eaa5f921077139aaa40159b0b886af2d0429193e61811d07148": [],
-    "afa1cbc80be8171749bb86312a55bc1820c850648ca26bf7e790e507f1db09bf": [],
-    "32a8ab9804406c735b2f26a4a67c6d231154354104d8811e6b78ff59e2f34863": [
+    "1659ab4177525f6fa4b0f63a160f63e164e35c0d87a6f702a139d88a7831b628": [],
+    "4e66fa50cd0e96d7a068467a29b0c6973d09f42565f0299dcce074a590d58140": [],
+    "318da1efc9fd8ce0b5fc98f42c8f811604c66925e51ed7d35b89939584a86142": [
       {
         "event_id": "",
         "source_id": "kt-south-korea-deep-dive-a-telco-without-an-edge",
@@ -10783,8 +10783,8 @@
         "unresolved_fields": []
       }
     ],
-    "5f2d620a25931474035a3d09908d09b2739bb146b27abb5e70bef3f7ce6e1ce5": [],
-    "34d3d75997873346b743d9480e83537dcf9c42fb62dbed801a51de407dc02ad3": [
+    "8cece6a5ad7358886847307596e33ee22310c628fa77cf65b9362668f6faa9da": [],
+    "a1e0caa05c4baa8cca2406a60ce85e5b2a4c650b3ad988a60ec40759cf71532a": [
       {
         "event_id": "",
         "source_id": "the-balance-sheet-primer-your-stocks",
@@ -10851,7 +10851,7 @@
         "publication_date": "2025-11-05",
         "effective_date": "2025-11-05",
         "date_uncertainty": null,
-        "company_name": "GM",
+        "company_name": "General Motors",
         "ticker": "GM",
         "normalized_ticker": "GM",
         "exchange": "US",
@@ -10926,8 +10926,8 @@
         "unresolved_fields": []
       }
     ],
-    "a502cf6101400dc689c90de44132ada79cfeee4d40a8647a1884c0cc4a523297": [],
-    "bace454adcf9e2879c8401316c618de8e735a1c7fd9de925c68dec484b6393e3": [
+    "9f55ddf08025e043c5d0291518639abd1d92323ed0006b05f32028d9c8ef3767": [],
+    "768765fa92ffe9cd099de8b17c5b7d05ce2ed4ec35058edda3372e27e4f28642": [
       {
         "event_id": "",
         "source_id": "dxp-enterprises-dxpe-q3-2025-overreaction",
@@ -10938,7 +10938,7 @@
         "publication_date": "2025-11-11",
         "effective_date": "2025-11-11",
         "date_uncertainty": null,
-        "company_name": "DXP Enterprises",
+        "company_name": "Thought Of The Week DXP Enterprises",
         "ticker": "DXPE",
         "normalized_ticker": "DXPE",
         "exchange": "US",
@@ -10957,7 +10957,7 @@
         "unresolved_fields": []
       }
     ],
-    "bc3eac7701a87806b59f73c1ebd48ec322c3738b9ab2c6ab9bf435dc726fe4e0": [
+    "7d740f0927e0219a4abba6abd5b39afdec79758aeb16fb42412040ecf6df22c5": [
       {
         "event_id": "",
         "source_id": "stock-pick-high-roe-financial-deep-dive",
@@ -11323,7 +11323,7 @@
         "unresolved_fields": []
       }
     ],
-    "2d97f3930dc762e5400df4788759c0206868800f1dd19bdb21f9f3b33eb4b85e": [
+    "9b33e97468d7ce41f6c6459f9c543711c788ebd91a6144249a8570294328db53": [
       {
         "event_id": "",
         "source_id": "kins-q3-2025-earnings-record-profit",
@@ -11409,7 +11409,7 @@
         "unresolved_fields": []
       }
     ],
-    "8e67efb807c5221421864b8a7d71bd311ba4628f514b548e65cbe7c77dbb6239": [
+    "ef5e710440081ccdc2ba4629ee04c78f9c032be272811f18b31bc5debe18c51a": [
       {
         "event_id": "",
         "source_id": "weekly-56-why-passive-taking-over",
@@ -11439,7 +11439,7 @@
         "unresolved_fields": []
       }
     ],
-    "7adbd9f79f80ecb109376def4c670500e85d297cda54c6d009985e9034595170": [
+    "97a6b55ae7008a44fbcc52942f09b95fc4895166a864e4b2c82c7d453d6bbdbf": [
       {
         "event_id": "",
         "source_id": "gsl-deep-dive-stock-analysis-wrong-part-of-cycle-global-shipping-lease",
@@ -12225,7 +12225,7 @@
         "unresolved_fields": []
       }
     ],
-    "2129dfc818d997e7cd65b401e623cc3c968571eaf10197da2828189169a5df5d": [
+    "3f78e64d7bcedff2f5659e61acf57ab676333beab2a9bf494e41d59cfb4e5ebd": [
       {
         "event_id": "",
         "source_id": "are-we-in-an-ai-bubble-artificial-intelligence",
@@ -12283,7 +12283,7 @@
         "unresolved_fields": []
       }
     ],
-    "d3be26e988a5bf2a95ec8347f0ddb29ae99146d464d69a87e958188b847d3944": [
+    "809ad2d74fec5a823fc43168ca94378f7135c96ac8a2aed9217fdb23799be98e": [
       {
         "event_id": "",
         "source_id": "deep-dive-stock-analysis-best-stock-pick-newsletter-caap-investment-thesis-corporacion-america-airports-sa",
@@ -12509,8 +12509,8 @@
         "unresolved_fields": []
       }
     ],
-    "a6056ebc47d84c73bebf9a9845b34825459bcb21cfb15780c0c8988e58f626fc": [],
-    "d5c3f9805457a50ca5ae10b07f506df28e2ed684a656098a7ea5128c2950bcaa": [
+    "bff7707838fdb1283100bee66216fa0edea976aebdf536b1af1bffa6088e2825": [],
+    "8a77aa2f8cfa7a3a1fb86df6599acbda2fcc8f61297cfbe44129f5e80c46b33c": [
       {
         "event_id": "",
         "source_id": "sp500-valuation-magnificent-7-cheap-energy-sector",
@@ -12596,7 +12596,7 @@
         "unresolved_fields": []
       }
     ],
-    "6fe5c0ab0f02c4727c58804bf31b7d29ebadeb1366e497d2f077c1916acfa0c0": [
+    "51ada2957c652119b2ce4fa6ec93050f3a7bf43414dfbc17cddc3f561f7e14c5": [
       {
         "event_id": "",
         "source_id": "investment-thesis-strl-sterling-infrastructure",
@@ -12626,8 +12626,8 @@
         "unresolved_fields": []
       }
     ],
-    "e126b7718133fcffa60e30a45cfa62fe6559f13db4ebb767219afe21a4269303": [],
-    "eb7757ae8f7ce9854fcf8967aacf1722edf61c8cb66410a4da4b3c662858931f": [
+    "dafd5a4a3d3bacf253a2b9c5d017a64f15eba98a7f3b55862eb96188b4c2d5e5": [],
+    "9708ff0194f6c027571db17f9df115693bf57bb9bdd935c2e8036b9a27d5ec2e": [
       {
         "event_id": "",
         "source_id": "trade-alert-saying-goodbye-to-finv",
@@ -12638,7 +12638,7 @@
         "publication_date": "2025-12-09",
         "effective_date": "2025-12-09",
         "date_uncertainty": null,
-        "company_name": "FinVolution",
+        "company_name": "Closed My FinVolution",
         "ticker": "FINV",
         "normalized_ticker": "FINV",
         "exchange": "US-ADR",
@@ -12666,7 +12666,7 @@
         "publication_date": "2025-12-09",
         "effective_date": "2025-12-09",
         "date_uncertainty": null,
-        "company_name": "Nasdaq",
+        "company_name": "Qifu Technology",
         "ticker": "QFIN",
         "normalized_ticker": "QFIN",
         "exchange": "US-ADR",
@@ -12685,8 +12685,8 @@
         "unresolved_fields": []
       }
     ],
-    "78f3aae078a54c3b967d432765e1fe0da671e1a8b211f3bd1719eb920d0b2260": [],
-    "d8f1a65ff35adacccdf6961ca06f751527f9a13b58c21305c674daa76247f4bf": [
+    "6824e423d2a18754c40cb291c9cd7b73ec811aa5a3644819281232e2131be5eb": [],
+    "4657ccfe68f3e04bb4cd38bdbbf8c2cf7342bf6b7f05f461fc96df012604212d": [
       {
         "event_id": "",
         "source_id": "finv-qfin-qifu-finvolution-why-i-sold-my-chinese-fintech",
@@ -12809,7 +12809,7 @@
         "publication_date": "2025-12-14",
         "effective_date": "2025-12-14",
         "date_uncertainty": null,
-        "company_name": "FinVolution",
+        "company_name": "Closed My FinVolution",
         "ticker": "FINV",
         "normalized_ticker": "FINV",
         "exchange": "US-ADR",
@@ -12893,7 +12893,7 @@
         "publication_date": "2025-12-14",
         "effective_date": "2025-12-14",
         "date_uncertainty": null,
-        "company_name": "Qifu",
+        "company_name": "Qifu Technology",
         "ticker": "QFIN",
         "normalized_ticker": "QFIN",
         "exchange": "US-ADR",
@@ -12921,7 +12921,7 @@
         "publication_date": "2025-12-14",
         "effective_date": "2025-12-14",
         "date_uncertainty": null,
-        "company_name": "Qifu",
+        "company_name": "Qifu Technology",
         "ticker": "QFIN",
         "normalized_ticker": "QFIN",
         "exchange": "US-ADR",
@@ -12977,7 +12977,7 @@
         "publication_date": "2025-12-14",
         "effective_date": "2025-12-14",
         "date_uncertainty": null,
-        "company_name": "Qifu",
+        "company_name": "Qifu Technology",
         "ticker": "QFIN",
         "normalized_ticker": "QFIN",
         "exchange": "US-ADR",
@@ -12996,7 +12996,7 @@
         "unresolved_fields": []
       }
     ],
-    "709224ef9dee19c3cd82d79376e95d796061f732bdca7a75e123614662825e63": [
+    "a21fac6c0ab3a445a728b59e2b78270d23156a9184c6258e45768dde919b1e67": [
       {
         "event_id": "",
         "source_id": "ignored-energy-stock-2025",
@@ -13035,7 +13035,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13063,7 +13063,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13091,7 +13091,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13119,7 +13119,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13147,7 +13147,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13203,7 +13203,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13231,7 +13231,7 @@
         "publication_date": "2025-12-16",
         "effective_date": "2025-12-16",
         "date_uncertainty": null,
-        "company_name": "Par Pacific",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -13250,9 +13250,9 @@
         "unresolved_fields": []
       }
     ],
-    "cf61e07334c5a041be287691b9c7d9b5b7714aeefb15d45249aba971e6dbac4b": [],
-    "d5b0cf34c78c974e697bced478cf8422a606a3e24690ca4926f4689427b11dd3": [],
-    "313af3ab6dba25b711211ad5c1a8b02d56f57ff1316caed97059ddecea5ef96f": [
+    "7eae6543fb36d9e299910ebb04e727e9168e4451a3a8a990ef8b10f8a157bc68": [],
+    "db0a41fbc00739fffc145db6f399d08d9b494cc8895134462c10029540081d14": [],
+    "5bbdc10ed2834d8a21841d48096e8e1d0f6bc42ed81abf2894eee4e9b315cf29": [
       {
         "event_id": "",
         "source_id": "micron-mu-top-stock-pick-2026",
@@ -13394,8 +13394,8 @@
         "unresolved_fields": []
       }
     ],
-    "f3c13f5f0c11094bf8c64eb0b5f1586208fe8288bd9fb6740a0dd5770afcd465": [],
-    "e3d28b9386f4f6d327b1457c0a6f278b69b88f489a1f94d665bd887f75a2c15e": [
+    "ad8eeac4dc0ac184307e76715a6bad961dbe94acda4a27ef19c797fa874fcb6f": [],
+    "fe31a764d093f92e1923f5f43b602f9ea9dc615e4cefdbd1be6f9dbc9240ed57": [
       {
         "event_id": "",
         "source_id": "closing-the-jdcom-position-what-went",
@@ -13406,7 +13406,7 @@
         "publication_date": "2026-01-06",
         "effective_date": "2026-01-06",
         "date_uncertainty": null,
-        "company_name": "JD.com",
+        "company_name": "Model",
         "ticker": "JD",
         "normalized_ticker": "JD",
         "exchange": "US-ADR",
@@ -13434,7 +13434,7 @@
         "publication_date": "2026-01-06",
         "effective_date": "2026-01-06",
         "date_uncertainty": null,
-        "company_name": "JD.com",
+        "company_name": "Model",
         "ticker": "JD",
         "normalized_ticker": "JD",
         "exchange": "US-ADR",
@@ -13462,7 +13462,7 @@
         "publication_date": "2026-01-06",
         "effective_date": "2026-01-06",
         "date_uncertainty": null,
-        "company_name": "JD.com",
+        "company_name": "Model",
         "ticker": "JD",
         "normalized_ticker": "JD",
         "exchange": "US-ADR",
@@ -13518,7 +13518,7 @@
         "publication_date": "2026-01-06",
         "effective_date": "2026-01-06",
         "date_uncertainty": null,
-        "company_name": "JD.com",
+        "company_name": "Model",
         "ticker": "JD",
         "normalized_ticker": "JD",
         "exchange": "US-ADR",
@@ -13596,13 +13596,13 @@
         "event_id": "",
         "source_id": "closing-the-jdcom-position-what-went",
         "source_type": "article",
-        "location": "paragraph:99:c0@char:16112",
+        "location": "paragraph:99:c1@char:16112",
         "char_offset": 16112,
-        "exact_text": "After evaluating all of the above, I’ve concluded that closing my JD.com position is the prudent move for me.",
+        "exact_text": "I’ve concluded that closing my JD.com position is the prudent move for me.",
         "publication_date": "2026-01-06",
         "effective_date": "2026-01-06",
         "date_uncertainty": null,
-        "company_name": "JD.com",
+        "company_name": "Model",
         "ticker": "JD",
         "normalized_ticker": "JD",
         "exchange": "US-ADR",
@@ -13617,11 +13617,11 @@
         "position_sizing": null,
         "trim_fraction": 1.0,
         "confidence": "high",
-        "notes": "After evaluating all of the above, I’ve concluded that closing my JD.com position is the prudent move for me.",
+        "notes": "I’ve concluded that closing my JD.com position is the prudent move for me.",
         "unresolved_fields": []
       }
     ],
-    "b44976f3d04841a6a74020d1b12c0c25ec827593145ff91e7d7dc1e5c6bcbffa": [
+    "f3bd9d64aaa62bf9c3e093c6c4329ebfe10648a3463737d05fc67dd6428999e7": [
       {
         "event_id": "",
         "source_id": "trade-alert-new-3-position-added",
@@ -13651,7 +13651,7 @@
         "unresolved_fields": []
       }
     ],
-    "47bef15e83377249846cf8b0f9dc49754e4c47395566d41ed52af7316bf02102": [
+    "71049f85ee52bc6fa4a4a5c7eff4ce8c4910974bc107def71b2a45b0978e862c": [
       {
         "event_id": "",
         "source_id": "investment-risk-and-reward",
@@ -13662,7 +13662,7 @@
         "publication_date": "2026-01-11",
         "effective_date": "2026-01-11",
         "date_uncertainty": null,
-        "company_name": "JD.com",
+        "company_name": "Model",
         "ticker": "JD",
         "normalized_ticker": "JD",
         "exchange": "US-ADR",
@@ -13681,7 +13681,7 @@
         "unresolved_fields": []
       }
     ],
-    "9f5f63459ef721a439df55bb316bc32d676bbefe7774fe8ed48059a831b0ae5c": [
+    "9594b757d2158a6d9056ed0fe3acd5009f28149e2fab329190ed6578f009cc1c": [
       {
         "event_id": "",
         "source_id": "why-im-closing-agx-after-a-166-gain",
@@ -13692,7 +13692,7 @@
         "publication_date": "2026-01-14",
         "effective_date": "2026-01-14",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13720,7 +13720,7 @@
         "publication_date": "2026-01-14",
         "effective_date": "2026-01-14",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13748,7 +13748,7 @@
         "publication_date": "2026-01-14",
         "effective_date": "2026-01-14",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13804,7 +13804,7 @@
         "publication_date": "2026-01-14",
         "effective_date": "2026-01-14",
         "date_uncertainty": null,
-        "company_name": "Even T-Mobile",
+        "company_name": "T-Mobile US",
         "ticker": "TMUS",
         "normalized_ticker": "TMUS",
         "exchange": "NASDAQ",
@@ -13832,7 +13832,7 @@
         "publication_date": "2026-01-14",
         "effective_date": "2026-01-14",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13851,7 +13851,7 @@
         "unresolved_fields": []
       }
     ],
-    "6b52484cf31a01f213e7f121fd1398bd1ae3c76ddec008206be2ebaac6da827b": [
+    "b1a4968a9210932c87612b9da51bfa7a84e6eaa7132b8ad0fa5a41194325903e": [
       {
         "event_id": "",
         "source_id": "why-im-raising-my-tsmc-taiwan-semiconductor-tsm",
@@ -13862,7 +13862,7 @@
         "publication_date": "2026-01-18",
         "effective_date": "2026-01-18",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13890,7 +13890,7 @@
         "publication_date": "2026-01-18",
         "effective_date": "2026-01-18",
         "date_uncertainty": null,
-        "company_name": "Taiwan Semiconductor Manufacturing Co",
+        "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
         "ticker": "TSMC",
         "normalized_ticker": "TSMC",
         "exchange": "US",
@@ -13918,7 +13918,7 @@
         "publication_date": "2026-01-18",
         "effective_date": "2026-01-18",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13946,7 +13946,7 @@
         "publication_date": "2026-01-18",
         "effective_date": "2026-01-18",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -13974,7 +13974,7 @@
         "publication_date": "2026-01-18",
         "effective_date": "2026-01-18",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -14002,7 +14002,7 @@
         "publication_date": "2026-01-18",
         "effective_date": "2026-01-18",
         "date_uncertainty": null,
-        "company_name": "Argan",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -14021,7 +14021,7 @@
         "unresolved_fields": []
       }
     ],
-    "cdf94a08dc18bd307c5cd1df4bd0290183846d8d0903e5048c4abc67460d5d2a": [
+    "507c9d54f03fc3d09ef3532876cfea37109dcf25aaedbc7670147a806ab8190a": [
       {
         "event_id": "",
         "source_id": "the-stock-that-slipped-through-my-fingers",
@@ -14079,9 +14079,9 @@
         "unresolved_fields": []
       }
     ],
-    "d82940cf57d6d3133a7768de0ac8bab0f18458947d4df80563f69d4883d34b35": [],
-    "9b6b5d6c61b3112a4ace1a47b1fa51013f7a00bf7b2e077e819f70ed3b151eaa": [],
-    "c770b685b9eb35e394b07196b1f1794942d5f3b803461d02e0c80ce4975944f5": [
+    "16d340229e5d90f17636132aba9975b516c6771babee27cd0fb80b0cfeb27712": [],
+    "2bfe3009dc662dc463e28772db09ec0f779bc682745118aee6fa6eab54fcd354": [],
+    "d41dd233e02e584d1969346352520eedadd41263f7061e6a859580d7fa544ab9": [
       {
         "event_id": "",
         "source_id": "celestica-cls-stock-analysis-2026",
@@ -14092,7 +14092,7 @@
         "publication_date": "2026-01-25",
         "effective_date": "2026-01-25",
         "date_uncertainty": null,
-        "company_name": "CLS",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -14139,7 +14139,7 @@
         "unresolved_fields": []
       }
     ],
-    "8e62752a8fc1146724c10c52db69fb20dfd13fa8aa3ff68d81a8b63d85c3eb49": [
+    "38743f8ca45f0d475d7bc211a761a8a9c169ffd1670e415ae59929e854da50d8": [
       {
         "event_id": "",
         "source_id": "why-im-closing-my-position-in-natwest-nwg",
@@ -14178,7 +14178,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -14206,7 +14206,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -14234,7 +14234,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -14318,7 +14318,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "Lloyds",
+        "company_name": "Lloyds Lloyds",
         "ticker": "LYG",
         "normalized_ticker": "LYG",
         "exchange": "US",
@@ -14346,7 +14346,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -14430,7 +14430,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -14449,9 +14449,9 @@
         "unresolved_fields": []
       }
     ],
-    "4ce3cc02f28ceb819d62251989ecc190c6fc9887359bc37d788efb0cb09518f2": [],
-    "1d56c042b2226c2bd462dfaef19d7aab70650c14d5de54bc46bcdfa3034527b7": [],
-    "c7632193f183454aee88f3572f32d676d27529f2681189e0de8ffa053f6d8b35": [
+    "9201f406384ea165fe3d5bc24b7b46909c724700b394943ad27a2c44628f1b87": [],
+    "b456ac204bbd9baeb53fc902e3b5e7298d77594425ece5e35e2e80507dad171c": [],
+    "9336a99857442ecc6bc350e0a95c54b7d8e96379def84693ba8f1ab7f30b2673": [
       {
         "event_id": "",
         "source_id": "trump-fed-pick-selloff-micron-lrn-mu-stride",
@@ -14462,7 +14462,7 @@
         "publication_date": "2026-02-01",
         "effective_date": "2026-02-01",
         "date_uncertainty": null,
-        "company_name": "Micron",
+        "company_name": "Buy Micron Technology",
         "ticker": "MU",
         "normalized_ticker": "MU",
         "exchange": "US",
@@ -14490,7 +14490,7 @@
         "publication_date": "2026-02-01",
         "effective_date": "2026-02-01",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -14509,7 +14509,7 @@
         "unresolved_fields": []
       }
     ],
-    "74838ed2ea47cfc46c5b83293de8692f36a63a49e0a5d88ad97d78081209e10f": [
+    "e45abc341db5d29fa91ce9cf0dd8c4134b71b9c98b39371cf2b0a76f15e8e8fb": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-position-in-pypl",
@@ -14567,7 +14567,7 @@
         "unresolved_fields": []
       }
     ],
-    "f4e36fc585209fd1a1a68e65a74d0c30e2427df47bb561fb14a4813a3891af59": [
+    "b319b8b4af8275a1203fbf44b90fa219b7ee55a17cbcae45c9136cc59d72f300": [
       {
         "event_id": "",
         "source_id": "paypal-post-mortem-why-i-sold-pypl",
@@ -14578,7 +14578,7 @@
         "publication_date": "2026-02-04",
         "effective_date": "2026-02-04",
         "date_uncertainty": null,
-        "company_name": "PayPal Holdings",
+        "company_name": "PayPal Holdings Inc",
         "ticker": "PYPL",
         "normalized_ticker": "PYPL",
         "exchange": "US",
@@ -14681,7 +14681,7 @@
         "unresolved_fields": []
       }
     ],
-    "1962bc7c787e1001276db3d6712f0aed0aafff5dbca65f2bc7cea66daf73d684": [
+    "5041c3292257ba081aaab20d5082de1b615f74d713e423bf6e7cd3ed8553b05f": [
       {
         "event_id": "",
         "source_id": "the-crown-has-been-passed-powl-powell",
@@ -14692,7 +14692,7 @@
         "publication_date": "2026-02-08",
         "effective_date": "2026-02-08",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -14711,9 +14711,9 @@
         "unresolved_fields": []
       }
     ],
-    "08e5ff121988f01295484a2d10b69fe42d910f7314aaef57e68f91613f6eed39": [],
-    "dac4b2002b45bbc345042c454962494c89396e06c9f0fe7abb28b94040aeb17a": [],
-    "77acb3b2da2f780fcf47415c509981eb906ede76324a10af78957cb761f84797": [
+    "1a4854911b79dcd1ba8db31c6e6ea220904936e5e90a3dbacb0af92b3177f749": [],
+    "47c8a7a186e2f265d714853b60d20a894323927f56243f491a92ba8eff8cd937": [],
+    "14c7b7944cad1aa83d7152f1460b04c2d9d37a14b6d2872a1a67875d0bfec13a": [
       {
         "event_id": "",
         "source_id": "trade-alert-february-pick-a-commodity",
@@ -14743,7 +14743,7 @@
         "unresolved_fields": []
       }
     ],
-    "3b5e4c7c15fd7a36dccf87e3b02345bad3a8ad22173d458ecdcafeda8493193c": [
+    "d381a7bd46e44e78ea47b6cf0277b31b8d90673345993ff7be96a4f0e8e827ba": [
       {
         "event_id": "",
         "source_id": "deep-dive-the-market-is-confusing",
@@ -14950,7 +14950,7 @@
         "publication_date": "2026-02-27",
         "effective_date": "2026-02-27",
         "date_uncertainty": null,
-        "company_name": "HPE",
+        "company_name": "Hewlett Packard Enterprise",
         "ticker": "HPE",
         "normalized_ticker": "HPE",
         "exchange": "US",
@@ -15025,7 +15025,7 @@
         "unresolved_fields": []
       }
     ],
-    "79a8d43b79074c6a3a9cef38627c513a99e63eb4b08391337a2b5e685c1f0070": [
+    "f00799fd45347a3e5991faa2c90600a70d3a0bdc8ccd9081e048a80891818101": [
       {
         "event_id": "",
         "source_id": "weekly-71-dxpes-water-segment-is",
@@ -15055,7 +15055,7 @@
         "unresolved_fields": []
       }
     ],
-    "db886325df47adbb0469b02db226cf754ac1f888845b0f93359495129219dedc": [
+    "c1078239af820e11e9480ab7778e63702cba628f31ae3792724772777b31956f": [
       {
         "event_id": "",
         "source_id": "strl-q4-2025-earnings-sterling-infrastructure-analysis",
@@ -15066,7 +15066,7 @@
         "publication_date": "2026-03-04",
         "effective_date": "2026-03-04",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -15094,7 +15094,7 @@
         "publication_date": "2026-03-04",
         "effective_date": "2026-03-04",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -15113,9 +15113,9 @@
         "unresolved_fields": []
       }
     ],
-    "eb1e336f3c723d556d90d0904913c0cfd89053f3c86a536d483e18c09cfd384a": [],
-    "8aaa92c6632d20aa347b83ea66ab093033f83ef2a2f4fb4943a783ab29a86875": [],
-    "3614f3e83458d85b90512477f96a6643cc8ee2a59dfe98c24df537fe7cba5013": [
+    "94fddcfc421a828b3fbefa2ce24989a21b4fabc7090348fbd552643f455c2e60": [],
+    "bd8ae691f52cb3d9b4efc38e34028731be9fd5923bcab8a9a5ce6be6353b572d": [],
+    "cc26ec8f643a29305f26a7e381ac1f9284feaf2da5773e10d455193184a032cd": [
       {
         "event_id": "",
         "source_id": "energy-in-the-crossfire-selling-opfi",
@@ -15182,7 +15182,7 @@
         "publication_date": "2026-03-16",
         "effective_date": "2026-03-16",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -15229,7 +15229,7 @@
         "unresolved_fields": []
       }
     ],
-    "e36a7aba02ceca3f9bb7ac33670336800ef36897d33ad808fdbc1454fbc7f612": [
+    "b22a35ede3f7cafdad9a74a9dcdb041b15063a1200283abe9e033997ffd5e64c": [
       {
         "event_id": "",
         "source_id": "mena-oilfield-services-stock-deep-dive-investment-thesis",
@@ -15240,7 +15240,7 @@
         "publication_date": "2026-03-20",
         "effective_date": "2026-03-20",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -15268,7 +15268,7 @@
         "publication_date": "2026-03-20",
         "effective_date": "2026-03-20",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -15296,7 +15296,7 @@
         "publication_date": "2026-03-20",
         "effective_date": "2026-03-20",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -15380,7 +15380,7 @@
         "publication_date": "2026-03-20",
         "effective_date": "2026-03-20",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -15436,7 +15436,7 @@
         "publication_date": "2026-03-20",
         "effective_date": "2026-03-20",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -15483,7 +15483,7 @@
         "unresolved_fields": []
       }
     ],
-    "77c2dc4829d362162205827229fecdf457b67759b79c1f49e2f1f0505037f31f": [
+    "ba91709dd29d554a3fa0f7e07dd73895fd61c70fcd9d492baf8ea30312c363fd": [
       {
         "event_id": "",
         "source_id": "micron-technology-mu-q2-2026-earnings-review-price-target",
@@ -15522,7 +15522,7 @@
         "publication_date": "2026-03-22",
         "effective_date": "2026-03-22",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -15541,7 +15541,7 @@
         "unresolved_fields": []
       }
     ],
-    "ee1b4532cc2d482fbc8c7fbf7448d1bb5f08067308d5216c6565513a4d55759a": [
+    "b5db9954945f8d11b9b60a1f8be5b40836e0d2559a1dedabd30ab77d4dd55e51": [
       {
         "event_id": "",
         "source_id": "coeur-mining-cde-deep-dive-investment-thesis-stock-analysis",
@@ -15552,7 +15552,7 @@
         "publication_date": "2026-03-29",
         "effective_date": "2026-03-29",
         "date_uncertainty": null,
-        "company_name": "Coeur Mining",
+        "company_name": "Thought Of The Week Coeur Mining",
         "ticker": "CDE",
         "normalized_ticker": "CDE",
         "exchange": "US",
@@ -15580,7 +15580,7 @@
         "publication_date": "2026-03-29",
         "effective_date": "2026-03-29",
         "date_uncertainty": null,
-        "company_name": "New Gold",
+        "company_name": "Buying New Gold Inc",
         "ticker": "NGD",
         "normalized_ticker": "NGD",
         "exchange": "NYSE",
@@ -15599,7 +15599,7 @@
         "unresolved_fields": []
       }
     ],
-    "8d053e20a238efdfe1ab6f87e618b7381410181f83ae4440520cf76e9287da7c": [
+    "d850b3710ed0331ecbc554dcd7ea984c881103141bfa95dc89c929079c519714": [
       {
         "event_id": "",
         "source_id": "i-left-500000-on-the-table-gut-feeling",
@@ -15610,7 +15610,7 @@
         "publication_date": "2026-04-05",
         "effective_date": "2026-04-05",
         "date_uncertainty": null,
-        "company_name": "STRL",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -15629,9 +15629,9 @@
         "unresolved_fields": []
       }
     ],
-    "b513bbfa9287c7fd2e39c7f618f7c9f20f2ff179fb251a61de0398036860c5ed": [],
-    "78a6ecf6fa925544f0c5c328785871fe3ed92dd2b673f3aa3e64829d1c0b1da2": [],
-    "c206db0f74c0c3313afb5fc05933f99b7c03c8a8929a036d57d3fd474615f2e3": [
+    "c9e531278adb582abe321c13ca2260a211baf28232dc4fa5e1d621ec76d8a8bb": [],
+    "53f265018bf938d566284caafe6a793e52273932f48b136388c9cce3a6b88591": [],
+    "cf6cebba72f72e4be58a5538f13b544adca8ab7bed1a8299637bd6ac138ba5f4": [
       {
         "event_id": "",
         "source_id": "april-2026-stock-pick-aerospace-defense-trade-alert",
@@ -15642,7 +15642,7 @@
         "publication_date": "2026-04-13",
         "effective_date": "2026-04-13",
         "date_uncertainty": null,
-        "company_name": "Kingstone",
+        "company_name": "Kingstone Companies",
         "ticker": "KINS",
         "normalized_ticker": "KINS",
         "exchange": "US",
@@ -15698,7 +15698,7 @@
         "publication_date": "2026-04-13",
         "effective_date": "2026-04-13",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -15717,7 +15717,7 @@
         "unresolved_fields": []
       }
     ],
-    "c4b7f3f34fc6e92d1edacbde5d261e8b7ab04127aab429b5a5d7b3da2b278d7f": [
+    "856b8104f1c04a264c78a8ba7f1ed1144e283fede8b39e130c299f14b151f8b7": [
       {
         "event_id": "",
         "source_id": "stock-deep-dive-jet-engine-moat-war-economy",
@@ -15775,7 +15775,7 @@
         "unresolved_fields": []
       }
     ],
-    "eb1fbb14d6cf0970af1dd45e9331268b254354ba381fc46d091da0b801e53957": [
+    "db8f020a7cd4f4fe4415d46916163826554ebc2df8a7e614af8381b90d972760": [
       {
         "event_id": "",
         "source_id": "tsm-q1-2026-earnings-fundamentals-accelerated-market-yawned",
@@ -15786,11 +15786,11 @@
         "publication_date": "2026-04-19",
         "effective_date": "2026-04-19",
         "date_uncertainty": null,
-        "company_name": "TSMC",
+        "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "HOLD",
         "execution_status": "retrospective",
@@ -15805,7 +15805,7 @@
         "unresolved_fields": []
       }
     ],
-    "6c40af4b110c70cf3ef0e60c7c55fe2ae7c3cf8e327f6fe6a9f13c201a49d535": [
+    "f13a30e5bffede15cad87bb5bd4a5a904cc763ede48a22350fe99478743a0f0b": [
       {
         "event_id": "",
         "source_id": "this-latam-utility-company-update-q4-fy2025",
@@ -15835,8 +15835,8 @@
         "unresolved_fields": []
       }
     ],
-    "4dde1c5df7ffb36accbab0735e548506099b100bc8a92f52799cae23c9398abe": [],
-    "dcea2d0ccee1e4f339741cd33ec98542d4b24b960407114823dd3052acc7df54": [
+    "431d9f23eb067580fd795f4bb92266c3295be55406d88ac5a709336f594e7bff": [],
+    "5ef7d5abbbfc9434cc5e4f4e73fbe4e54e0ac7e0b21cba43311bf7ac82f8dcb4": [
       {
         "event_id": "",
         "source_id": "pilgrims-pride-ppc-closing-trade-deep-dive",
@@ -15903,7 +15903,7 @@
         "publication_date": "2026-04-23",
         "effective_date": "2026-04-23",
         "date_uncertainty": null,
-        "company_name": "Pilgrim’s Pride",
+        "company_name": "Pick The Verdict TLDR Pilgrim’s Pride",
         "ticker": "PPC",
         "normalized_ticker": "PPC",
         "exchange": "US",
@@ -16015,7 +16015,7 @@
         "publication_date": "2026-04-23",
         "effective_date": "2026-04-23",
         "date_uncertainty": null,
-        "company_name": "Pilgrim’s Pride",
+        "company_name": "Pick The Verdict TLDR Pilgrim’s Pride",
         "ticker": "PPC",
         "normalized_ticker": "PPC",
         "exchange": "US",
@@ -16034,7 +16034,7 @@
         "unresolved_fields": []
       }
     ],
-    "c093e0c0e1f2fb9197e1b95283c1f36352c57927853bfe283bc19a8845301677": [
+    "085ff55b54cca33392f7e4c2b9d48c03becd170d653513d6f0a11d573dfc8f86": [
       {
         "event_id": "",
         "source_id": "position-sizing-arithmetic",
@@ -16045,7 +16045,7 @@
         "publication_date": "2026-04-26",
         "effective_date": "2026-04-26",
         "date_uncertainty": null,
-        "company_name": "PayPal Holdings",
+        "company_name": "PayPal Holdings Inc",
         "ticker": "PYPL",
         "normalized_ticker": "PYPL",
         "exchange": "US",
@@ -16101,7 +16101,7 @@
         "publication_date": "2026-04-26",
         "effective_date": "2026-04-26",
         "date_uncertainty": null,
-        "company_name": "Coeur Mining",
+        "company_name": "Thought Of The Week Coeur Mining",
         "ticker": "CDE",
         "normalized_ticker": "CDE",
         "exchange": "US",
@@ -16129,7 +16129,7 @@
         "publication_date": "2026-04-26",
         "effective_date": "2026-04-26",
         "date_uncertainty": null,
-        "company_name": "PayPal Holdings",
+        "company_name": "PayPal Holdings Inc",
         "ticker": "PYPL",
         "normalized_ticker": "PYPL",
         "exchange": "US",
@@ -16148,9 +16148,9 @@
         "unresolved_fields": []
       }
     ],
-    "1079c8c79b9b547721753385a791e32675d4d41fb0fb259e853f854c83164acf": [],
-    "e712cd0f2592c8a9f7468a5a4f1b2b2e18af16aff459585ba9c9e2bc6c2660ca": [],
-    "4ad225c7d87b5d51e63f4c4fe17a75a8815128bbc4893816a226ff50d5222fdf": [
+    "75127116f543ed109c7a5c424f6f9a42ff5fb702411d3752b53825518111e517": [],
+    "f2415d9b2b355ad123746923fccde37fc53629c78b46793b192e64c43d897a27": [],
+    "4b63264ca7048bc861e3c3b9be8afffd5f87ddddcb7707559ec7e96ca7d00f42": [
       {
         "event_id": "",
         "source_id": "stride-lrn-q3-fy26-update-career-learning-engine-gen-ed-wobble",
@@ -16161,10 +16161,10 @@
         "publication_date": "2026-05-04",
         "effective_date": "2026-05-04",
         "date_uncertainty": null,
-        "company_name": "Stride",
+        "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",
@@ -16180,8 +16180,8 @@
         "unresolved_fields": []
       }
     ],
-    "90647ebf6faf38c49a83422b3f5dd3d2a4c7c5275582153a213b285777b37379": [],
-    "2c6a6d9aad16cd159eba91b1802e927b8cef44bf1da804ea08ffb7b1c46b4267": [
+    "268c783a202056156ecb337ab36fa23c21c51f11753839c6589994d11c70b1a6": [],
+    "44d5de37ecdba35fd560ee16d5e72a70002b37ba6bceae1085e6d18f01c3a390": [
       {
         "event_id": "",
         "source_id": "disposition-effect-selling-winners",
@@ -16192,7 +16192,7 @@
         "publication_date": "2026-05-10",
         "effective_date": "2026-05-10",
         "date_uncertainty": null,
-        "company_name": "STRL",
+        "company_name": "Argan’s",
         "ticker": "AGX",
         "normalized_ticker": "AGX",
         "exchange": "US",
@@ -16267,7 +16267,7 @@
         "unresolved_fields": []
       }
     ],
-    "a39d3ee991a034ed0c24390d1212cc15b5949d2ea8ed6b6031a72d39e3b18cd1": [
+    "0b55e376bc12700326d04a4ad6638f18e908e349c80a98e43cc6ec346c4516df": [
       {
         "event_id": "",
         "source_id": "powl-update-holding-1055-percent-unicorn-fair-value-q2-fy2026",
@@ -16278,7 +16278,7 @@
         "publication_date": "2026-05-12",
         "effective_date": "2026-05-12",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -16306,7 +16306,7 @@
         "publication_date": "2026-05-12",
         "effective_date": "2026-05-12",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -16325,7 +16325,7 @@
         "unresolved_fields": []
       }
     ],
-    "e6967d2f52d626c79b739cd0312252c36e3cf13cc92fabd1a08e2f3262eea32e": [
+    "76c2907e44e9c60b9b781b3c24b3242c07fb4b594e5c40e3fe25c0c76d1b5080": [
       {
         "event_id": "",
         "source_id": "sterling-infrastructure-strl-q1-2026-update-target-1010",
@@ -16336,7 +16336,7 @@
         "publication_date": "2026-05-14",
         "effective_date": "2026-05-14",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -16383,8 +16383,8 @@
         "unresolved_fields": []
       }
     ],
-    "d0835fbd3c28ce7595592ad55c444646db37298b50e10c6d53c3f0040d623f23": [],
-    "4fa9920471c384b70e3f8cd41c0379d5579cde0c347a01e0267c64bc3f736431": [
+    "996697eecfdf0cf790e76a5af2777a903e4f06b4e15283428d27924f517472f7": [],
+    "3f300d6f8c66b5c899a7c0f95134a8a951f4ec830447919a0253646355a9d5fc": [
       {
         "event_id": "",
         "source_id": "trade-alert-closed-all-trimmed-strl",
@@ -16395,7 +16395,7 @@
         "publication_date": "2026-05-18",
         "effective_date": "2026-05-18",
         "date_uncertainty": null,
-        "company_name": "Darling Ingredients",
+        "company_name": "Variant Perception Verdict TLDR Darling Ingredients",
         "ticker": "DAR",
         "normalized_ticker": "DAR",
         "exchange": "US",
@@ -16414,7 +16414,7 @@
         "unresolved_fields": []
       }
     ],
-    "f328536e5ff12c7f97f9d4889795eeb576173caf3bcf400bca103e7d9a7226e9": [
+    "17ef1a1b84aff70a9d7474f6e3b657b49466c5810a9caa212b0a703b5840461b": [
       {
         "event_id": "",
         "source_id": "best-dirty-business-portfolio-pick-2026-buy",
@@ -16444,7 +16444,7 @@
         "unresolved_fields": []
       }
     ],
-    "f4ad6d6df3ecef319219eadb461a6d2790be11f5330ab51c0ce5af9449606cfd": [
+    "d4a0b6d1723b0db40430ed76c30f3dd98ed95ef9fb715eb5570b60bbecb53944": [
       {
         "event_id": "",
         "source_id": "dell-stock-still-a-buy",
@@ -16502,7 +16502,7 @@
         "unresolved_fields": []
       }
     ],
-    "01747e9efe6eb0a3190c79abc9f86e3b914481562ce3235f99e6a16da7aa36d6": [
+    "a8345aeddca89f9afb935f27f808da701ed1e0fe9dfc29fd8e42a18685ff92d1": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-one-position",
@@ -16513,7 +16513,7 @@
         "publication_date": "2026-05-26",
         "effective_date": "2026-05-26",
         "date_uncertainty": null,
-        "company_name": "Arcutis Biotherapeutics",
+        "company_name": "Portfolio USA Arcutis Biotherapeutics",
         "ticker": "ARQT",
         "normalized_ticker": "ARQT",
         "exchange": "NASDAQ",
@@ -16532,7 +16532,7 @@
         "unresolved_fields": []
       }
     ],
-    "205d4d023d889a7bfbc51ddc63f92d1fb43d1940a0190ef5158b3414ed57e501": [
+    "42953678b481b8f302fabd490e10434dc2b7febda722e3b3244bcf96c7bed12c": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-one-more-position-c6b",
@@ -16562,7 +16562,7 @@
         "unresolved_fields": []
       }
     ],
-    "e4065db10d13938a3347b75ea1e07ac10ec001374f12f1a6e64e2d03880f0c87": [
+    "38a9ede941fa97f6e9d08772e984f2b7a5a2d3b8ebabcba0e3a37eec6ec1edfa": [
       {
         "event_id": "",
         "source_id": "micron-price-target-update",
@@ -16629,7 +16629,7 @@
         "publication_date": "2026-05-31",
         "effective_date": "2026-05-31",
         "date_uncertainty": null,
-        "company_name": "Powell",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -16657,7 +16657,7 @@
         "publication_date": "2026-05-31",
         "effective_date": "2026-05-31",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -16685,7 +16685,7 @@
         "publication_date": "2026-05-31",
         "effective_date": "2026-05-31",
         "date_uncertainty": null,
-        "company_name": "Micron",
+        "company_name": "Buy Micron Technology",
         "ticker": "MU",
         "normalized_ticker": "MU",
         "exchange": "US",
@@ -16704,8 +16704,8 @@
         "unresolved_fields": []
       }
     ],
-    "abd9b3e9e8a223ed0326db795ad5f78f4c7d750fca66abdff2f500181e033043": [],
-    "2f132eb7323031d621bf3369db8f4da8cb78ab300426093cb7a0299d115a3c29": [
+    "7dc6d9e1dffdf5bfd5575a3d8646ecd3c71d52d509b84ad34dced447a024f915": [],
+    "bda394e5dd75cdb97a3c64723fd7989939845048b1e451c8577ad5b2a9178e53": [
       {
         "event_id": "",
         "source_id": "trade-alert-closing-axia-on-the-adr",
@@ -16735,7 +16735,7 @@
         "unresolved_fields": []
       }
     ],
-    "9de9ac11e605f41393dc1df87b2e2e2effd070752baf7ba4282c307035c06f60": [
+    "62f50ef033acbc9ced8d2eb41fe8c8f0565808f5dbcc2b967f8ca26b7ec91b62": [
       {
         "event_id": "",
         "source_id": "june-stock-pick-trade-alert-i-just",
@@ -16765,7 +16765,7 @@
         "unresolved_fields": []
       }
     ],
-    "76066e16c032ff07cd334eaaeada0cda58a15666cd871f3da83f29d3e0fc28f3": [
+    "bd85c52c9a0747f4ffad3c108d88ecbd8666386e0ef65705038e6f71394d6342": [
       {
         "event_id": "",
         "source_id": "slow-death-brand-investing-nike",
@@ -16907,7 +16907,7 @@
         "unresolved_fields": []
       }
     ],
-    "6b88aa58cafaa13ab3c65d4f086ccb6e636a4ef3c8f8a88d6ff1a90d8b7567ea": [
+    "e05d661d76ef63c1b1a98bb5fbad292a548193879520d6640cfe1adfa3dac790": [
       {
         "event_id": "",
         "source_id": "boring-middleman-600m-cash-against-9b-price",
@@ -16937,7 +16937,7 @@
         "unresolved_fields": []
       }
     ],
-    "8bffcf4267d54e9b993e35bdd61e46cca6bd673df11d4a176335d040919a4885": [
+    "265861bd7cdb24a666e47f2f63a0ebdeea57654bc79255c901adf5092a2964ea": [
       {
         "event_id": "",
         "source_id": "heritage-insurance-hrtg-position-close-post-mortem",
@@ -16948,7 +16948,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Kingstone",
+        "company_name": "Kingstone Companies",
         "ticker": "KINS",
         "normalized_ticker": "KINS",
         "exchange": "US",
@@ -17004,7 +17004,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Heritage Insurance",
+        "company_name": "Heritage Insurance Holdings",
         "ticker": "HRTG",
         "normalized_ticker": "HRTG",
         "exchange": "US",
@@ -17032,7 +17032,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Heritage Insurance",
+        "company_name": "Heritage Insurance Holdings",
         "ticker": "HRTG",
         "normalized_ticker": "HRTG",
         "exchange": "US",
@@ -17060,7 +17060,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Heritage Insurance",
+        "company_name": "Heritage Insurance Holdings",
         "ticker": "HRTG",
         "normalized_ticker": "HRTG",
         "exchange": "US",
@@ -17088,7 +17088,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Heritage Insurance",
+        "company_name": "Heritage Insurance Holdings",
         "ticker": "HRTG",
         "normalized_ticker": "HRTG",
         "exchange": "US",
@@ -17107,7 +17107,7 @@
         "unresolved_fields": []
       }
     ],
-    "bd4164f55905aa028efd8495871d3bff4adca12b63dfdc41ba51b63f82353226": [
+    "470e60d789f7b4ac775858a83112d73fef1459c58a88f794e369a59b9b2faa25": [
       {
         "event_id": "",
         "source_id": "ai-bubble-five-dominoes",
@@ -17137,7 +17137,7 @@
         "unresolved_fields": []
       }
     ],
-    "2971cf9c4fc7805a505e7c16b960a0d7a9527c1a638a10e929cbd8ec9b4fc68a": [
+    "f7688c737ecd2e24aabf86c3174b3b9d19a100599135673acf0202886c95a829": [
       {
         "event_id": "",
         "source_id": "micron-mu-company-update-raising-target-1630-after-q3-2026",
@@ -17195,7 +17195,7 @@
         "unresolved_fields": []
       }
     ],
-    "d7103fc4495b5256c3970172b62ed9c7f8b8fab608b79fb908199e110f2481a4": [
+    "992dcabdb26d6dfb3c92414fcf9577ee1e1eaac924b68781ef82481fdf50ab8c": [
       {
         "event_id": "",
         "source_id": "spacex-ipo-lockup-analysis",
@@ -17365,7 +17365,7 @@
         "unresolved_fields": []
       }
     ],
-    "25098df8bbb20a094d5cb6056bc5a9b6d46991daf3d770f98d627bb6b785c0aa": [
+    "bfd78f786c9a6692860218e98aec9d343ce56591279eb906024f0d1a626a52c3": [
       {
         "event_id": "",
         "source_id": "mr-market-voice-in-your-head",
@@ -17376,7 +17376,7 @@
         "publication_date": "2026-07-12",
         "effective_date": "2026-07-12",
         "date_uncertainty": null,
-        "company_name": "Heritage",
+        "company_name": "Heritage Insurance Holdings",
         "ticker": "HRTG",
         "normalized_ticker": "HRTG",
         "exchange": "US",
@@ -17432,7 +17432,7 @@
         "publication_date": "2026-07-12",
         "effective_date": "2026-07-12",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -17479,7 +17479,7 @@
         "unresolved_fields": []
       }
     ],
-    "8aedc30ac94624ce9b0fb15edb36d15be4d9dedbcc67b424faba979b12e62e0e": [
+    "69a03c456cf5061bd8b84dc7e1a280675d1fb9e5d83f2b80db8c8d4b2e3fefe8": [
       {
         "event_id": "",
         "source_id": "gap-stock-cheap-no-catalyst-redeploy",
@@ -17490,7 +17490,7 @@
         "publication_date": "2026-07-14",
         "effective_date": "2026-07-14",
         "date_uncertainty": null,
-        "company_name": "GAP",
+        "company_name": "Going Nowhere",
         "ticker": "GAP",
         "normalized_ticker": "GAP",
         "exchange": "NYSE",
@@ -17509,8 +17509,8 @@
         "unresolved_fields": []
       }
     ],
-    "ebb2bf7828be5a6d2524db383f8d2c2d6a03a440a9b2df78254838da3ceb4451": [],
-    "c23111348f6ba949e8cf44be79b9dea3df05a02a0651453363c870b5c37a9d10": [
+    "eda05b2ba7a8f0da0f07953067b05c65420a43563af08455472b9be1bc3c99c1": [],
+    "b67118fef7ef2168867bb272c57ce20de8730cf349f1bd9c1b28fc61ae7998e3": [
       {
         "event_id": "",
         "source_id": "record-year-priced-for-relapse-deep-dive",
@@ -17540,7 +17540,7 @@
         "unresolved_fields": []
       }
     ],
-    "15886d390571e25b15b5756132b7abcfe4609cfb0ccbf0c8876e6efc9b1b1966": [
+    "6ab3499d68b7e7bf2f2f98e98885a0373613b8e46298807e7f96d10288564fe5": [
       {
         "event_id": "",
         "source_id": "physics-of-investing-valuation-is-gravity",
@@ -17551,7 +17551,7 @@
         "publication_date": "2026-07-19",
         "effective_date": "2026-07-19",
         "date_uncertainty": null,
-        "company_name": "Micron",
+        "company_name": "Buy Micron Technology",
         "ticker": "MU",
         "normalized_ticker": "MU",
         "exchange": "US",
@@ -17579,7 +17579,7 @@
         "publication_date": "2026-07-19",
         "effective_date": "2026-07-19",
         "date_uncertainty": null,
-        "company_name": "CLS",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -17607,7 +17607,7 @@
         "publication_date": "2026-07-19",
         "effective_date": "2026-07-19",
         "date_uncertainty": null,
-        "company_name": "GAP",
+        "company_name": "Going Nowhere",
         "ticker": "GAP",
         "normalized_ticker": "GAP",
         "exchange": "NYSE",
@@ -17626,7 +17626,7 @@
         "unresolved_fields": []
       }
     ],
-    "ff24bf8c6611dfadb764c6676d1bbbd4f9d05e5b8caf818c059ef918ce432f9b": [
+    "fb3909966ff8bdd837f018e30477d153026e2940c8e6ac3a38b433f9fd6141d4": [
       {
         "event_id": "",
         "source_id": "ryam-rayonier-advanced-materials-stock-up-125-percent",
@@ -17684,7 +17684,7 @@
         "unresolved_fields": []
       }
     ],
-    "8b621db01892d8b50d2cd5ae49b98e4c0bfe47e340e135dc00730bd56790615d": [
+    "6f9a2bfe0a0ec68da7f192b6d846f12636215f92df62a3e83f5652bffce4b492": [
       {
         "event_id": "",
         "source_id": "celestica-cls-q2-2026-earnings-fundamentals-vs-sentiment",
@@ -17798,9 +17798,9 @@
         "unresolved_fields": []
       }
     ],
-    "2ab944c7d4d78bb30a334591ff672d7bec5a3ff2c237b7961a83e6f2d0248e93": [],
-    "42d6861932635ef926759ced20be93d62cbeaea821675672865edd05d9046958": [],
-    "f4dc311b020e94b7a258696504525d0db9d0aa5705b4c62cf6856582e0dfc6d8": [
+    "f7ed397fe6aebbb20c2582e0ec20616403ea9fdf293c70c6cc3d0ae4f2dac58d": [],
+    "22f0f79153476be4b939484dc42f1a16507b7427c035a4fecdaabd04e0c41025": [],
+    "f98e43b31c9fe7d6e9ce7219c27ec8c2f80a5496d009f7ecfcf3cfbbab83518f": [
       {
         "event_id": "",
         "source_id": "sterling-infrastructure-strl-q2-2026-update-upgrading-to-buy",
@@ -17811,7 +17811,7 @@
         "publication_date": "2026-08-05",
         "effective_date": "2026-08-05",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -17839,7 +17839,7 @@
         "publication_date": "2026-08-05",
         "effective_date": "2026-08-05",
         "date_uncertainty": null,
-        "company_name": "Sterling",
+        "company_name": "Sterling Infrastructure",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -17858,9 +17858,9 @@
         "unresolved_fields": []
       }
     ],
-    "ae4b3dc5bcbe6a42b022bffd040b911bb6203bc7466a0dc702cae1d6b3b7ccf1": [],
-    "60203ba1a60222ff3a018245745b34440726d13514bb519af52167821eb5e89f": [],
-    "bc8bfe2f17a4e5a86545365c3a0e24d9a76d0f96a73cb989d6f204af7f42950b": [
+    "de8a16636f5762942711846709c258277ba517d3db63a0fac5055946ec339e4b": [],
+    "0df16c962f2d7a80ed501c3dd17582d6d43fa9ae505e97d2d621b751db5776cb": [],
+    "0ac53568e24c933b7e759dd92c0875e3e9ebfc57708227181757cac74b14de2e": [
       {
         "event_id": "",
         "source_id": "ryam-rayonier-advanced-materialscrown-jewel-record-price-review-deadline",
@@ -17871,7 +17871,7 @@
         "publication_date": "2026-08-16",
         "effective_date": "2026-08-16",
         "date_uncertainty": null,
-        "company_name": "Rayonier Advanced Materials",
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
         "ticker": "RYAM",
         "normalized_ticker": "RYAM",
         "exchange": "NYSE",
@@ -17899,7 +17899,7 @@
         "publication_date": "2026-08-16",
         "effective_date": "2026-08-16",
         "date_uncertainty": null,
-        "company_name": "Rayonier Advanced Materials",
+        "company_name": "The Brief Thesis Rayonier Advanced Materials",
         "ticker": "RYAM",
         "normalized_ticker": "RYAM",
         "exchange": "NYSE",
@@ -17918,7 +17918,7 @@
         "unresolved_fields": []
       }
     ],
-    "1a453c4117a7f2999fb5756b94d6dd0f62d4ec312bf349756447ed8461157a83": [
+    "c931f52710259dbe3230d24818bea4706a6c6c7e6aced463ac6d6a1302857d01": [
       {
         "event_id": "",
         "source_id": "august-stock-pick-everybody-is-watching",
@@ -18032,7 +18032,7 @@
         "unresolved_fields": []
       }
     ],
-    "f44d1e59d8900ade9d9432e7c044072cfa7132f42984aa9768122de075b7322f": [
+    "fe008aa7d80ae87f9a8685607784768caf9ad3759b8b2715c57d8106c2fa9a2b": [
       {
         "event_id": "",
         "source_id": "trade-alert-august-stock-pick",
@@ -18043,10 +18043,10 @@
         "publication_date": "2026-08-17",
         "effective_date": "2026-08-17",
         "date_uncertainty": null,
-        "company_name": "Stride’s",
+        "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "BUY",
@@ -18071,10 +18071,10 @@
         "publication_date": "2026-08-17",
         "effective_date": "2026-08-17",
         "date_uncertainty": null,
-        "company_name": "Stride’s",
+        "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -18127,10 +18127,10 @@
         "publication_date": "2026-08-17",
         "effective_date": "2026-08-17",
         "date_uncertainty": null,
-        "company_name": "Stride’s",
+        "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -18202,8 +18202,8 @@
         "unresolved_fields": []
       }
     ],
-    "9d42a17149231d7c4838ceee5f84f06f06e1245791d9b76159fa623ebbf32ef2": [],
-    "d32cd233423482b4010f9c6a758acf7c5e44b29e2061e4cb2c1fd360b543496e": [
+    "5b1fe7d027b4af175454a215acd16bbb9dceef69ee4136be9961c5d0265080f1": [],
+    "03ae4a351262baef259787f6055d737bd75264f876f70b76465497e06e73e166": [
       {
         "event_id": "",
         "source_id": "strattec-strt-post-mortem-closing-75-percent-gain",
@@ -18270,7 +18270,7 @@
         "publication_date": "2026-08-20",
         "effective_date": "2026-08-20",
         "date_uncertainty": null,
-        "company_name": "GM",
+        "company_name": "General Motors",
         "ticker": "GM",
         "normalized_ticker": "GM",
         "exchange": "US",
@@ -18401,9 +18401,9 @@
         "unresolved_fields": []
       }
     ],
-    "2804add16a434e0ce0829c4168516de69f99b2cd35058397a0f29a60cf8d57d4": [],
-    "e5873ba3855456dfb303aba9a7adeda546a76c0cd8810b3e7ddccc0b696a3732": [],
-    "a73e3899f40b576d4ad3d1dd2a2f5e0ca46e92f5e94a58176779bda3b8d9c119": [
+    "635b39873c2b16d6e05449c652804d58ca3da41a685bc83f564cf316822e20bd": [],
+    "416edd2fe5aeb24bb66de72766830019b42f1a0ec40a777680a6b0aab49920e8": [],
+    "bbaf866569952fc21d3d8adcdd8e6bd5151497764f92373f8595d60379c6acc3": [
       {
         "event_id": "",
         "source_id": "mena-oilfield-services-q2-2026-earnings-update",
@@ -18414,7 +18414,7 @@
         "publication_date": "2026-09-02",
         "effective_date": "2026-09-02",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -18433,7 +18433,7 @@
         "unresolved_fields": []
       }
     ],
-    "5844e2415111e3ff332413215dd770e6e5b9ae3b0e0d15c3856231fcf4a483bb": [
+    "c4a9e66f22a2524f0c77048247a46143e6379fcc4fa6adecd8c3ec8b2128d368": [
       {
         "event_id": "",
         "source_id": "dell-q2-fy2027-update-95-billion-ai-backlog-buy-to-hold",
@@ -18472,7 +18472,7 @@
         "publication_date": "2026-09-06",
         "effective_date": "2026-09-06",
         "date_uncertainty": null,
-        "company_name": "Energy Services Reunited Corp",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -18519,7 +18519,7 @@
         "unresolved_fields": []
       }
     ],
-    "e7afff32b6143a016040afebe449e8e7214c8410d1f204044ba22580ab6bce90": [
+    "05dbc9f95e5825fed7905666ba3cf61cf2860ad1273215671bf3a32d6059e038": [
       {
         "event_id": "",
         "source_id": "ai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-positionai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-position",
@@ -18605,8 +18605,8 @@
         "unresolved_fields": []
       }
     ],
-    "f32872c4575f185eb6db9cf7c0b21cc7e54bad2741ed0d36cd590742c75b785b": [],
-    "52d7846675f72bbaab2947c58e46eab36e3e7a948018ee4d721312d42e14057e": [
+    "7905feb75b0069f7abb73cf7003e0dc4fa1234329c0756b8b7e7f1f7db4581e2": [],
+    "a68e887ed6e78e8756519823fbc8466aa6c027cdd937eb179958e53cffc06d42": [
       {
         "event_id": "",
         "source_id": "september-pick-cost-of-equity-bank-valuation",
@@ -18692,9 +18692,9 @@
         "unresolved_fields": []
       }
     ],
-    "34722513491eaff3e5210d67655b53a3bfaac64da05aff1ed7a6551bafeabd17": [],
-    "705c4c30de7b9e1cda6653e51bf2792a47d04bf95bdc97724f1af91e9383db27": [],
-    "6615f3636a2d16efa09b0b3601e1eeb3f1f63837e79d33ac443be6f753ae577c": [
+    "d48b4b2716fd13df602f5199d096fcaa9e0ffbec1e95d20ced1901728295e3fb": [],
+    "24aad428d9ac1a7e68e6bd3309f91ff754252cefee04b3af68fc793346515c8c": [],
+    "0e88a916d273d025d8d86b948f5609f502dc7581348cbb1d280e947da7b6ee50": [
       {
         "event_id": "",
         "source_id": "ilc-inversionles-la-construccion-three-engines-one-mispriced-holding",
@@ -18724,7 +18724,7 @@
         "unresolved_fields": []
       }
     ],
-    "ceb66ec5c445a4f8a0251678560018f7bfb8ca6d7e4a8668f1c8dc9551f39e98": [
+    "c89985c692771049ad80a06dcd33ee6ef90f01129641a104c68481970016a13f": [
       {
         "event_id": "",
         "source_id": "synchrony-financial-syf-stock-sale",
@@ -18838,8 +18838,8 @@
         "unresolved_fields": []
       }
     ],
-    "516aa143318572618e79c738cdb09ab1c327f4e7aad9c775e1b6968450b887b4": [],
-    "a600865827e8c90741db514862d04ed5008a5404278dcca640dfb58f678d4274": [
+    "5442e95e867f68e0c31d0a16fa2fa5064759f63b0b5e8e78b5a9528d7b00c5d5": [],
+    "54d5808c774572e822e3134cc2405b080eb0ac7d4a83311db63b0f400f5d30f8": [
       {
         "event_id": "",
         "source_id": "mu-micron-stock-q4-target",
@@ -18850,7 +18850,7 @@
         "publication_date": "2026-10-04",
         "effective_date": "2026-10-04",
         "date_uncertainty": null,
-        "company_name": "Micron",
+        "company_name": "Buy Micron Technology",
         "ticker": "MU",
         "normalized_ticker": "MU",
         "exchange": "US",
@@ -18869,7 +18869,7 @@
         "unresolved_fields": []
       }
     ],
-    "134bdc94a3e1afad033c8c240366b2418325f55aa847a7ef63365e43735d1948": [
+    "65568e90cdd8793c4f351034005e38d34491f86bde9a6a8911be963c9f64b851": [
       {
         "event_id": "",
         "source_id": "december-energy-pick-126-percent-still-buy",
@@ -18880,7 +18880,7 @@
         "publication_date": "2026-10-06",
         "effective_date": "2026-10-06",
         "date_uncertainty": null,
-        "company_name": "Par Pacific Holdings",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -18899,9 +18899,9 @@
         "unresolved_fields": []
       }
     ],
-    "3f0c71b24896047edac63172485dbf5697f20a131dee279f3925c9e3a7a43274": [],
-    "bb5f867c41a9308ebce22a514884821ba66042b464a3fbe6dda5a9b12a1b9849": [],
-    "7a96b1bfb4c46b70294c1f3eae0de79d28dcdb09587f93f579cfce37cce08efb": [
+    "9b65d8d6947cc1755695f03b87adcea02bf0f6f8e2d0f42b50bdc38fb9531d2f": [],
+    "6a08217d5f43a3e94e4a8ee919a2f077dab24ec633976b48957e737280daefa3": [],
+    "dc25294b7315c3da1276f0b4c4cfc4ecf55ae6e98ff0af5eecbb740d27d428ce": [
       {
         "event_id": "",
         "source_id": "september-pick-update-fine-q3-rates",
@@ -19043,7 +19043,7 @@
         "unresolved_fields": []
       }
     ],
-    "b1b92252d10187f199a99f3e6d4a85b74fc8ea756ac923ba28e7212a7804cd77": [
+    "ff5f62dd9d3f46e000ebff83927b386f2d68d46d3e5256f7db8762e3444192b0": [
       {
         "event_id": "",
         "source_id": "ai-sell-off-bond-market",
@@ -19054,7 +19054,7 @@
         "publication_date": "2026-10-18",
         "effective_date": "2026-10-18",
         "date_uncertainty": null,
-        "company_name": "Alphabet",
+        "company_name": "Google",
         "ticker": "GOOG",
         "normalized_ticker": "GOOG",
         "exchange": "US",
@@ -19101,7 +19101,7 @@
         "unresolved_fields": []
       }
     ],
-    "530250b6dd176c1610aa7dd9668c56dc75aeea6038c06c2021e892d0e81b3293": [
+    "8c4f00595dc423d681acb5dde446b7ad3f72a2636d3e8ae79788719d9e321711": [
       {
         "event_id": "",
         "source_id": "tsm-q3-2026-earnings-review",
@@ -19140,11 +19140,11 @@
         "publication_date": "2026-10-19",
         "effective_date": "2026-10-19",
         "date_uncertainty": null,
-        "company_name": "TSMC",
+        "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "HOLD",
         "execution_status": "retrospective",
@@ -19196,11 +19196,11 @@
         "publication_date": "2026-10-19",
         "effective_date": "2026-10-19",
         "date_uncertainty": null,
-        "company_name": "TSMC",
+        "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "BUY",
         "execution_status": "proposed",
@@ -19215,7 +19215,7 @@
         "unresolved_fields": []
       }
     ],
-    "268835897f401b7f257f0527e661de9bcd135a71403c3e5422ccda978cb0594c": [
+    "fc06143a290ff866cc7c592851b96fb21a9008ed90bb0e317a37cde6b5c5bc82": [
       {
         "event_id": "",
         "source_id": "ai-capex-energy-audit",
@@ -19226,7 +19226,7 @@
         "publication_date": "2026-10-25",
         "effective_date": "2026-10-25",
         "date_uncertainty": null,
-        "company_name": "Oracle",
+        "company_name": "Oracle’s",
         "ticker": "ORCL",
         "normalized_ticker": "ORCL",
         "exchange": "US",
@@ -19254,7 +19254,7 @@
         "publication_date": "2026-10-25",
         "effective_date": "2026-10-25",
         "date_uncertainty": null,
-        "company_name": "Amazon",
+        "company_name": "Take Amazon",
         "ticker": "AMZN",
         "normalized_ticker": "AMZN",
         "exchange": "US",
@@ -19329,7 +19329,7 @@
         "unresolved_fields": []
       }
     ],
-    "4a0bb27abc360151dd63883d32f606f5f5f2bc3ed1dfa08021354103f6f44d59": [
+    "767529baf68172159686ba7977bd1e08c539ed5160ec131945dee75e203383e5": [
       {
         "event_id": "",
         "source_id": "oilfield-data-power-small-cap-deep-dive",
@@ -19340,7 +19340,7 @@
         "publication_date": "2026-10-27",
         "effective_date": "2026-10-27",
         "date_uncertainty": null,
-        "company_name": "Flotek Industries",
+        "company_name": "Valuation Verdict TLDR Flotek Industries",
         "ticker": "FTK",
         "normalized_ticker": "FTK",
         "exchange": "US",
@@ -19371,7 +19371,7 @@
         "company_name": "Carnival Corporation",
         "ticker": "CCL",
         "normalized_ticker": "CCL",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -19396,7 +19396,7 @@
         "publication_date": "2026-10-27",
         "effective_date": "2026-10-27",
         "date_uncertainty": null,
-        "company_name": "ADM",
+        "company_name": "Archer-Daniels-Midland",
         "ticker": "ADM",
         "normalized_ticker": "ADM",
         "exchange": "US",
@@ -19751,7 +19751,7 @@
         "unresolved_fields": []
       }
     ],
-    "68a19f6c37e3decbc024e63e86657e9f4075da2d71c2e462d62adc2e4e729377": [
+    "0d2c14e7e5a878bdbac26b5cc82c70528498b6a10e0aaaa776fbcd359ca8b84d": [
       {
         "event_id": "",
         "source_id": "anthropic-ipo-s1-suppliers",
@@ -19762,10 +19762,10 @@
         "publication_date": "2026-11-02",
         "effective_date": "2026-11-02",
         "date_uncertainty": null,
-        "company_name": "Carnival",
+        "company_name": "Carnival Corporation",
         "ticker": "CCL",
         "normalized_ticker": "CCL",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -19846,7 +19846,7 @@
         "publication_date": "2026-11-02",
         "effective_date": "2026-11-02",
         "date_uncertainty": null,
-        "company_name": "Beyond Meat",
+        "company_name": "An Overpriced Falafel",
         "ticker": "BYND",
         "normalized_ticker": "BYND",
         "exchange": "US",
@@ -19977,7 +19977,7 @@
         "unresolved_fields": []
       }
     ],
-    "f2e7a479ac06cfa209a182383687f8be0c1860f697c8633496bc72ce99fef6f7": [
+    "18c0f13e1c859241ac29c8203f49bdc819865a1297cb9fbed30ccd25040e798a": [
       {
         "event_id": "",
         "source_id": "celestica-cls-q3-2026-earnings-40b-guide-reverse-dcf",
@@ -19988,7 +19988,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Celestica",
+        "company_name": "Celestica Inc",
         "ticker": "CLS",
         "normalized_ticker": "CLS",
         "exchange": "US",
@@ -20007,7 +20007,7 @@
         "unresolved_fields": []
       }
     ],
-    "e6053d99cc6571b895f15a8f2b2e4c8f9ee94c41d981436f5a1dee3dbfe32a60": [
+    "93601e9fb394cd3292eee7359ccea835f63a3f173fc32c566c42680114119a50": [
       {
         "event_id": "",
         "source_id": "sociedad-quimica-minera-sqm-lithium-buy-90-target-chile",
@@ -20018,7 +20018,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Chile",
+        "company_name": "Minera de Chile",
         "ticker": "SQM",
         "normalized_ticker": "SQM",
         "exchange": "US",
@@ -20074,7 +20074,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Chile",
+        "company_name": "Minera de Chile",
         "ticker": "SQM",
         "normalized_ticker": "SQM",
         "exchange": "US",
@@ -20102,7 +20102,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Chile",
+        "company_name": "Minera de Chile",
         "ticker": "SQM",
         "normalized_ticker": "SQM",
         "exchange": "US",
@@ -20130,7 +20130,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Chile",
+        "company_name": "Minera de Chile",
         "ticker": "SQM",
         "normalized_ticker": "SQM",
         "exchange": "US",
@@ -20158,7 +20158,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Chile",
+        "company_name": "Minera de Chile",
         "ticker": "SQM",
         "normalized_ticker": "SQM",
         "exchange": "US",
@@ -20186,7 +20186,7 @@
         "publication_date": "2026-11-03",
         "effective_date": "2026-11-03",
         "date_uncertainty": null,
-        "company_name": "Chile",
+        "company_name": "Minera de Chile",
         "ticker": "SQM",
         "normalized_ticker": "SQM",
         "exchange": "US",
@@ -20205,7 +20205,7 @@
         "unresolved_fields": []
       }
     ],
-    "f5ae6305b44e26718bb028337b49dc606e843ec388f7992d50b354c97c4e245b": [
+    "2a47ae9fe1e457a75d5290af5a2865bba9950007da736defc1152b76e428fa14": [
       {
         "event_id": "",
         "source_id": "hold-to-buy-casual-dining-value-leader-247-fair-value",
@@ -20263,7 +20263,7 @@
         "unresolved_fields": []
       }
     ],
-    "10f7a21e154374f60748004708a0cc007cb64a94b9985a39452238606ca6fb6c": [
+    "a935d1aa252069a58e166921938d57be556dccfb31583c1fcb3284a38f8c14f9": [
       {
         "event_id": "",
         "source_id": "chat:5bbbf07f",
@@ -20274,7 +20274,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -20302,7 +20302,7 @@
         "publication_date": "2026-01-28",
         "effective_date": "2026-01-28",
         "date_uncertainty": null,
-        "company_name": "NatWest",
+        "company_name": "NatWest Group",
         "ticker": "NWG",
         "normalized_ticker": "NWG",
         "exchange": "NYSE",
@@ -20330,7 +20330,7 @@
         "publication_date": "2026-02-03",
         "effective_date": "2026-02-03",
         "date_uncertainty": null,
-        "company_name": "PayPal Holdings",
+        "company_name": "PayPal Holdings Inc",
         "ticker": "PYPL",
         "normalized_ticker": "PYPL",
         "exchange": "US",
@@ -20358,7 +20358,7 @@
         "publication_date": "2026-02-03",
         "effective_date": "2026-02-03",
         "date_uncertainty": null,
-        "company_name": "PayPal Holdings",
+        "company_name": "PayPal Holdings Inc",
         "ticker": "PYPL",
         "normalized_ticker": "PYPL",
         "exchange": "US",
@@ -20442,7 +20442,7 @@
         "publication_date": "2026-02-23",
         "effective_date": "2026-02-23",
         "date_uncertainty": null,
-        "company_name": "Dell",
+        "company_name": "Dell Technologies",
         "ticker": "DELL",
         "normalized_ticker": "DELL",
         "exchange": "US",
@@ -20498,7 +20498,7 @@
         "publication_date": "2026-03-16",
         "effective_date": "2026-03-16",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -20526,7 +20526,7 @@
         "publication_date": "2026-03-16",
         "effective_date": "2026-03-16",
         "date_uncertainty": null,
-        "company_name": "National Energy Services Reunited",
+        "company_name": "TLDR National Energy Services Reunited Corp",
         "ticker": "NESR",
         "normalized_ticker": "NESR",
         "exchange": "US",
@@ -20610,7 +20610,7 @@
         "publication_date": "2026-04-13",
         "effective_date": "2026-04-13",
         "date_uncertainty": null,
-        "company_name": "Pilgrim’s Pride",
+        "company_name": "Pick The Verdict TLDR Pilgrim’s Pride",
         "ticker": "PPC",
         "normalized_ticker": "PPC",
         "exchange": "US",
@@ -20638,7 +20638,7 @@
         "publication_date": "2026-04-13",
         "effective_date": "2026-04-13",
         "date_uncertainty": null,
-        "company_name": "Kingstone",
+        "company_name": "Kingstone Companies",
         "ticker": "KINS",
         "normalized_ticker": "KINS",
         "exchange": "US",
@@ -20666,7 +20666,7 @@
         "publication_date": "2026-04-13",
         "effective_date": "2026-04-13",
         "date_uncertainty": null,
-        "company_name": "Powell Industries",
+        "company_name": "Inc",
         "ticker": "POWL",
         "normalized_ticker": "POWL",
         "exchange": "US",
@@ -20750,7 +20750,7 @@
         "publication_date": "2026-05-18",
         "effective_date": "2026-05-18",
         "date_uncertainty": null,
-        "company_name": "Sterling Infrastructure",
+        "company_name": "Sterling Infrastructure Inc",
         "ticker": "STRL",
         "normalized_ticker": "STRL",
         "exchange": "US",
@@ -20834,7 +20834,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Heritage",
+        "company_name": "Heritage Insurance Holdings",
         "ticker": "HRTG",
         "normalized_ticker": "HRTG",
         "exchange": "US",
@@ -20862,7 +20862,7 @@
         "publication_date": "2026-06-18",
         "effective_date": "2026-06-18",
         "date_uncertainty": null,
-        "company_name": "Micron",
+        "company_name": "Buy Micron Technology",
         "ticker": "MU",
         "normalized_ticker": "MU",
         "exchange": "US",
@@ -20890,7 +20890,7 @@
         "publication_date": "2026-07-14",
         "effective_date": "2026-07-14",
         "date_uncertainty": null,
-        "company_name": "GAP",
+        "company_name": "Going Nowhere",
         "ticker": "GAP",
         "normalized_ticker": "GAP",
         "exchange": "NYSE",
@@ -21002,10 +21002,10 @@
         "publication_date": "2026-08-17",
         "effective_date": "2026-08-17",
         "date_uncertainty": null,
-        "company_name": "Stride",
+        "company_name": "Stride Inc",
         "ticker": "LRN",
         "normalized_ticker": "LRN",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -21030,7 +21030,7 @@
         "publication_date": "2026-09-08",
         "effective_date": "2026-09-08",
         "date_uncertainty": null,
-        "company_name": "Dell",
+        "company_name": "Dell Technologies",
         "ticker": "DELL",
         "normalized_ticker": "DELL",
         "exchange": "US",
@@ -21142,7 +21142,7 @@
         "publication_date": "2026-09-15",
         "effective_date": "2026-09-15",
         "date_uncertainty": null,
-        "company_name": "Dell",
+        "company_name": "Dell Technologies",
         "ticker": "DELL",
         "normalized_ticker": "DELL",
         "exchange": "US",
@@ -21170,11 +21170,11 @@
         "publication_date": "2026-10-04",
         "effective_date": "2026-10-04",
         "date_uncertainty": null,
-        "company_name": "TSMC",
+        "company_name": "Taiwan Semiconductor",
         "ticker": "TSM",
         "normalized_ticker": "TSM",
-        "exchange": "NYSE",
-        "market": ":us:",
+        "exchange": "US-ADR",
+        "market": ":tw:",
         "instrument_type": "equity",
         "action": "ADD",
         "execution_status": "confirmed",
@@ -21198,7 +21198,7 @@
         "publication_date": "2026-10-06",
         "effective_date": "2026-10-06",
         "date_uncertainty": null,
-        "company_name": "Par Pacific Holdings",
+        "company_name": "Buy PARR TLDR Par Pacific",
         "ticker": "PARR",
         "normalized_ticker": "PARR",
         "exchange": "US",
@@ -21226,7 +21226,7 @@
         "publication_date": "2026-10-06",
         "effective_date": "2026-10-06",
         "date_uncertainty": null,
-        "company_name": "KB Financial Group",
+        "company_name": "Buy KB Financial Group",
         "ticker": "KB",
         "normalized_ticker": "KB",
         "exchange": "NYSE",
@@ -21254,7 +21254,7 @@
         "publication_date": "2026-10-27",
         "effective_date": "2026-10-27",
         "date_uncertainty": null,
-        "company_name": "Flotek Industries",
+        "company_name": "Valuation Verdict TLDR Flotek Industries",
         "ticker": "FTK",
         "normalized_ticker": "FTK",
         "exchange": "US",
@@ -21282,10 +21282,10 @@
         "publication_date": "2026-10-27",
         "effective_date": "2026-10-27",
         "date_uncertainty": null,
-        "company_name": "Carnival",
+        "company_name": "Carnival Corporation",
         "ticker": "CCL",
         "normalized_ticker": "CCL",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "SELL",
@@ -21310,10 +21310,10 @@
         "publication_date": "2026-10-27",
         "effective_date": "2026-10-27",
         "date_uncertainty": null,
-        "company_name": "Carnival",
+        "company_name": "Carnival Corporation",
         "ticker": "CCL",
         "normalized_ticker": "CCL",
-        "exchange": "NYSE",
+        "exchange": "US",
         "market": ":us:",
         "instrument_type": "equity",
         "action": "HOLD",

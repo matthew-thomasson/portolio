@@ -1,0 +1,777 @@
+[
+  {
+    "publication": "cluseau",
+    "ticker": "OPBK",
+    "date": "2025-10-15",
+    "action": "BUY",
+    "audit_note": "NECB/OPBK splitting: OPBK added, NECB ignored",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2025-10-15",
+      "ticker": "OPBK",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "[Initiated via accumulation disclosure] I've been adding to OPBK",
+      "source_slug": "chat:0502c780:reply:0237246f",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "CUBI",
+    "date": "2026-01-23",
+    "action": "ADD",
+    "audit_note": "Multi-security price: CUBI at 73",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-01-23",
+      "ticker": "CUBI",
+      "market": ":us:",
+      "action": "ADD",
+      "ref_price": 73.0,
+      "notes": "[Accumulation addition] picked up some CUBI at 73 and OPBK at 14.",
+      "source_slug": "chat:ca8c6edb:reply:848c72ad",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "OPBK",
+    "date": "2026-01-23",
+    "action": "ADD",
+    "audit_note": "Multi-security price: OPBK at 14",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-01-23",
+      "ticker": "OPBK",
+      "market": ":us:",
+      "action": "ADD",
+      "ref_price": 14.0,
+      "notes": "[Accumulation addition] picked up some CUBI at 73 and OPBK at 14.",
+      "source_slug": "chat:ca8c6edb:reply:848c72ad",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "402340.KS",
+    "date": "2026-04-28",
+    "action": "BUY",
+    "audit_note": "SK Square initial April entry",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-04-28",
+      "ticker": "402340.KS",
+      "market": ":kr:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "Bought a bit last night as soon as trading opened",
+      "source_slug": "chat:ce0c3380:reply:9561e89c",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "402340.KS",
+    "date": "2026-10-01",
+    "action": "SELL",
+    "audit_note": "SK Square Oct 1 review exit (+44%)",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-01",
+      "ticker": "402340.KS",
+      "market": ":kr:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "Review removal disclosure (SK Square (402340) +44% - Exited October 1)",
+      "source_slug": "september-2026-portfolio-review",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "402340.KS",
+    "date": "2026-10-12",
+    "action": "BUY",
+    "audit_note": "SK Square October re-entry buy",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-12",
+      "ticker": "402340.KS",
+      "market": ":kr:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "[Initiated via accumulation disclosure] I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes.",
+      "source_slug": "chat:d89640ee",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "402340.KS",
+    "date": "2026-10-30",
+    "action": "ADD",
+    "audit_note": "SK Square small 0.25% add at 858k",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-30",
+      "ticker": "402340.KS",
+      "market": ":kr:",
+      "action": "ADD",
+      "ref_price": 858000.0,
+      "notes": "[Accumulation addition] Small 0.25% buy in SK Square at 858k",
+      "source_slug": "chat:e13600d2",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "402340.KS",
+    "date": "2026-11-04",
+    "action": "SELL",
+    "audit_note": "SK Square final November closing",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-11-04",
+      "ticker": "402340.KS",
+      "market": ":kr:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "With this in mind, I'll also be closing out the small SK Square buy from last week tonight.",
+      "source_slug": "chat:0e3ab1d4",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "453340.KS",
+    "date": "2026-05-11",
+    "action": "BUY",
+    "audit_note": "Hyundai Green Food thesis purchase (19k KRW)",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-05-11",
+      "ticker": "453340.KS",
+      "market": ":kr:",
+      "action": "BUY",
+      "ref_price": 19000.0,
+      "notes": "I\u2019ve purchased half my ideal position in the 19,000\u2019s, and have left room to add the rest in the 18,000\u2019s, should the rally the retrace.",
+      "source_slug": "boring-is-beautiful",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "139130.KS",
+    "date": "2026-05-11",
+    "action": "BUY",
+    "audit_note": "iM Financial Group accumulated position",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-05-11",
+      "ticker": "139130.KS",
+      "market": ":kr:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "[disclosed_owned_by_2026-05-11_accumulated_prior_days] So far I have Hy-Lok, iM Financial, Hyundai Green Food, all at 0.25%, building the positions slowly",
+      "source_slug": "chat:1886c385:reply:9be38d27",
+      "confidence": "medium"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "013030.KQ",
+    "date": "2026-05-06",
+    "action": "BUY",
+    "audit_note": "Hy-Lok Corporation accumulated position",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-05-06",
+      "ticker": "013030.KQ",
+      "market": ":kr:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "[disclosed_owned_by_2026-05-06_accumulated_prior_days] Small positions in both, waiting for Hy-lok to report first before adding more",
+      "source_slug": "chat:cffb4bf4:reply:d94f8a5e",
+      "confidence": "medium"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "9478.T",
+    "date": "2025-10-07",
+    "action": "BUY",
+    "audit_note": "SE Holdings thesis entry (no PFF confusion)",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2025-10-07",
+      "ticker": "9478.T",
+      "market": ":jp:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "[Initiated via accumulation disclosure] Gotta be gentle on this one, a name I have been adding to almost every day in Japan is 9478, SE Holdings and Incubations.",
+      "source_slug": "chat:de06d731",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "9478.T",
+    "date": "2026-06-03",
+    "action": "ADD",
+    "audit_note": "SE Holdings accumulation add",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-06-03",
+      "ticker": "9478.T",
+      "market": ":jp:",
+      "action": "ADD",
+      "ref_price": null,
+      "notes": "[Accumulation addition] Despite these risks, I find the setup for BARAX attractive given the SpaceX exposure and potential NAV uplift, and have allocated 1% of my Portfolio to it .",
+      "source_slug": "too-many-cooks-spoil-the-pot",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "IFOS.V",
+    "date": "2026-10-14",
+    "action": "SELL",
+    "audit_note": "Itafos TSX stop-loss full exit in chat",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-14",
+      "ticker": "IFOS.V",
+      "market": ":ca:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "Closing out the IFOS position today for a 30% loss.",
+      "source_slug": "chat:33bbb1c9",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "GDDY",
+    "date": "2026-10-16",
+    "action": "TRIM",
+    "audit_note": "GoDaddy 33% discretionary trim at $110",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-16",
+      "ticker": "GDDY",
+      "market": ":us:",
+      "action": "TRIM",
+      "ref_price": null,
+      "notes": "Taking a third of the position off here, holding the rest into earnings on the 29th.",
+      "source_slug": "chat:5d1cb6bf",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "GDDY",
+    "date": "2026-10-30",
+    "action": "SELL",
+    "audit_note": "GoDaddy final remainder exit at $116",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-30",
+      "ticker": "GDDY",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "Trade Update on GoDaddy (Closing Later Today)",
+      "source_slug": "chat:df9cea5b",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "HRTG",
+    "date": "2026-07-29",
+    "action": "SELL",
+    "audit_note": "HRTG multi-asset total exit",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-29",
+      "ticker": "HRTG",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "Review removal disclosure (Heritage Insurance Holdings (HRTG) +17% - Exited July 29, 2026)",
+      "source_slug": "september-2026-portfolio-review",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "WSBF",
+    "date": "2026-07-29",
+    "action": "SELL",
+    "audit_note": "WSBF multi-asset total exit",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-29",
+      "ticker": "WSBF",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "I've totally sold HRTG and WSBF",
+      "source_slug": "chat:9f48c701",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "HY9H.F",
+    "date": "2025-11-24",
+    "action": "BUY",
+    "audit_note": "SK Hynix Frankfurt GDR initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2025-11-24",
+      "ticker": "HY9H.F",
+      "market": ":de:",
+      "action": "BUY",
+      "ref_price": 322.0,
+      "notes": "Picked up Sk Hynix Global Depository Receipts (HY9H) at 0.5% weight at 322 Euros a few moments ago.",
+      "source_slug": "chat:5ed74fe3",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "cluseau",
+    "ticker": "285A.T",
+    "date": "2026-01-27",
+    "action": "BUY",
+    "audit_note": "Kioxia Japan purchase",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-01-27",
+      "ticker": "285A.T",
+      "market": ":jp:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first.",
+      "source_slug": "chat:8b7d8c25:reply:c3ad5e63",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "MU",
+    "date": "2025-12-30",
+    "action": "BUY",
+    "audit_note": "Micron Datawrapper initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2025-12-30",
+      "ticker": "MU",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": 295.18,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "DELL",
+    "date": "2026-02-23",
+    "action": "BUY",
+    "audit_note": "Dell Technologies Datawrapper initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-02-23",
+      "ticker": "DELL",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": 123.28,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "ATI",
+    "date": "2026-04-13",
+    "action": "BUY",
+    "audit_note": "ATI Inc initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-04-13",
+      "ticker": "ATI",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": 162.01,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "DAR",
+    "date": "2026-05-18",
+    "action": "BUY",
+    "audit_note": "Darling Ingredients initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-05-18",
+      "ticker": "DAR",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": 62.42,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "SNEX",
+    "date": "2026-06-10",
+    "action": "BUY",
+    "audit_note": "StoneX Group initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-06-10",
+      "ticker": "SNEX",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": 83.52,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "CSTM",
+    "date": "2026-07-15",
+    "action": "BUY",
+    "audit_note": "Constellium SE initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-15",
+      "ticker": "CSTM",
+      "market": ":fr:",
+      "action": "BUY",
+      "ref_price": 28.96,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "STRL",
+    "date": "2026-08-05",
+    "action": "BUY",
+    "audit_note": "Sterling Infrastructure initiation",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-08-05",
+      "ticker": "STRL",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "STRL Q2 2026 Update: Record Quarter, And 40% Cheaper Than When I Last Wrote It Up",
+      "source_slug": "sterling-infrastructure-strl-q2-2026-update-upgrading-to-buy",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "OSCR",
+    "date": "2026-08-17",
+    "action": "BUY",
+    "audit_note": "Oscar Health initiation at $31.41",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-08-17",
+      "ticker": "OSCR",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": 31.41,
+      "notes": "Dated pick from 2025-01-12__historical-performance__adNaZ.csv",
+      "source_slug": "2025-01-12__historical-performance__adNaZ.csv",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "ILC.SN",
+    "date": "2026-09-24",
+    "action": "BUY",
+    "audit_note": "Inversiones La Construccion Chile buy",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-09-24",
+      "ticker": "ILC.SN",
+      "market": ":cl:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "I bought ILC with a CLP 38,300 target, +50% from the reference price.",
+      "source_slug": "ilc-inversionles-la-construccion-three-engines-one-mispriced-holding",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "CRDO",
+    "date": "2026-09-08",
+    "action": "ADD",
+    "audit_note": "Credo Technology Cayman add",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-09-08",
+      "ticker": "CRDO",
+      "market": ":ky:",
+      "action": "ADD",
+      "ref_price": null,
+      "notes": "put the proceeds into CRDO, taking it from 4% to 6%.",
+      "source_slug": "ai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-positionai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-position",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "DELL",
+    "date": "2026-09-08",
+    "action": "TRIM",
+    "audit_note": "Dell Technologies trim",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-09-08",
+      "ticker": "DELL",
+      "market": ":us:",
+      "action": "TRIM",
+      "ref_price": null,
+      "notes": "Today I trimmed DELL from 11% to 8.5%",
+      "source_slug": "ai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-positionai-connectivity-pick-q1-fy2027-update-record-quarter-added-to-the-position",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "beatingthetide",
+    "ticker": "CCL",
+    "date": "2026-10-27",
+    "action": "SELL",
+    "audit_note": "Carnival Corp exit",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-10-27",
+      "ticker": "CCL",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "closed the CCL position locking 22% gain on that one.",
+      "source_slug": "oilfield-data-power-small-cap-deep-dive",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "PRU",
+    "date": "2026-01-14",
+    "action": "BUY",
+    "audit_note": "StockTok ETF initial basket",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-01-14",
+      "ticker": "PRU",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "StockTok ETF Initial Holding: Prudential Financial (PRU)",
+      "source_slug": "only-10-stocks-made-the-cut",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "VLO",
+    "date": "2026-01-14",
+    "action": "BUY",
+    "audit_note": "StockTok ETF initial basket",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-01-14",
+      "ticker": "VLO",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "StockTok ETF Initial Holding: Valero Energy Corporation (VLO)",
+      "source_slug": "only-10-stocks-made-the-cut",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "SPB",
+    "date": "2026-07-28",
+    "action": "SELL",
+    "audit_note": "StockTok 2.0 rebalance removal",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-28",
+      "ticker": "SPB",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "StockTok ETF 2.0 Rebalance Removal: Spectrum Brands Holdings (SPB)",
+      "source_slug": "stocktok-etf-20",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "MSCI",
+    "date": "2026-07-28",
+    "action": "SELL",
+    "audit_note": "StockTok 2.0 rebalance removal",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-28",
+      "ticker": "MSCI",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "StockTok ETF 2.0 Rebalance Removal: MSCI Inc (MSCI)",
+      "source_slug": "stocktok-etf-20",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "FDX",
+    "date": "2026-07-28",
+    "action": "SELL",
+    "audit_note": "StockTok 2.0 rebalance removal",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-28",
+      "ticker": "FDX",
+      "market": ":us:",
+      "action": "SELL",
+      "ref_price": null,
+      "notes": "StockTok ETF 2.0 Rebalance Removal: FedEx Corporation (FDX)",
+      "source_slug": "stocktok-etf-20",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "CAKE",
+    "date": "2026-07-28",
+    "action": "BUY",
+    "audit_note": "StockTok 2.0 rebalance addition",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-28",
+      "ticker": "CAKE",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "StockTok ETF 2.0 New Addition: FELE. Cheesecake Factory (CAKE)",
+      "source_slug": "stocktok-etf-20",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "CNXN",
+    "date": "2026-07-28",
+    "action": "BUY",
+    "audit_note": "StockTok 2.0 rebalance addition",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-07-28",
+      "ticker": "CNXN",
+      "market": ":us:",
+      "action": "BUY",
+      "ref_price": null,
+      "notes": "StockTok ETF 2.0 New Addition: Hold PC Connection (CNXN)",
+      "source_slug": "stocktok-etf-20",
+      "confidence": "high"
+    }
+  },
+  {
+    "publication": "tjstocks",
+    "ticker": "VLO",
+    "date": "2026-11-03",
+    "action": "TRIM",
+    "audit_note": "StockTok discretionary 50% trim",
+    "status": "PASS",
+    "issues": [],
+    "matched_row": {
+      "date": "2026-11-03",
+      "ticker": "VLO",
+      "market": ":us:",
+      "action": "TRIM",
+      "ref_price": null,
+      "notes": "Valero Energy Corporation - Discretionary 50% trim based on model update 'trim or cut'",
+      "source_slug": "stocktok-etf-doubles-the-s-and-p",
+      "confidence": "medium"
+    }
+  },
+  {
+    "audit_note": "NEGATIVE_CHECK: NECB on 2025-10-15 (monitoring only)",
+    "status": "PASS",
+    "issues": []
+  },
+  {
+    "audit_note": "NEGATIVE_CHECK: PFF anywhere in Cluseau ledger (SE Holdings alias confusion)",
+    "status": "PASS",
+    "issues": []
+  },
+  {
+    "audit_note": "NEGATIVE_CHECK: Kioxia 285A.T on 2025-11-24 (SK Hynix GDR binding pollution)",
+    "status": "PASS",
+    "issues": []
+  }
+]

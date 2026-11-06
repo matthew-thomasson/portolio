@@ -22,10 +22,10 @@
       "region": "Japan",
       "positions_count": 7,
       "open_positions_count": 4,
-      "capital_deployed_usd": 6500.0,
-      "realized_pnl_usd": 1008.94,
+      "capital_deployed_usd": 7000.0,
+      "realized_pnl_usd": 1581.8,
       "unrealized_pnl_usd": 177.83,
-      "total_pnl_usd": 1186.77,
+      "total_pnl_usd": 1759.63,
       "tickers": [
         "285A.T",
         "6626.T",
@@ -35,7 +35,7 @@
         "9220.T",
         "9478.T"
       ],
-      "return_on_deployed_pct": 18.26
+      "return_on_deployed_pct": 25.14
     },
     {
       "region": "United States",
@@ -83,6 +83,22 @@
       "return_on_deployed_pct": 39.81
     },
     {
+      "region": "South Korea",
+      "positions_count": 4,
+      "open_positions_count": 3,
+      "capital_deployed_usd": 7500.0,
+      "realized_pnl_usd": 718.88,
+      "unrealized_pnl_usd": -320.91,
+      "total_pnl_usd": 397.97,
+      "tickers": [
+        "013030.KQ",
+        "139130.KS",
+        "402340.KS",
+        "453340.KS"
+      ],
+      "return_on_deployed_pct": 5.31
+    },
+    {
       "region": "United Kingdom / LSE",
       "positions_count": 3,
       "open_positions_count": 3,
@@ -96,22 +112,6 @@
         "SMSD.IL"
       ],
       "return_on_deployed_pct": 7.76
-    },
-    {
-      "region": "South Korea",
-      "positions_count": 4,
-      "open_positions_count": 3,
-      "capital_deployed_usd": 7000.0,
-      "realized_pnl_usd": 553.63,
-      "unrealized_pnl_usd": -320.91,
-      "total_pnl_usd": 232.72,
-      "tickers": [
-        "013030.KQ",
-        "139130.KS",
-        "402340.KS",
-        "453340.KS"
-      ],
-      "return_on_deployed_pct": 3.32
     },
     {
       "region": "Canada",
@@ -131,8 +131,8 @@
     {
       "instrument_type": "long_equity",
       "positions_count": 37,
-      "capital_deployed_usd": 48500.0,
-      "total_pnl_usd": 6050.34,
+      "capital_deployed_usd": 49500.0,
+      "total_pnl_usd": 6788.45,
       "tickers": [
         "013030.KQ",
         "139130.KS",
@@ -193,11 +193,12 @@
     }
   ],
   "excluded_non_equity": {
-    "total_excluded_events": 70,
+    "total_excluded_events": 67,
     "by_type": {
       "option_call": {
-        "events_count": 3,
+        "events_count": 4,
         "tickers": [
+          "9478.T",
           "ACMR",
           "CRWV",
           "WDC"
@@ -214,7 +215,7 @@
         ]
       },
       "option_put": {
-        "events_count": 5,
+        "events_count": 4,
         "tickers": [
           "FIX",
           "GOOGL",
@@ -222,7 +223,7 @@
         ]
       },
       "short": {
-        "events_count": 51,
+        "events_count": 48,
         "tickers": [
           "9478.T",
           "ACIC",
@@ -232,7 +233,6 @@
           "BMBL",
           "CRWV",
           "CTAS",
-          "HPQ",
           "HRTG",
           "HY9H.F",
           "IGIC",
@@ -248,7 +248,7 @@
     }
   },
   "discovery_layer_counts": {
-    "primary_chat": 119,
+    "primary_chat": 116,
     "primary_article": 17,
     "checkpoint_review": 13
   },

@@ -8,7 +8,7 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-01-16,WLFC,BUY,16.39559373421931,60.99199676513672,1000.0,0.0,"[Initiated via accumulation disclosure] The name is up huge so I am obviously late to the party, but WLFC has all the markings of a future darling and I think it might continue to move, so I added it at 0.5% weight to my"
 2026-01-23,CUBI,ADD,6.709608461134058,74.5199966430664,500.0,0.0,[Accumulation addition] picked up some CUBI at 73 and OPBK at 14.
 2026-01-23,OPBK,ADD,36.89687569275593,13.55128288269043,500.0,0.0,[Accumulation addition] picked up some CUBI at 73 and OPBK at 14.
-2026-01-27,285A.T,ADD,12.568849696213155,39.7808878365889,500.0,0.0,"[Accumulation addition] I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first."
+2026-01-27,285A.T,BUY,25.13769939242631,39.7808878365889,1000.0,0.0,"I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first."
 2026-01-27,HY9H.F,ADD,0.8865951591409065,563.9552560657903,500.0,0.0,"[Accumulation addition] I bought a little Hynix and Kioxia yesterday, would probably wait to see Samsung's earnings first."
 2026-02-02,285A.T,ADD,12.701332363698322,39.365948837702256,500.0,0.0,"The only names I have added to in the past few days are Hynix, and then to a lesser extent Kioxia."
 2026-02-02,HY9H.F,ADD,0.8072360395375241,619.3975188303739,500.0,0.0,"The only names I have added to in the past few days are Hynix, and then to a lesser extent Kioxia."
@@ -26,7 +26,7 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-03-25,OSB.L,ADD,0.6786764060718263,736.7281307066442,500.0,0.0,[Accumulation addition] Picked up more OSB Group
 2026-03-27,HRTG,ADD,19.372336704608447,25.809999465942383,500.0,0.0,[Accumulation addition] Bought some HRTG and IGIC today
 2026-04-01,HRTG,ADD,19.84914606587584,25.190000534057617,500.0,0.0,"I have also added more HRTG < 26, which has a habit of trading into the 24-25 range before bouncing to 27-28, in fact, it's done this about 5 times over the last 6 months."
-2026-04-01,HY9H.F,ADD,0.8247882305793915,606.2162158264109,500.0,0.0,"[Accumulation addition] Over the past month it has been a very bumpy ride, but I've held Samsung and Hynix at 5% each, and if you are thinking of initiating a position I think it makes sense to spread you"
+2026-04-01,HY9H.F,ADD,0.8247882305793915,606.2162158264109,500.0,0.0,"[Accumulation addition] I've held Samsung and Hynix at 5% each, and if you are thinking of initiating a position I think it makes sense to spread your order over the next couple of days and nibble slowly."
 2026-04-07,OSB.L,ADD,0.7267258512380689,688.0173577810492,500.0,0.0,Haven't been doing much these days other than adding to my OSB Position.
 2026-04-17,7089.T,BUY,130.06128049364276,7.688683336074634,1000.0,0.0,Long 7089 JT Equity (For Startups)
 2026-04-17,9220.T,BUY,131.92818051622453,7.5798816908342035,1000.0,0.0,Long 9220 JT Equity (FB Care Services)
@@ -49,7 +49,7 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-05-06,PENG,TRIM,-9.144938080191109,38.9900016784668,356.56115109612625,23.228151096126282,"I picked up a few MU 630 Friday puts to protect my position, and also took some profit on PENG"
 2026-05-07,PENG,TRIM,-6.096628435106767,38.97999954223633,237.64657360964677,15.424462498646761,Closed out the other half of the PENG position for a 7% profit at $37.50.
 2026-05-11,139130.KS,BUY,75.95164060468669,13.166272539191125,1000.0,0.0,"[disclosed_owned_by_2026-05-11_accumulated_prior_days] So far I have Hy-Lok, iM Financial, Hyundai Green Food, all at 0.25%, building the positions slowly"
-2026-05-11,453340.KS,BUY,77.5869720779848,12.88876177555779,1000.0,0.0,"Given the recent move up, I’ve purchased half my ideal position in the 19,000’s, and have left room to add the rest in the 18,000’s, should the rally the retrace."
+2026-05-11,453340.KS,BUY,77.5869720779848,12.88876177555779,1000.0,0.0,"I’ve purchased half my ideal position in the 19,000’s, and have left room to add the rest in the 18,000’s, should the rally the retrace."
 2026-05-12,OSB.L,ADD,0.7557669943368255,661.5795658538154,500.0,0.0,OSB - I have been adding to this.
 2026-05-26,GDOT,BUY,77.88161901216573,12.84000015258789,1000.0,0.0,I’ve initiated a small tracker position in Green Dot.
 2026-05-26,OSB.L,ADD,0.7265798465304205,688.1556134368584,500.0,0.0,"Another name I have been adding to is OSB Group, an English bank specializing in “buy-to-let” (loans to landlords purchasing properties specifically to rent them out)."
@@ -87,8 +87,8 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-09-14,WDC,BUY,2.3422494830224796,426.94000244140625,1000.0,0.0,"picked up some Western Digital today and also a little IESC, in addition to Samsung Preferred."
 2026-09-21,GDDY,BUY,9.544717304963083,104.7699966430664,1000.0,0.0,Review addition disclosure (GoDaddy (GDDY) - Added September 21)
 2026-09-28,ASIC,SELL,-78.94736842105263,26.56999969482422,2097.6315548545435,597.6315548545435,"Review removal disclosure (Ategrity Specialty Insurance (ASIC) +39% - Exited September 28, 2026)"
-2026-10-01,402340.KS,TRIM,-1.1504041879025264,851.2426145272888,979.273068673289,312.606068673289,Review removal disclosure (SK Square (402340) +44% - Exited October 1)
-2026-10-12,402340.KS,ADD,0.6813211208436548,733.8683400580162,500.0,0.0,"I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes."
+2026-10-01,402340.KS,SELL,-2.300808375805053,851.2426145272888,1958.546137346578,625.212137346578,Review removal disclosure (SK Square (402340) +44% - Exited October 1)
+2026-10-12,402340.KS,BUY,1.3626422416873096,733.8683400580162,1000.0,0.0,"[Initiated via accumulation disclosure] I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes."
 2026-10-12,SMSD.IL,ADD,0.14619883040935672,3420.0,500.0,0.0,"I added 25 bps in SK Square and 25 bps in Samsung Preferred last night, but I'm pausing any further dip-buying until the situation stabilizes."
 2026-10-14,IFOS.V,SELL,-219.79583396100284,1.4138202885212339,310.7518093865103,-189.24819061348973,Closing out the IFOS position today for a 30% loss.
 2026-10-15,7380.T,TRIM,-30.943288138444544,15.985363031027244,494.63969426671525,-5.360305733284747,"cut the Bank of the Ryukyus, Juroku Financial Group, and Mebuki Financial positions in half."
@@ -96,8 +96,8 @@ date,ticker,action,shares_delta,price,dollar_amount,realized_pnl,notes
 2026-10-16,GDDY,TRIM,-3.181572434987694,105.95999908447266,337.11941229847946,3.786078965146146,"Taking a third of the position off here, holding the rest into earnings on the 29th."
 2026-10-22,7380.T,SELL,-30.943288138444544,14.79143970876568,457.6957808907667,-42.304219109233316,Tonight I fully cut the Mebuki and Juroku positions
 2026-10-23,8399.T,SELL,-25.299100469535986,17.400027749634337,440.20505021071324,-59.79494978928676,"Trade update on Ryukyus 8399: I decided to let go of the last portion of Ryukyus, so now I'm fully out of Japanese banks."
-2026-10-30,285A.T,SELL,-25.270182059911477,85.35905254024838,2157.038798153626,1157.038798153626,Trade Update on Kioxia (Closed)
+2026-10-30,285A.T,SELL,-37.83903175612463,85.35905254024838,3229.90389974317,1729.9038997431699,Trade Update on Kioxia (Closed)
 2026-10-30,402340.KS,ADD,0.7458082388343088,670.4136183605256,500.0,0.0,[Accumulation addition] Small 0.25% buy in SK Square at 858k
 2026-10-30,GDDY,SELL,-6.363144869975389,117.23999786376953,746.0150909627706,79.34842429610387,Trade Update on GoDaddy (Closing Later Today)
 2026-10-30,OPY,ADD,5.800464242478098,86.19999694824219,500.0,0.0,[Accumulation addition] Dip Buying OPY
-2026-11-04,402340.KS,SELL,-2.57753354758049,669.4467076149276,1725.5213471947834,58.854347194783486,"With this in mind, I'll also be closing out the small SK Square buy from last week tonight."
+2026-11-04,402340.KS,SELL,-2.1084504805216184,669.4467076149276,1411.4952323543096,-88.50476764569044,"With this in mind, I'll also be closing out the small SK Square buy from last week tonight."

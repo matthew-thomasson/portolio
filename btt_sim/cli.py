@@ -52,6 +52,39 @@ def _needs_reparse(src: SourceConfig) -> bool:
             return True
     except Exception:
         return True
+
+    try:
+        ref_mtime = min(cache_path.stat().st_mtime, events_path.stat().st_mtime)
+
+        # 1. API post files: reparse if file count grew or any post file was modified
+        if src.api_posts_dir.exists():
+            post_files = list(src.api_posts_dir.glob("*.json"))
+            cached_posts_count = len(cache_obj.get("posts", {})) if isinstance(cache_obj.get("posts"), dict) else 0
+            if len(post_files) > cached_posts_count:
+                return True
+            for pf in post_files:
+                if pf.stat().st_mtime > ref_mtime:
+                    return True
+
+        # 2. Chat archives: reparse if chat threads or replies updated
+        for cf_name in ("chat_threads.json", "chat_replies.json"):
+            cf = src.chat_dir / cf_name
+            if cf.exists() and cf.stat().st_mtime > ref_mtime:
+                return True
+
+        # 3. Datawrapper CSV datasets
+        if src.datawrapper_dir.exists():
+            for df in src.datawrapper_dir.glob("*.csv"):
+                if df.stat().st_mtime > ref_mtime:
+                    return True
+
+        # 4. Baseline portfolio holdings
+        ph = src.data_dir / "portfolio_holdings.csv"
+        if ph.exists() and ph.stat().st_mtime > events_path.stat().st_mtime:
+            return True
+    except Exception:
+        return True
+
     return False
 
 
